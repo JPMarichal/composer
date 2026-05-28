@@ -129,60 +129,58 @@ La letra debe entregarse con:
 - **Letra completa** con meta-tags `[ ]` en cada sección
 - **Checklist anti-AI** completado al final
 
-## Fase 5: Entrega
+## Fase 5: Guardado
 
-La canción se entrega en este formato:
+La canción se guarda como archivo `.md` en `canciones/`. No se envía ningún mensaje adicional en el chat.
+
+## Fase 6: Formato del archivo
+
+Formato exacto para cada archivo en `canciones/`:
 
 ```
 # [Título]
 
-- **Género:** [género]
-- **BPM:** [tempo] | **Compás:** [time signature] | **Tonalidad:** [key]
-- **Estructura:** [Intro - Verso - Estribillo - ...]
-- **Progresión:** [acordes]
+**Estilo Suno:** [descripción del mundo sonoro: género, instrumentos, voz, atmósfera]
+**Género:** [género]
+**BPM:** [tempo] | **Compás:** [time signature] | **Tonalidad:** [key]
+**Estructura:** [Intro - Verso - Estribillo - ...]
+**Progresión:** [acordes]
 
-## [Intro]
+---
 
+[Intro]
 [letra o descripción instrumental]
 
-## [Verse 1]
-
+[Verse 1]
 [letra con meta-tags, ej: (oh-oh) para coros]
 
-## [Pre-Chorus]
-
+[Pre-Chorus]
 [letra]
 
-## [Chorus]
-
+[Chorus]
 [letra del estribillo — gancho principal, usar (coros) y MAYÚSCULAS para intensidad]
 
-## [Verse 2]
-
+[Verse 2]
 [letra]
 
-## [Chorus]
-
+[Chorus]
 [letra del estribillo]
 
-## [Bridge]
-
+[Bridge]
 [letra de contraste]
 
-## [Solo de Guitarra]
-
+[Solo de Guitarra]
 [descripción instrumental]
 
-## [Chorus]
-
+[Chorus]
 [letra del estribillo — puede variar ligeramente]
 
-## [Outro]
-
+[Outro]
 [letra de cierre, con ... para desvanecimiento]
 
-## Anti-AI Checklist
+---
 
+**Anti-AI Checklist**
 - Asonantes: [X]% (✅/❌)
 - Tríadas: [X] (✅/❌)
 - Em dashes: [X] (✅/❌)

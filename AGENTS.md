@@ -12,7 +12,8 @@ Cuando el usuario solicite una canción:
 4. **Usar meta-tags `[ ]`** en la letra para marcar secciones (Intro, Verse, Chorus, Bridge, Outro, etc.), transiciones (Pre-Chorus, Build, Drop) y voces ([spoken word], [rap verse], [whisper]).
 5. Si es necesario, usar `just ingest` y `just query "requisitos"` para recuperar contexto del RAG.
 6. Para canciones complejas o largas, se puede invocar al subagente `compositor` con el task tool.
-7. La canción debe entregarse con: título, género/BPM/compás, estructura, progresión, letra completa con meta-tags, y checklist anti-AI verificado.
+7. **Guardar en `canciones/`** — toda canción se escribe como archivo `.md` en `canciones/`, sin mensajes adicionales en el chat. El archivo incluye metadatos y prompt de estilo Suno en el encabezado, y la letra completa con meta-tags en el cuerpo.
+8. La canción debe entregarse con: título, género/BPM/compás, estructura, progresión, prompt de estilo Suno, letra completa con meta-tags, y checklist anti-AI verificado.
 
 ## Comandos útiles
 
