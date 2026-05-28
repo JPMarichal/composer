@@ -6,36 +6,39 @@ Basado en Wikipedia:Signs of AI writing (WikiProject AI Cleanup), repositorios h
 
 La canción "Velocidad Cero" sonó a IA. Identificar y corregir los patrones que delatan origen sintético.
 
-## Patrones detectados en la primera versión
+## Patrón sintético vs. humano
 
-| Patrón                  | Ejemplo en la canción                                          | Corrección                      |
-| ----------------------- | -------------------------------------------------------------- | ------------------------------- |
-| Inflated symbolism      | "no es X, es Y" implícito                                      | Decir directamente              |
-| Parallel negation       | "no sé dónde pisar, no puedo respirar" encadenado              | Variar estructura               |
-| Em dash overuse         | — usado 4+ veces                                               | Reemplazar con pausas naturales |
-| Rule of threes          | "de acero y de cristal", "correr, gritar, avanzar"             | Romper la tríada                |
-| Hedging                 | "casi", "quizás", "parece" ausente pero presente en estructura | Más contundencia                |
-| Generic concrete        | "la ciudad", "el silencio" sin anclaje sensorial               | Detalles específicos            |
-| Over-explained metaphor | Explicación retórica en el mismo verso                         | Dejar respirar la imagen        |
-| Perfect rhyme           | Todas las rimas consonantes perfectas                          | Mezclar con asonantes           |
+| Marca de IA                                                 | Por qué delata                                               | Alternativa humana                            |
+| ----------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- |
+| Parallel negation ("no sé... no puedo... no tengo...")      | Simetría perfecta que la IA replica por defecto              | Alternar afirmación y negación                |
+| Rule of threes (sustantivo, sustantivo, sustantivo)         | La IA tiende a ternarios automáticos                         | Binarios + ruptura                            |
+| Em dash consecutivo (—)                                     | Casi inexistente en lírica real; la IA lo usa como coletilla | Punto, coma, nada                             |
+| Inflated symbolism ("no es X, es Y")                        | Estructura favorita de la IA para dar "profundidad"          | Decir directamente                            |
+| Rima consonante perfecta sostenida                          | La IA rima perfecto por defecto                              | Rima asonante o libre                         |
+| Metáfora sobre-explicada                                    | La IA explica su propia metáfora en el mismo verso           | Dejar respirar la imagen                      |
+| Imágenes genéricas ("la noche", "el silencio", "la ciudad") | Sin anclaje sensorial concreto                               | Olor, temperatura, textura, color específico  |
+| Sintaxis perfecta sin coloquialismos                        | La IA evita contracciones y vulgarismos                      | "pa'", "na'", "tó", "vete", "dame"            |
+| Adjetivos sobre verbos                                      | La IA describe más que narra                                 | Acción sobre adjetivo                         |
+| Segunda persona distante ("tú", "usted")                    | La IA prefiere la generalización                             | Primera persona vulnerable ("yo", "me", "mí") |
 
-## Safeguards para el prompt del compositor
+## Safeguards cuantificables para el prompt
 
-1. **Rima imperfecta**: Preferir asonante sobre consonante en al menos 30% de las rimas
-2. **Detalles sensoriales concretos**: olor, temperatura, textura, color específico
-3. **Coloquialismos y contracciones**: "pa'", "na'", "tó", "dame", "vete"
-4. **Sintaxis rota**: Frases fragmentadas, asíndeton extremo, anacolutos
-5. **Un verso imperfecto**: Una línea que voluntariamente "cojea" en métrica
-6. **Sin etiquetas retóricas**: No nombrar la figura, usarla sin marcar
-7. **Primera persona vulnerable**: "yo", "me", "mí", no "el alma", "el corazón"
-8. **Una imagen absurda o extraña**: Algo que no encaje del todo (surrealismo)
-9. **Menos adjetivos, más verbos**: Acción sobre descripción
+1. **30%+ rimas asonantes o libres** — contar sobre total de versos que riman
+2. **Máximo 1 tríada (rule of threes) por canción**
+3. **0 em dashes consecutivos** — cero uso de — como recurso
+4. **≥1 coloquialismo por estrofa** — contracciones, vulgarismos, muletillas
+5. **≥1 verso con métrica quebrada** — sílaba de más o de menos voluntaria
+6. **No etiquetar figuras retóricas** — no escribir "una metáfora", usarla
+7. **Detalles sensoriales concretos (olor, temperatura, textura)** — al menos 1 por estrofa
+8. **Verbos de acción sobre adjetivos** — proporción ≥2:1 verbos/adjetivos
+9. **1 imagen absurda o surrealista por canción** — algo que no encaje del todo
 
 ## Instrucción para el modelo
 
 ```
 {
   "Anti_AI_Safeguards": true,
+  "Verification": "Contra cada verso, marcar si viola algún safeguard. Si ≥2 violaciones, rehacer.",
   "Rules": [
     "30%+ rimas asonantes o libres",
     "Máximo 1 tríada por canción",
@@ -47,5 +50,21 @@ La canción "Velocidad Cero" sonó a IA. Identificar y corregir los patrones que
     "Preferir verbos de acción sobre adjetivos",
     "Incluir una imagen absurda o surrealista"
   ]
+}
+```
+
+## Validación post-generación
+
+```js
+function validate(song) {
+  return {
+    asonantesOK: asonantes(song) / totalRimas(song) >= 0.3,
+    sinEmDash: !song.includes("—"),
+    triadas: countTriadas(song) <= 1,
+    coloquialismos: coloquialismos(song) >= estrofas(song),
+    metricaQuebrada: countMetricaQuebrada(song) >= 1,
+    proporcionVerbos: verbos(song) / adjetivos(song) >= 2,
+    imagenAbsurda: countAbsurdo(song) >= 1,
+  };
 }
 ```
