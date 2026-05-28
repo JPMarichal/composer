@@ -10,6 +10,31 @@
 - **Progresión:** Am — F — C — G
 - **Estructura:** Intro — Verse 1 — Chorus — Verse 2 — Chorus — Bridge — Chorus — Outro
 
+## Armonía
+
+- **Progresión base:** Am — F — C — G (i — VI — III — VII en Am)
+- **Patrón fingerpicking (6/8):** bajo en pulso 1 (tónica del acorde), tríada en pulsos 2-3, silencio en 4-5-6. Síncopa opcional: acento en pulso 4 en vez de 1.
+- **Dinámica por sección:**
+  - Intro: solo guitarra, fingerpicking, dinámica baja
+  - Versos: guitarra + voz, respiración audible, sin compresión
+  - Chorus: entra upright bass (pulso 1 y 4) + kick en acentos
+  - Bridge: se retira percusión, bass tenuto, voz expuesta, dinámica más íntima
+  - Outro: guitarra sola, voz se desvanece en "campo adentro"
+- **Riff melódico (hook vocal):** ascenso de 3ª en "Es la misma agua" (La→Do→Mi→La), quebrado en C3 ("Perdida en la calle" baja a Sol)
+
+### Acordes por sección
+
+| Sección | Acordes | Notas |
+|---------|---------|-------|
+| Intro | Am — F — C — G (×2) | Fingerpicking solo, establecer atmósfera |
+| V1 | Am — F — C — G (×2) | Ciclo completo por cada par de versos |
+| C1 | Am — F — C — G (×2) | Entra bass y percusión |
+| V2 | Am — F — C — G (×2) | Misma progresión, voz más presente |
+| C2 | Am — F — C — G (×2) | Mantener energía |
+| Bridge | Am — F — C — G (×1) | Una sola vuelta, sin percusión, bass tenuto |
+| C3 | Am — F — C — G (×2) | Último chorus, la voz más intensa |
+| Outro | Am — F — C — G (×1) | Guitarra sola, rit. al final |
+
 ## Tesis
 
 La lluvia es la metáfora de la nostalgia por el hogar perdido: la misma agua que en el campo empapa la tierra que la espera, en la ciudad se queda dormida, equivoca su rumbo y no encuentra su sitio — igual que yo, que ya no entiendo ni lo que me pasa, hasta que descubro que el campo lo llevo dentro.
@@ -36,7 +61,7 @@ La higuera se moja, la lluvia se entrega
 Es la misma agua que lleva la vida 
 que empapa la tierra si el campo la espera
 Pero, en la ciudad, se queda extendida
-tan solo se esparce perdida en la acera
+tan solo esparcida, perdida en la acera
 
 [Verse 2]
 Porque en la ciudad, si llueve en la calle
