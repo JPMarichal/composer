@@ -8,7 +8,7 @@
   },
   "scripts": {
     "ingest": "just ingest",
-    "query": "node src/index.js query",
+    "query": "just query",
     "start": "just",
     "reset": "just reset"
   },
