@@ -157,7 +157,28 @@ Un patrón común de la IA es emparejar un verbo dramático con un sujeto que no
 
 ---
 
-## 7. Validación post-generación
+## 7. Regla moral: responsabilidad simple
+
+Las letras no deben presentar como deseables conductas que dañan al individuo o la familia.
+
+### Tabla de tratamiento
+
+| Conducta                  | Tratamiento permitido                             | Tratamiento prohibido                            |
+| ------------------------- | ------------------------------------------------- | ------------------------------------------------ |
+| Café                      | Mención neutral o negativa (insomnio, ansiedad)   | Como desahogo necesario, rito matutino, consuelo |
+| Alcohol / Tabaco / Drogas | Mención contextual negativa (cruda, olor, vómito) | Como celebración, desinhibición, refugio         |
+| Sexo prematrimonial       | Cero menciones                                    | Ni implícito, ni idealizado                      |
+| Sexo extramatrimonial     | Como engaño, dolor, contexto negativo             | Como aventura, pasión liberadora                 |
+| Violencia como catarsis   | Contexto crítico o trágico                        | Como válvula de escape, empoderamiento           |
+| Suicidio / autolesión     | Cero menciones, ni metafóricas                    | Cero menciones, ni metafóricas                   |
+
+### Principio
+
+No se trata de censurar la realidad — la pobreza, la frustración, el desamor existen y se cantan — sino de no vestirlos de aspiración. Una canción puede hablar de un padre que bebe, pero no presentar el alcohol como solución.
+
+---
+
+## 8. Validación post-generación
 
 ```js
 function validate(song) {
@@ -204,11 +225,12 @@ function validate(song) {
 }
 ```
 
-## 8. Instrucción para el modelo
+## 9. Instrucción para el modelo
 
 ```
 {
   "Anti_AI_Safeguards": true,
+  "Moral_Simple_Responsibility": true,
   "Audiencia": "Un hablante nativo en un bar. Si no dirías la frase en voz alta, no la uses.",
   "Verification": "Contra cada verso, marcar si viola algún safeguard. Si ≥2 violaciones, rehacer.",
   "Rules": [
@@ -223,7 +245,8 @@ function validate(song) {
     "Incluir una imagen absurda o surrealista",
     "CERO palabras del listado prohibido (ecos, susurros, neón, abrazo, etc.)",
     "CERO negative parallelism (no es X, es Y)",
-    "CERO anaphora abuse (máximo 2 versos seguidos con misma apertura)"
+    "CERO anaphora abuse (máximo 2 versos seguidos con misma apertura)",
+    "CERO promoción de alcohol, tabaco, drogas, café como desahogo, sexo prematrimonial o extramatrimonial como deseable"
   ]
 }
 ```
