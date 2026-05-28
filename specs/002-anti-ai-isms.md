@@ -157,24 +157,26 @@ Un patrón común de la IA es emparejar un verbo dramático con un sujeto que no
 
 ---
 
-## 7. Regla moral: responsabilidad simple
+## 7. Principios de edificación moral y social
 
-Las letras no deben presentar como deseables conductas que dañan al individuo o la familia.
-
-### Tabla de tratamiento
-
-| Conducta                  | Tratamiento permitido                             | Tratamiento prohibido                            |
-| ------------------------- | ------------------------------------------------- | ------------------------------------------------ |
-| Café                      | Mención neutral o negativa (insomnio, ansiedad)   | Como desahogo necesario, rito matutino, consuelo |
-| Alcohol / Tabaco / Drogas | Mención contextual negativa (cruda, olor, vómito) | Como celebración, desinhibición, refugio         |
-| Sexo prematrimonial       | Cero menciones                                    | Ni implícito, ni idealizado                      |
-| Sexo extramatrimonial     | Como engaño, dolor, contexto negativo             | Como aventura, pasión liberadora                 |
-| Violencia como catarsis   | Contexto crítico o trágico                        | Como válvula de escape, empoderamiento           |
-| Suicidio / autolesión     | Cero menciones, ni metafóricas                    | Cero menciones, ni metafóricas                   |
-
-### Principio
+Las canciones tienen una tendencia edificante: promueven la responsabilidad, la templanza, el respeto propio y al prójimo, la integridad familiar y la esperanza realista.
 
 No se trata de censurar la realidad — la pobreza, la frustración, el desamor existen y se cantan — sino de no vestirlos de aspiración. Una canción puede hablar de un padre que bebe, pero no presentar el alcohol como solución.
+
+### Tabla de aplicación
+
+| Situación                 | Tratamiento edificante                            | Tratamiento contrario                           |
+| ------------------------- | ------------------------------------------------- | ----------------------------------------------- |
+| Café                      | Mención neutral o negativa (insomnio, ansiedad)   | Como desahogo necesario, rito, consuelo         |
+| Alcohol / Tabaco / Drogas | Contexto negativo (cruda, olor, vómito, adicción) | Como celebración, desinhibición, refugio        |
+| Sexo prematrimonial       | Cero menciones                                    | Ni implícito, ni idealizado                     |
+| Sexo extramatrimonial     | Como engaño, dolor, consecuencia                  | Como aventura, pasión liberadora                |
+| Violencia                 | Contexto crítico o trágico                        | Como catarsis, empoderamiento, válvula          |
+| Suicidio / autolesión     | Cero menciones, ni metafóricas                    | Cero menciones, ni metafóricas                  |
+| Ruptura / desamor         | Duelo, aprendizaje, superación                    | Venganza, nihilismo, autocompasión              |
+| Pobreza / frustración     | Dignidad en la precariedad, lucha honrada         | Como identidad, romanticismo de la miseria      |
+| Familia                   | Lazos imperfectos pero reales                     | Familia como jaula, padres como caricaturas     |
+| Esperanza                 | Concreta, basada en acciones, no mágica           | Vacía, genérica, "todo irá bien" sin fundamento |
 
 ---
 

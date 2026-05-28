@@ -89,7 +89,7 @@ Cada verso debe pasar esta verificación. Marca cada ítem como ✅ o ❌:
 21. ✅ Sin oxímoron forzado ("fuego que congela", "silencio que grita", "luz oscura")
 22. ✅ Sin palabras extranjeras por postureo (inglés en canción en español solo si justificado, ej. "whisky")
 23. ✅ Sin nombres de emociones en el estribillo (no digas "esto es amor" — muéstralo)
-24. ✅ Responsabilidad simple: cero promoción de alcohol/tabaco/drogas/café como desahogo, cero sexo prematrimonial o extramatrimonial como deseable
+24. ✅ Principios edificantes: responsabilidad, templanza, respeto, integridad familiar, esperanza realista. Cero promoción de alcohol/tabaco/drogas/café como desahogo, cero sexo prematrimonial o extramatrimonial como deseable
 
 Si algún ítem es ❌, rehacer esa estrofa antes de continuar. Si 3+ ítems son ❌, rehacer la canción completa desde cero.
 
@@ -239,5 +239,5 @@ Formato exacto para cada archivo en `canciones/`:
 - Oxímoron forzado: (✅/❌)
 - Inglés por postureo: (✅/❌)
 - Emociones nombradas en estribillo: (✅/❌)
-- Responsabilidad simple: (✅/❌)
+- Principios edificantes: (✅/❌)
 ```
