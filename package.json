@@ -1,0 +1,35 @@
+{
+  "name": "composer",
+  "version": "1.0.0",
+  "description": "Professional song composer with RAG over specs, docs and corpus",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "ingest": "just ingest",
+    "query": "node src/index.js query",
+    "start": "just",
+    "reset": "just reset"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPMarichal/composer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JPMarichal/composer/issues"
+  },
+  "homepage": "https://github.com/JPMarichal/composer#readme",
+  "dependencies": {
+    "@langchain/community": "^1.1.29",
+    "@langchain/core": "^1.1.48",
+    "@langchain/ollama": "^1.2.7",
+    "chromadb": "^3.4.3",
+    "glob": "^13.0.6",
+    "langchain": "^1.4.2"
+  }
+}
