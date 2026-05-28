@@ -7,11 +7,12 @@ Sistema RAG de composición musical con Ollama local.
 Cuando el usuario solicite una canción:
 
 1. **Explorar conocimiento primero** — leer corpus/ (teoría, estructuras, retórica) y specs/ (anti-AI) antes de escribir.
-2. **Planificar** — elegir género, BPM, compás, tonalidad, progresión, estructura y esquema de rima.
+2. **Planificar** — elegir género, BPM, compás, tonalidad, progresión, estructura, esquema de rima y meta-tags.
 3. **Aplicar checklist anti-AI** de `specs/002-anti-ai-isms.md` — cada estrofa debe pasar los 9 safeguards cuantificables.
-4. Si es necesario, usar `just ingest` y `just query "requisitos"` para recuperar contexto del RAG.
-5. Para canciones complejas o largas, se puede invocar al subagente `compositor` con el task tool.
-6. La canción debe entregarse con: título, género/BPM/compás, estructura, progresión, letra completa y checklist anti-AI verificado.
+4. **Usar meta-tags `[ ]`** en la letra para marcar secciones (Intro, Verse, Chorus, Bridge, Outro, etc.), transiciones (Pre-Chorus, Build, Drop) y voces ([spoken word], [rap verse], [whisper]).
+5. Si es necesario, usar `just ingest` y `just query "requisitos"` para recuperar contexto del RAG.
+6. Para canciones complejas o largas, se puede invocar al subagente `compositor` con el task tool.
+7. La canción debe entregarse con: título, género/BPM/compás, estructura, progresión, letra completa con meta-tags, y checklist anti-AI verificado.
 
 ## Comandos útiles
 

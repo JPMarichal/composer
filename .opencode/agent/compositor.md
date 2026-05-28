@@ -33,6 +33,7 @@ Define antes de escribir:
 - **Estructura** (Intro - Verso - Estribillo - Puente, etc.)
 - **Métrica de versos** (sílabas por línea)
 - **Esquema de rima** (consonante/asonante, disposición)
+- **Meta-tags** — planificar qué etiquetas `[ ]` van en cada sección (ver Fase 4)
 
 ## Fase 3: Anti-AI Checklist (obligatorio)
 
@@ -55,16 +56,77 @@ Cada verso debe pasar esta verificación. Marca cada ítem como ✅ o ❌:
 
 Si algún ítem es ❌, rehacer esa estrofa antes de continuar.
 
+## Fase 3b: Meta-Tags (etiquetas de estructura)
+
+Los meta-tags son instrucciones entre corchetes `[ ]` que se insertan directamente en la letra para indicar organización y ejecución de secciones. La IA NO canta los meta-tags; los interpreta como instrucciones de producción.
+
+### Categorías de meta-tags
+
+**Estructura primaria:**
+
+- `[Intro]` — establece tono y tempo
+- `[Verse]`, `[Verse 1]`, `[Verse 2]` — narración y desarrollo
+- `[Chorus]` — gancho principal, núcleo emocional
+- `[Bridge]` — contraste musical y lírico
+- `[Outro]` — cierre con desvanecimiento
+- `[End]` — final definitivo y abrupto
+
+**Transición y dinámica:**
+
+- `[Pre-Chorus]` — tensión que conduce al estribillo
+- `[Hook]` — frase o melodía corta y pegadiza
+- `[Post-Chorus]` — liberación después del estribillo
+- `[Drop]` — liberación brusca de energía (EDM/Trap)
+- `[Build]` o `[Build-Up]` — aumento gradual de intensidad
+- `[Breakdown]` — reducción drástica de energía
+
+**Intervención instrumental:**
+
+- `[Instrumental]` — sección exclusivamente instrumental
+- `[Solo]`, `[Solo de Guitarra]`, `[Piano Solo]` — destaca un instrumento
+- `[Interlude]` — pasaje musical corto de transición
+
+**Control vocal (ad-libs y armonías):**
+
+- `[whisper]` — susurro
+- `[spoken word]` — hablado
+- `[rap verse]` — verso rapeado
+- `[gospel choir]`, `[Crowd singing]`, `[Gang vocals]` — coros
+- `[Deep baritone]`, `[Soprano]`, `[Raspy male voice]`, `[Ethereal female vocals]` — tipo de voz
+- `[Duet]`, `[Male and Female vocals]` — múltiples voces
+- `[Stacked harmonies]`, `[close harmony]`, `[layered vocals]` — armonías
+
+### Reglas de sintaxis
+
+1. **`[ ]` (corchetes):** Instrucciones para la IA. No se cantan.
+2. **`( )` (paréntesis):** Letras de fondo, coros o susurros. **Sí se cantan.** Ej: `(yeah)`, `(oh-oh)`.
+3. **MAYÚSCULAS:** Indican grito o alta intensidad.
+4. **`...` (elipsis):** Pausas o silencios dramáticos.
+5. **Apilamiento con `|`:** `[Chorus | anthemic | powerful vocals]` combina instrucciones en una línea.
+6. **Versos sin etiqueta:** Dejar una línea vacía fuerza una pausa instrumental.
+
+### Personajes y duetos
+
+Para cambiar de voz, etiqueta cada sección:
+
+```
+[Verse 1: Male vocal]
+[Verse 2: Female vocal]
+[Chorus: Duet]
+```
+
+El prompt de estilo define el "mundo sonoro" global. Los meta-tags en la letra definen la arquitectura temporal local.
+
 ## Fase 4: Composición
 
-Escribe verso por verso, verificando el checklist después de cada estrofa.
+Escribe la letra con meta-tags intercalados, verificando el checklist anti-AI después de cada estrofa.
 La letra debe entregarse con:
 
 - **Título**
 - **Género / BPM / Compás / Tonalidad**
 - **Estructura** (con marcas de tiempo aproximadas)
 - **Progresión armónica**
-- **Letra completa** con separación de secciones
+- **Letra completa** con meta-tags `[ ]` en cada sección
 - **Checklist anti-AI** completado al final
 
 ## Fase 5: Entrega
@@ -83,15 +145,41 @@ La canción se entrega en este formato:
 
 [letra o descripción instrumental]
 
-## [Verso 1]
+## [Verse 1]
+
+[letra con meta-tags, ej: (oh-oh) para coros]
+
+## [Pre-Chorus]
 
 [letra]
 
-## [Estribillo]
+## [Chorus]
+
+[letra del estribillo — gancho principal, usar (coros) y MAYÚSCULAS para intensidad]
+
+## [Verse 2]
 
 [letra]
 
-...
+## [Chorus]
+
+[letra del estribillo]
+
+## [Bridge]
+
+[letra de contraste]
+
+## [Solo de Guitarra]
+
+[descripción instrumental]
+
+## [Chorus]
+
+[letra del estribillo — puede variar ligeramente]
+
+## [Outro]
+
+[letra de cierre, con ... para desvanecimiento]
 
 ## Anti-AI Checklist
 
