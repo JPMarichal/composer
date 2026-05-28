@@ -99,6 +99,27 @@ Regla: **Si has visto la combinación más de 3 veces en letras de IA, está pro
 
 ---
 
+## 4b. Verbos forzados — colocation errors (AI-ismo semántico verbo-sujeto)
+
+Un patrón común de la IA es emparejar un verbo dramático con un sujeto que no lo admite semánticamente en español real.
+
+| AI-ismo                | Por qué falla                                       | Alternativa                                   |
+| ---------------------- | --------------------------------------------------- | --------------------------------------------- |
+| "el sueldo aterra"     | Un sueldo no causa terror; aterrar requiere agente  | el sueldo no alcanza / no da más / está justo |
+| "la ciudad susurra"    | Ciudades no susurran (susurro requiere voluntad)    | se oye la ciudad / el ruido de fondo          |
+| "el tiempo sangra"     | El tiempo no sangra; sangrar requiere cuerpo        | el tiempo pasa / se va / duele (sin sangrar)  |
+| "la noche abraza"      | Noche no tiene brazos; abrazo es humano             | la oscuridad / el frescor de la noche         |
+| "el silencio grita"    | Oxímoron gastadísimo por IA                         | el silencio se nota / se hace grande          |
+| "los recuerdos queman" | Recuerdos no queman literalmente; hipérbole forzada | los recuerdos vuelven / se quedan             |
+| "la lluvia baila"      | La lluvia no baila; personificación automática      | la lluvia golpea / corre / empapa             |
+| "la distancia duele"   | Distancia es concepto abstracto; no tiene nervios   | estar lejos / no verte                        |
+| "el corazón olvida"    | El corazón no olvida; olvida la mente               | ya no me acuerdo / lo borré                   |
+| "los días pesan"       | Días no tienen peso físico                          | los días se hacen largos / no pasan           |
+
+**Regla del verbo forzado:** Si no puedes imaginar a alguien diciendo "[Sujeto] [Verbo]" en la barra de un bar, es un AI-ismo. Cambia el verbo por uno de acción mundana (subir, bajar, ir, venir, dar, pasar, dejar, coger, tener, estar, hacer).
+
+---
+
 ## 5. Palabras y fórmulas de sonido a IA específicas de Suno/Udio
 
 (Compilado de Suno Wiki, Reddit r/udiomusic, Jack Righteous)
@@ -129,9 +150,10 @@ Regla: **Si has visto la combinación más de 3 veces en letras de IA, está pro
 9. **1 imagen absurda o surrealista por canción** — algo que no encaje del todo
 10. **Cero palabras del listado de léxico sobreuso** (sección 1)
 11. **Cero AI-ismos semánticos** (sección 3): cada adjetivo debe funcionar en contexto real
-12. **Cero negative parallelism** ("No es X, es Y"): detectado como el AI-ismo #1 global
-13. **Sin parallel negation encadenada**: alternar negación con afirmación
-14. **Sin anaphora abuse**: máximo 1 anáfora de 2 versos en toda la canción
+12. **Cero verbos forzados** (sección 4b): verbo-sujeto debe ser una combinación que un hablante diría en un bar
+13. **Cero negative parallelism** ("No es X, es Y"): detectado como el AI-ismo #1 global
+14. **Sin parallel negation encadenada**: alternar negación con afirmación
+15. **Sin anaphora abuse**: máximo 1 anáfora de 2 versos en toda la canción
 
 ---
 

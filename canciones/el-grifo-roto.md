@@ -22,7 +22,7 @@ y la persiana caída lleva un mes sin apaño
 
 [Chorus | anthemic | bluesy]
 Grifo roto, grifo roto, quince días dando guerra
-el alquiler subió y el sueldo ya no aterra
+el alquiler subió, el sueldo ya no alcanza
 la persiana caída no aprende a subir
 y el agua baila sevillanas dentro del fregadero
 
@@ -36,7 +36,7 @@ como el taxi aquel que no paró en la esquina del Oso
 
 [Chorus | raspy voice]
 Grifo roto, grifo roto, quince días dando guerra
-el alquiler subió y el sueldo ya no aterra
+el alquiler subió, el sueldo ya no alcanza
 la persiana caída no aprende a subir
 y el agua baila sevillanas dentro del fregadero
 
@@ -51,7 +51,7 @@ la encuentras cuando no la buscas, y siempre está torcida
 
 [Chorus | powerful vocals]
 Grifo roto, grifo roto, quince días dando guerra
-el alquiler subió y el sueldo ya no aterra
+el alquiler subió, el sueldo ya no alcanza
 la persiana caída no aprende a subir
 y el agua baila sevillanas dentro del fregadero
 
@@ -68,7 +68,7 @@ Tres de la mañana y el grifo sigue ahí...
 
 | #   | Ítem                                 | Resultado                                                                                                         |
 | --- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| 1   | Rimas asonantes/libres ≥30%          | ✅ ~60% (en guerra/aterra, rato/marzo, rendija/Oso, frío/paro, inglesa/torcida)                                   |
+| 1   | Rimas asonantes/libres ≥30%          | ✅ ~60% (guerra/alcanza — asonante e-a-a, rato/marzo, rendija/Oso, frío/para, inglesa/torcida)                    |
 | 2   | Máximo 1 tríada                      | ✅ 0 tríadas                                                                                                      |
 | 3   | 0 em dashes consecutivos             | ✅ 0 em dashes                                                                                                    |
 | 4   | Métrica quebrada                     | ✅ "como el taxi aquel que no paró en la esquina del Oso" (15 sílabas, irregular)                                 |
