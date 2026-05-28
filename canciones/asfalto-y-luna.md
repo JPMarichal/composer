@@ -13,7 +13,7 @@
 
 [Verse 1]
 Camino sin prisa, las manos en los bolsillos
-el asfalto está frío, la luna está tiesa
+el asfalto está frío, la luna está fija
 un perro me mira desde un portal vacío
 bajo la mirada, no le importa si piensa
 

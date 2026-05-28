@@ -49,10 +49,14 @@ Cada verso debe pasar esta verificación. Marca cada ítem como ✅ o ❌:
 8. ✅ Verbos de acción ≥2:1 sobre adjetivos
 9. ✅ 1 imagen absurda o surrealista en la canción
 10. ✅ Sin parallel negation encadenada ("no sé... no puedo... no tengo")
-11. ✅ Sin inflated symbolism ("no es X, es Y")
+11. ✅ Sin negative parallelism ("no es X, es Y") — AI-ismo #1 global
 12. ✅ Sin metáfora sobre-explicada en el mismo verso
 13. ✅ Sin imágenes genéricas sin anclaje ("la noche", "el silencio", "la ciudad")
 14. ✅ Sin segunda persona distante exclusiva; mezclar con primera persona vulnerable
+15. ✅ Cero palabras del listado prohibido (ecos, susurros, neón, abrazo, etc.)
+16. ✅ Cero AI-ismos semánticos (cada adjetivo debe funcionar en contexto real: "la luna tiesa" no funciona)
+17. ✅ Sin "The X? A Y." ni "Not X. Not Y. Just Z."
+18. ✅ Sin anaphora abuse: máximo 2 versos seguidos con misma apertura
 
 Si algún ítem es ❌, rehacer esa estrofa antes de continuar.
 
@@ -181,7 +185,7 @@ Formato exacto para cada archivo en `canciones/`:
 ---
 
 **Anti-AI Checklist**
-- Asonantes: [X]% (✅/❌)
+- Asonantes/libres: [X]% (✅/❌)
 - Tríadas: [X] (✅/❌)
 - Em dashes: [X] (✅/❌)
 - Coloquialismos: [X]/estrofa (✅/❌)
@@ -189,8 +193,11 @@ Formato exacto para cada archivo en `canciones/`:
 - Verbos/adjetivos: [X]:1 (✅/❌)
 - Imagen absurda: [X] (✅/❌)
 - Sin parallel negation: (✅/❌)
-- Sin inflated symbolism: (✅/❌)
+- Sin negative parallelism "no es X, es Y": (✅/❌)
 - Sin metáfora sobre-explicada: (✅/❌)
 - Sin imágenes genéricas: (✅/❌)
 - Primera persona: (✅/❌)
+- Cero palabras prohibidas (ecos, susurros, neón...): (✅/❌)
+- Cero AI-ismos semánticos: (✅/❌)
+- Sin anaphora abuse: (✅/❌)
 ```
