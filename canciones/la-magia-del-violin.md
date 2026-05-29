@@ -139,21 +139,27 @@ Versos 1/A: -umbra/-ido/-ido/-umbra (ABBA). Verso 2/Coro: -dad/-is/-dad/-iz/-and
 
 | # | Safeguard | Cumple |
 |---|-----------|--------|
-| 1 | 30%+ rimas asonantes o libres | Sí (ABBA, ABABCC con rima consonante) |
-| 2 | Máximo 1 tríada por canción | Sí |
-| 3 | 0 em dashes consecutivos | Sí |
-| 4 | ≥1 coloquialismo por estrofa | Parcial (registro poético elevado, propio del chamber pop) |
-| 5 | ≥1 verso con métrica quebrada | Sí (alejandrinos y endecasílabos mezclados) |
-| 6 | No etiquetar figuras retóricas | Sí |
-| 7 | Detalles sensoriales concretos | Sí (sonido, penumbra, color, chispa, niebla, resplandor) |
-| 8 | Verbos de acción ≥2:1 sobre adjetivos | Sí |
-| 9 | 1 imagen absurda o surrealista | Sí ("música pintando el aire con su matiz") |
-| 10 | Cero palabras del listado prohibido | No ("abismo" en V2: "cada silencio un abismo") |
-| 11 | Cero AI-ismos semánticos | Sí |
-| 12 | Cero verbos forzados | Sí |
-| 13 | Cero negative parallelism | Sí |
-| 14 | Sin parallel negation encadenada | Sí |
-| 15 | Sin anaphora abuse | Sí |
+| 1 | 30%+ rimas asonantes/libres | ✅ versos 1/a: -umbra/-ido/-ido/-umbra (abba). verso 2/coro: -dad/-is/-dad/-iz/-ando/-ando (ababcc). puente: -arco/-ente/-e |
+| 2 | Máximo 1 tríada | ✅ 1 tríadas |
+| 3 | 0 em dashes | ✅ |
+| 4 | ≥1 coloquialismo por estrofa | ⚠️ 0 coloquialismos para 2 estrofas |
+| 5 | ≥1 verso métrica quebrada | ✅ (asumido — validación manual requerida) |
+| 6 | No etiquetar figuras retóricas | ✅ |
+| 7 | Detalles sensoriales ≥1 por estrofa | ✅ olor, suave, dulce, brilla, sonido, silencio... |
+| 8 | Verbos/adj ≥ 2:1 | ✅ (asumido — validación manual requerida) |
+| 9 | 1 imagen absurda o surrealista | ✅ (asumido — validación manual requerida) |
+| 10 | Cero palabras listado prohibido | ❌ brillo, abismo |
+| 11 | Cero AI-ismos semánticos | ✅ |
+| 12 | Cero verbos forzados | ✅ |
+| 13 | Cero negative parallelism | ✅ |
+| 14 | Sin parallel negation encadenada | ✅ |
+| 15 | Sin anaphora abuse (máx 2 versos) | ✅ (máx 0 versos consecutivos) |
+| 16 | Puente sin "Pero" al inicio | ✅ Puente empieza con "(tempo slows down," |
+| 17 | Título repetido <4 veces en chorus | ✅ (0 veces en coro) |
+| 18 | Abstracto anclado a objeto concreto | ✅ (asumido — validación manual requerida) |
+| 19 | Especificidad objetual | ⚠️ 0 objetos concretos para 2 estrofas |
+| 20 | Sin promoción alcohol/tabaco/drogas | ⚠️ Posible mención — revisión manual |
+| 21 | Principios edificantes | ✅ |
 
 ## Changelog de Autoría
 

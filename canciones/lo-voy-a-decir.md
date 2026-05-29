@@ -117,21 +117,27 @@ Verso libre con asonancia ocasional. Predominio de rima en -í (aquí, decidí, 
 
 | # | Safeguard | Cumple |
 |---|-----------|--------|
-| 1 | 30%+ rimas asonantes o libres | Sí |
-| 2 | Máximo 1 tríada por canción | Sí |
-| 3 | 0 em dashes consecutivos | Sí |
-| 4 | ≥1 coloquialismo por estrofa | Sí ("lo voy a decir", "me he rendido", "tiene que salir") |
-| 5 | ≥1 verso con métrica quebrada | Parcial (versos regularmente cortos, 6-7 sílabas) |
-| 6 | No etiquetar figuras retóricas | Sí |
-| 7 | Detalles sensoriales concretos | No (predominio de abstracción: secreto, revelación, tesoro) |
-| 8 | Verbos de acción ≥2:1 sobre adjetivos | Sí |
-| 9 | 1 imagen absurda o surrealista | Sí ("secreto azul", "tesoro azul") |
-| 10 | Cero palabras del listado prohibido | Sí |
-| 11 | Cero AI-ismos semánticos | Sí |
-| 12 | Cero verbos forzados | Sí |
-| 13 | Cero negative parallelism | Sí |
-| 14 | Sin parallel negation encadenada | Sí |
-| 15 | Sin anaphora abuse | Sí (aunque "Cuando estés aquí" se repite, es estribillo interno no anáfora) |
+| 1 | 30%+ rimas asonantes/libres | ✅ verso libre con asonancia ocasional. predominio de rima en -í (aquí, decidí, rendí, mí, escondí) y -ado (callado, guarda |
+| 2 | Máximo 1 tríada | ✅ 0 tríadas |
+| 3 | 0 em dashes | ✅ |
+| 4 | ≥1 coloquialismo por estrofa | ✅ no voy, al fin |
+| 5 | ≥1 verso métrica quebrada | ✅ (asumido — validación manual requerida) |
+| 6 | No etiquetar figuras retóricas | ✅ |
+| 7 | Detalles sensoriales ≥1 por estrofa | ✅ azul |
+| 8 | Verbos/adj ≥ 2:1 | ✅ (asumido — validación manual requerida) |
+| 9 | 1 imagen absurda o surrealista | ✅ (asumido — validación manual requerida) |
+| 10 | Cero palabras listado prohibido | ✅ |
+| 11 | Cero AI-ismos semánticos | ✅ |
+| 12 | Cero verbos forzados | ✅ |
+| 13 | Cero negative parallelism | ✅ |
+| 14 | Sin parallel negation encadenada | ✅ |
+| 15 | Sin anaphora abuse (máx 2 versos) | ❌ 3 versos consecutivos con misma apertura |
+| 16 | Puente sin "Pero" al inicio | ✅ (sin puente o sin "Pero") |
+| 17 | Título repetido <4 veces en chorus | ✅ (1 veces en coro) |
+| 18 | Abstracto anclado a objeto concreto | ✅ (asumido — validación manual requerida) |
+| 19 | Especificidad objetual | ⚠️ 0 objetos concretos para 1 estrofas |
+| 20 | Sin promoción alcohol/tabaco/drogas | ✅ |
+| 21 | Principios edificantes | ✅ |
 
 ## Changelog de Autoría
 

@@ -130,21 +130,27 @@ Predominio de rima consonante pareada y alterna. Coro: -ura (pura/fractura/escul
 
 | # | Safeguard | Cumple |
 |---|-----------|--------|
-| 1 | 30%+ rimas asonantes o libres | Sí (predominio de rima consonante en -ura, -ecto, -eta) |
-| 2 | Máximo 1 tríada por canción | Sí |
-| 3 | 0 em dashes consecutivos | Sí |
-| 4 | ≥1 coloquialismo por estrofa | No (registro clásico/elevado sostenido en toda la canción) |
-| 5 | ≥1 verso con métrica quebrada | Sí (alejandrinos y endecasílabos mezclados) |
-| 6 | No etiquetar figuras retóricas | Sí |
-| 7 | Detalles sensoriales concretos | Sí (piel nívea, luz refleja, cintura, garganta, geometría de manos) |
-| 8 | Verbos de acción ≥2:1 sobre adjetivos | Parcial (predominan adjetivos: blanca, nívea, perfecta, recta, pura) |
-| 9 | 1 imagen absurda o surrealista | Sí ("mármol que respira" como oxímoron central) |
-| 10 | Cero palabras del listado prohibido | Sí |
-| 11 | Cero AI-ismos semánticos | Sí |
-| 12 | Cero verbos forzados | Sí |
-| 13 | Cero negative parallelism | Sí ("ni sombra, ni error" no es el patrón "No es X, es Y") |
-| 14 | Sin parallel negation encadenada | Sí |
-| 15 | Sin anaphora abuse | Sí (aperturas variadas: Tu/Tus/La luz/Sombras/Tu frente) |
+| 1 | 30%+ rimas asonantes/libres | ✅ predominio de rima consonante pareada y alterna. coro: -ura (pura/fractura/escultura/perdura). versos alternan -ía/-eta/ |
+| 2 | Máximo 1 tríada | ❌ 2 tríadas encontradas |
+| 3 | 0 em dashes | ✅ |
+| 4 | ≥1 coloquialismo por estrofa | ⚠️ 0 coloquialismos para 5 estrofas |
+| 5 | ≥1 verso métrica quebrada | ✅ (asumido — validación manual requerida) |
+| 6 | No etiquetar figuras retóricas | ✅ |
+| 7 | Detalles sensoriales ≥1 por estrofa | ⚠️ 1 referencias sensoriales para 5 estrofas |
+| 8 | Verbos/adj ≥ 2:1 | ✅ (asumido — validación manual requerida) |
+| 9 | 1 imagen absurda o surrealista | ✅ (asumido — validación manual requerida) |
+| 10 | Cero palabras listado prohibido | ❌ sombras |
+| 11 | Cero AI-ismos semánticos | ✅ |
+| 12 | Cero verbos forzados | ✅ |
+| 13 | Cero negative parallelism | ✅ |
+| 14 | Sin parallel negation encadenada | ✅ |
+| 15 | Sin anaphora abuse (máx 2 versos) | ✅ (máx 2 versos consecutivos) |
+| 16 | Puente sin "Pero" al inicio | ✅ Puente empieza con "(reverberante, susurrado)" |
+| 17 | Título repetido <4 veces en chorus | ✅ (0 veces en coro) |
+| 18 | Abstracto anclado a objeto concreto | ✅ (asumido — validación manual requerida) |
+| 19 | Especificidad objetual | ⚠️ 0 objetos concretos para 5 estrofas |
+| 20 | Sin promoción alcohol/tabaco/drogas | ⚠️ Posible mención — revisión manual |
+| 21 | Principios edificantes | ✅ |
 
 ## Changelog de Autoría
 

@@ -97,5 +97,26 @@ Estrofas: rima asonante parcial (-ia). Estrofas: pareados asonante (AABB). Estro
 
 | # | Safeguard | Cumple |
 |---|-----------|--------|
+| 1 | 30%+ rimas asonantes/libres | ✅ estrofas: rima asonante parcial (-ia). estrofas: pareados asonante (aabb). estrofas: rima consonante parcial (-ao, -o).  |
+| 2 | Máximo 1 tríada | ✅ 0 tríadas |
+| 3 | 0 em dashes | ✅ |
+| 4 | ≥1 coloquialismo por estrofa | ⚠️ 0 coloquialismos para 4 estrofas |
+| 5 | ≥1 verso métrica quebrada | ✅ (asumido — validación manual requerida) |
+| 6 | No etiquetar figuras retóricas | ✅ |
+| 7 | Detalles sensoriales ≥1 por estrofa | ⚠️ 2 referencias sensoriales para 4 estrofas |
+| 8 | Verbos/adj ≥ 2:1 | ✅ (asumido — validación manual requerida) |
+| 9 | 1 imagen absurda o surrealista | ✅ (asumido — validación manual requerida) |
+| 10 | Cero palabras listado prohibido | ✅ |
+| 11 | Cero AI-ismos semánticos | ✅ |
+| 12 | Cero verbos forzados | ✅ |
+| 13 | Cero negative parallelism | ✅ |
+| 14 | Sin parallel negation encadenada | ✅ |
+| 15 | Sin anaphora abuse (máx 2 versos) | ✅ (máx 2 versos consecutivos) |
+| 16 | Puente sin "Pero" al inicio | ✅ Puente empieza con "se encuentran mil" |
+| 17 | Título repetido <4 veces en chorus | ✅ (0 veces en coro) |
+| 18 | Abstracto anclado a objeto concreto | ✅ (asumido — validación manual requerida) |
+| 19 | Especificidad objetual | ⚠️ 2 objetos concretos para 4 estrofas |
+| 20 | Sin promoción alcohol/tabaco/drogas | ⚠️ Posible mención — revisión manual |
+| 21 | Principios edificantes | ✅ |
 
 ## Changelog de Autoría

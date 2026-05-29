@@ -134,21 +134,27 @@ Verso 1: pareados asonantes (-ura/-ado/-or/-ía/-azo/-ión). Coro: estribillo re
 
 | # | Safeguard | Cumple |
 |---|-----------|--------|
-| 1 | 30%+ rimas asonantes o libres | Sí |
-| 2 | Máximo 1 tríada por canción | Sí |
-| 3 | 0 em dashes consecutivos | Sí |
-| 4 | ≥1 coloquialismo por estrofa | Sí ("mira qué", "¡VE!", "¡VOY!") |
-| 5 | ≥1 verso con métrica quebrada | Sí (mezcla de 8 y 12 sílabas) |
-| 6 | No etiquetar figuras retóricas | Sí |
-| 7 | Detalles sensoriales concretos | Sí (guacharaca, maracas, acordeón, trigal, río) |
-| 8 | Verbos de acción ≥2:1 sobre adjetivos | Sí |
-| 9 | 1 imagen absurda o surrealista | Sí ("potro suelto en un trigal" como metáfora de libertad) |
-| 10 | Cero palabras del listado prohibido | Sí |
-| 11 | Cero AI-ismos semánticos | Sí |
-| 12 | Cero verbos forzados | Sí |
-| 13 | Cero negative parallelism | Sí |
-| 14 | Sin parallel negation encadenada | Sí |
-| 15 | Sin anaphora abuse | Sí (aperturas variadas: Pero/Mira/Y aunque/Cada vez) |
+| 1 | 30%+ rimas asonantes/libres | ✅ verso 1: pareados asonantes (-ura/-ado/-or/-ía/-azo/-ión). coro: estribillo repetitivo con estructura paralela (potro/tr |
+| 2 | Máximo 1 tríada | ✅ 0 tríadas |
+| 3 | 0 em dashes | ✅ |
+| 4 | ≥1 coloquialismo por estrofa | ⚠️ 1 coloquialismos para 2 estrofas |
+| 5 | ≥1 verso métrica quebrada | ✅ (asumido — validación manual requerida) |
+| 6 | No etiquetar figuras retóricas | ✅ |
+| 7 | Detalles sensoriales ≥1 por estrofa | ⚠️ 0 referencias sensoriales para 2 estrofas |
+| 8 | Verbos/adj ≥ 2:1 | ✅ (asumido — validación manual requerida) |
+| 9 | 1 imagen absurda o surrealista | ✅ (asumido — validación manual requerida) |
+| 10 | Cero palabras listado prohibido | ✅ |
+| 11 | Cero AI-ismos semánticos | ✅ |
+| 12 | Cero verbos forzados | ✅ |
+| 13 | Cero negative parallelism | ✅ |
+| 14 | Sin parallel negation encadenada | ✅ |
+| 15 | Sin anaphora abuse (máx 2 versos) | ❌ 3 versos consecutivos con misma apertura |
+| 16 | Puente sin "Pero" al inicio | ✅ Puente empieza con "(short)" |
+| 17 | Título repetido <4 veces en chorus | ✅ (1 veces en coro) |
+| 18 | Abstracto anclado a objeto concreto | ✅ (asumido — validación manual requerida) |
+| 19 | Especificidad objetual | ✅ 2 objetos concretos |
+| 20 | Sin promoción alcohol/tabaco/drogas | ⚠️ Posible mención — revisión manual |
+| 21 | Principios edificantes | ✅ |
 
 ## Changelog de Autoría
 

@@ -112,21 +112,27 @@ Verso libre con rima asonante en pareados internos. Coro con repetición estruct
 
 | # | Safeguard | Cumple |
 |---|-----------|--------|
-| 1 | 30%+ rimas asonantes o libres | Sí |
-| 2 | Máximo 1 tríada por canción | Sí |
-| 3 | 0 em dashes consecutivos | Sí |
-| 4 | ≥1 coloquialismo por estrofa | Sí ("volvió con la cabeza agachada", "carajo") |
-| 5 | ≥1 verso con métrica quebrada | Sí (alejandrinos y endecasílabos) |
-| 6 | No etiquetar figuras retóricas | Sí |
-| 7 | Detalles sensoriales concretos | Sí (reloj, avenidas sin luz, mueble, mano en la sien, ojos de sol) |
-| 8 | Verbos de acción ≥2:1 sobre adjetivos | Sí |
-| 9 | 1 imagen absurda o surrealista | Sí ("farolas sin luz" como metáfora de personas) |
-| 10 | Cero palabras del listado prohibido | Parcial ("eco" en V2: "aquella voz como un eco") |
-| 11 | Cero AI-ismos semánticos | Sí |
-| 12 | Cero verbos forzados | Sí |
-| 13 | Cero negative parallelism | Sí |
-| 14 | Sin parallel negation encadenada | Sí |
-| 15 | Sin anaphora abuse | Parcial (anáfora "Mira que..." en todo el coro, pero es estribillo) |
+| 1 | 30%+ rimas asonantes/libres | ✅ verso libre con rima asonante en pareados internos. coro con repetición estructural de "mira que..." como anáfora lírica |
+| 2 | Máximo 1 tríada | ✅ 1 tríadas |
+| 3 | 0 em dashes | ✅ |
+| 4 | ≥1 coloquialismo por estrofa | ✅ mira, un poco |
+| 5 | ≥1 verso métrica quebrada | ✅ (asumido — validación manual requerida) |
+| 6 | No etiquetar figuras retóricas | ✅ |
+| 7 | Detalles sensoriales ≥1 por estrofa | ⚠️ 0 referencias sensoriales para 2 estrofas |
+| 8 | Verbos/adj ≥ 2:1 | ✅ (asumido — validación manual requerida) |
+| 9 | 1 imagen absurda o surrealista | ✅ (asumido — validación manual requerida) |
+| 10 | Cero palabras listado prohibido | ❌ eco |
+| 11 | Cero AI-ismos semánticos | ✅ |
+| 12 | Cero verbos forzados | ✅ |
+| 13 | Cero negative parallelism | ✅ |
+| 14 | Sin parallel negation encadenada | ✅ |
+| 15 | Sin anaphora abuse (máx 2 versos) | ✅ (máx 0 versos consecutivos) |
+| 16 | Puente sin "Pero" al inicio | ✅ (sin puente o sin "Pero") |
+| 17 | Título repetido <4 veces en chorus | ✅ (1 veces en coro) |
+| 18 | Abstracto anclado a objeto concreto | ✅ (asumido — validación manual requerida) |
+| 19 | Especificidad objetual | ✅ 2 objetos concretos |
+| 20 | Sin promoción alcohol/tabaco/drogas | ✅ |
+| 21 | Principios edificantes | ✅ |
 
 ## Changelog de Autoría
 
