@@ -31,8 +31,8 @@
 ## Armonía
 
 - **Progresión base:**
-- **Patrón rítmico:**
-- **Dinámica por sección:**
+- **Patrón rítmico:** Sincopado
+- **Dinámica por sección:** Crescendo
 - **Riff melódico:**
 
 ### Acordes por sección

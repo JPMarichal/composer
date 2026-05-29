@@ -24,13 +24,12 @@
 - **Compás:**
 - **Tonalidad:**
 - **Progresión:**
-- **Estructura:**
-
+- **Estructura:** Instrumental Intro — Verse 1 — Verse 2 — Chorus — Instrumental Interlude — Verse 3 — Bridge — Guitar Solo — Outro
 ## Armonía
 
 - **Progresión base:**
 - **Patrón rítmico:**
-- **Dinámica por sección:**
+- **Dinámica por sección:** Build-up, Lush
 - **Riff melódico:**
 
 ### Acordes por sección

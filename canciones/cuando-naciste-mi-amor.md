@@ -32,7 +32,7 @@
 
 - **Progresión base:**
 - **Patrón rítmico:**
-- **Dinámica por sección:**
+- **Dinámica por sección:** Build-up
 - **Riff melódico:**
 
 ### Acordes por sección

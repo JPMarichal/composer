@@ -32,7 +32,7 @@
 
 - **Progresión base:**
 - **Patrón rítmico:**
-- **Dinámica por sección:**
+- **Dinámica por sección:** Lush
 - **Riff melódico:**
 
 ### Acordes por sección

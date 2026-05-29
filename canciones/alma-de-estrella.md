@@ -24,8 +24,7 @@
 - **Compás:**
 - **Tonalidad:**
 - **Progresión:**
-- **Estructura:**
-
+- **Estructura:** Intro — Verse 1 — Pre-Chorus — Chorus — Verse 2 — Verse 3 — Outro
 ## Armonía
 
 - **Progresión base:**

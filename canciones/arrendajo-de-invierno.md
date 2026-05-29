@@ -20,7 +20,7 @@
 
 ### Producción musical
 
-- **BPM:**
+- **BPM:** 78
 - **Compás:**
 - **Tonalidad:**
 - **Progresión:**
@@ -30,7 +30,7 @@
 
 - **Progresión base:**
 - **Patrón rítmico:**
-- **Dinámica por sección:**
+- **Dinámica por sección:** Swell
 - **Riff melódico:**
 
 ### Acordes por sección

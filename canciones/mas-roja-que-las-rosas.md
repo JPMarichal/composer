@@ -24,8 +24,7 @@
 - **Compás:**
 - **Tonalidad:**
 - **Progresión:**
-- **Estructura:**
-
+- **Estructura:** Intro — Verse 1 — Verse 2 — Chorus — Instrumental Interlude — Verse 3 — Bridge — Guitar Solo — Outro
 ## Armonía
 
 - **Progresión base:**

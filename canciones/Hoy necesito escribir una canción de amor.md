@@ -1,4 +1,4 @@
-# Hoy necesito escribir una canción de amor
+No# Hoy necesito escribir una canción de amor
 
 ## Metadatos
 
@@ -15,7 +15,6 @@
 - **Distribuidor:** OffStep
 - **ISRC:** 
 - **Álbum:** La oficina de objetos perdidos
-- **NotionPageID:** 2c722335-ada6-8065-9eb6-caa8148276d0
 - **Música:**
 
 ### Producción musical
@@ -40,7 +39,9 @@
 
 ## Descripción
 
-Hoy la tarde le ha dejado sin horas al reloj y todos los faros del mar se han encendido. Necesita escribir una canción de amor porque las sombras no existen donde ella está, porque ella envuelve su tristeza con un manto de calor, porque levanta su vista de la tierra hasta Kolob — y todo esto lo hace muerta de risa, sin perder el humor. La canción no describe un amor idealizado: testimonia un amor que lo vuelve artista, que lo impulsa a trabajar, que lo hace buscar a Dios. Una balada que pregunta «¿qué haría yo sin ti?» y encuentra la respuesta en cada verso.
+
+
+## Style Prompt
 
 ```
 

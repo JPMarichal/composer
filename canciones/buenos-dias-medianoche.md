@@ -21,11 +21,10 @@
 ### Producción musical
 
 - **BPM:**
-- **Compás:**
+- **Compás:** 4/4
 - **Tonalidad:**
 - **Progresión:**
-- **Estructura:**
-
+- **Estructura:** Verse 1 — Chorus — Verse 2 — Bridge — Outro
 ## Armonía
 
 - **Progresión base:**

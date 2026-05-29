@@ -20,16 +20,15 @@
 
 ### Producción musical
 
-- **BPM:**
+- **BPM:** 160
 - **Compás:**
 - **Tonalidad:**
 - **Progresión:**
-- **Estructura:**
-
+- **Estructura:** Intro — Verse — Pre-Chorus — Chorus — Final Chorus — Outro
 ## Armonía
 
 - **Progresión base:**
-- **Patrón rítmico:**
+- **Patrón rítmico:** Groove
 - **Dinámica por sección:**
 - **Riff melódico:**
 

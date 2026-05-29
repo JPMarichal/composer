@@ -31,7 +31,7 @@
 ## Armonía
 
 - **Progresión base:**
-- **Patrón rítmico:**
+- **Patrón rítmico:** Sway
 - **Dinámica por sección:**
 - **Riff melódico:**
 

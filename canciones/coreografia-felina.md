@@ -20,12 +20,11 @@
 
 ### Producción musical
 
-- **BPM:**
+- **BPM:** 124
 - **Compás:**
 - **Tonalidad:**
 - **Progresión:**
-- **Estructura:**
-
+- **Estructura:** Intro — Verse — Pre-Chorus — Chorus — Solo tap — Verse 2 — Interlude — Bridge — Final Chorus — Outro
 ## Armonía
 
 - **Progresión base:**

@@ -31,8 +31,8 @@
 ## Armonía
 
 - **Progresión base:**
-- **Patrón rítmico:**
-- **Dinámica por sección:**
+- **Patrón rítmico:** Pulso
+- **Dinámica por sección:** Climax, Lush
 - **Riff melódico:**
 
 ### Acordes por sección

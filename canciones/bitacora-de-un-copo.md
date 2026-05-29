@@ -21,16 +21,15 @@
 ### Producción musical
 
 - **BPM:**
-- **Compás:**
+- **Compás:** 4/4
 - **Tonalidad:**
 - **Progresión:**
-- **Estructura:**
-
+- **Estructura:** Intro — Verse 1 — Verse 2 — Chorus — Bridge — Outro
 ## Armonía
 
 - **Progresión base:**
-- **Patrón rítmico:**
-- **Dinámica por sección:**
+- **Patrón rítmico:** Pulso
+- **Dinámica por sección:** Gradual build, Climax, Build-up
 - **Riff melódico:**
 
 ### Acordes por sección

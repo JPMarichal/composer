@@ -24,12 +24,11 @@
 - **Compás:**
 - **Tonalidad:**
 - **Progresión:**
-- **Estructura:**
-
+- **Estructura:** Intro — Verse 1 — Verse 2 — Chorus — Verse 3 — Bridge — Verse 4 — Outro
 ## Armonía
 
 - **Progresión base:**
-- **Patrón rítmico:**
+- **Patrón rítmico:** Groove
 - **Dinámica por sección:**
 - **Riff melódico:**
 

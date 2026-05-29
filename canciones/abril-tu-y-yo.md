@@ -30,7 +30,7 @@
 
 - **Progresión base:**
 - **Patrón rítmico:**
-- **Dinámica por sección:**
+- **Dinámica por sección:** Swell
 - **Riff melódico:**
 
 ### Acordes por sección
@@ -51,8 +51,97 @@ Contemporary Folk Pop, Piano Ballad, Atmospheric, Ethereal, Romantic, Storytelli
 ---
 
 ## Letra
+[Intro]
+(Soft piano melody with ambient city sounds in the background)
+(Light acoustic guitar strumming enters)
+(0:00 - 0:40)
 
-[Intro]n(Soft piano melody with ambient city sounds in the background)n(Light acoustic guitar strumming enters)n(0:00 - 0:40)nn[Verse 1]n¡Mira! Esa línea de luces que ves,ncadena de estrellas cayendo a mis pies.n¿Por qué no la tomas y me la das?nUn collar brillante que tú mirarás.nSonríes cual si fuera una niña soñando,nmientras la gente nos sigue mirandoncon pura envidia. Somos reyes aquí,nen este autobús que es carruaje para mí.nn[Verse 2]n¡Qué quieto te siento! ¿Cansado tal vez?nHace cuatro días que no te vey.nMi pecho está lleno de flores de abril,npensamientos tontos, más de mil.nTengo que dártelos antes que mueran,nlas cosas triviales que afuera esperan.nSombras que bailan en la pared,ncobran sentido si calmas mi sed.nn[Chorus]nPorque traemos abril, tú y yo,na esta noche de invierno y frío.nMarcamos huellas de fuego y oro,nun rastro secreto que yo atesoro.nAunque el parque esté negro y dormido,ncontigo la primavera ha venido.nPonemos al mundo en la senda del sol,ntú y yo... bajo este farol.nn[Instrumental Interlude]n(Violin and piano intertwining, elegant and flowing)n(Mid-tempo beat kicks in lightly)nn[Verse 3]nMira la plaza, un lago de luz,ny el parque debajo, quieto y trasluz.nComo constelaciones bajo nuestros pies,nlámparas dispersas, ¿no las ves?nBajemos ahora, es nuestro jardín,nsin flores ni hojas, llegando a su fin.nPero las hadas verán al pasarnel fuego en el suelo que hacemos brillar.nn[Bridge]n(Tempo slows down, music becomes more atmospheric and ethereal)n(Synthesizer pads creating a foggy sound)n¡Qué frío hace! Las luces tienen frío,nse ponen chales de niebla y rocío.nUna noche de plata, blanca y extraña,nla niebla levanta su gran montaña.nEl banco aquel donde me leíste el poema,nse ve tan distinto bajo esta cremande bruma espesa que borra el lugar...ndéjame verte, no te vayas a alejar.nn[Guitar Solo]n(Melodic, dreamy, and rising in intensity, capturing the magical atmosphere)nn[Verse 4]n(Vocals return, intimate and soft)nSolía soñar con tenerte a solas,nsin amantes cerca, ni ruidos, ni olasnde gente rompiendo nuestra ilusión.n¡Y ahora se cumple mi petición!nEstamos solos en un mundo de lana,nniebla flotando en la gran ventana.nn[Chorus]nPorque traemos abril, tú y yo,na esta noche de invierno y frío.nMarcamos huellas de fuego y oro,nun rastro secreto que yo atesoro.nAunque el parque esté negro y dormido,ncontigo la primavera ha venido.nn[Outro]n(Music fades slowly into ambient fog sounds and soft piano)nIncluso las estrellas se han ido...n(Se han ido...)nSolo nosotros dos.n(Tú y yo...)nEn un mundo de niebla.nSolo nosotros dos.n(Fade out)n[End]
+[Verse 1]
+¡Mira! Esa línea de luces que ves,
+cadena de estrellas cayendo a mis pies.
+¿Por qué no la tomas y me la das?
+Un collar brillante que tú mirarás.
+Sonríes cual si fuera una niña soñando,
+mientras la gente nos sigue mirando
+con pura envidia. Somos reyes aquí,
+en este autobús que es carruaje para mí.
+
+[Verse 2]
+¡Qué quieto te siento! ¿Cansado tal vez?
+Hace cuatro días que no te veía.
+Mi pecho está lleno de flores de abril,
+pensamientos tontos, más de mil.
+Tengo que dártelos antes que mueran,
+las cosas triviales que afuera esperan.
+Sombras que bailan en la pared,
+cobran sentido si calmas mi sed.
+
+[Chorus]
+Porque traemos abril, tú y yo,
+a esta noche de invierno y frío.
+Marcamos huellas de fuego y oro,
+un rastro secreto que yo atesoro.
+Aunque el parque esté negro y dormido,
+contigo la primavera ha venido.
+Ponemos al mundo en la senda del sol,
+tú y yo... bajo este farol.
+
+[Instrumental Interlude]
+(Violin and piano intertwining, elegant and flowing)
+(Mid-tempo beat kicks in lightly)
+
+[Verse 3]
+Mira la plaza, un lago de luz,
+y el parque debajo, quieto y trasluz.
+Como constelaciones bajo nuestros pies,
+lámparas dispersas, ¿no las ves?
+Bajemos ahora, es nuestro jardín,
+sin flores ni hojas, llegando a su fin.
+Pero las hadas verán al pasar
+el fuego en el suelo que hacemos brillar.
+
+[Bridge]
+(Tempo slows down, music becomes more atmospheric and ethereal)
+(Synthesizer pads creating a foggy sound)
+¡Qué frío hace! Las luces tienen frío,
+se ponen chales de niebla y rocío.
+Una noche de plata, blanca y extraña,
+la niebla levanta su gran montaña.
+El banco aquel donde me leíste el poema,
+se ve tan distinto bajo esta crema
+de bruma espesa que borra el lugar...
+déjame verte, no te vayas a alejar.
+
+[Guitar Solo]
+(Melodic, dreamy, and rising in intensity, capturing the magical atmosphere)
+
+[Verse 4]
+(Vocals return, intimate and soft)
+Solía soñar con tenerte a solas,
+sin amantes cerca, ni ruidos, ni olas
+de gente rompiendo nuestra ilusión.
+¡Y ahora se cumple mi petición!
+Estamos solos en un mundo de lana,
+niebla flotando en la gran ventana.
+
+[Chorus]
+Porque traemos abril, tú y yo,
+a esta noche de invierno y frío.
+Marcamos huellas de fuego y oro,
+un rastro secreto que yo atesoro.
+Aunque el parque esté negro y dormido,
+contigo la primavera ha venido.
+
+[Outro]
+(Music fades slowly into ambient fog sounds and soft piano)
+Incluso las estrellas se han ido...
+(Se han ido...)
+Solo nosotros dos.
+(Tú y yo...)
+En un mundo de niebla.
+Solo nosotros dos.
+(Fade out)
+[End]
 
 ---
 

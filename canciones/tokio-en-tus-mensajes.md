@@ -24,13 +24,12 @@
 - **Compás:**
 - **Tonalidad:**
 - **Progresión:**
-- **Estructura:**
-
+- **Estructura:** Verse 1 — Chorus — Verse 2 — Bridge
 ## Armonía
 
 - **Progresión base:**
-- **Patrón rítmico:**
-- **Dinámica por sección:**
+- **Patrón rítmico:** Pulso
+- **Dinámica por sección:** Swell
 - **Riff melódico:**
 
 ### Acordes por sección
