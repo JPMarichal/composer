@@ -18,7 +18,12 @@ Cuando el usuario solicite una canción:
 9. Para canciones complejas o largas, se puede invocar al subagente `compositor` con el task tool.
    9b. **Regla moral** — las letras promueven principios edificantes: responsabilidad, templanza, respeto, integridad familiar, esperanza realista. Cero promoción de alcohol, tabaco, drogas, café como desahogo, ni sexo prematrimonial/extramatrimonial como deseable. Ver §7 del spec.
 10. **Guardar en `canciones/`** — toda canción se escribe como archivo `.md` en `canciones/`, sin mensajes adicionales en el chat. El archivo incluye metadatos y prompt de estilo Suno en el encabezado, y la letra completa con meta-tags en el cuerpo.
-11. La canción debe entregarse con: título, género/BPM/compás, estructura, progresión, prompt de estilo Suno, letra completa con meta-tags, y checklist anti-AI verificado.
+11. La canción debe entregarse con: título, género/BPM/compás, estructura, progresión, prompt de estilo Suno, letra completa con meta-tags, armonía (acordes por sección, dinámica, riff), y checklist anti-AI verificado.
+12. **Ciclo Escribir → Escuchar → Ajustar** — ninguna canción se da por terminada sin ser escuchada. La primera escucha revela problemas invisibles en el papel (tono, edad percibida, conexión emocional). Iterar hasta que el autor quede satisfecho.
+13. **Variación de Coros** — los coros idénticos empobrecen. Cada coro debe tener al menos una variación semántica (progresión en L1, L3 o L4) para que el agua/tesis evolucione a lo largo de la canción.
+14. **Suspenso por Capas** — la verdad de la canción se revela gradualmente (V1 descriptivo → Chorus tesis → V2 conflicto → Bridge revelación → Outro resolución). El oyente debe poder descubrir algo nuevo en cada escucha.
+15. **Style Prompt limitado a 1000 chars** — priorizar armonía > instrumentación > emoción. Incluir acordes, estructura y referencia sonora ("like X at their most Y"). Copiar metadatos completos al campo de estilo de Suno mejora la generación.
+16. **Changelog de Autoría** — cada canción incluye un changelog que registra todas las decisiones del autor humano vs. sugerencias del asistente. Esto protege la autoría en caso de controversia legal.
 
 ## Comandos útiles
 

@@ -198,3 +198,56 @@ Nota: en diptongos con vocal fuerte + débil (tipo UE, IE), la vocal débil se d
 | 19 | Especificidad objetual | ✅ higuera, pozo, tomillo, sarro, huerta, valle, techo, puerta, cemento |
 | 20 | Sin promoción de alcohol/tabaco/drogas | ✅ |
 | 21 | Principios edificantes | ✅ contemplación, aceptación del cambio, conexión con la naturaleza, autoconocimiento |
+
+---
+
+## Changelog de Autoría
+
+Registro de la evolución de la canción para defender autoría humana en caso de controversia legal.
+
+### v0.1 — Borrador inicial (2026-05-28)
+- Escrito por el asistente Claude Code (antropomórfico) siguiendo el protocolo de composición
+- Título: "Donde Cae la Lluvia"
+- Estructura original con tres coros idénticos
+- Outro minimalista: "Sólo está lloviendo / Sólo estoy cantando / Con el campo adentro"
+
+### v0.2 — Revisión anti-AI
+- Aplicados 21 safeguards del spec 002
+- Perfil métrico construido
+- Tabla de coherencia verificada
+
+### v0.3 — Primera escucha en Suno (2026-05-28)
+- El autor humano escuchó la generación y detectó: sonaba "vieja", demasiado melancólica, no conectaba con públicos amplios
+- Decisiones del autor:
+  - Cambiar tono de melancolía pasiva a nostalgia activa
+  - Modernizar el lenguaje
+  - Hacerla más cadenciosa y sincopada, no balada lenta
+
+### v0.4 — Ediciones directas del autor en el archivo
+- **Outro reescrito**: "Sólo está lloviendo / Sólo llueve afuera / Pero he descubierto / Que aún sobre el cemento / Llevo agua de lluvia / Llevo el campo adentro"
+- **Coros diferenciados** (progresión semántica):
+  - C1: "Es la misma agua que lleva la vida"
+  - C2: "Es la misma agua que es signo de vida"
+  - C3: "Es la misma agua que inunda la vida"
+- **C2 L3**: "se queda extendida" → "se queda dormida"
+- **C3 L3**: "se queda extendida" → "vaga a la deriva"
+- **C3 L4**: "perdida en la acera" → "Perdida en la calle no encuentra la puerta"
+- **C2 L4**: "perdida en la acera" → "La lluvia equivoca toda su carrera"
+- **Bridge L4**: "no sé si ya todo me pasa" → "ya no entiendo ni lo que me pasa"
+- **Bridge L2**: "en la casa" → "en mi casa"
+- **C2 L2**: "si el campo la espera" → "cuando el campo espera"
+- **Outro final**: "Siempre está lloviendo / Por dentro y por fuera / Porque he descubierto"
+
+### v0.5 — Armonía añadida (2026-05-28)
+- Sección de acordes por sección, dinámica, riff melódico
+- Style prompt actualizado a singer-songwriter indie
+
+### v0.6 — Segunda escucha en Suno (2026-05-29)
+- El autor copió metadatos completos (incluyendo acordes) al campo de estilo
+- Suno generó dos versiones excelentes, difíciles de elegir
+- **Canción aprobada como estándar de calidad del proyecto**
+
+### Decisiones clave de autoría
+- Todo cambio posterior a v0.3 fue decisión exclusiva del autor humano
+- El asistente Claude Code sugirió opciones; el autor seleccionó, modificó o descartó
+- La versión final es propiedad intelectual del autor humano
