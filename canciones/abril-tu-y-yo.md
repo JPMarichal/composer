@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Hay noches de invierno que, con la persona correcta, huelen a abril. Aquí, un autobús es un carruaje, una plaza desierta es un jardín y el banco donde alguien te leyó un poema bajo la niebla se convierte en el lugar más cálido del mundo. Si conoces ese tipo de amor que hace florecer lo gris, esta canción ya es tuya.
+"Mira, esa línea de luces que ves, cadena de estrellas cayendo a mis pies. ¿Por qué no la tomas y me la das?" Hay noches de invierno que, con la persona correcta, huelen a abril. Un autobús se vuelve carruaje, una plaza desierta se transforma en jardín, el frío se olvida. "Mi pecho está lleno de flores de abril, pensamientos tontos, más de mil. Tengo que dártelos antes que mueran." Ella lee un poema en un banco bajo la niebla, y ese banco se convierte en el lugar más cálido del mundo. "Porque traemos abril, tú y yo, a esta noche de invierno y frío. Marcamos huellas de fuego y oro, un rastro secreto que yo atesoro." Folk pop con piano, violín y guitarras acústicas, con esa atmósfera etérea de quien sabe que el amor verdadero no cambia las estaciones: las trasciende. Si conoces ese amor que hace florecer lo gris, esta canción ya es tuya.
 
 ## Style Prompt
 

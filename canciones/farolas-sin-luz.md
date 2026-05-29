@@ -42,7 +42,7 @@
 
 ## Descripción
 
-Originalmente compuesta en 1992 como "Ángel Nocturno". Un trabajador agotado llega a casa y encuentra consuelo en su pareja. La canción reflexiona sobre la fugacidad de la vida ("farolas sin luz, un simple accidente en la inmensidad") y la urgencia de amar antes de que el tiempo se acabe. Renombrada para el álbum "La oficina de objetos perdidos".
+Salió cuando todavía no se veía el sol. Corrió por avenidas aún sin luz para entregar toda la savia de su vida al trabajo. Volvió con la cabeza agachada al hogar y dejó caer sobre un mueble su vencida humanidad. Entonces sintió una mano que le cobijaba la sien, y descansó al escuchar la voz de su nocturno ángel. "Mira que somos farolas sin luz, un simple accidente en la inmensidad. Somos solo un grano de sal." Originalmente compuesta en 1992 bajo el título "Ángel Nocturno", esta canción pop rock es un memento mori envuelto en caricia. Un trabajador agotado, el consuelo de un amor que espera despierto, y la conciencia brutal de que el tiempo se acaba. "Mira que mañana no estaremos vivos, amor. Deja en esa mesa, como olvidado, el reloj." Una reflexión sobre la fugacidad de la vida y la urgencia de amar antes de que el río llegue al mar. Renombrada para el álbum "La oficina de objetos perdidos".
 
 ## Style Prompt
 

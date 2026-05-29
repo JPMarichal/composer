@@ -42,7 +42,7 @@
 
 ## Descripción
 
-Canción sobre mujeres extraordinarias que pasaron desapercibidas en su tiempo pero transformaron la humanidad. La pequeñez aparente como potencia oculta. Referencias a Rosalind Franklin, Sara Teasdale, Harriet Beecher Stowe y Helen Keller.
+"Pequeña era, pequeña estaba, y nadie entre todos la notaba." Pero irradiaba. Bajo el toque claro de su sencillez, algo presagiaba que pronto pondría el mundo al revés. Rosalind Franklin, Sara Teasdale, Harriet Beecher Stowe, Helen Keller: mujeres que pasaron desapercibidas en su tiempo y sin embargo transformaron la humanidad desde la pequeñez aparente. El Pulitzer, el Oscar, el Grammy, la gloria del Nobel no fueron su motivación, sino su consecuencia. Este indie-pop con groove sincopado celebra a quienes cambiaron la ruta de la entera humanidad sin hacer ruido, desde una mota hirsuta hasta el punto de inflexión. Porque lo pequeño no es poco: es potencia contenida. Y cuando esa potencia se libera, el mundo se pone del revés. Con armonías vocales de celebración y una energía ascendente que crece como el impacto de estas mujeres.
 
 ## Style Prompt
 

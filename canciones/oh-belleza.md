@@ -40,7 +40,7 @@
 
 ## Descripción
 
-La luna naranja sube lenta, los arces se dibujan negros contra el azul, los gorriones se lanzan al viento. Y entonces, al borde de un estanque de marfil, algo se abre: la certeza de que no hay tristeza capaz de doblar a quien ama el mundo hasta el final. Una canción que eleva aunque cueste todo.
+El sol se ha ido, la luna naranja sube lenta sobre los montes. Los arces se dibujan negros contra un azul que se vuelve más hondo que el jazmín. Los gorriones cruzan el aire sin rumbo, juntos ahora y luego separados como pétalos de un árbol violento. Bajé la cuesta y perdí los caminos del hombre y su razón, porque los aromas de la noche despertaron en mí un éxtasis que no sabía que cabía en un pecho humano. Y entonces, al borde de un estanque de marfil, algo se abrió: la certeza de que no hay amargura que pueda doblar, ni tristeza que logre abatir, a quien ama el mundo hasta el final. "Oh, Belleza, de tanta copa llena me has embriagado, salvaje y feliz, desde que era una niña sin pena." Folk orquestal con chelo, violín y guitarra acústica: un himno a la capacidad de la belleza de redimirlo todo.
 
 ## Style Prompt
 

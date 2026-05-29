@@ -42,7 +42,7 @@
 
 ## Descripción
 
-Diálogo entre un adulto y el niño que fue. El encuentro imaginario revela lo mucho que ha cambiado — la espontaneidad perdida, la mirada que se endureció — y la culpa de haber enterrado a ese niño bajo el peso de "lo necesario".
+"Ayer me encontré a ese niño que llevo en mi pensamiento. Tan alegre iba de verme que reía de contento." Pero el niño no encuentra al hombre que esperaba. Encuentra a alguien que cobra lo que no da, que suma tantos por ciento, que mira sin sentir. El encuentro es un espejo incómodo: el adulto reconoce, uno a uno, los entierros que ha hecho —la imaginación que cambió por facturas, la confianza que trocó por cinismo, los llantos que aprendió a tragarse. "¿Qué tan muerto estoy, mi niño? ¿Qué tan muerto estoy por dentro?" La culpa la tiene el tiempo, la familia, los vecinos, las monjas del convento. Mentira. La culpa es solo de quien eligió enterrar al niño para sobrevivir al mundo, y ahora no sabe cómo desenterrarlo. Este pop progresivo con guitarras limpias y pads atmosféricos es una confesión a quemarropa sobre el precio de hacerse adulto y la memoria de quien fuimos.
 
 ## Style Prompt
 

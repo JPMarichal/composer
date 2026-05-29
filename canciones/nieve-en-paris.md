@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Afuera nieva y París se extiende como un lienzo de metal. Pero lo que importa está aquí adentro: ella dormitando en el sillón, el gato a sus pies, la fragancia que solo ella sabe tener. Esta canción es para quien sabe que los mejores momentos no caben en ninguna postal.
+Afuera nieva sin tregua sobre las avenidas de París. La ciudad se extiende como un lienzo de metal bajo un cielo que no perdona. Pero aquí dentro el tiempo se detuvo: ella dormita en el sillón de cuero, su gato blanco descansa a sus pies, la luz del fuego juega sobre su rostro. Hay porcelanas chinas puestas al revés, un biombo antiguo, la seda de Japón en cada esquina. Entro en silencio, dejo el peso del ayer en la puerta. Ella tiene esa fragancia que solo ella sabe tener. Y en ese instante —un refugio, una señal— comprendo que los mejores momentos no caben en ninguna postal. Este synth-pop elegante con pads cinematográficos y bajo cálido captura la verdad más sencilla: que la calma no es la ausencia de tormenta, sino la presencia de la persona correcta cuando el mundo se congela.
 
 ## Style Prompt
 

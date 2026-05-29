@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Canción cómica indie folk pop sobre el despertar con un gato que ejecuta una coreografía completa sobre la cara de su dueño a las 6 AM.
+Son las cinco con cuarenta y dos y cuatro kilos de felino te han aplastado la nariz. No es una pesadilla: es el Michi ensayando su número de music-hall. Con la precisión de un coreógrafo de Broadway y la indiferencia de un dictador, tu gato convierte tu mejilla en su escenario, tu barbilla en su trampolín y tu pómulo en el punto exacto del clímax. Hay scratch en la mandíbula, giro sobre el ojo izquierdo, solo de zarpazo de improviso. Y mientras él ronronea más fuerte cuanto más protestas, tú descubres que lo peor de todo no es el dolor: es que, en el fondo, sabes que te lo has ganado. Indie folk pop con ukelele, batería electrónica y una verdad incómoda: el gato manda, y tú eres solo el mobiliario.
 
 ## Style Prompt
 

@@ -42,7 +42,7 @@
 
 ## Descripción
 
-Dejar ir a quien nunca fue tuyo. Desde la admiración a distancia hasta la renuncia consciente, la canción atraviesa el duelo de un amor no correspondido y termina en la liberación de soltar. La metáfora del potro en el trigal y el río hacia el mar.
+Mira qué hermosura la que espera allí a su amado, con el corazón puesto en otro. Y aunque nunca ha sido mía, yo soñaba en su regazo. Dejar ir a quien nunca fue tuyo es un duelo sin nombre: no pierdes una relación, pierdes una posibilidad. Desde la admiración a distancia hasta la renuncia consciente, esta canción atraviesa cada etapa de esa pena silenciosa y termina en liberación. "¡VE! Como un potro suelto en un trigal, cruza los aires. ¡VE! Como el río corre hacia su mar." Folk pop con aires de cumbia y vallenato, guacharaca, acordeón y guitarras acústicas que suben en energía como quien finalmente suelta lo que nunca tuvo. Porque a veces el acto más valiente del amor no es esperar: es soltar, desearle buena suerte a quien se va, y encaminarse uno también hacia su propio mar.
 
 ## Style Prompt
 

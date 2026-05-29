@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Camas en fila, cortinas grises, cartas en un cajón que nunca abriste, una mano que rozó apenas tu abrigo azul. Esta canción no lucha contra nada: acepta. Y en esa aceptación brumosa y lenta hay una extraña dignidad que se te queda dentro mucho después de que termina.
+Camas en fila, cortinas grises, aire quieto. Tu sombra cruza el pasillo como un recuerdo que se arrepintió de haber venido. Cartas guardadas en un cajón que nunca abrí. Tu risa corta el silencio y ya no sé si fue de aquí o de otro lugar. Una mano trémula rozando apenas un abrigo azul. Quería decirte "vámonos", pero bajé la voz. Inspirada en el universo conmovedor de Kazuo Ishiguro, esta canción no lucha contra nada: acepta. Y en esa aceptación brumosa y lenta hay una extraña dignidad que se te queda dentro mucho después de que termina. "Acepto este destino lento como lluvia en un cristal. Ya no peleo contra el tiempo. Solo dejo de respirar si te vas." Dreampop con guitarras bañadas en reverb, voces flotando bajas en la mezcla, y una atmósfera de niebla que lo envuelve todo como un último verano que se niega a terminar.
 
 ## Style Prompt
 

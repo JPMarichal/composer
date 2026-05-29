@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Nieva sobre el almendro que quiere brotar. El mundo parece haber perdido su dirección. Y entonces escuchas un ladrido, abres la puerta y alguien entra trayendo consigo la humanidad entera. Esta canción es para los momentos en que el frío cede, no porque el clima cambie, sino porque alguien llega.
+Miro por la ventana y no puedo creer lo que mis ojos están viendo: nieva sobre el almendro que quiere brotar, nieva sobre el pétalo, sobre el jardín. Es un invierno que no tiene fin. El mundo ha perdido su dirección, la tarde en la calle se siente vacía, todo el hielo del invierno parece haberse dado cita en un solo lugar. Pero de pronto escucho un ladrido. Abro la puerta y alguien entra trayendo consigo la humanidad entera. "Con tu rastro de nieve y tu aliento de paz se disuelve la sombra de la soledad. Tú no sabes de miedos ni usas disfraz: eres el calor de la cruda verdad." Este lo-fi indie pop con bases cálidas y bajo suave es para los momentos en que el frío cede —no porque el clima cambie, sino porque alguien llega. Un amigo de cuatro patas que no pregunta, no juzga, solo entra y enciende la primavera donde solo había nieve.
 
 ## Style Prompt
 

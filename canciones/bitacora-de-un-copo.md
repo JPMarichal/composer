@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Si alguna vez has soltado algo querido y descubierto que el final también puede ser hermoso, esta canción te espera. Un copo de nieve narra su propio viaje por el mundo —sin red, sin mapa, con seis puntas de simetría y todo el cielo por delante— hasta disolverse en paz sobre la risa de un niño. Indie pop íntimo que sabe a rendición dulce.
+"Me solté de la nube en silencio, un desprendimiento sin dolor. Seis puntas de simetría y misterio, un viajero blanco, puro en su esplendor." Un copo de nieve narra su propio viaje: la fragilidad de una joya de diseño perfecto, una estrella cristalina que el frío forjó. Sin red, sin mapa, con todo el cielo por delante. Bailó sobre el Sena con la bruma, besó la altitud en los Alpes, giró sobre el mundo tan ufano. Y ahora que el viento se calma y el suelo se siente tan cerca, entrega su alma sin resistencia. "No soy un náufrago al viento, soy un testigo del sol. Disuelvo mi breve momento en un viaje que pierde el control." Hasta caer, despacio, en calma total, sobre el labio de un niño que ríe al jugar. Dejar de ser hielo para ser vida. Indie pop íntimo con piano frágil y cuerdas cálidas, una canción que sabe a rendición dulce, para quienes han descubierto que soltar también puede ser hermoso.
 
 ## Style Prompt
 

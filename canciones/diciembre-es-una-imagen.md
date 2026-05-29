@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Caminas bajo el aguacero de diciembre, empapado y perdido, cuando una niña pasa con unos zapatos rojos en la mano —flamantes como un pájaro tropical en medio del lodo gris— y no puedes dejar de mirar. A veces la belleza aparece donde menos la esperas y deja una imagen que no se borra. Esta canción es esa imagen.
+"Diciembre es esta imagen que se queda: la lluvia que desciende con su son, rumor de tren que pasa por la acera, una plaza hundida en la soledad." Caminas bajo el aguacero, empapado hasta los huesos, llorando por la calle como un trapo viejo, sucio y vencido. El cielo es negro y gris, ceniza y duelo. Y entonces ella aparece: una niña morena que pasa con unos zapatos rojos en la mano, flamantes como un pájaro tropical en medio del lodo. Sus ojos son tizones encendidos. Tiembla como un gorrión de nidos perdidos bajo el agua que no deja de brotar. Y tú no puedes dejar de mirar. Ese destello de fuego en medio del gris, esa imagen que se clava y no se borra. Pop folk con piano nostálgico y saxofón suave, porque a veces la belleza aparece donde menos la esperas y cambia todo sin pedir permiso.
 
 ## Style Prompt
 

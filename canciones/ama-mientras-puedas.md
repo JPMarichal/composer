@@ -40,7 +40,7 @@
 
 ## Descripción
 
-No te ordena nada. Solo te recuerda, con voz suave y guitarra cálida, lo que ya sabes y a veces olvidas: que la vida es corta, que las heridas también florecen y que, al final, solo el amor hace real todo lo demás. Una canción que llega justo cuando la necesitas.
+No te ordena nada. No te dice cómo vivir ni por quién apostar. Solo se sienta a tu lado, con una guitarra cálida y una voz suave, y te recuerda lo que ya sabes y a veces olvidas: que la vida es corta y se va veloz como un día alegre. Que las heridas también florecen si les das tiempo. Que no hay fuego sin riesgo de quemarse, pero que sin fuego no hay luz. "Pequeña, ama mientras puedas, antes que el tiempo detenga sus ruedas." Siete pecados acechan afuera, sombras que quieren tu primavera, pero hay un solo camino que abre todas las puertas. Esta balada folk con rasgueo acústico y sintetizador atmosférico, con un puente que crece como una promesa, llega justo cuando la necesitas —no para salvarte, sino para recordarte que vale la pena intentarlo. Porque solo el amor hace real todo lo demás.
 
 ## Style Prompt
 

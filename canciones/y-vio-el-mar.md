@@ -42,7 +42,7 @@
 
 ## Descripción
 
-Un padre lleva a su hijo a conocer el mar por primera vez. El asombro del niño desarma la coraza del adulto, que se reconoce a sí mismo en esa mirada.
+Horas de asfalto gris, ventanas llenas de nada, la radio baja y un niño en el asiento de atrás dibujando nubes en su almohada. Cuando el cielo se abre y el olor salado entra por la ventanilla, algo le tiembla en la pierna. Y entonces lo ve: inmenso, interminable, real. "Papá, es gigante, no se acaba nunca, ¿cierto?" El padre traga saliva para esconder que está abierto por dentro, porque en los ojos de su hijo no solo está el mar: está el niño que él mismo fue, la coraza que se ha ido construyendo año tras año, y la certeza de que hay asombros que desarman hasta al más blindado. Synth-pop con arpegios de bajo, felt piano y glockenspiel: una canción sobre redescubrir la inmensidad a través de la mirada de quien ve todo por primera vez.
 
 ## Style Prompt
 

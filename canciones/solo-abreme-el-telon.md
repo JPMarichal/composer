@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Una ciudad desconocida. Una servilleta llena de bocetos. El perfume de quien dejaste atrás, guardado en el abrigo gris para los domingos que saben a nada. Esta canción le habla a cualquiera que ha apostado por algo importante y lleva el peso de quienes esperan. Un crescendo que crece como una promesa que no puede quebrarse.
+Otra calle con un nombre raro, otra esquina que suena igual. Tu bufanda dentro de mi maleta, tu perfume en mi abrigo gris. Los domingos saben a nada, a cafetería al final del tren. Mis bocetos llenan servilletas mientras ensayo que esto es un hogar. "Traigo un mapa en la maleta pero a ti te dejé atrás, persiguiendo esta promesa de que aquí me va a ir mejor." Esta canción le habla a cualquiera que ha apostado por algo importante y lleva el peso de quienes esperan. Una artista en una ciudad desconocida, haciéndose amiga de la vieja plaza, del farol que la ve pasar, guardando la risa de quien ama en un voicemail como un amuleto. Y la promesa: "Cuando tenga algo que ofrecerte más que voces y un telón, voy a ir a buscar tu abrazo." Pop con piano eléctrico, chelo y un crescendo cinematográfico que crece como una promesa que no puede quebrarse. Un himno para todos los que están lejos de casa persiguiendo un sueño.
 
 ## Style Prompt
 

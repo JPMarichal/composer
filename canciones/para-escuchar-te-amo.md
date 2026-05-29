@@ -42,7 +42,7 @@
 
 ## Descripción
 
-Canción sobre la angustia de amar a alguien que no se abre emocionalmente. El silencio del otro carcome, mientras se espera un "te amo" que tal vez nunca llegue. La tensión entre la intimidad compartida y el muro invisible.
+Tantas cosas han pasado juntos que ya no concibe la vida sin él. Cada caricia, cada detalle, cada rutina compartida construye una intimidad que parece completa. Pero hay una puerta que nunca se abre. El interior de él está sellado, y ella se estrella una y otra vez contra ese muro invisible. "En mi soledad sin flor, solo me daría fuerza tu amor, y desconozco si está allí lo que da fuerza a mi vivir." Esta balada synthwave con violín y chelo es el retrato de quien lo ha dado todo y espera, sin certeza ni garantía, a que unos labios se abran para pronunciar tres palabras que tal vez nunca lleguen. La angustia de amar a alguien que no sabe amar de vuelta con la misma transparencia. Una tensión que carcome, una espera que sofoca, y un amor que se niega a rendirse aunque el silencio lo devore todo.
 
 ## Style Prompt
 

@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Hay ojos que te contemplan, manos que celebran tu llegada, un hombro que sostiene tu sien. Y luego está ella: sin cuerpo, sin forma, sin lugar donde estar junto a ti. Solo una voz que cruza el viento. Esta pieza de cámara orquestal te alcanzará si alguna vez has amado desde la distancia imposible de lo que ya no puede ser.
+Hay ojos que te contemplan, manos que celebran tu llegada, un hombro amigo que sostiene tu sien, labios que responden al hablar. Y luego está ella: sin cuerpo, sin forma, sin lugar donde estar junto a ti. "Para ti, mi dulce bien, no soy imagen que se pueda ver. No tengo cuerpo, ni forma, ni faz, soy un susurro que busca tu paz. Tan solo una voz que cruza el viento veloz." Esta pieza de cámara orquestal a 66 BPM, con piano de cola, violonchelo y cuerdas, te alcanzará si alguna vez has amado desde la distancia imposible de lo que ya no puede ser. "Condenada a la etérea lejanía, esperando que escuches mi agonía." No hay abrazo posible, no hay lugar en el mundo donde encontrarse. Solo una voz que insiste, que no se apaga, un eco en la memoria de alguien que tal vez ya ni recuerda que existes. Un lamento, un anhelo, y la dignidad de quien ama sin esperar nada a cambio.
 
 ## Style Prompt
 

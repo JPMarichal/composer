@@ -40,7 +40,7 @@
 
 ## Descripción
 
-El día se cansó y se fue sin despedirse. Ahora el horizonte se vuelve carmesí y no sabes si eso es tristeza o algo nuevo que empieza. Esta canción es para quien ha sido dejado por algo que amaba —una etapa, una persona, una versión de sí mismo— y pide refugio a la noche sin rendirse del todo.
+"Buenos días a la fría medianoche. He vuelto a casa, ya se fue el sol. El día se cansó de mis reproches, me abandonó sin darnos un adiós." Hay un momento en que la luz se apaga y no sabes si es el final de algo o el principio de otra cosa. El horizonte se vuelve carmesí, un color que el corazón no comprende, y las colinas tienen un aspecto nuevo que no sabes descifrar. Esta canción es para quien ha sido dejado por algo que amaba —una etapa, una persona, una versión de sí mismo— y se encuentra frente a la noche pidiendo refugio sin rendirse del todo. "Acógeme ahora, noche plateada. Recibe a esta chica que perdió el camino. Si la luz me dejó abandonada, sé tú mi refugio y mi destino." Indie rock con piano eléctrico y sintetizadores atmosféricos, donde la voz femenina transita del desconcierto a una aceptación que no se rinde, solo cambia de dirección.
 
 ## Style Prompt
 

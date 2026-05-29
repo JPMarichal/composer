@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Él perdió un amor. Ella también. Se encuentran junto a un río lluvioso, compiten en sus desgracias, buscan un refugio y solo encuentran barro. Y entonces, sin buscarlo, se miran y se ríen. La bossa nova más honesta sobre cómo el amor a veces llega no cuando lo buscas, sino cuando ya dejaste de buscar.
+Él perdió un amor. Ella también. Se encuentran bajo la sombra de un parque en la ciudad, junto a un río que corre con gris lentitud. Primero compiten en sus desgracias: "Nadie ha sufrido como sufro yo", dice él. "Nunca una mujer se vio tan sola así", responde ella. Buscan un refugio para escapar del mundo cruel y solo encuentran barro y un matorral. "¡Qué aburrimiento!", suspira ella. Y se sientan. Y entonces, sin buscarlo, se miran. Y se ríen. "¡Qué buena compañía! Encontraron luz en la agonía." Esta bossa nova con guitarra de nylon, piano eléctrico y percusión ligera es la declaración más honesta sobre cómo el amor a veces llega no cuando lo buscas, sino cuando ya dejaste de buscar. Cuando te rendiste, cuando dejaste de competir en desgracias ajenas y simplemente te sentaste a compartir el barro con alguien.
 
 ## Style Prompt
 

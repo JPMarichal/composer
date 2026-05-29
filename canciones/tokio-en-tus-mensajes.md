@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Tu bufanda que olía a lluvia en estación. Tus mensajes guardados como si fueran fe. Tu nombre rayado en la ventana empañada de un vagón. Esta canción indie folk sabe exactamente cómo se siente llevar el invierno de otra persona pegado a la piel, aunque cambies de ciudad, aunque pase el tiempo.
+Tus mensajes guardados como si fueran fe. Esos "llegué bien, ¿cómo andás?" que ahora leo en voz baja. Tu bufanda que aún huele a lluvia de estación, a café frío y confusión, a despedida atrasada. Tu nombre rayado en la ventana empañada de un vagón que ya se fue sin mí. El tren pasa frente al mar, el libro abierto sin mirar, y yo cuento los segundos que se alargan como si el tiempo fuera a devolverte. "Tal vez en otra ciudad compres flores sin pensar en mí. Yo doblo esquinas al azar buscando un eco de ti." Esta balada indie folk con voz cercana, guitarra con cepillo y susurros sabe exactamente cómo se siente llevar el invierno de otra persona pegado a la piel. Aunque cambies de ciudad, aunque pase el tiempo, hay recuerdos que se quedan como una foto borrosa que nunca quisiste perder.
 
 ## Style Prompt
 

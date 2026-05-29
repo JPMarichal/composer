@@ -42,7 +42,7 @@
 
 ## Descripción
 
-Canción sobre la espera de un padre durante el parto, contemplando la fortaleza y el sacrificio de su compañera al dar a luz. La tensión de las horas de incertidumbre se resuelve en gratitud ante el milagro de la vida.
+Está sentado en una silla de hospital, mirando una puerta que no se abre. El reloj avanza, las horas se vuelven líquidas, imposibles de medir. Del otro lado, ella entrega el cuerpo entero. Piensa en sus manos, en su sonrisa, en el precio de este tormento que él no podría pagar. "No comprendo tu valor, no imagino lo que sientes, cómo afrontas el dolor siempre siendo tan valiente." Y entonces, un llanto. Todo el mundo se detiene. Ella sale con los ojos llenos de gloria, agotada, viva, más grande que cualquier palabra. "Que das la vida para dar vida, te rompes entera para renacer." Esta balada de pop de cámara con piano y cuerdas no es solo una canción sobre el parto: es la confesión de un hombre que descubre que la fortaleza no tiene género, y que el amor más grande a veces tiene nombre de madre.
 
 ## Style Prompt
 

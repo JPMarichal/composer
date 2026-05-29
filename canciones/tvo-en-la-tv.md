@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Llega puntual cada tarde, con su outfit, su perfume y ese modo de hablar que convierte la rutina en fiesta. Solo hay un problema: que vive en una pantalla. Esta canción sabe exactamente a qué sabe ese amor cotidiano y extraño que se forma frente a una pantalla, y no te juzga por ello.
+Siempre puntual a la cita, llega luciendo su outfit del día, segura, sin prisa, con ese modo de hablar que convierte la rutina en fiesta. Te cuenta los chismes, te pone al tanto de todo, te ofrece dulces manjares desde su set de cocina. Y tú la miras, la escuchas, te aprendes sus gestos, sus silencios, la mancha en la pantalla que dejó tu dedo de tanto querer tocar su rostro. Solo hay un problema: que vive en una pantalla. "No sabes cómo te agradezco esta visita diaria, que convierte en festejo toda tarde rutinaria." Esta canción pop electrónica a 124 BPM no se burla de ti por ese amor platónico moderno. Al contrario: lo celebra. Porque el cariño no distingue entre carne y píxel, y hay tardes enteras que se construyen frente a una pantalla con la misma intensidad que cualquier otra historia de amor.
 
 ## Style Prompt
 

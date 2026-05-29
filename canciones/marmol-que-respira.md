@@ -42,7 +42,7 @@
 
 ## Descripción
 
-Canción que idealiza la belleza femenina a través de la metáfora del mármol clásico: una mujer esculpida con perfección divina, viva pero eterna. La paradoja central — fría como piedra, pero respirando — sostiene toda la pieza.
+Hay una paradoja en el centro de esta canción: la piel más tersa, la forma más perfecta, la geometría exacta de unos hombros que parecen tallados por Fidias. Y sin embargo, respira. "Eres como mármol que respira, obra sin igual, perfecta y clara." Este pop español con aires de cámara se entrega sin ironía a la idealización de la belleza clásica: la mujer como escultura viva, como templo que late. Cada verso celebra una parte del cuerpo con la precisión de un anatomista enamorado —las manos como columnas, la cintura donde la luz se curva, los ojos que deslumbran— sin distancia crítica, solo admiración sin reservas. En compás de 6/8, con marimba, arpa, celesta y trompa francesa, la canción construye un altar sonoro donde la paradoja no se resuelve: se celebra. Porque hay bellezas que merecen ser cantadas aunque no puedan explicarse.
 
 ## Style Prompt
 

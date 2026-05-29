@@ -42,7 +42,7 @@
 
 ## Descripción
 
-Una pieza de violín transforma una sala en penumbra, llenándola de luz y color. La música se vuelve visible, tangible, hasta que el arco se detiene y el sueño se desvanece. La canción es un homenaje al poder efímero de la música de cambiar un instante.
+Un violín traza hebras de sonido en la penumbra de una sala. Las notas flotan, giran, se enredan como hebras de luz que el arco va hilando en el aire. Y entonces ocurre: la música se vuelve visible. Destellos oro contra la oscuridad, una chispa en la niebla gris, el cuarto entero transformándose en un lienzo de resplandor. "Y vi cómo flotaban, y cómo se enredaban." Pero toda magia tiene su precio: cuando el arco se detiene, la red se rompe, el resplandor se extingue y el sueño se termina. Este chamber pop con cuarteto de cuerdas y piano es un homenaje al poder efímero de la música —esa capacidad de cambiar un instante, de pintar el aire de colores, de hacer que todo sea soportable mientras dura. Y cuando termina, solo queda la noche. Pero por un momento, todo fue dorado.
 
 ## Style Prompt
 

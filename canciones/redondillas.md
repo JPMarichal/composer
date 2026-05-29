@@ -42,7 +42,7 @@
 
 ## Descripción
 
-Arreglo musical del poema "Redondillas" de Sor Juana Inés de la Cruz (1648-1695), una sátira sobre la hipocresía masculina ante la mujer. Texto original del siglo XVII, arreglo vocal con producción electrónica.
+"Hombres necios que acusáis a la mujer, sin razón, sin ver que sois la ocasión de lo mismo que culpáis." Corría el siglo XVII cuando Sor Juana Inés de la Cruz escribió estos versos como un latigazo de lucidez. Tres siglos después, su sátira sobre la hipocresía masculina —esa misma que exige pureza mientras siembra el deseo, que acusa de liviandad lo que ella misma provocó— no ha perdido una sola gota de vigencia. ¿Cuál mayor culpa ha tenido en una pasión errada: la que cae de rogada, o el que ruega de caído? Este arreglo vocal con producción electrónica toma el texto original y lo viste de sintetizadores y beats, demostrando que la verdad no caduca: solo cambia de formato. La pregunta de Sor Juana sigue en el aire, igual de incómoda, igual de necesaria.
 
 ## Style Prompt
 
