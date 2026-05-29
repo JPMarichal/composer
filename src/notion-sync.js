@@ -31,6 +31,7 @@ const temasRaw = extractField("Temas");
 const isrc = extractField("ISRC");
 const upc = extractField("UPC");
 const distribuidor = extractField("Distribuidor");
+const notionPageId = extractField("NotionPageID");
 const descripcion = extractSection("Descripción");
 
 // StylePrompt and TaggedLyrics are in sections, not simple fields
@@ -138,27 +139,54 @@ async function replaceBlocks(pageId, children) {
   }
 }
 
+function writePageIdToFile(pageId) {
+  let fileContent = fs.readFileSync(filePath, "utf-8");
+  const fieldLine = `- **NotionPageID:** ${pageId}`;
+  const fieldRegex = /- \*\*NotionPageID:\*\*.*/;
+  if (fieldRegex.test(fileContent)) {
+    fileContent = fileContent.replace(fieldRegex, fieldLine);
+  } else {
+    fileContent = fileContent.replace(
+      /^(- \*\*Álbum:\*\*.*)$/m,
+      `$1\n${fieldLine}`
+    );
+  }
+  fs.writeFileSync(filePath, fileContent, "utf-8");
+}
+
 async function main() {
   const properties = buildProperties();
   const children = buildBodyBlocks();
-  const existingId = await findExistingPage();
 
-  if (existingId) {
-    await notion.pages.update({ page_id: existingId, properties });
-    await replaceBlocks(existingId, children);
-    const pageUrl = `https://www.notion.so/${existingId.replace(/-/g, "")}`;
+  let pageId;
+
+  if (notionPageId) {
+    pageId = notionPageId;
+    await notion.pages.update({ page_id: pageId, properties });
+    await replaceBlocks(pageId, children);
     console.log(`✓ Actualizado en Notion: ${title}`);
-    console.log(`  ${pageUrl}`);
   } else {
-    const resp = await notion.pages.create({
-      parent: { data_source_id: DATA_SOURCE_ID, type: "data_source_id" },
-      properties,
-      children,
-    });
-    const pageUrl = resp.url || `https://www.notion.so/${resp.id.replace(/-/g, "")}`;
-    console.log(`✓ Creado en Notion: ${title}`);
-    console.log(`  ${pageUrl}`);
+    const existingId = await findExistingPage();
+    if (existingId) {
+      pageId = existingId;
+      await notion.pages.update({ page_id: pageId, properties });
+      await replaceBlocks(pageId, children);
+      console.log(`✓ Actualizado en Notion: ${title}`);
+    } else {
+      const resp = await notion.pages.create({
+        parent: { data_source_id: DATA_SOURCE_ID, type: "data_source_id" },
+        properties,
+        children,
+      });
+      pageId = resp.id;
+      resp.url || `https://www.notion.so/${resp.id.replace(/-/g, "")}`;
+      console.log(`✓ Creado en Notion: ${title}`);
+    }
   }
+
+  writePageIdToFile(pageId);
+  const pageUrl = `https://www.notion.so/${pageId.replace(/-/g, "")}`;
+  console.log(`  ${pageUrl}`);
 }
 
 main().catch(err => {

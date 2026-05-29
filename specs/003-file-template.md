@@ -26,6 +26,7 @@ Formato estandarizado para archivos `.md` de canciones en `canciones/`, alineado
 - **ISRC:** <vacío>
 - **UPC:** <vacío | código de 12 dígitos>
 - **Álbum:** <vacío | nombre del álbum>
+- **NotionPageID:** <vacío | uuid>
 - **Música:** <vacío | ruta al archivo>
 
 ### Producción musical
@@ -86,5 +87,6 @@ Formato estandarizado para archivos `.md` de canciones en `canciones/`, alineado
 2. El H1 debe coincidir exactamente con el título de la canción
 3. Los campos de `### Notion DB` deben reflejar exactamente los valores enviados a Notion
 4. Los campos vacíos se dejan con valor `<vacío>` o simplemente vacío tras el `:`
-5. Toda canión debe incluir `## Armonía`, `## Descripción`, `## Style Prompt`, `## Letra`, `## Checklist Anti-AI` y `## Changelog de Autoría`
+5. `NotionPageID` se actualiza automáticamente al hacer sync; no se edita manualmente
+6. Toda canión debe incluir `## Armonía`, `## Descripción`, `## Style Prompt`, `## Letra`, `## Checklist Anti-AI` y `## Changelog de Autoría`
 6. `## Letra` lleva los meta-tags de sección (`[Verse]`, `[Chorus]`, etc.) — la versión sin tags va en el cuerpo de la página de Notion
