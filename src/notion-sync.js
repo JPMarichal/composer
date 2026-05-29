@@ -74,7 +74,10 @@ function buildProperties() {
   if (upc) props["UPC"] = { rich_text: [{ type: "text", text: { content: upc } }] };
   if (descripcion) props["Descripción"] = { rich_text: [{ type: "text", text: { content: descripcion } }] };
   if (stylePrompt) props["Estilo SUNO"] = { rich_text: [{ type: "text", text: { content: stylePrompt } }] };
-  if (taggedLyrics) props["TaggedLyrics"] = { rich_text: [{ type: "text", text: { content: taggedLyrics } }] };
+  if (taggedLyrics) {
+    const truncated = taggedLyrics.length > 2000 ? taggedLyrics.slice(0, 1997) + "..." : taggedLyrics;
+    props["TaggedLyrics"] = { rich_text: [{ type: "text", text: { content: truncated } }] };
+  }
   props["Álbum"] = { relation: [] };
   if (distribuidor) {
     const distList = distribuidor.split(",").map(d => d.trim()).filter(Boolean);
