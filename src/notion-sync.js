@@ -117,7 +117,7 @@ async function findExistingPage() {
   const resp = await notion.dataSources.query({ data_source_id: DATA_SOURCE_ID });
   for (const page of resp.results) {
     const tProp = page.properties["Título de la canción"];
-    const existingTitle = tProp?.title?.map(t => t.plain_text).join("") || "";
+    const existingTitle = (tProp?.title?.map(t => t.plain_text).join("") || "").trim();
     if (existingTitle.toLowerCase() === title.toLowerCase()) {
       return page.id;
     }
@@ -131,7 +131,10 @@ async function replaceBlocks(pageId, children) {
     await notion.blocks.delete({ block_id: block.id }).catch(() => {});
   }
   if (children) {
-    await notion.blocks.children.append({ block_id: pageId, children });
+    for (let i = 0; i < children.length; i += 100) {
+      const chunk = children.slice(i, i + 100);
+      await notion.blocks.children.append({ block_id: pageId, children: chunk });
+    }
   }
 }
 
