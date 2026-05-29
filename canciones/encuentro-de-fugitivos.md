@@ -1,0 +1,127 @@
+# Encuentro de Fugitivos
+
+## Metadatos
+
+### Notion DB
+
+- **Título de la canción:** Encuentro de Fugitivos
+- **Género:** Jazz, Pop
+- **Tipo:** Canción
+- **Año:** 2026
+- **Fecha de composición:** 2026-02-28
+- **Estado de publicación:** Pendiente de publicación
+- **Generador:** SUNO
+- **Temas:** Amor, Esperanza, Nostalgia
+- **Distribuidor:** OffStep
+- **ISRC:** US7VG2696239
+- **Álbum:** 
+- **Música:**
+
+### Producción musical
+
+- **BPM:**
+- **Compás:**
+- **Tonalidad:**
+- **Progresión:**
+- **Estructura:**
+
+## Armonía
+
+- **Progresión base:**
+- **Patrón rítmico:**
+- **Dinámica por sección:**
+- **Riff melódico:**
+
+### Acordes por sección
+
+| Sección | Acordes | Notas |
+|---------|---------|-------|
+
+## Descripción
+
+Él perdió un amor. Ella también. Se encuentran junto a un río lluvioso, compiten en sus desgracias, buscan un refugio y solo encuentran barro. Y entonces, sin buscarlo, se miran y se ríen. La bossa nova más honesta sobre cómo el amor a veces llega no cuando lo buscas, sino cuando ya dejaste de buscar.
+
+## Style Prompt
+
+```
+Sophisticated Bossa Nova, Modern Latin Jazz Pop, smooth dual male-female vocals, nylon string guitar, light percussion, elegant electric piano, romantic and optimistic tone, mid-tempo, breezy and warm production
+```
+
+---
+
+## Letra
+
+[Intro]
+(Bossa Nova elegante, guitarra acústica con cuerdas de nylon y un bajo suave)
+(Ambiente de tarde de lluvia en un parque urbano)
+
+[Verse 1]
+Bajo la sombra de un parque en la ciudad
+Dos almas perdidas buscando su verdad
+Él rastreaba un amor que se le escapó
+Ella buscaba al hombre que la abandonó.
+Junto al río que corre con gris lentitud
+Lloraron sus penas, su falta de luz
+"Nadie ha sufrido como sufro yo"
+Dijo el caballero y el río escuchó.
+
+[Verse 2]
+"Nunca una mujer se vio tan sola así"
+Dijo ella mirando al agua hacia el fin
+"Huyamos pronto de este mundo cruel
+Busquemos un sitio que sepa a miel."
+Buscando un refugio para descansar
+Solo hallaron barro y un matorral
+"¡Qué aburrimiento!", suspiró ella al fin
+Y se sentaron juntos en aquel jardín.
+
+[Chorus]
+Y se miraron, bajo el cielo de abril
+Ella tan bella, él tan varonil
+Un tierno abrazo para comenzar
+Y entre risas y llanto se dejan llevar.
+¡Qué buena compañía!
+Encontraron luz en la agonía.
+
+[Verse 3]
+"Si yo hubiera amado a un ángel como tú"
+"Si mi ex fuera fiel, con tu misma virtud"
+"Qué ciego estuve al no verte pasar"
+Ahora no tienen por qué caminar.
+Ella sonríe con un rastro de duda
+"La tarde está fría, la calle está muda
+Mejor esperamos que llegue el calor
+Para darnos paso a un nuevo amor."
+
+[Bridge]
+(Solo de piano eléctrico con toque de jazz)
+Dejemos las quejas para otra ocasión
+Si el verano regresa, habrá otra canción
+Mientras tanto el invierno nos puede abrigar
+Hay mucho tiempo para comenzar.
+
+[Chorus]
+Y se miraron, bajo el cielo de abril
+Ella tan bella, él tan varonil
+Un tierno abrazo para comenzar
+Y entre risas y llanto se dejan llevar.
+¡Qué buena compañía!
+Encontraron luz en la agonía.
+
+[Outro]
+Hasta que llegue el sol...
+Seguiremos juntos, corazón con corazón...
+No hay prisa por marchar...
+Si nos tenemos para caminar.
+(Fade out suave con acordes de guitarra)
+
+---
+
+## Esquema de rima
+
+## Checklist Anti-AI
+
+| # | Safeguard | Cumple |
+|---|-----------|--------|
+
+## Changelog de Autoría

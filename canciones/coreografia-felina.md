@@ -1,0 +1,133 @@
+# Coreografía felina
+
+## Metadatos
+
+### Notion DB
+
+- **Título de la canción:** Coreografía felina
+- **Género:** Indie, Folk, Pop
+- **Tipo:** Canción
+- **Año:** 2026
+- **Fecha de composición:** 2026-03-03
+- **Estado de publicación:** Sin procesar
+- **Generador:** SUNO
+- **Temas:** Alegría
+- **Distribuidor:** 
+- **ISRC:** 
+- **Álbum:** 
+- **Música:**
+
+### Producción musical
+
+- **BPM:**
+- **Compás:**
+- **Tonalidad:**
+- **Progresión:**
+- **Estructura:**
+
+## Armonía
+
+- **Progresión base:**
+- **Patrón rítmico:**
+- **Dinámica por sección:**
+- **Riff melódico:**
+
+### Acordes por sección
+
+| Sección | Acordes | Notas |
+|---------|---------|-------|
+
+## Descripción
+
+Canción cómica indie folk pop sobre el despertar con un gato que ejecuta una coreografía completa sobre la cara de su dueño a las 6 AM.
+
+## Style Prompt
+
+```
+indie electropop, techno-influenced, comedic, fast, 124 BPM, electronic drums, synth bass, ukulele accent, bright male vocals, no autotune, Spanish vocals
+```
+
+---
+
+## Letra
+
+[All lyrics in Spanish]
+[Mood: Playful]
+[Energy: High]
+[Instrument: Electronic Drums, Synth Bass, Ukulele]
+
+[Intro | electronic drums | synth bass | energetic | bright | fade in]
+
+[Verse | full mix | bright vocal | playful | medium energy | syncopated]
+Son las cinco con cuarenta y dos
+y un peso de cuatro kilos me ha aplastado la nariz
+no es una pesadilla, no es un terremoto, no
+es el Michi ensayando su número de music-hall aquí
+
+[Pre-Chorus | build | ukulele enters | riser]
+Tres pasos a la izquierda
+un giro sobre el ojo
+un salto en el mentón
+
+[Chorus | full mix | playful | high energy | stacked harmonies | handclaps]
+Mi gato tiene coreografía
+y actúa en mi mejilla sin permiso
+a las seis de la mañana en punto
+con un solo de zarpazo de improviso
+(improvisado, improvisado)
+mi gato es el artista
+y yo soy el escenario
+
+[Solo tap | electronic drums | high energy]
+
+[Verse 2 | full mix | higher energy | synth bass pumping]
+Abro un ojo, lo fulmino con la mirada
+él ronronea más fuerte, eso es lo único que pasa
+le digo "bájate" con voz de autoridad
+y él me pone la cola exactamente en la mitad
+
+[Pre-Chorus | build | ukulele | riser]
+Dos pasos sobre el pómulo
+un scratch en la barbilla
+y llama al bis final
+
+[Chorus | full mix | playful | high energy | stacked harmonies | handclaps]
+Mi gato tiene coreografía
+y actúa en mi mejilla sin permiso
+a las seis de la mañana en punto
+con un solo de zarpazo de improviso
+(improvisado, improvisado)
+[Interlude][Silence]
+mi gato es el artista
+y yo soy el escenario
+
+[Bridge | breakdown | electronic break | glitchy | spoken word]
+(spoken) Dicen los expertos que los gatos duermen dieciséis horas al día.
+(spoken) Lo que no dicen es que las otras ocho las dedican a coreografiar sobre tu cara.
+(spoken) Con una satisfacción artística... absolutamente inapelable.
+
+[Final Chorus | full mix | high energy | stacked harmonies | handclaps | key change]
+Mi gato tiene coreografía
+y actúa en mi mejilla sin permiso
+a las siete de la mañana en punto
+con un solo de zarpazo de improviso
+(improvisado, improvisado)
+[Interlude][Silence]
+mi gato es el artista...
+y yo soy... el escenario
+
+[Outro | stripped back | ukulele | fingerpicking]
+(softly) Michi, por favor...
+(very softly) son las seis...
+[Fade Out]
+
+---
+
+## Esquema de rima
+
+## Checklist Anti-AI
+
+| # | Safeguard | Cumple |
+|---|-----------|--------|
+
+## Changelog de Autoría

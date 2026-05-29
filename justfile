@@ -58,6 +58,14 @@ git-push msg:
 template title genre:
     {{node}} src/template.js "{{title}}" "{{genre}}"
 
+# Importa canciones desde Notion: just import-from-notion
+import-from-notion:
+    {{node}} src/import-from-notion.js
+
+# Sincroniza un archivo local a Notion: just notion-sync canciones/mi-cancion.md
+notion-sync path:
+    {{node}} src/notion-sync.js "{{path}}"
+
 # ─── Ayuda ─────────────────────────────────────────────────
 
 default:

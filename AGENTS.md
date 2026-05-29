@@ -20,11 +20,15 @@ Cuando el usuario solicite una canción:
 10. **Template obligatorio** — toda canción nueva debe seguir `specs/003-file-template.md`. Usar `just template "Título" "Género"` para generar el esqueleto.
 11. **Sincronización con Notion** — los campos de `### Notion DB` en el archivo deben coincidir exactamente con los valores enviados a la base de datos "Canciones de JPMarichal". El nombre del archivo en kebab-case debe coincidir con el título.
 12. **Guardar en `canciones/`** — toda canción se escribe como archivo `.md` en `canciones/`, sin mensajes adicionales en el chat. El archivo incluye metadatos (según spec 003), prompt de estilo Suno, letra completa con meta-tags, armonía, y checklist anti-AI verificado.
-12. **Ciclo Escribir → Escuchar → Ajustar** — ninguna canción se da por terminada sin ser escuchada. La primera escucha revela problemas invisibles en el papel (tono, edad percibida, conexión emocional). Iterar hasta que el autor quede satisfecho.
+13. **Ciclo Escribir → Escuchar → Ajustar** — ninguna canción se da por terminada sin ser escuchada. La primera escucha revela problemas invisibles en el papel (tono, edad percibida, conexión emocional). Iterar hasta que el autor quede satisfecho.
 13. **Variación de Coros** — los coros idénticos empobrecen. Cada coro debe tener al menos una variación semántica (progresión en L1, L3 o L4) para que el agua/tesis evolucione a lo largo de la canción.
 14. **Suspenso por Capas** — la verdad de la canción se revela gradualmente (V1 descriptivo → Chorus tesis → V2 conflicto → Bridge revelación → Outro resolución). El oyente debe poder descubrir algo nuevo en cada escucha.
 15. **Style Prompt limitado a 1000 chars** — priorizar armonía > instrumentación > emoción. Incluir acordes, estructura y referencia sonora ("like X at their most Y"). Copiar metadatos completos al campo de estilo de Suno mejora la generación.
 16. **Changelog de Autoría** — cada canción incluye un changelog que registra todas las decisiones del autor humano vs. sugerencias del asistente. Esto protege la autoría en caso de controversia legal.
+
+## Herramientas del sistema
+
+- Usar **ripgrep (`rg`)** en lugar de `grep` para búsquedas en contenido local — es más rápido y soporta regex completo.
 
 ## Comandos útiles
 
@@ -33,3 +37,7 @@ Cuando el usuario solicite una canción:
 - `just query-fast "pregunta"` — consulta rápida con llama3.2:3b
 - `just query-pro "pregunta"` — consulta profunda con gemma4
 - `just reset` — limpiar índice vectorial
+- `just import-from-notion` — importar canciones desde Notion al directorio local
+- `just template "Título" "Género"` — generar esqueleto de canción
+- `just notion-sync "canciones/canción.md"` — sincronizar archivo local → Notion
+- `just reset` + `just ingest` — reindexar vector store tras cambios

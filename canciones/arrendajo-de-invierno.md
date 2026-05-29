@@ -1,0 +1,65 @@
+# Arrendajo de Invierno
+
+## Metadatos
+
+### Notion DB
+
+- **Título de la canción:** Arrendajo de Invierno
+- **Género:** Folk, Pop
+- **Tipo:** Canción
+- **Año:** 2026
+- **Fecha de composición:** 2026-02-21
+- **Estado de publicación:** Distribuida en plataformas
+- **Generador:** SUNO
+- **Temas:** Amor, Alegría, Naturaleza
+- **Distribuidor:** OffStep
+- **ISRC:** US7VG2664409
+- **Álbum:** 
+- **Música:**
+
+### Producción musical
+
+- **BPM:**
+- **Compás:**
+- **Tonalidad:**
+- **Progresión:**
+- **Estructura:**
+
+## Armonía
+
+- **Progresión base:**
+- **Patrón rítmico:**
+- **Dinámica por sección:**
+- **Riff melódico:**
+
+### Acordes por sección
+
+| Sección | Acordes | Notas |
+|---------|---------|-------|
+
+## Descripción
+
+¿Qué tan alto puede llegar el gozo? La canción que da nombre al álbum no responde: pregunta. Un lago helado, dos personas bebiendo el vino del viento, el éxtasis de estar vivos y, de pronto, en la rama negra de un arce nevado, un arrendajo azul —valiente y leal— que parece decir que el amor también puede ser así. Orquestal, jubilosa e imposible de escuchar sin sonreír.
+
+## Style Prompt
+
+```
+Contemporary Folk Pop, Indian and African Rhythms Wind and Drums, Piano Ballad, Atmospheric, Ethereal, Romantic, Storytelling, Male and Female Combined and Intertwined Vocals, Melodic, Sentimental, Tender, Joyfully Explosive, Rhythmic, Soft Percussion, Acoustic Guitar, Orchestral Swells, Dreamy, Intimate, 78 BPM
+```
+
+---
+
+## Letra
+
+[Song Title: El Arrendajo de Invierno]n[Genre: Orchestral Indie Folk / Chamber Pop]n[Tempo: Mid-tempo, 78 BPM]n[Mood: Uplifting, Romantic, Wintery, Bright]nn[Intro]n(Acoustic guitar arpeggios fading in)n(Soft piano melody joins)n(Cello enters with a warm, deep tone)n(Atmospheric sound: Subtle wind chime texture)n[Instrumental Build-Up]nn[Verse 1]nLa nieve brillante susurra al pisarncrujiendo sus cristales, un ritmo al andar.nDetrás de nosotros, siguiendo el sendero,nlas sombras danzaban con paso ligero.nFiguras fantásticas, de un azul vivaz,ndibujan historias de un tiempo fugaz.nn[Verse 2]nCruzando el lago, los patinadoresnvolaban y daban sus giros mejores.nCon giros agudos, tejiendo en el hielonuna red invisible bajo el frío cielo.nEl aire es agudo, la tarde es plateada,ny el mundo respira con calma sagrada.nn[Pre-Chorus]n(Strings swell gently)nTodo es movimiento, todo es claridadnen este paisaje de gran majestad.nn[Chorus]nEn éxtasis la tierra bebió la luz del sol,nplata derramada, brillante arrebol.nEn éxtasis bebieron, con velocidad,nel vino del viento, la libertad.nY en éxtasis reímos, tú y yo a la par,nbebiendo el vino dulce de amar.nn[Instrumental Interlude]n(Violin solo - emotional and sweeping)n(Piano accompaniment intensifies)n(Drums enter - soft brushes, steady rhythm)nn[Bridge]n(Tempo slows slightly, intimate vocal)n¿Acaso la música de nuestra alegríantocó ya su nota más alta este día?n¿Es este el limite del gozo mortal?n¿El punto más alto de nuestro final?nn[Verse 3]n(Music stops briefly, then returns with bright acoustic strumming)n¡Pero no! De repente, alzaste la frente,ndijiste: "¡Oh, mira!", con voz impaciente.nAllí, en la rama negra del arce nevado,nvaliente y alegre, un ser alado.nComo nuestro amor, sin miedo y leal,n¡un arrendajo azul, con su cresta real!nn[Guitar Solo]n(Bright, folk-style fingerpicking)n(Orchestral backing builds to a crescendo)nn[Chorus]nEn éxtasis la tierra bebió la luz del sol,nplata derramada, brillante arrebol.nEn éxtasis bebieron, con velocidad,nel vino del viento, la libertad.nY en éxtasis reímos, tú y yo a la par,nbebiendo el vino dulce de amar.nn[Refrain]n(Vocal harmonies)nUn arrendajo azul (símbolo de amor).nEn la rama negra (brilla su color).nSin miedo y alegre (como tú y yo).nn[Outro]n(Music slows down, stripping back layers, whispering)n¿Quién puede decir el rango del gozo?n¿Quién pone los límites a lo hermoso?n¿Quién marca el final de la belleza?n(Piano plays the melody one last time)n(Fade to silence)n[End]
+
+---
+
+## Esquema de rima
+
+## Checklist Anti-AI
+
+| # | Safeguard | Cumple |
+|---|-----------|--------|
+
+## Changelog de Autoría

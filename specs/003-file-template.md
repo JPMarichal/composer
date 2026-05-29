@@ -18,11 +18,13 @@ Formato estandarizado para archivos `.md` de canciones en `canciones/`, alineado
 - **Tipo:** Canción | Instrumental
 - **Año:** <aaaa>
 - **Fecha de composición:** <aaaa-mm-dd>
+- **Fecha de lanzamiento:** <aaaa-mm-dd | vacío>
 - **Estado de publicación:** Sin procesar | Generada en SUNO | Pendiente de publicación | Distribuida en plataformas
 - **Generador:** SUNO | Claude + SUNO | Manual (sin IA)
 - **Temas:** <comma-separated>
 - **Distribuidor:** OffStep | SoundOn | <vacío>
 - **ISRC:** <vacío>
+- **UPC:** <vacío | código de 12 dígitos>
 - **Álbum:** <vacío | nombre del álbum>
 - **Música:** <vacío | ruta al archivo>
 

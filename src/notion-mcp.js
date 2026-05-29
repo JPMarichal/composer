@@ -87,6 +87,30 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
         required: ["block_id", "children"],
       },
     },
+    {
+      name: "update_page",
+      description: "Actualiza las propiedades de una página en Notion",
+      inputSchema: {
+        type: "object",
+        properties: {
+          page_id: { type: "string", description: "ID de la página" },
+          properties: { type: "object", description: "Propiedades a actualizar" },
+        },
+        required: ["page_id", "properties"],
+      },
+    },
+    {
+      name: "update_database",
+      description: "Añade propiedades a una base de datos de Notion",
+      inputSchema: {
+        type: "object",
+        properties: {
+          database_id: { type: "string", description: "ID de la base de datos (data_source_id)" },
+          properties: { type: "object", description: "Propiedades a añadir, ej: {\"Campo\": { \"rich_text\": {} }" },
+        },
+        required: ["database_id", "properties"],
+      },
+    },
   ],
 }));
 
@@ -151,6 +175,20 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
         children: args.children,
       });
       return { content: [{ type: "text", text: JSON.stringify(resp, null, 2) }] };
+    }
+    case "update_page": {
+      const resp = await notion.pages.update({
+        page_id: args.page_id,
+        properties: args.properties,
+      });
+      return { content: [{ type: "text", text: JSON.stringify(resp, null, 2) }] };
+    }
+    case "update_database": {
+      const resp = await notion.dataSources.update({
+        data_source_id: args.database_id,
+        properties: args.properties,
+      });
+      return { content: [{ type: "text", text: `Propiedades añadidas. Total: ${Object.keys(resp.properties).length}` }] };
     }
     default:
       throw new Error(`Unknown tool: ${name}`);

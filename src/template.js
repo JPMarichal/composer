@@ -21,11 +21,13 @@ const content = `# ${title}
 - **Tipo:** Canción
 - **Año:**
 - **Fecha de composición:**
+- **Fecha de lanzamiento:**
 - **Estado de publicación:** Sin procesar
 - **Generador:**
 - **Temas:**
 - **Distribuidor:**
 - **ISRC:**
+- **UPC:**
 - **Álbum:**
 - **Música:**
 
