@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+Benedetti escribió este poema como un manual de guerra aplicado al amor. La táctica es cómo: mirarte, aprenderte, quedarme en tu recuerdo. La estrategia es por qué: que termines necesitándome. Cada línea corta cae como un golpe de tambor — igual, constante, sin aceleración ni duda — porque esta fragmentación es el ritmo de una marcha. Spoken word sobre un beat implacable, porque el amor también se gana con estrategia, y la estrategia es cuestión de tiempo y de paciencia. «Mi táctica es hablarte y escucharte, mi estrategia es en cambio más profunda y más simple».
 
 ```
 

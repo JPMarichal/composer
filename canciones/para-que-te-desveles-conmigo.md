@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+No durmió en toda la noche. Su imagen lo atormentaba desde la pared, no le daba tregua, no le cerraba los ojos. Así que al amanecer se plantó al pie de su ventana — como un perro que aúlla porque no sabe decir las cosas de otra forma — para que ella también se desvele con él y escuche lo que no pudo decirle de día. Una serenata de insomne con silbido en el interludio, que confiesa entre verso y verso: «Estoy atado a un sentimiento por ti». No hay declaración más honesta que la de alguien que ha roto el sueño por amor.
 
 ```
 

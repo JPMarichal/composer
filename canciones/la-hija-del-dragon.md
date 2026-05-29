@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+La conoció un viernes por la noche. Brillaba la luna a su alrededor y él pensó que era un ángel traído para amarle. Pero ella era la hija de un dragón: fuego puro que quema resistencias, incandescencia que abrasa, pero con el corazón congelado. Mientras él se consumía en su llama, ella se volvía desierto. Una dark pop ballad con flautas fantasmales, violines mínimos y susurros — el testimonio de alguien que ardió por amor a una mujer que no podía sentir calor. «¿Dónde está que no puedo sin su fuego subsistir?».
 
 ```
 The 4:30 minutes cinematic dark pop ballad begins with rubato, minor-key piano joined by reverberant, ethereal flute, Breathy Spanish tenor vocals with heavy reverb and surreal whispered male interjections float above, all mandatory, Sparse violins fill silences, while sudden electronic drops and aggressive bass ignite tension, Lush, minimal textures and violin-piano interplay sustain a haunting, otherworldly ambience throughout, Celtic influence, Somewhat epic, somewhat stacatto, Whispers, including the initial, first verse, "Tierra", are all male, mandatory and equal in tune, with no interpretation, They are the semantic column of the song

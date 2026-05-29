@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+El niobio no se usa solo: se alea con otros metales para hacerlos más fuertes sin añadir peso. Es el elemento que está detrás, el que refuerza sin robar protagonismo. Esta pieza instrumental es así también: no busca ser el centro, sino la estructura que sostiene todo lo demás desde las sombras. Una electrónica que se mantiene en la base, firme, indispensable, que hace que el resto suene más sólido sin que se note su presencia. Como el niobio en el acero de un puente: nadie lo nombra, pero sin él todo se vendría abajo.
 
 ```
 

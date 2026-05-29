@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+Si pudiera volar por el aire, cruzar los valles y entregarte esta letra. Si pudiera alzarme del suelo, llevarte una rosa en las manos y un pedazo de cielo. La canción es un suspiro nada más: el deseo imposible de romper la gravedad por amor, de llegar hasta quien amas sin necesidad de caminos. No hay historia, no hay desarrollo — solo la imagen más pura de alguien que volaría por ti si pudiera. A veces una canción no necesita más que un deseo y una imagen para quedarse para siempre en la memoria de quien la escucha.
 
 ```
 

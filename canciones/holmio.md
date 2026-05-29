@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+El holmio posee el campo magnético más intenso de todos los elementos. Esta pieza instrumental explora esa fuerza invisible que lo sostiene todo sin que se vea el cable: la electrónica como un imán que atrae y repele, que mantiene cada nota en su sitio con una potencia que no se percibe a simple vista. Un sonido que sientes cómo te desvía, cómo curva el espacio a su alrededor sin tocarte, como el campo magnético de un planeta que pasa demasiado cerca.
 
 ```
 

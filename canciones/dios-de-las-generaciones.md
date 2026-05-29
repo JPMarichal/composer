@@ -40,7 +40,7 @@
 
 ## Descripción
 
-
+Jehová convino con Abraham toda la tierra de Canaán. Esta canción de adoración recorre las generaciones bíblicas como una letanía — Dios de Abraham, de Isaac y de Jacob — recordando que el pacto no se rompe aunque pasen los siglos. Cada repetición es un escalón que sube, una generación que se suma al coro de los que creyeron antes. No hay estribillo ni puente: solo la certeza de que el mismo Dios que llamó a un nómada en Ur sigue llamando hoy.
 
 ## Style Prompt
 

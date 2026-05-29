@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+Llega siempre antes que la luz del sol, con el humor tan negro como el control remoto de la oficina vacía. Es el soldado de la producción, el que promete plazos imposibles y los firma sin pestañear, el que sube peldaños sin mirar lo que deja atrás. Pero después de cada ascenso descubre que perdió otro amigo, otro instante, otro pedazo de sí mismo. La canción es la confesión de un adicto al trabajo que empieza a preguntarse lo que nadie en la oficina quiere oír: si el puesto soñado nunca aparece, ¿quién va a curar las horas que dejé? «Quizás el progreso era soltar el control».
 
 ```
 Intense Spanish-language alt-pop with punchy, piano-led chord progressions and dynamic tension. Bright upright and slightly detuned tack piano drive the harmonic shifts, cycling through restless key changes and modal colors. Snappy kick and clapped backbeats push a forward, urgent groove, glued with gritty synth bass and chopped, percussive vocal textures. The production stays tight, rebellious, and high-energy, with confessional topline melodies that ride abrupt drops in the verses and explosive, anthemic choruses, all locked tightly to the underlying chord progressions.

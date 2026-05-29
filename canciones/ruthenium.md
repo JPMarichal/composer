@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+El rutenio es duro y quebradizo: conduce la electricidad sin perder eficiencia, pero si lo doblas demasiado se rompe. Esta pieza instrumental explora esa tensión entre la dureza y la fragilidad — una electrónica que transmite corriente sin resistencia pero no se flexiona, que prefiere partirse antes que torcerse. Como el rutenio en los contactos eléctricos de un satélite: está ahí, conduciendo, imparable, pero un movimiento en falso y todo se apaga para siempre.
 
 ```
 

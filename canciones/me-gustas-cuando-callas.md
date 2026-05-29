@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+Neruda escribió cinco estrofas que abren con el mismo verso: «Me gustas cuando callas porque estás como ausente». Es un poema sobre la distancia, sobre amar a alguien que no está del todo ahí, sobre la contemplación de un cuerpo dormido o lejano que se vuelve más hermoso exactamente porque no habla. La musicalización — guitarra acústica en fingerpicking que crece desde la intimidad más frágil hasta un clímax de cuerdas orquestales — respeta cada palabra del poeta y construye un arco que va del silencio al alivio gozoso del final, cuando el poeta descubre que la ausencia también es una forma de presencia.
 
 ```
 

@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+Construyeron una historia de amor donde no cabía la mentira, donde nunca creyeron que pudiera terminar. Pero él confundió la perfección con una cárcel y escapó. Ahora ella está casada con otro, y él solo puede verla desde lejos — más hermosa que nunca — preguntándose si merece vivir con ese remordimiento que no le deja dormir. «Campanas al viento tañendo en mi alma porque un sentimiento no quiere morir». Una balada que entiende, demasiado tarde, que todo está triste sin ella.
 
 ```
 ‑female voices, ‑harmonies

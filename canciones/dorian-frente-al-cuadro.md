@@ -40,7 +40,7 @@
 
 ## Descripción
 
-
+Basada en El retrato de Dorian Gray de Oscar Wilde. Dorian compró el mito de un cuerpo eterno, congelado en la perfección de un retrato recién firmado. Pero cada deseo dejó una mancha en el lienzo, cada abandono un trazo imborrable, cada capricho una deformación. Mientras el rostro pintado envejece con los pecados, el rostro real sigue sonriendo en los salones — hasta que la belleza exterior ya no puede ocultar el vacío interior. «Ser bello fuera, y dentro, NADA». La canción es un espejo que no miente.
 
 ## Style Prompt
 

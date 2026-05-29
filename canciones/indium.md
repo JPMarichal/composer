@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+El indio es el metal invisible que hace funcionar las pantallas táctiles: está en cada toque que das, pero nunca lo ves. Esta pieza instrumental explora lo que ocurre debajo de la superficie, la capa transparente que registra todo sin que nadie la note. Una electrónica que sucede en los bordes de la percepción, tan presente como imperceptible — como el indio en cada pantalla que tus dedos recorren sin saber que están tocando un metal que conduce electricidad y deseo.
 
 ```
 

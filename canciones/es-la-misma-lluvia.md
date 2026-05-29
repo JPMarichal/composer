@@ -51,6 +51,10 @@
 | C3 | Am — F — C — G (×2) | Último chorus, la voz más intensa |
 | Outro | Am — F — C — G (×1) | Guitarra sola, rit. al final |
 
+## Descripción
+
+Cae la misma agua sobre el campo y sobre la ciudad, pero no cumple el mismo destino. En el campo, la lluvia huele a tomillo, llena el pozo, empapa la higuera, la tierra la espera y la siembra la anhela. En la ciudad, la misma agua se pierde entre aceras y coches, escurre sin propósito, se queda dormida sobre el cemento. La canción es la confesión de alguien que se mudó del pueblo a la ciudad y descubrió que, aunque el paisaje cambió, adentro sigue llevando el campo. «Siempre está lloviendo por dentro y por fuera — porque he descubierto que aún sobre el cemento llevo agua de lluvia, llevo el campo adentro».
+
 ## Tesis
 
 La lluvia es la metáfora de la nostalgia por el hogar perdido: la misma agua que en el campo empapa la tierra que la espera, en la ciudad se queda dormida, equivoca su rumbo y no encuentra su sitio — igual que yo, que ya no entiendo ni lo que me pasa, hasta que descubro que el campo lo llevo dentro.

@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+El cobalto tiñe de azul los vitrales de las catedrales desde hace siglos, y hoy da vida a las baterías que mueven el mundo. Esta pieza instrumental une ambos extremos: lo sagrado que dura milenios — la luz filtrándose a través de un vidrio coloreado — y lo tecnológico que se agota y recarga cada noche. Una electrónica que parpadea en azul profundo, que suena a vidrio derretido por el fuego y a corriente que corre sin hacer ruido, a la vez antiguo y futurista.
 
 ```
 

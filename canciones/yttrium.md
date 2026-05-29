@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+El itrio es el patriarca de las tierras raras: el primero descubierto, el que da nombre a todo un grupo de elementos. Sin él no habría LEDs rojos, ni láseres, ni superconductores de alta temperatura. Esta pieza instrumental es el sonido del origen — la electrónica que contiene en sí misma la semilla de todo lo que vendrá después. Como el itrio en el pueblo de Ytterby: un solo mineral del que brotó toda una familia de elementos que hoy iluminan el mundo, una nota que contiene dentro todos los acordes que están por escribirse.
 
 ```
 

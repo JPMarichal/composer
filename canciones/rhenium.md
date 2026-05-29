@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+El renio tiene uno de los puntos de fusión más altos del universo: solo el tungsteno y el carbono aguantan más calor. Se usa en los motores de los aviones porque no se ablanda ni cuando todo lo demás se derrite a su alrededor. Esta pieza instrumental suena a resistencia pura — una electrónica que soporta temperaturas extremas sin deformarse, que mantiene su estructura en medio del fuego. Música hecha para durar en las condiciones más hostiles, para seguir vibrando cuando el resto ya se fundió.
 
 ```
 

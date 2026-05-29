@@ -40,7 +40,7 @@
 
 ## Descripción
 
-
+¿Qué pasa si te digo que moriré mañana? La canción abre con una pregunta imposible y desde ahí construye una letanía de confesiones: que ha visto el mundo pasar por su ventana, que está cansado del noticiero, que su cauce está seco de tanto retozar, que navega entre el polvo y la guerra. Cada verso es una grieta por donde se cuela el desencanto. Pero en el estribillo, todas las preguntas encuentran una sola respuesta: el rostro de la esposa al volver a casa, su sonrisa de niña, su regazo donde descansar. Como un colibrí que por fin encuentra su jardín.
 
 ## Style Prompt
 

@@ -40,7 +40,7 @@
 
 ## Descripción
 
-
+Empieza con pasos. Alguien camina detrás de ti desde que empezó la canción. Doblas una esquina y ya no están, pero juras que los oíste. La luz del bar tiembla, las risas suenan secas, cada pared tiene sed de tu silencio. En un soul/R&B que alterna el tenso fraseo staccato de los versos con estribillos explosivos y melismáticos, la canción traza un descenso completo a la paranoia: no hay un solo momento de tregua, ni siquiera cuando cierras los ojos. Porque el delirio no se va — también respira. También vive en ti.
 
 ## Style Prompt
 

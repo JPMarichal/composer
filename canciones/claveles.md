@@ -40,7 +40,7 @@
 
 ## Descripción
 
-
+Hay casas donde los claveles no son decoración: son archivos vivientes de cada amor que pasó. Ella tiene la casa llena — cada flor guarda la memoria de un romance, cada pétalo es una caricia que se niega a marchitarse. En un vals de 3/4 que empieza con una guitarra rasgueada y se va llenando de palmas y armonías, la canción celebra a la mujer que teje la eternidad con flores, que es más tormentosa que el tifón y más domadora que Cibeles. Una declaración de amor que entiende que lo eterno cabe en un instante.
 
 ## Style Prompt
 

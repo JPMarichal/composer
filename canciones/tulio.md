@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+El tulio es el más escaso de los lantánidos: tan raro que su precio es prohibitivo para casi todo. Pero emite rayos X cuando se irradia, permitiendo hacer radiografías portátiles donde no hay hospital. Esta pieza instrumental explora esa rareza que se vuelve indispensable — una electrónica difícil de encontrar pero que, cuando aparece, lo cambia todo. Como el tulio en una máquina de rayos X en medio del desierto: solo existe porque hace falta, y hace falta porque salva vidas.
 
 ```
 

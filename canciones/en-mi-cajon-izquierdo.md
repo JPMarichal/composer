@@ -40,7 +40,7 @@
 
 ## Descripción
 
-
+Hay un cajón que nunca se abre. Allí guarda la última foto que se tomaron, los poemas que ella comentó, las cartas perfumadas que cruzaron fronteras. Cada objeto es una reliquia de un amor que el tiempo no pudo borrar: mil besos blancos, mil travesuras simples, mil encantos. Pero un día, harto del polvo acumulado, saca el corazón para limpiarlo y termina rompiéndolo en llanto. La canción es el sonido de un cajón que se cierra — el acto final de alguien que, por fin, se permite abrirlo para despedirse.
 
 ## Style Prompt
 

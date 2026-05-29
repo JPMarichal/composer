@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+El escandio es el metal que Mendeleev predijo antes de que nadie lo encontrara: existía en las ecuaciones antes de existir en la Tierra. Hoy se usa en aviones y bates de béisbol — hace aleaciones más ligeras sin perder resistencia. Esta pieza instrumental suena a esa anticipación: una electrónica que parece esperar algo que aún no ha llegado, que vibra en la frecuencia de lo que está por descubrirse. Música hecha de pura predicción, como un elemento que existió en la mente de un hombre antes de existir en la roca.
 
 ```
 

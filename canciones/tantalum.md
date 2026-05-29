@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+El tantalio es el metal que el cuerpo humano no rechaza: se usa en implantes quirúrgicos porque el organismo lo acepta como propio. También almacena carga en los condensadores más pequeños del mundo. Esta pieza instrumental captura esa paradoja — una electrónica que el cuerpo no expulsa pero que lleva corriente, que se integra al tejido vivo mientras conduce electricidad. Música que entra sin ser rechazada, que se vuelve parte de lo que toca, que almacena energía en el límite exacto entre lo orgánico y lo sintético.
 
 ```
 

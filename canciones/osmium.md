@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+El osmio es el elemento más denso que existe: una esfera de osmio del tamaño de una manzana pesaría más de seis kilos. Su brillo azul-blancuzco parece contener una luz mineral, fría, anterior a cualquier sol. Esta pieza instrumental captura esa densidad imposible — una electrónica que pesa más de lo que debería, que se hunde en el oído como un lingote en agua, que brilla con la luz de algo que estuvo en el centro de la Tierra antes de que la Tierra existiera. Música que no flota: que se hunde hasta el fondo y desde allí reverbera.
 
 ```
 

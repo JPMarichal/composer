@@ -40,7 +40,7 @@
 
 ## Descripción
 
-
+Has visto alguna vez un rayo de luz que cruza el cielo nocturno y te preguntaste si tuvo madre, si nació de algo que ya no existe? Este rayo vagó mil años por el cosmos sin recordar su origen, latiendo con la energía de una estrella que murió antes de que él naciera. La canción se pregunta si es posible seguir brillando cuando has olvidado de dónde vienes — una metáfora celestial sobre la memoria, la identidad y esa luz interior que llevamos sin saber a quién perteneció antes.
 
 ## Style Prompt
 

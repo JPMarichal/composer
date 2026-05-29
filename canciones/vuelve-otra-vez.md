@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+Hoy nos sentamos al fuego para poder conversar. Después de tanto orgullo, después de tanto silencio, él abre la boca para decir lo que siempre supo: que vivir vacío es imposible cuando ella se ha hecho un espacio en su corazón. «Gloria, vuelve otra vez — que es tan difícil vivir vacío». La canción avanza del miedo a la confesión, del orgullo a la vulnerabilidad, hasta terminar en la certeza de que el tiempo habló por los dos y que ahora es tiempo de amar. Una balada junto al fuego que quema el orgullo y deja solo lo verdadero.
 
 ```
 The track opens with  light piano chords, laying a melodic base, Tenor male vocals lead smoothly through the verses, supported by subtle harmonies, The chorus lifts with layered guitars, fuller piano voicings

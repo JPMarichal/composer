@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+Volteó y se estremeció de cara al mar. La fuerza naval lo llama al redoble del tambor y debe partir, pero antes de irse necesita que ella sepa una cosa: que luchará como si fueran mil, como si fuera un dragón, por ella. Que cada batalla la peleará como si de ella dependiera su vida — y en cierto modo es así. La canción narra la despedida de un soldado que no sabe si regresará, pero que promete volver surcando el mar. «No me despido, mi bien — me llevas conmigo».
 
 ```
 

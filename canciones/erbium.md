@@ -40,7 +40,7 @@
 
 ## Descripción
 
-
+El erbio es el elemento que hace posible la fibra óptica: sin él, la luz no podría viajar kilómetros bajo el océano. Esta pieza instrumental toma prestada esa propiedad para explorar cómo el sonido puede atravesar distancias inmensas sin perderse. Una electrónica hipnótica que viaja como un pulso láser desde un extremo del silencio hasta el otro, reflejándose en los bordes del oído. No hay palabras porque hay distancias que solo se recorren con la vibración.
 
 ## Style Prompt
 

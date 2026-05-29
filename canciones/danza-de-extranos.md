@@ -40,7 +40,7 @@
 
 ## Descripción
 
-
+Dos personas en una pista de baile que no se conocen. Al principio hay distancia, desconfianza, cada quien en su propio compás. Pero algo empieza a pasar: los cuerpos comienzan a sincronizarse sin que las mentes intervengan. Un pie que se adelanta cuando el otro retrocede, una cadera que cede, una mano que encuentra su lugar en el aire. Este instrumental electrónico captura ese momento incómodo y bellísimo en que dos extraños aprenden a moverse como si siempre hubieran bailado juntos. No hay letra porque el lenguaje sobra cuando el cuerpo habla.
 
 ## Style Prompt
 

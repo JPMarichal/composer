@@ -40,7 +40,7 @@
 
 ## Descripción
 
-
+Antonio Machado escribió cuatro estrofas que abren con el mismo verso — «Anoche cuando dormía, soñé, ¡bendita ilusión!» — y cada una revela una dimensión distinta del soñar: la fe, el amor, el agua que da vida, el calor del corazón. Musicalizar un poema sin alterar una sola palabra es un acto de artesanía casi monástica. La canción respeta cada sílaba del poeta y construye un arco dramático alrededor de la repetición, transformando el mantra en un viaje que despierta a otra realidad.
 
 ## Style Prompt
 

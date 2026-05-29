@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+El galio es un metal que se derrite con el calor de la mano: sólido pero a punto de licuarse, firme pero a un grado de la fuga. Esta pieza instrumental captura esa fragilidad — la electrónica que parece estable pero tiembla, que mantiene la forma por inercia mientras por dentro ya está cambiando de estado. Como el galio, la canción no decide si quiere ser sólida o líquida, y en esa indecisión encuentra su forma más verdadera.
 
 ```
 

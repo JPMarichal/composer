@@ -40,9 +40,7 @@
 
 ## Descripción
 
-
-
-## Style Prompt
+El samario es la tierra rara de los imanes que resisten el calor: cuando los demás imanes pierden su fuerza por la temperatura, el samario sigue imantado. Esta pieza instrumental es así: una electrónica que mantiene su campo magnético incluso cuando todo parece desmoronarse, que retiene su atracción en medio del fuego. Incansable, constante, magnética hasta el final — como el samario en el motor de un coche eléctrico que sigue girando cuando el termómetro ya no tiene números.
 
 ```
 

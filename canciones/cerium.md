@@ -40,7 +40,7 @@
 
 ## Descripción
 
-
+El cerio es el elemento químico que alimenta las luces de carbón — esas que iluminaron las calles antes de que existiera la electricidad. Esta pieza instrumental toma su nombre prestado para preguntarse qué significa crear luz artificial en la oscuridad. Sin una sola palabra, la electrónica cuenta lo que el lenguaje no puede: la fragilidad de la llama que elegimos encender, el rumor de una ciudad que no duerme, la belleza de una luz que sabe que se va a apagar.
 
 ## Style Prompt
 
