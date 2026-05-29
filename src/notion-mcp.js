@@ -59,7 +59,8 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
       inputSchema: {
         type: "object",
         properties: {
-          database_id: { type: "string" },
+          database_id: { type: "string", description: "ID de la base de datos (database_id o data_source_id)" },
+          parent_type: { type: "string", enum: ["database_id", "data_source_id"], description: "Tipo de parent (default: database_id)" },
           properties: { type: "object", description: "Propiedades de la página" },
           children: {
             type: "array",
@@ -94,7 +95,7 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
 
   switch (name) {
     case "list_databases": {
-      const resp = await notion.search({ filter: { value: "database", property: "object" } });
+      const resp = await notion.search({ filter: { value: "data_source", property: "object" } });
       return {
         content: resp.results.map((db) => ({
           type: "text",
@@ -103,7 +104,7 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
       };
     }
     case "query_database": {
-      const resp = await notion.databases.query({ database_id: args.database_id });
+      const resp = await notion.dataSources.query({ data_source_id: args.database_id });
       return {
         content: resp.results.map((page) => ({
           type: "text",
@@ -133,8 +134,12 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
       };
     }
     case "create_page": {
+      const parentType = args.parent_type || "database_id";
+      const parent = parentType === "data_source_id"
+        ? { data_source_id: args.database_id, type: "data_source_id" }
+        : { database_id: args.database_id, type: "database_id" };
       const resp = await notion.pages.create({
-        parent: { database_id: args.database_id, type: "database_id" },
+        parent,
         properties: args.properties,
         children: args.children,
       });

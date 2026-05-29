@@ -1,9 +1,24 @@
-# La misma Lluvia
+# Es la misma lluvia
 
 ## Metadatos
 
-- **Título:** Donde Cae la Lluvia
-- **Género:** Canción de autor / indie folk
+### Notion DB
+
+- **Título de la canción:** Es la misma lluvia
+- **Género:** Indie Folk
+- **Tipo:** Canción
+- **Año:** 2026
+- **Fecha de composición:** 2026-05-28
+- **Estado de publicación:** Generada en SUNO
+- **Generador:** Claude + SUNO
+- **Temas:** Nostalgia, Reflexión
+- **Distribuidor:**
+- **ISRC:**
+- **Álbum:**
+- **Música:**
+
+### Producción musical
+
 - **BPM:** 72
 - **Compás:** 6/8
 - **Tonalidad:** Am

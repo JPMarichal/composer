@@ -52,6 +52,12 @@ reset:
 git-push msg:
     git add -A; if ($?) { git status }; if ($?) { git commit -m "{{msg}}" }; if ($?) { git push }
 
+# ─── Template ──────────────────────────────────────────────
+
+# Genera un template de canción: just template "Mi canción" "Indie Folk"
+template title genre:
+    {{node}} src/template.js "{{title}}" "{{genre}}"
+
 # ─── Ayuda ─────────────────────────────────────────────────
 
 default:

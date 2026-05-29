@@ -2,9 +2,8 @@
   "$schema": "https://opencode.ai/config.json",
   "mcp": {
     "notion": {
-      "type": "env",
-      "command": "node",
-      "args": ["src/notion-mcp.js"]
+      "type": "local",
+      "command": ["node", "src/notion-mcp.js"]
     }
   }
 }
