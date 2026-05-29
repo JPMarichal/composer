@@ -137,6 +137,8 @@ Quizás el progreso era soltar el control
 
 ## Esquema de rima
 
+Estrofas: pareados consonante (AABB). Estrofas: alternada asonante (ABAB). Pre-coro: pareados consonante (AABB). Coro: pareados asonante (AABB). Estrofas: pareados consonante (AABB). Estrofas: pareados consonante (AABB). Puente: pareados asonante (AABB). Outro: pareados asonante (AABB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

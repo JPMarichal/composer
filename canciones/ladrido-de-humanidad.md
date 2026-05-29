@@ -110,6 +110,8 @@ Aquí podemos descansar.
 
 ## Esquema de rima
 
+Estrofas: alternada consonante (ABAB). Coro: alternada consonante (ABAB). Estrofas: alternada consonante (ABAB). Puente: pareados asonante (AABB). Outro: alternada consonante (ABAB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

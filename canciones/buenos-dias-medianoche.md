@@ -115,6 +115,8 @@ Acógeme, medianoche, acógeme...
 
 ## Esquema de rima
 
+Estrofas: alternada consonante (ABAB). Pre-coro: rima asonante parcial (-o). Coro: alternada consonante (ABAB). Estrofas: alternada consonante (ABAB). Puente: alternada consonante (ABAB). Outro: verso libre.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

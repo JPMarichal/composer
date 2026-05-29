@@ -70,6 +70,8 @@ Esta letra entregar!
 
 ## Esquema de rima
 
+Canción: rima asonante parcial (-o, -a, -eo).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

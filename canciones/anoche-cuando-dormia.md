@@ -61,6 +61,8 @@ Si SUNO corta antes del Final Chorus, usa Continue from this moment con:
 
 ## Esquema de rima
 
+Poema de Antonio Machado: romance octosilábico (ABCB asonante en versos pares).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

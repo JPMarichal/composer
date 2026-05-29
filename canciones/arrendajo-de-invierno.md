@@ -58,6 +58,8 @@ Contemporary Folk Pop, Indian and African Rhythms Wind and Drums, Piano Ballad, 
 
 ## Esquema de rima
 
+Pareados consonante (AABB) en toda la canción. Estribillo con rima en -ol, -ad, -ar. Puente con rima en -ía, -al.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

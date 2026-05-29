@@ -58,6 +58,8 @@ El erbio es el elemento que hace posible la fibra óptica: sin él, la luz no po
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

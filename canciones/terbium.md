@@ -56,6 +56,8 @@ El terbio es el elemento que pone el verde en las pantallas: sin él, los televi
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

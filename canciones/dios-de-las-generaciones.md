@@ -78,6 +78,8 @@ Dios de Abraham de Isaac y Jacob
 
 ## Esquema de rima
 
+Estrofas: pareados asonante (AABB). Coro: verso libre.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

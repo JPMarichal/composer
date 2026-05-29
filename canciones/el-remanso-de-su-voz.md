@@ -159,6 +159,8 @@ La Calma duerme.
 
 ## Esquema de rima
 
+Estrofas: alternada asonante (ABAB). Coro: pareados consonante (AABB). Estrofas: alternada consonante (ABAB). Voz sube suavemente de tono (Crescendo sutil): pareados consonante (AABB). Estrofas: rima consonante parcial (-a, -o, -ea). Arpegios de arpa finales: rima consonante parcial (-ee).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

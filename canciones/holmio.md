@@ -56,6 +56,8 @@ El holmio posee el campo magnético más intenso de todos los elementos. Esta pi
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

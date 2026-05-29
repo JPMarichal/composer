@@ -58,6 +58,8 @@ El cerio es el elemento químico que alimenta las luces de carbón — esas que 
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

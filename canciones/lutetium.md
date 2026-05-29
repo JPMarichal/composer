@@ -56,6 +56,8 @@ El lutecio es el último de los lantánidos, el más denso, el más duro, el que
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

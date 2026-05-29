@@ -56,6 +56,8 @@ El itrio es el patriarca de las tierras raras: el primero descubierto, el que da
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

@@ -56,6 +56,8 @@ El niobio no se usa solo: se alea con otros metales para hacerlos más fuertes s
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

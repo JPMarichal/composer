@@ -57,6 +57,8 @@ Si SUNO corta antes del Final Chorus, usa Continue from this moment con:
 
 ## Esquema de rima
 
+N/A — instrumental (percusión pura, sin letra cantada).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

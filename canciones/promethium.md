@@ -56,6 +56,8 @@ El prometio no existe en la naturaleza: solo puede crearse en un reactor nuclear
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

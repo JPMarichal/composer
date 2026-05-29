@@ -118,6 +118,8 @@ Lo que nunca pudo ser pero que empieza aquí .
 
 ## Esquema de rima
 
+Canción: rima asonante parcial (-o, -i, -ia).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

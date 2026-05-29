@@ -56,6 +56,8 @@ El osmio es el elemento más denso que existe: una esfera de osmio del tamaño d
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

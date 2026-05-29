@@ -56,6 +56,8 @@ El lantano abre la serie de los lantánidos: es el primero, el que empieza la fa
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

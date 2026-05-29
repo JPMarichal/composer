@@ -104,6 +104,8 @@ Solo sabemos aceptar
 
 ## Esquema de rima
 
+Estrofas: verso libre. Coro: alternada asonante (ABAB). Estrofas: verso libre. Puente: alternada asonante (ABAB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

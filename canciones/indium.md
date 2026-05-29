@@ -56,6 +56,8 @@ El indio es el metal invisible que hace funcionar las pantallas táctiles: está
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

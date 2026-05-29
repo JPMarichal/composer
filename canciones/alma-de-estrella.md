@@ -102,6 +102,8 @@ Alma de estrella... alma de estrella...
 
 ## Esquema de rima
 
+Estrofas: pareados consonante (AABB). Pre-coro: rima consonante parcial (-o). Coro: pareados consonante (AABB). Estrofas: pareados consonante (AABB). Pre-coro: rima consonante parcial (-o). Coro: pareados consonante (AABB). Estrofas: pareados consonante (AABB). Coro: pareados consonante (AABB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

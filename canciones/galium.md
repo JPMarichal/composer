@@ -56,6 +56,8 @@ El galio es un metal que se derrite con el calor de la mano: sólido pero a punt
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

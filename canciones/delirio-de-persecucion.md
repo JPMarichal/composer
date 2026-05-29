@@ -137,6 +137,8 @@ También
 
 ## Esquema de rima
 
+Estrofas: alternada asonante (ABAB). Pre-coro: alternada asonante (ABAB). Coro: alternada asonante (ABAB). Estrofas: alternada asonante (ABAB). Puente: alternada consonante (ABAB). Outro: alternada consonante (ABAB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

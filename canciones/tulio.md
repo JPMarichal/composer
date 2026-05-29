@@ -56,6 +56,8 @@ El tulio es el más escaso de los lantánidos: tan raro que su precio es prohibi
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

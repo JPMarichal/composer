@@ -113,6 +113,8 @@ Pequeña, ama mientras puedas hoy.
 
 ## Esquema de rima
 
+Estrofas: pareados consonante (AABB). Coro: pareados consonante (AABB). Estrofas: pareados consonante (AABB). Puente: pareados consonante (AABB). Outro: rima asonante parcial (-o).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

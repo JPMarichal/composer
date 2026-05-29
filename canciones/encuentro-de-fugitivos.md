@@ -119,6 +119,8 @@ Si nos tenemos para caminar.
 
 ## Esquema de rima
 
+Estrofas: pareados asonante (AABB). Estrofas: pareados asonante (AABB). Coro: pareados consonante (AABB). Estrofas: pareados asonante (AABB). Puente: pareados consonante (AABB). Outro: pareados asonante (AABB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

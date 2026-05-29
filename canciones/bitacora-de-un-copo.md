@@ -120,6 +120,8 @@ donde empieza la paz.
 
 ## Esquema de rima
 
+Floating vocals, breathy and intimate: alternada consonante (ABAB). Subtle rhythmic pulse, warm strings entry: alternada consonante (ABAB). Warm strings swell, emotional but steady: alternada consonante (ABAB). Escalating intensity, layered vocal harmonies: alternada consonante (ABAB). Piano becomes melodic and bright: alternada consonante (ABAB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

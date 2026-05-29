@@ -96,6 +96,8 @@ Que este canto perfume tu existir.
 
 ## Esquema de rima
 
+Canción: rima asonante parcial (-o, -a, -i).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

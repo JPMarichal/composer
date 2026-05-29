@@ -122,6 +122,8 @@ solo sigo… por aquí…
 
 ## Esquema de rima
 
+Intro: rima asonante parcial (-u). Estrofas: alternada consonante (ABAB). Pre-coro: alternada asonante (ABAB). Coro: alternada consonante (ABAB). Pre-coro: alternada asonante (ABAB). Final Chorus | full mix | high energy | stacked harmonies: alternada consonante (ABAB). Outro: verso libre.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

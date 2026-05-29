@@ -58,6 +58,8 @@ El disprosio es un elemento tan raro que su nombre viene del griego «dysprosito
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

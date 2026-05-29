@@ -142,6 +142,8 @@ Más roja que las rosas.
 
 ## Esquema de rima
 
+Estrofas: alternada consonante (ABAB). Estrofas: alternada asonante (ABAB). Coro: alternada consonante (ABAB). Estrofas: alternada consonante (ABAB). Puente: rima consonante parcial (-oa, -o, -i). Outro: alternada consonante (ABAB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

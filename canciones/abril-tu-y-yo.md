@@ -147,6 +147,8 @@ Solo nosotros dos.
 
 ## Esquema de rima
 
+Estrofas: pareados consonante (AABB). Estrofas: rima consonante parcial (-e, -i, -a). Coro: rima consonante parcial (-io, -oo). Estrofas: pareados consonante (AABB). Puente: pareados consonante (AABB). Estrofas: pareados consonante (AABB). Outro: alternada consonante (ABAB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

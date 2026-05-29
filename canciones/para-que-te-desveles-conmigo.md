@@ -92,6 +92,8 @@ Y escuches ésta canción.
 
 ## Esquema de rima
 
+Interlude | Whistle: alternada consonante (ABAB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

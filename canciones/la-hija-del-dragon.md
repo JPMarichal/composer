@@ -108,6 +108,8 @@ Y nubló para siempre mi razón
 
 ## Esquema de rima
 
+Estrofas: verso libre. Pre-coro: alternada consonante (ABAB). Coro: alternada asonante (ABAB). Post-Chorus: alternada asonante (ABAB). Estrofas: verso libre.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

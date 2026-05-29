@@ -140,6 +140,8 @@ Solo un lugar...
 
 ## Esquema de rima
 
+Floating vocals, very breathy and soft: alternada asonante (ABAB). Add discreet percussion, smooth bass groove: alternada asonante (ABAB). Subtle rhythmic drive, layered warm strings: alternada asonante (ABAB). Coro: alternada asonante (ABAB). Escalating intensity, vocal power starts to swell: alternada asonante (ABAB). Full cinematic build-up, intense strings and drums: alternada asonante (ABAB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

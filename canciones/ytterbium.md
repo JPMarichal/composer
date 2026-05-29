@@ -56,6 +56,8 @@ El iterbio mide el tiempo con precisión atómica: está en los relojes más exa
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

@@ -92,6 +92,8 @@ Surcando el mar
 
 ## Esquema de rima
 
+Narrative: alternada asonante (ABAB). First person Male vocals only from now on: rima asonante parcial (-o, -e). Quicker|Stacatto: alternada asonante (ABAB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

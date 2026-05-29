@@ -139,6 +139,8 @@ Te despojó de toda esencia
 
 ## Esquema de rima
 
+Estrofas: alternada asonante (ABAB). Pre-coro: alternada consonante (ABAB). Coro: alternada asonante (ABAB). Estrofas: rima consonante parcial (-e, -ao, -a). Pre-coro: alternada consonante (ABAB). Puente: alternada asonante (ABAB). Outro: verso libre.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

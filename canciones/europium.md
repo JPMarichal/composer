@@ -58,6 +58,8 @@ El europio es el elemento que hace brillar los billetes de euro bajo la luz ultr
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

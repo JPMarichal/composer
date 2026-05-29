@@ -109,6 +109,8 @@ Y quémame en la flama de tu amor
 
 ## Esquema de rima
 
+Estrofas: alternada consonante (ABAB). Estrofas: alternada consonante (ABAB). Coro: alternada consonante (ABAB). Estrofas: alternada consonante (ABAB). Estrofas: alternada consonante (ABAB). Outro: alternada asonante (ABAB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

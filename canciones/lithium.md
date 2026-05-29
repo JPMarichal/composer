@@ -56,6 +56,8 @@ El litio es el metal más ligero de todos — tan liviano que flota en el agua �
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

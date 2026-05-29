@@ -141,6 +141,8 @@ El robo de todo mi ser.
 
 ## Esquema de rima
 
+Estrofas: alternada consonante (ABAB). Estrofas: alternada consonante (ABAB). Pre-coro: alternada consonante (ABAB). Coro: alternada consonante (ABAB). Estrofas: alternada consonante (ABAB). Puente: pareados consonante (AABB). Outro: alternada consonante (ABAB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

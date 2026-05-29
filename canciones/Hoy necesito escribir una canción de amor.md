@@ -111,6 +111,8 @@ porque quiero ser mejor por ti, porque quiero amarte más.
 
 ## Esquema de rima
 
+Estrofas: alternada asonante (ABAB). Estrofas: alternada asonante (ABAB). Coro: pareados asonante (AABB). Estrofas: alternada asonante (ABAB). Estrofas: alternada asonante (ABAB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

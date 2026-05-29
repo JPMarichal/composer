@@ -56,6 +56,8 @@ El tantalio es el metal que el cuerpo humano no rechaza: se usa en implantes qui
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

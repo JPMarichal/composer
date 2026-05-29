@@ -81,6 +81,8 @@ y cual un colibrí me desplazo en tu espacio y se ennoblece el mundo si me envue
 
 ## Esquema de rima
 
+Canción: rima asonante parcial (-o, -ea, -ia).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

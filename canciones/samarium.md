@@ -56,6 +56,8 @@ El samario es la tierra rara de los imanes que resisten el calor: cuando los dem
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

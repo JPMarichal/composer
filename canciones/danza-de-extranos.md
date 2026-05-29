@@ -58,6 +58,8 @@ Dos personas en una pista de baile que no se conocen. Al principio hay distancia
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

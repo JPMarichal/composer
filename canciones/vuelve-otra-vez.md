@@ -113,6 +113,8 @@ Te has hecho un espacio procura llenarlo de amor.
 
 ## Esquema de rima
 
+Estrofas: alternada consonante (ABAB). Estrofas: verso libre. Coro: rima asonante parcial (-o). Puente: pareados asonante (AABB). Change: alternada asonante (ABAB). Estrofas: rima asonante parcial (-eo). Slower|Sweet: verso libre.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

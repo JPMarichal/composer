@@ -111,6 +111,8 @@ Y el cielo de París no deja de brillar.
 
 ## Esquema de rima
 
+Estrofas: alternada consonante (ABAB). Coro: alternada consonante (ABAB). Estrofas: alternada consonante (ABAB). Puente: alternada consonante (ABAB). Outro: alternada consonante (ABAB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

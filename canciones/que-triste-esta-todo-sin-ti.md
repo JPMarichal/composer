@@ -205,6 +205,8 @@ u-u-u-u-uuuuuuu
 
 ## Esquema de rima
 
+Estrofas: pareados consonante (AABB). Pre-coro: alternada asonante (ABAB). Coro: alternada consonante (ABAB). Estrofas: pareados consonante (AABB). Double Chorus: alternada consonante (ABAB). Outro: rima consonante parcial (-i). Hook Loop: pareados consonante (AABB). Fade Out: pareados consonante (AABB). Instrumental: rima consonante parcial (-uu).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

@@ -56,6 +56,8 @@ El renio tiene uno de los puntos de fusión más altos del universo: solo el tun
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

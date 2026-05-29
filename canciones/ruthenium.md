@@ -56,6 +56,8 @@ El rutenio es duro y quebradizo: conduce la electricidad sin perder eficiencia, 
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

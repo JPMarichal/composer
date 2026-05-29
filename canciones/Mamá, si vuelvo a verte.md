@@ -148,6 +148,8 @@ Y tú naciste allá.
 
 ## Esquema de rima
 
+Estrofas: alternada consonante (ABAB). Estrofas: alternada consonante (ABAB). Coro: rima asonante parcial (-ae, -a). Estrofas: alternada consonante (ABAB). Acoustic guitar pluck: alternada consonante (ABAB). Full arrangement: rima asonante parcial (-ae, -a). Emotional crescendo: alternada consonante (ABAB). Slower, intimate: alternada consonante (ABAB). Final Chorus: rima consonante parcial (-a). Soft piano chords: verso libre.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

@@ -61,6 +61,8 @@ Si la voz suena demasiado melodiosa en el Verse (pierde la precisión del spoken
 
 ## Esquema de rima
 
+Poema de Mario Benedetti: verso libre con estructura fragmentada. Sin esquema de rima fijo, basado en repetición y paralelismo.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

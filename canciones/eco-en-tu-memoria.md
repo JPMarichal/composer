@@ -156,6 +156,8 @@ Solo una voz.
 
 ## Esquema de rima
 
+Estrofas: pareados consonante (AABB). Estrofas: pareados consonante (AABB). Coro: pareados asonante (AABB). Estrofas: pareados consonante (AABB). Estrofas: pareados consonante (AABB). Voz con fuerza y sentimiento: pareados consonante (AABB). Piano solo retomando la melodía del intro: rima consonante parcial (-o).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

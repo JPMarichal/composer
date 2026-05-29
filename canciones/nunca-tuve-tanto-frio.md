@@ -114,6 +114,8 @@ Tan largo, tan blanco, tan frío como éste...
 
 ## Esquema de rima
 
+Estrofas: pareados consonante (AABB). Pre-coro: pareados consonante (AABB). Coro: pareados consonante (AABB). Estrofas: pareados consonante (AABB). Puente: pareados consonante (AABB). Outro: rima consonante parcial (-ee).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

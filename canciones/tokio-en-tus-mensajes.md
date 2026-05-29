@@ -104,6 +104,8 @@ Que nunca quise perder [crescendo]
 
 ## Esquema de rima
 
+Estrofas: rima consonante parcial (-a, -aa, -o). Coro: alternada asonante (ABAB). Estrofas: alternada asonante (ABAB). Puente: alternada consonante (ABAB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

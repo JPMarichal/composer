@@ -56,6 +56,8 @@ El cobalto tiñe de azul los vitrales de las catedrales desde hace siglos, y hoy
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

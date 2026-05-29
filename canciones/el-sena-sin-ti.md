@@ -58,6 +58,8 @@ gentle, soft, dynamics, minimal, slow, a cappella, natural
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

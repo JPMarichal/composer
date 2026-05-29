@@ -131,6 +131,8 @@ por el inmenso milagro de hoy.
 
 ## Esquema de rima
 
+Estrofas: alternada consonante (ABAB). Pre-coro: alternada consonante (ABAB). Coro: alternada consonante (ABAB). Puente: alternada consonante (ABAB). Outro: alternada consonante (ABAB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

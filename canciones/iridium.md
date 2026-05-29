@@ -56,6 +56,8 @@ El iridio llegó a la Tierra en meteoritos. Es el metal más resistente a la cor
 
 ## Esquema de rima
 
+N/A — instrumental.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

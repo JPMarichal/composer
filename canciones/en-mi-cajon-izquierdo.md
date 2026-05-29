@@ -91,6 +91,8 @@ Y después, como un niño, rompí llorando.
 
 ## Esquema de rima
 
+Estrofas: rima asonante parcial (-ia). Estrofas: pareados asonante (AABB). Estrofas: rima consonante parcial (-ao, -o). Estrofas: pareados consonante (AABB). Puente: pareados consonante (AABB). Outro: pareados asonante (AABB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

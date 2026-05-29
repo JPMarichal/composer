@@ -125,6 +125,8 @@ y yo soy... el escenario
 
 ## Esquema de rima
 
+Estrofas: alternada asonante (ABAB). Pre-coro: verso libre. Coro: alternada consonante (ABAB). Estrofas: pareados asonante (AABB). Pre-coro: verso libre. InterludeSilence: verso libre. Puente: verso libre. Final Chorus | full mix | high energy | stacked harmonies | handclaps | key change: alternada consonante (ABAB). Outro: verso libre.
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |

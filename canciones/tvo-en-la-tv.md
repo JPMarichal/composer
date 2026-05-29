@@ -145,6 +145,8 @@ Pasa, bienvenida, gracias por venir.
 
 ## Esquema de rima
 
+Estrofas: alternada asonante (ABAB). Estrofas: alternada consonante (ABAB). Rhythmic build-up, fast snare rolls: verso libre. Explosion of sound, bright horns, soaring vocals, total celebration: verso libre. Estrofas: alternada asonante (ABAB). Filtered sound, rhythmic clap track: verso libre. Full stadium energy, epic feeling: rima asonante parcial (-ue, -e). Maximum volume, joyful and massive: verso libre. Interlude, 8 seconds: verso libre. Music remains high-energy until the final beat: pareados asonante (AABB).
+
 ## Checklist Anti-AI
 
 | # | Safeguard | Cumple |
