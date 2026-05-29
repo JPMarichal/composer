@@ -10,9 +10,9 @@
 - **Año:** 1997
 - **Fecha de composición:** 1997-10-01
 - **Estado de publicación:** Sin procesar
-- **Generador:** 
+- **Generador:** SUNO
 - **Temas:** 
-- **Distribuidor:** 
+- **Distribuidor:** OffStep
 - **ISRC:** 
 - **Álbum:** La oficina de objetos perdidos
 - **Música:**
@@ -44,50 +44,79 @@
 ## Style Prompt
 
 ```
-
+Empieza con guitarras eléctricas limpias y sintetizadores suaves tocando acordes i–iv–VI–VII en F# menor a 160 bpm, Bajo cálido y cajas electrónicas, con hi-hats precisos crean un groove relajado synth-pop New Wave, Puentes llevan arpegios filtrados que suman capas etéreas sin saturar el espacio, Voz masculina barítono, clara e íntima, etérea, casi seca, con leve reverb de placa y ecos breves; sin vibrato ni autotune, Todo es mid-tempo, texturas ochenteras, sintes bien definidos y mucha naturalidad
 ```
 
 ---
 
 ## Letra
 
-No tienes tiempo, lo sé,
-No te quieres molestar
-En escucharme y hablar
-De lo que hubo entre los dos.
-Sé que cometí un error,
-Que tú tienes la razón,
-Que acabé con tu ilusión
-Y que no tengo perdón.
-Escucha al tiempo, vida.
-Si es que te abrí una herida,
-Escúchale. Deja que hable por mí.
-Si no puedes oírme
-Lo que debo decirte
-Escúchale aunque esté lejos de ti.
-La regué, ¡qué voy a hacer!
-No te voy a convencer
-De que el hombre que ahora ves
-No es el mismo en su interior.
-Si no quieres escuchar
-No te voy a molestar
-Porque el tiempo puede hablar
-Y es más sabio que los dos.
-Escucha al tiempo, vida.
-Si es que te abrí una herida,
-Escúchale. Deja que hable por mí.
-Si no puedes oírme
-Lo que debo decirte
-Obsérvame aunque esté lejos de ti.
-No tienes tiempo, lo sé,
-No te quieres molestar
-En escucharme y hablar
-De lo que hubo entre los dos.
-Si no quieres escuchar
-No te voy a molestar
-Porque el tiempo puede hablar
-Y es más sabio que los dos.
-(Bis in background & fade)
+[Mood: Nostalgic]
+[Energy: Medium]
+[Instrument: Analog Synth, Drum Machine]
+
+[Intro | atmospheric | synth pad]
+Uhh uhhh uhhh uhhhh
+
+Uhh uhhh uhhh uuuuuuuhhhhhh
+
+[Verse | spoken-sung | intimate vocal | warm baritone EQ | light reverb]
+Tengo tu risa en el bolsillo del abrigo
+y una dirección sin terminar
+En la esquina Crujen los cables del semáforo
+como si quisieran recordar
+No es una despedida tampoco una promesa
+solo dar un paso de más
+y el ruido tibio del tráfico
+marcando el ritmo al caminar
+
+[Pre-Chorus | build-up | riser]
+Si miro arriba me da vér-ti-go
+si miro adentro, cla-ri-dad
+Me quedo a un centímetro del salto
+y aún así vuelvo a intentar
+
+[Chorus | anthemic chorus | stacked harmonies | plate reverb | full mix]
+En la línea donde el mundo se curva
+se me enciende la sed de seguir
+En la línea donde el mundo se curva
+lo imposible me aprende a latir
+No es destino, no es bandera
+es un brillo que no sé medir
+En la línea donde el mundo se curva
+Aún queda el mundo entero por venir
+
+[Verse | spoken-sung | intimate vocal | warm baritone EQ | light reverb]
+Un vaso frío sobre la mesa
+dos mensajes sin enviar
+La radio inventa otra ruta
+para que no duela igual
+Bajo la luz de una marquesina
+todo parece durar
+y sin embargo en cada esquina
+vuelvo a empezar a buscar
+
+[Pre-Chorus | build-up]
+Si miro arriba me da vértigo
+si miro adentro, claridad
+Me quedo a un centímetro del salto
+y aún así vuelvo a intentar
+
+[Final Chorus | full mix | high energy | stacked harmonies]
+En la línea donde el mundo se curva
+se me enciende la sed de seguir
+En la línea donde el mundo se curva
+lo imposible me aprende a latir
+No es destino, no es bandera
+es un brillo que no sé medir
+En la línea donde el mundo se curva
+Aún queda el mundo entero por venir
+
+[Outro | fade out | synth pad]
+Y sigo… sin hacer ruido…
+solo sigo… por aquí…
+
+[Fade Out]
 
 ---
 

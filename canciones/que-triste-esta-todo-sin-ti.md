@@ -10,9 +10,9 @@
 - **Año:** 1993
 - **Fecha de composición:** 1993-01-01
 - **Estado de publicación:** Sin procesar
-- **Generador:** Manual (sin IA)
+- **Generador:** SUNO
 - **Temas:** Amor, Tristeza, Nostalgia
-- **Distribuidor:** 
+- **Distribuidor:** OffStep
 - **ISRC:** 
 - **Álbum:** La oficina de objetos perdidos
 - **Música:**

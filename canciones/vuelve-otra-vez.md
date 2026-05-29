@@ -10,9 +10,9 @@
 - **Año:** 
 - **Fecha de composición:** 
 - **Estado de publicación:** Sin procesar
-- **Generador:** 
+- **Generador:** SUNO
 - **Temas:** 
-- **Distribuidor:** 
+- **Distribuidor:** OffStep
 - **ISRC:** 
 - **Álbum:** La oficina de objetos perdidos
 - **Música:**

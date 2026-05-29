@@ -10,9 +10,9 @@
 - **Año:** 2025
 - **Fecha de composición:** 2025-12-12
 - **Estado de publicación:** Sin procesar
-- **Generador:** 
+- **Generador:** SUNO
 - **Temas:** Amor, Nostalgia, Reflexión
-- **Distribuidor:** 
+- **Distribuidor:** OffStep
 - **ISRC:** 
 - **Álbum:** La oficina de objetos perdidos
 - **Música:**
