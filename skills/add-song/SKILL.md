@@ -49,25 +49,15 @@ El archivo debe incluir:
 - 4 filtros fonéticos (clímax, legato, rítmico, prueba del susurro)
 - Sintaxis Suno: `[ ]` para instrucciones, `( )` para ad-libs cantados
 
-### 6. Sincronizar con Notion
+### 6. Publicar (Notion→Ingest→Push)
+
+Un solo comando hace todo:
 
 ```bash
-just notion-sync "canciones/<titulo-en-kebab-case>.md"
+just publish-song "canciones/<titulo-en-kebab-case>.md" "add song: <título>"
 ```
 
-Esto crea/actualiza la página en la base de datos "Canciones de JPMarichal" con todos los campos. Después de sync, el archivo local se actualiza con el `NotionPageID`.
-
-### 7. Indexar en vector store
-
-```bash
-just ingest
-```
-
-### 8. Git push
-
-```bash
-just git-push "add song: <título>"
-```
+Esto: sincroniza a Notion (crea/actualiza página + escribe NotionPageID), indexa en vector store, y hace git commit + push.
 
 ## Referencias
 

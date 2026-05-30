@@ -66,6 +66,10 @@ import-from-notion:
 notion-sync path:
     {{node}} src/notion-sync.js "{{path}}"
 
+# Sincroniza a Notion, indexa y hace push: just publish-song "canciones/canción.md" "mensaje commit"
+publish-song path msg:
+    {{node}} src/notion-sync.js "{{path}}"; if ($?) { {{node}} src/index.js ingest }; if ($?) { git add -A }; if ($?) { git commit -m "{{msg}}" }; if ($?) { git push }
+
 # ─── Ayuda ─────────────────────────────────────────────────
 
 default:
