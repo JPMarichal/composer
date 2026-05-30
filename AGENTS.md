@@ -50,3 +50,6 @@ Cuando el usuario entregue canciones ya compuestas (letra + metadatos) para aña
 - `just template "Título" "Género"` — generar esqueleto de canción
 - `just notion-sync "canciones/canción.md"` — sincronizar archivo local → Notion
 - `just reset` + `just ingest` — reindexar vector store tras cambios
+- `just suno-index` — indexar todo el catálogo de Suno localmente (1,500+ clips)
+- `just suno-search "término"` — buscar canciones en el índice local por título
+- `just suno-stats` — resumen del catálogo por proyecto

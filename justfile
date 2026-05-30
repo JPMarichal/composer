@@ -70,6 +70,23 @@ notion-sync path:
 publish-song path msg:
     {{node}} src/notion-sync.js "{{path}}"; if ($?) { {{node}} src/index.js ingest }; if ($?) { git add -A }; if ($?) { git commit -m "{{msg}}" }; if ($?) { git push }
 
+# ─── Suno Index ────────────────────────────────────────────
+
+# Ruta del Python del venv de Suno MCP
+sunopy := "C:\\Users\\JUANPA~1.MAR\\AppData\\Local\\Temp\\opencode\\suno-ai-mcp\\.venv\\Scripts\\python.exe"
+
+# Indexa todo el catálogo de Suno localmente: just suno-index
+suno-index:
+    {{sunopy}} scripts/suno-index.py
+
+# Busca en el índice local de Suno: just suno-search "término"
+suno-search term:
+    {{sunopy}} scripts/suno-search.py "{{term}}"
+
+# Muestra resumen del catálogo Suno: just suno-stats
+suno-stats:
+    {{sunopy}} scripts/suno-stats.py
+
 # ─── Ayuda ─────────────────────────────────────────────────
 
 default:
