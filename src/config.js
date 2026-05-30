@@ -16,6 +16,8 @@ module.exports = {
     docs: path.resolve(__dirname, "..", "docs"),
     specs: path.resolve(__dirname, "..", "specs"),
     corpus: path.resolve(__dirname, "..", "corpus"),
+    canciones: path.resolve(__dirname, "..", "canciones"),
+    bio: path.resolve(__dirname, "..", "bio"),
   },
   chunk: {
     size: 1000,
