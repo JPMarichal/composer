@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** La canción del bongó
-- **Género:** 
+- **Género:** Instrumental
 - **Tipo:** Canción
 - **Año:** 2026
 - **Fecha de composición:** 2026-03-02

@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** Dorian frente al cuadro
-- **Género:** 
+- **Género:** Pop progresivo
 - **Tipo:** Canción
 - **Año:** 
 - **Fecha de composición:** 

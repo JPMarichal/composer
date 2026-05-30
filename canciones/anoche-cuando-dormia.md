@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** Anoche cuando dormía
-- **Género:** 
+- **Género:** Indie, Folk
 - **Tipo:** Canción
 - **Año:** 2026
 - **Fecha de composición:** 2026-03-02

@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** Claveles
-- **Género:** 
+- **Género:** Folk, Pop
 - **Tipo:** Canción
 - **Año:** 
 - **Fecha de composición:** 

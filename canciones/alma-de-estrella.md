@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** Alma de estrella 
-- **Género:** 
+- **Género:** Synth-pop
 - **Tipo:** Canción
 - **Año:** 2026
 - **Fecha de composición:** 2026-01-31

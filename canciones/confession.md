@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** Confession
-- **Género:** 
+- **Género:** Pop, Balada
 - **Tipo:** Canción
 - **Año:** 1998
 - **Fecha de composición:** 1998-02-14

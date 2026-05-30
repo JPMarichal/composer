@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** Me gustas cuando callas
-- **Género:** 
+- **Género:** Indie, Folk
 - **Tipo:** Canción
 - **Año:** 2026
 - **Fecha de composición:** 2026-03-02

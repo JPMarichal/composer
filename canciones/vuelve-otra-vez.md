@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** Vuelve otra vez
-- **Género:** 
+- **Género:** Balada
 - **Tipo:** Canción
 - **Año:** 
 - **Fecha de composición:** 

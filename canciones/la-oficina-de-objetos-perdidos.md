@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** La oficina de objetos perdidos
-- **Género:** 
+- **Género:** Chamber pop, Pop
 - **Tipo:** Canción
 - **Año:** 2025
 - **Fecha de composición:** 2025-12-12

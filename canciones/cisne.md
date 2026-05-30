@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** Cisne
-- **Género:** 
+- **Género:** Balada
 - **Tipo:** Canción
 - **Año:** 1998
 - **Fecha de composición:** 1998-01-13

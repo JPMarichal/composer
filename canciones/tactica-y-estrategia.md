@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** Táctica y Estrategia
-- **Género:** 
+- **Género:** Art rock, Spoken word
 - **Tipo:** Canción
 - **Año:** 2026
 - **Fecha de composición:** 2026-03-02

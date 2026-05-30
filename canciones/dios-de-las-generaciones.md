@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** Dios de las generaciones
-- **Género:** 
+- **Género:** Adoración
 - **Tipo:** Canción
 - **Año:** 
 - **Fecha de composición:** 

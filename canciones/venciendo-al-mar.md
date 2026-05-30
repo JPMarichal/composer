@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** Venciendo al mar
-- **Género:** 
+- **Género:** Balada, Pop rock
 - **Tipo:** Canción
 - **Año:** 
 - **Fecha de composición:** 

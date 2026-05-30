@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** Para que te desveles conmigo
-- **Género:** 
+- **Género:** Balada
 - **Tipo:** Canción
 - **Año:** 1995
 - **Fecha de composición:** 

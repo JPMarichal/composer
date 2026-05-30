@@ -75,9 +75,18 @@ JP Marichal desciende de una familia de artistas y literatos. Su infancia transc
 
 ## Géneros en los que compone
 
-Indie folk · Synth-pop · Chamber pop · Pop rock · Electrónica ·
-Bossa nova · Balada · Power pop · Pop progresivo · Baroque pop ·
-Cumbia · Vallenato · Soul · R&B
+### Primarios (con letra)
+
+Pop · Balada · Indie · Folk · Synth-pop · Chamber pop ·
+Rock / Pop rock · Pop progresivo
+
+### Secundarios / Incursiones
+
+Soul · R&B · Cumbia · Vallenato · Art rock · Adoración
+
+### Experimental
+
+Electrónica (Rare Metals — serie instrumental de 24 piezas)
 
 ---
 

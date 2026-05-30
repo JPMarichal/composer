@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** Escucha al tiempo hablar por mí 
-- **Género:** 
+- **Género:** Synth-pop
 - **Tipo:** Canción
 - **Año:** 1997
 - **Fecha de composición:** 1997-10-01

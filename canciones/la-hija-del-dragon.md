@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** La hija del dragón
-- **Género:** 
+- **Género:** Pop, Balada
 - **Tipo:** Canción
 - **Año:** 1991
 - **Fecha de composición:** 

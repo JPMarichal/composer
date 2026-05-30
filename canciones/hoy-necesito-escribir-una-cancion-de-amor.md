@@ -11,7 +11,7 @@ Cuando no sabes qué hacer con todo lo que sientes, solo queda una opción: amar
 ### Notion DB
 
 - **Título de la canción:** Hoy necesito escribir una canción de amor
-- **Género:** 
+- **Género:** Pop, Balada
 - **Tipo:** Canción
 - **Año:** 
 - **Fecha de composición:** 

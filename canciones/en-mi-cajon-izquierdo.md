@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** En mi cajón izquierdo
-- **Género:** 
+- **Género:** Balada
 - **Tipo:** Canción
 - **Año:** 1996
 - **Fecha de composición:** 1996-12-01

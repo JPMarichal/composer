@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** Volar por el aire
-- **Género:** 
+- **Género:** Balada
 - **Tipo:** Canción
 - **Año:** 
 - **Fecha de composición:** 

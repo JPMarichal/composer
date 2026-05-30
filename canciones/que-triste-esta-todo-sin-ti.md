@@ -5,7 +5,7 @@
 ### Notion DB
 
 - **Título de la canción:** Qué triste está todo sin ti
-- **Género:** 
+- **Género:** Balada
 - **Tipo:** Canción
 - **Año:** 1993
 - **Fecha de composición:** 1993-01-01
