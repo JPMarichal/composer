@@ -61,6 +61,14 @@ just publish-song "canciones/<titulo-en-kebab-case>.md" "add song: <título>"
 
 Esto, en orden: sincroniza a Notion (crea/actualiza página + escribe NotionPageID en el archivo local), indexa en vector store, y hace git commit + push.
 
+**Nota:** Si hay múltiples canciones nuevas, `publish-song` solo sincroniza a Notion el archivo indicado. Las demás se ingestar y pushean pero no se crean en Notion. Ejecutar `just publish-song` por cada canción nueva, o verificar manualmente con:
+```bash
+# Para canciones pendientes, ejecutar por cada una:
+just notion-sync "canciones/<otra-cancion>.md"
+# luego commit y push del NotionPageID:
+git add -A && git commit -m "sync NotionPageID" && git push
+```
+
 Al terminar, verificar:
 - `git status` debe decir "nothing to commit, working tree clean"
 - El archivo local debe tener `NotionPageID` poblado
