@@ -163,9 +163,9 @@ Desde el principio)
 
 ## Esquema de rima
 
-Dos métricas conviven: eneasílabos (9 sílabas) en versos y pre-coros, hexasílabos a decasílabos en coros (hook corto + desarrollo). Rima asonante ABAB en versos, AABB con dispersión en coros.
+Dos métricas conviven: eneasílabos (9 sílabas) en versos y pre-coros, hexasílabos a decasílabos en coros (hook corto + desarrollo).
 
-- **V1**: Pares irregulares. L3-L4: -ario consonante (santuario/innecesario). L6-L8: -ido consonante (sentidos/sentido, rima eco). L1-L2: asonante lejana a-o/e-o (tacto/pensamiento).
+- **V1**: Dos cuartetos. Q1: L1-L2 asonante a-o/e-o (tacto/pensamiento), L3-L4 consonante -ario (santuario/innecesario). Q2: L6-L8 rima eco -ido (sentidos/sentido), L5 y L7 libres con desinencia verbal.
 - **PC1**: AABB. A: -ada consonante (madrugada/nada), B: -ento consonante (pensamiento/momento).
 - **C1**: Asonante dispersa con pares internos: -esa (L3/L5), -a-a (L2/L7).
 - **V2**: ABABCDCD. A: ie-e/ue-e/ie-e, B: o-o/e-a/o-o/e-a. Asonante homogénea en A.
