@@ -116,7 +116,7 @@ Aunque el espejo no te acusa
 Sobre la tela se dibuja
 Cada costura de tu ser
 Hundido en el sillón de cuero
-Miras el sesgo verdadero
+Miras el crudo derrotero
 Que no se ve en tu propia piel
 Y tu cuadro lleva la cuenta fiel
 
