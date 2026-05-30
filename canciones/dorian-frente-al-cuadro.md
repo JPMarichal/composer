@@ -1,4 +1,4 @@
- y  # Dorian frente al cuadro
+ # Dorian frente al cuadro
 
 ## Metadatos
 

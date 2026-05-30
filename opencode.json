@@ -4,6 +4,11 @@
     "notion": {
       "type": "local",
       "command": ["node", "src/notion-mcp.js"]
+    },
+    "notebooklm": {
+      "type": "local",
+      "command": ["npx", "-y", "notebooklm-mcp@latest"],
+      "enabled": true
     }
   }
 }

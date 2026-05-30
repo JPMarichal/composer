@@ -15,6 +15,7 @@ Cuando el usuario solicite una canción:
 6. **Aplicar checklist anti-AI** de `specs/002-anti-ai-isms.md` — los 21 safeguards cuantificables del compositor. Cada estrofa debe pasar todos los ítems; si 3+ fallan, rehacer la canción desde cero.
 7. **Verificación Fonética** — aplicar la lista de verificación fonética de `corpus/007-fonetica-acustica.md §5`: filtro de clímax (vocales abiertas en notas agudas), filtro de legato (consonantes sonoras en pasajes suaves), filtro rítmico (oclusivas alineadas con la base rítmica) y la prueba del susurro.
 8. **Usar meta-tags `[ ]`** en la letra para marcar secciones (Intro, Verse, Chorus, Bridge, Outro, etc.), transiciones (Pre-Chorus, Build, Drop) y voces ([spoken word], [rap verse], [whisper]).
+8b. **Paréntesis `( )` vs corchetes `[ ]`** — regla crítica de sintaxis Suno: los corchetes `[ ]` son instrucciones que NO se cantan; los paréntesis `( )` son contenido que SÍ se canta (ad-libs, eco, backing vocals). La IA comete el error frecuente de poner instrucciones de producción entre paréntesis, resultando en que Suno las canta como letra. Ver `specs/004-suno-syntax.md`. Ejemplo documentado de este error: `canciones/dorian-frente-al-cuadro.md` (instrucciones de producción en paréntesis en lugar de corchetes). Toda canción nueva debe pasar el checklist de sintaxis Suno (§Checklist del spec 004).
 9. Para recuperar contexto del RAG, usar `just query "requisitos"`. Para indexar cambios, usar `just ingest` (incremental — solo re-procesa archivos modificados). Usar `just reset` + `just ingest` solo cuando se cambie la estructura del chunking o se añadan/eliminen directorios completos.
 10. Para canciones complejas o largas, se puede invocar al subagente `compositor` con el task tool.
     10b. **Regla moral** — las letras promueven principios edificantes: responsabilidad, templanza, respeto, integridad familiar, esperanza realista. Cero promoción de alcohol, tabaco, drogas, café como desahogo, ni sexo prematrimonial/extramatrimonial como deseable. Ver §7 del spec.
@@ -24,11 +25,15 @@ Cuando el usuario solicite una canción:
 14. **Ciclo Escribir → Escuchar → Ajustar** — ninguna canción se da por terminada sin ser escuchada. La primera escucha revela problemas invisibles en el papel (tono, edad percibida, conexión emocional). Iterar hasta que el autor quede satisfecho.
 15. **Variación de Coros** — los coros idénticos empobrecen. Cada coro debe tener al menos una variación semántica (progresión en L1, L3 o L4) para que el agua/tesis evolucione a lo largo de la canción.
 16. **Suspenso por Capas** — la verdad de la canción se revela gradualmente (V1 descriptivo → Chorus tesis → V2 conflicto → Bridge revelación → Outro resolución). El oyente debe poder descubrir algo nuevo en cada escucha.
-17. **Style Prompt limitado a 1000 chars** — priorizar armonía > instrumentación > emoción. Incluir acordes, estructura y referencia sonora ("like X at their most Y"). Copiar metadatos completos al campo de estilo de Suno mejora la generación.
+17. **Style Prompt limitado a 1000 chars** — usar la **Fórmula de 6 componentes** por orden de prioridad: (1) Género + Era, (2) Tempo/BPM, (3) Instrumentación y riffs, (4) Tratamiento vocal (personaje), (5) Ambiente y tonalidad, (6) Mezcla. Suno pesa más las primeras palabras. Incluir acordes (I-V-vi-IV), estructura, arpegios y referencia sonora. No usar nombres de artistas reales. Ver guía detallada en `specs/003-file-template.md §Style Prompt`.
 18. **Changelog de Autoría** — cada canción incluye un changelog que registra todas las decisiones del autor humano vs. sugerencias del asistente. Esto protege la autoría en caso de controversia legal.
 19. **Enfocarse en composición original** — poesía existente (Neruda, Machado, Benedetti) y experimentos instrumentales (Rare Metals) son experimentales/secundarios. El mérito real del autor está en la composición lírica original de su autoría. Cualquier análisis (genérico, temático, de frecuencia) debe priorizar las canciones con letra original sobre adaptaciones o piezas instrumentales.
 20. **Género obligatorio al crear** — toda canción nueva debe tener género asignado en el campo `- **Género:**` del template. Canciones sin género distorsionan el análisis del catálogo.
 21. **Los géneros primarios del autor son Pop y Balada** — estos representan el núcleo de su producción lírica original, no Indie/Folk como podría sugerir un análisis superficial.
+
+## Registro de canciones existentes
+
+Cuando el usuario entregue canciones ya compuestas (letra + metadatos) para añadir al repositorio, seguir el workflow en `skills/add-song/SKILL.md`.
 
 ## Herramientas del sistema
 

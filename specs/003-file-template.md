@@ -72,7 +72,35 @@ La descripción es un texto de 1-2 párrafos con esta estructura:
 <prompt de estilo para SUNO>
 ```
 
----
+### Guía del Style Prompt
+
+**Límite:** 1 000 caracteres. Punto dulce: 4–7 descriptores clave.
+
+**Fórmula de 6 componentes (por orden de prioridad):**
+
+1. **Género + Era** — "90s Grunge", no "Rock". Es la base.
+2. **Tempo y patrón rítmico** — BPM exacto (126 BPM) o término italiano (Adagio, Presto). Puede incluir "syncopated", "half-time feel".
+3. **Instrumentación y riffs** — Instrumentos concretos + cómo suenan: "distorted electric guitar riff", "pounding 808s", "evolving arpeggios", "jazzy Rhodes chords". Máximo 4–5 instrumentos.
+4. **Tratamiento vocal** — Definir al cantante como personaje: registro (barítono, soprano, tenor), textura (raspy, breathy, soulful, husky), entrega (belting, whispered, spoken word, melismatic).
+5. **Ambiente y tonalidad** — Estado de ánimo + clave musical: "melancholic, C Minor, cinematic atmosphere". Tonalidad mayor = brillante; menor = oscura.
+6. **Intención de mezcla** — "polished radio mix", "wide stereo", "lo-fi texture", "studio grade".
+
+**Reglas clave:**
+- Suno da más peso a las primeras palabras → empezar siempre con género + tonalidad/BPM
+- Evitar nombres de artistas reales (filtros de copyright). Usar descriptores de su estilo
+- No saturar con términos vagos ("nice", "cool")
+- Las progresiones armónicas (I-V-vi-IV) y tipos de acordes (power chords, open chords) ayudan a la IA a entender la armonía deseada
+- Para voces no robóticas, definir al cantante como personaje (edad, registro, contexto emocional)
+
+**Ejemplo efectivo:**
+```
+Melancholic 90s Grunge, 90 BPM, D minor, distorted electric guitar riff, heavy drums, raspy male vocals
+```
+
+**Ejemplo experto (personaje):**
+```
+The vocalist is a 40-year-old man with a smooth, velvety baritone, reflecting on lost love in a near-empty jazz club at 2 AM. Warm and intimate delivery with subtle cracks of vulnerability.
+```
 
 ## Letra
 
@@ -103,3 +131,4 @@ La descripción es un texto de 1-2 párrafos con esta estructura:
 5. `NotionPageID` se actualiza automáticamente al hacer sync; no se edita manualmente
 6. Toda canión debe incluir `## Armonía`, `## Descripción`, `## Style Prompt`, `## Letra`, `## Checklist Anti-AI` y `## Changelog de Autoría`
 6. `## Letra` lleva los meta-tags de sección (`[Verse]`, `[Chorus]`, etc.) — la versión sin tags va en el cuerpo de la página de Notion
+7. Toda instrucción de producción debe usar corchetes `[ ]`, no paréntesis `( )`. Ver `specs/004-suno-syntax.md`.
