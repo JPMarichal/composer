@@ -42,7 +42,7 @@
 
 ## Descripción
 
-Mira qué hermosura la que espera allí a su amado, con el corazón puesto en otro. Y aunque nunca ha sido mía, yo soñaba en su regazo. Dejar ir a quien nunca fue tuyo es un duelo sin nombre: no pierdes una relación, pierdes una posibilidad. Desde la admiración a distancia hasta la renuncia consciente, esta canción atraviesa cada etapa de esa pena silenciosa y termina en liberación. "¡VE! Como un potro suelto en un trigal, cruza los aires. ¡VE! Como el río corre hacia su mar." Folk pop con aires de cumbia y vallenato, guacharaca, acordeón y guitarras acústicas que suben en energía como quien finalmente suelta lo que nunca tuvo. Porque a veces el acto más valiente del amor no es esperar: es soltar, desearle buena suerte a quien se va, y encaminarse uno también hacia su propio mar.
+Folk pop con cumbia y vallenato a 120 BPM, guacharaca, acordeón y guitarras que suben como quien se libera. Para escuchar cuando necesitas valor para soltar, con el volumen alto. Dejar ir a quien nunca fue tuyo es un duelo sin nombre: no pierdes una relación, pierdes una posibilidad. «¡VE! Como un potro suelto en un trigal. ¡VE! Como el río corre hacia su mar.» El potro es quien se va, el río eres tú aprendiendo que tu cauce también merece llegar al mar. Si alguna vez has tenido que desearle buena suerte a quien se alejaba, sabes que no hay acto más valiente. A veces el amor no es esperar: es abrir la mano.
 
 ## Style Prompt
 

@@ -39,7 +39,7 @@
 
 ## Descripción
 
-No te ordena nada. No te dice cómo vivir ni por quién apostar. Solo se sienta a tu lado, con una guitarra cálida y una voz suave, y te recuerda lo que ya sabes y a veces olvidas: que la vida es corta y se va veloz como un día alegre. Que las heridas también florecen si les das tiempo. Que no hay fuego sin riesgo de quemarse, pero que sin fuego no hay luz. "Pequeña, ama mientras puedas, antes que el tiempo detenga sus ruedas." Siete pecados acechan afuera, sombras que quieren tu primavera, pero hay un solo camino que abre todas las puertas. Esta balada folk con rasgueo acústico y sintetizador atmosférico, con un puente que crece como una promesa, llega justo cuando la necesitas —no para salvarte, sino para recordarte que vale la pena intentarlo. Porque solo el amor hace real todo lo demás.
+Balada folk con rasgueo acústico y sintetizador atmosférico, para sentarse al lado de alguien a quien quieres y recordarle lo que ya sabe pero a veces olvida. No ordena nada, no dice cómo vivir. Solo recuerda que la vida se va veloz, que las heridas florecen si les das tiempo, que no hay fuego sin riesgo de quemarse pero sin fuego no hay luz. La tesis es la más antigua del mundo y la única que importa: el amor hace real todo lo demás. «Pequeña, ama mientras puedas, antes que el tiempo detenga sus ruedas.» No es un consejo: es un reconocimiento de que el tiempo corre y lo único que queda es lo que has amado. Para el momento en que necesitas que alguien te recuerde por qué vale la pena.
 
 ## Style Prompt
 

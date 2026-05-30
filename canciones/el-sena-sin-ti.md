@@ -40,7 +40,7 @@
 
 ## Descripción
 
-No hay una sola palabra en esta pieza. No hay historia que contar, ni desamor que llorar, ni declaración que hacer. Solo el Sena corriendo bajo un cielo gris, el silencio que pesa cuando falta alguien, y la certeza de que los lugares más hermosos duelen más cuando se recorren en soledad. No hace falta letra cuando el vacío habla por sí mismo. Una pieza instrumental para quienes saben que a veces la música no necesita explicar nada: solo estar ahí, ocupando el espacio que alguien dejó. El Sena sin ti no es el mismo río. Y esta canción no intenta convencerte de lo contrario: solo te acompaña mientras lo cruzas sola, con las manos en los bolsillos y la mirada perdida en el agua.
+Instrumental a cappella, minimal y íntima, para cruzar un puente sola con las manos en los bolsillos y la mirada perdida en el agua. No hay letra porque no hacen falta palabras: el Sena corre bajo el mismo cielo gris, los barcos pasan, la ciudad sigue, pero falta alguien. Los lugares más hermosos duelen más cuando se recorren en soledad. La tesis de la pieza es que el silencio compartido pesa menos que el silencio de quien espera: el río es el mismo, el que falta es quien lo volvía distinto. Si alguna vez has vuelto a un lugar que amabas y has descubierto que el lugar no había cambiado pero tú ya no eras el mismo, esta pieza es el sonido de ese descubrimiento.
 
 ## Style Prompt
 

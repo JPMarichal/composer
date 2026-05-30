@@ -39,7 +39,7 @@
 
 ## Descripción
 
-Hay casas donde los claveles no son decoración: son archivos vivientes de cada amor que pasó. Ella tiene la casa llena — cada flor guarda la memoria de un romance, cada pétalo es una caricia que se niega a marchitarse. En un vals de 3/4 que empieza con una guitarra rasgueada y se va llenando de palmas y armonías, la canción celebra a la mujer que teje la eternidad con flores, que es más tormentosa que el tifón y más domadora que Cibeles. Una declaración de amor que entiende que lo eterno cabe en un instante.
+Folk-pop en 3/4 con guitarra rasgueada, palmas progresivas y un build que va de la intimidad a la fiesta, para celebrar a la persona que teje la eternidad con cosas pequeñas. Hay casas donde los claveles no son decoración: son archivos vivientes de cada amor que pasó. Cada flor es un romance guardado, cada pétalo una caricia que se niega a marchitarse. La canción construye sobre una idea simple y profunda: la eternidad no es larga, es intensa. «Viva la eternidad que en un instante / me acercas al quedar solos los dos.» La mujer de la canción no es una musa pasiva: es más tormentosa que el tifón y más domadora que Cibeles, y su casa llena de claveles es un museo de todo lo que ha amado. Si alguna vez has conocido a alguien que guarda la memoria de cada persona que ha querido, sabes de qué habla esta canción.
 
 ## Style Prompt
 

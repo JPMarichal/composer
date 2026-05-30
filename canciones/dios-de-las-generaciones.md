@@ -39,7 +39,15 @@
 
 ## Descripción
 
-Jehová convino con Abraham toda la tierra de Canaán. Esta canción de adoración recorre las generaciones bíblicas como una letanía — Dios de Abraham, de Isaac y de Jacob — recordando que el pacto no se rompe aunque pasen los siglos. Cada repetición es un escalón que sube, una generación que se suma al coro de los que creyeron antes. No hay estribillo ni puente: solo la certeza de que el mismo Dios que llamó a un nómada en Ur sigue llamando hoy.
+Adoración minimalista a capela con textura de salmo gregoriano, sin estribillo ni puente: solo escalones de repetición que suben como una escalera de Jacob hacia el cielo. Para escuchar en la mañana, en silencio, cuando necesitas recordar que hay algo más grande que tus problemas inmediatos.
+
+Esta canción no se desarrolla: se acumula. «Jehová convino con Abraham toda la tierra de Canaán» —y luego, una y otra vez, «Dios de Abraham, de Isaac y de Jacob», como un mantra que atraviesa los siglos. No hay metáfora ni vuelta poética: es una letanía de fidelidad, generación tras generación, demostrando que el pacto no se rompe aunque pasen los milenios.
+
+«Dios de Abraham» no solo nombra a un Dios histórico: nombra la fidelidad que cruza el tiempo sin desgastarse, la promesa que sigue vigente aunque los que la recibieron ya no estén.
+
+Si alguna vez has necesitado saber que hay algo que no cambia, que no se olvida de ti, que no se cansa de esperar —esta canción es la respuesta que no usa palabras.
+
+El mismo Dios que habló con un nómada en Ur sigue hablando. Y sigue llamando.
 
 ## Style Prompt
 

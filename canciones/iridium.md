@@ -40,7 +40,7 @@
 
 ## Descripción
 
-El iridio llegó a la Tierra en meteoritos. Es el metal más resistente a la corrosión, el que sobrevive cuando todo lo demás se oxida y desaparece. Esta pieza instrumental suena como algo que cayó del espacio y decidió quedarse: densa, indestructible, imparable. Una electrónica que parece venir de fuera de este mundo, que brilla con la luz fría de lo que atravesó la atmósfera sin desintegrarse, que guarda en su estructura la memoria de una explosión estelar ocurrida antes de que existiera la Tierra.
+Electrónica densa que suena a algo caído del espacio que decidió quedarse. Para escuchar cuando necesitas sentirte indestructible. El iridio llegó a la Tierra en meteoritos: es el metal más resistente a la corrosión, el que sobrevive cuando todo se oxida. Esta pieza brilla con luz fría de lo que atravesó la atmósfera sin desintegrarse, guardando en su estructura la memoria de una explosión estelar ocurrida antes de que existiera la Tierra.
 
 ```
 

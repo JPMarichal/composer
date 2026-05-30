@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Benedetti escribió este poema como un manual de guerra aplicado al amor. La táctica es cómo: mirarte, aprenderte, quedarme en tu recuerdo. La estrategia es por qué: que termines necesitándome. Cada línea corta cae como un golpe de tambor — igual, constante, sin aceleración ni duda — porque esta fragmentación es el ritmo de una marcha. Spoken word sobre un beat implacable, porque el amor también se gana con estrategia, y la estrategia es cuestión de tiempo y de paciencia. «Mi táctica es hablarte y escucharte, mi estrategia es en cambio más profunda y más simple».
+Spoken word sobre un beat implacable con estructura de marcha militar — cada línea corta cae como un golpe de tambor, igual, constante, sin duda — para quien entiende que el amor también se conquista con paciencia. Benedetti escribió este poema como un manual de guerra aplicado al amor. La táctica es el cómo: mirarte, aprenderte, quedarme en tu recuerdo. La estrategia es el por qué: que termines necesitándome. La musicalización respeta la fragmentación original del poema, convirtiendo cada verso en un paso de marcha. Frío ending: la canción no se disuelve, se detiene en seco cuando el ejército llega a destino. Para quien ha entendido que el amor verdadero es cuestión de tiempo, no de urgencia.
 
 ```
 

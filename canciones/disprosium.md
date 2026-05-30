@@ -40,7 +40,7 @@
 
 ## Descripción
 
-El disprosio es un elemento tan raro que su nombre viene del griego «dysprositos» — difícil de obtener. Esta pieza instrumental captura esa rareza: un sonido que no se deja atrapar del todo, que se desvanece cuando crees tenerlo. Sin letra, sin concesiones. Como el elemento que nombra, la canción existe en el límite de lo que puede ser capturado, girando en frecuencias que el oído persigue sin alcanzar del todo.
+Electrónica difícil de atrapar, con frecuencias que se desvanecen cuando crees tenerlas. Para escuchar cuando buscas algo que sabes que existe pero no puedes capturar del todo. El disprosio es tan raro que su nombre viene del griego «dysprositos» — difícil de obtener. Esta pieza no se deja atrapar, gira en frecuencias que el oído persigue sin alcanzar, como el elemento que la nombra: existe en el límite de lo que puede ser capturado.
 
 ## Style Prompt
 

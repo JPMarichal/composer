@@ -42,7 +42,7 @@
 
 ## Descripción
 
-Está sentado en una silla de hospital, mirando una puerta que no se abre. El reloj avanza, las horas se vuelven líquidas, imposibles de medir. Del otro lado, ella entrega el cuerpo entero. Piensa en sus manos, en su sonrisa, en el precio de este tormento que él no podría pagar. "No comprendo tu valor, no imagino lo que sientes, cómo afrontas el dolor siempre siendo tan valiente." Y entonces, un llanto. Todo el mundo se detiene. Ella sale con los ojos llenos de gloria, agotada, viva, más grande que cualquier palabra. "Que das la vida para dar vida, te rompes entera para renacer." Esta balada de pop de cámara con piano y cuerdas no es solo una canción sobre el parto: es la confesión de un hombre que descubre que la fortaleza no tiene género, y que el amor más grande a veces tiene nombre de madre.
+Chamber pop a 90 BPM con piano feltro, viola, cello y guitarra de nylon — para el momento en que una puerta de hospital se abre y la vida cambia para siempre. Un hombre en una silla de hospital mira una puerta que no se abre. Las horas se vuelven líquidas. Del otro lado, ella entrega el cuerpo y la vida entera. La tesis de la canción es una perplejidad: el hombre descubre que hay una fortaleza que no ha conocido y que no tiene género. «No comprendo tu valor, no imagino lo que sientes, cómo afrontas el dolor siempre siendo tan valiente». Y entonces, un llanto. La puerta se abre. «Que das la vida para dar vida, te rompes entera para renacer». No es una canción sobre el parto: es sobre descubrir que el amor más grande tiene nombre de madre y que hay violencias que ningún hombre podría comprender porque no le han sido exigidas. Para quien ha visto a una mujer dar la vida para dar vida.
 
 ## Style Prompt
 

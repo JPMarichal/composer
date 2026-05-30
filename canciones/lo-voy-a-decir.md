@@ -42,7 +42,7 @@
 
 ## Descripción
 
-"Lo voy a decir cuando estés aquí. Ya me decidí. Me he rendido al fin." Alguien ha guardado un secreto durante mucho, mucho tiempo. Lo ha escondido tan profundo que ya casi ni recuerda cómo es tenerlo fuera. Pero hoy algo se rompe. La repetición obsesiva de la promesa —"lo voy a decir, lo voy a decir"— es el mantra de quien ensaya frente al espejo, de quien siente que la oportunidad se acerca y el miedo no la deja hablar. "Tengo un secreto azul, solo para ti. Una revelación que siempre escondí." Este pop balada español con guitarra de nylon, Rhodes y cepillo en la batería construye una tensión que no se resuelve hasta el final: porque lo importante no es lo que va a decir, sino el acto mismo de decidirse a decirlo. La confesión como liberación, el silencio como prisión, y el valor de quien elige la verdad aunque no sepa cómo va a ser recibida.
+Pop balada íntimo con guitarra de nylon, Rhodes y cepillo en la batería, para el momento exacto en que ensayas frente al espejo lo que vas a decirle. Alguien ha guardado un secreto tanto tiempo que ya casi no recuerda cómo es tenerlo fuera. Pero hoy algo se rompe. «Lo voy a decir, lo voy a decir» no es una declaración: es un mantra, la respiración de quien está a punto de saltar al vacío. La tesis es que lo importante no es lo que va a decir sino el acto mismo de decidirse a decirlo. La confesión como liberación, el silencio como prisión. «Tengo un secreto azul, solo para ti.» ¿Qué es el secreto? No importa. Importa que haya alguien que por fin se atreve. Para el momento en que el miedo a hablar pesa menos que el miedo a no haberlo intentado.
 
 ## Style Prompt
 

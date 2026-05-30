@@ -40,7 +40,7 @@
 
 ## Descripción
 
-El europio es el elemento que hace brillar los billetes de euro bajo la luz ultravioleta y los fósforos de las pantallas. Esta pieza instrumental evoca esa luminosidad fingida: la belleza de lo que brilla solo cuando se le aplica una luz externa. Una electrónica que parpadea entre lo auténtico y lo artificial, preguntándose sin palabras si hay algo real detrás del resplandor, o si basta con parecer luminoso para serlo.
+Electrónica que parpadea entre lo auténtico y lo artificial. Para escuchar cuando te preguntas si basta con parecer luminoso para serlo. El europio hace brillar los billetes de euro bajo luz ultravioleta y los fósforos de las pantallas. Esta pieza evoca la belleza de lo que brilla solo cuando se le aplica luz externa, preguntándose sin palabras si hay algo real detrás del resplandor o si basta con parecer luminoso para serlo.
 
 ## Style Prompt
 

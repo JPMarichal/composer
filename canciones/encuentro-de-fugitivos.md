@@ -39,7 +39,7 @@
 
 ## Descripción
 
-Él perdió un amor. Ella también. Se encuentran bajo la sombra de un parque en la ciudad, junto a un río que corre con gris lentitud. Primero compiten en sus desgracias: "Nadie ha sufrido como sufro yo", dice él. "Nunca una mujer se vio tan sola así", responde ella. Buscan un refugio para escapar del mundo cruel y solo encuentran barro y un matorral. "¡Qué aburrimiento!", suspira ella. Y se sientan. Y entonces, sin buscarlo, se miran. Y se ríen. "¡Qué buena compañía! Encontraron luz en la agonía." Esta bossa nova con guitarra de nylon, piano eléctrico y percusión ligera es la declaración más honesta sobre cómo el amor a veces llega no cuando lo buscas, sino cuando ya dejaste de buscar. Cuando te rendiste, cuando dejaste de competir en desgracias ajenas y simplemente te sentaste a compartir el barro con alguien.
+Bossa nova con guitarra de nylon, piano eléctrico y percusión ligera, para una tarde de lluvia en un parque cuando dos desconocidos descubren que compartir el barro es mejor que competir en desgracias. Dos almas perdidas se encuentran bajo la sombra de un árbol. Él perdió un amor, ella también. Primero compiten: «Nadie ha sufrido como sufro yo». «Nunca una mujer se vio tan sola así». Buscan un refugio y solo encuentran barro y un matorral. «¡Qué aburrimiento!», suspira ella. Se sientan. Se miran. Se ríen. La tesis es que el amor a veces llega no cuando lo buscas sino cuando ya dejaste de buscar: cuando te rendiste, cuando dejaste de competir y simplemente te sentaste a compartir el barro con alguien. «¡Qué buena compañía! Encontraron luz en la agonía.» Si alguna vez has encontrado a alguien en medio del peor momento y ese alguien lo ha hecho menos malo, esta canción te entiende.
 
 ## Style Prompt
 

@@ -39,7 +39,7 @@
 
 ## Descripción
 
-"Buenos días a la fría medianoche. He vuelto a casa, ya se fue el sol. El día se cansó de mis reproches, me abandonó sin darnos un adiós." Hay un momento en que la luz se apaga y no sabes si es el final de algo o el principio de otra cosa. El horizonte se vuelve carmesí, un color que el corazón no comprende, y las colinas tienen un aspecto nuevo que no sabes descifrar. Esta canción es para quien ha sido dejado por algo que amaba —una etapa, una persona, una versión de sí mismo— y se encuentra frente a la noche pidiendo refugio sin rendirse del todo. "Acógeme ahora, noche plateada. Recibe a esta chica que perdió el camino. Si la luz me dejó abandonada, sé tú mi refugio y mi destino." Indie rock con piano eléctrico y sintetizadores atmosféricos, donde la voz femenina transita del desconcierto a una aceptación que no se rinde, solo cambia de dirección.
+Indie rock con piano eléctrico, sintetizadores atmosféricos y guitarra limpia en 4/4, voz femenina que transita del desconcierto a la aceptación. Para escuchar al anochecer, cuando el sol se ha ido y no sabes si es el final de algo o el principio de otra cosa. «Buenos días a la fría medianoche» es el saludo a una etapa que no pediste pero que te toca vivir. La medianoche no es la muerte del día: es otro ciclo. Si alguna vez has perdido algo que creías para siempre y has tenido que aprender a vivir en la oscuridad que dejó, esta canción te tiende la mano. Acoger la noche no es rendirse: es cambiar de dirección.
 
 ## Style Prompt
 

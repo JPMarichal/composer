@@ -40,7 +40,7 @@
 
 ## Descripción
 
-El litio es el metal más ligero de todos — tan liviano que flota en el agua — pero también el que estabiliza el ánimo, el que suaviza los picos de la mente. Esta pieza instrumental explora esa paradoja: lo que parece frágil sostiene el equilibrio, lo que flota carga la energía del mundo. Una electrónica que pesa menos de lo que debería, que almacena corriente sin hacer ruido, que mantiene estable lo que amenaza con desbordarse. Como el litio en la batería que no ves pero sin la cual nada enciende.
+Electrónica ligera que flota pero carga energía, como el metal que estabiliza el ánimo. Para escuchar cuando necesitas equilibrio sin hacer ruido. El litio es el metal más liviano: flota en el agua, pero también suaviza los picos de la mente. Esta pieza pesa menos de lo que debería, almacena corriente sin que se note, mantiene estable lo que amenaza con desbordarse. Como la batería que no ves pero sin la cual nada enciende.
 
 ```
 

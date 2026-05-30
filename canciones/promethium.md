@@ -40,7 +40,7 @@
 
 ## Descripción
 
-El prometio no existe en la naturaleza: solo puede crearse en un reactor nuclear, y brilla en azul-verdoso en la oscuridad mientras se desintegra. Esta pieza instrumental captura esa belleza artificial y efímera — la electrónica que brilla porque alguien la encendió a la fuerza, que sabe que su luz tiene fecha de vencimiento, que consume su propia energía para existir. Como el prometio en la oscuridad de un laboratorio: música hecha de pura voluntad, radiante y condenada.
+Electrónica radiante y efímera, sintetizadores que brillan sabiendo que su luz tiene fecha de vencimiento. Para escuchar cuando necesitas belleza que sabes que no durará. El prometio no existe en la naturaleza: solo se crea en un reactor y brilla azul-verdoso mientras se desintegra. Esta pieza brilla porque alguien la encendió a la fuerza, consume su propia energía para existir, como un destello en la oscuridad de un laboratorio: radiante y condenada.
 
 ```
 

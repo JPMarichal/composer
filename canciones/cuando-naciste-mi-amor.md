@@ -42,7 +42,7 @@
 
 ## Descripción
 
-¿Tu alma fue creada en el instante exacto de tu nacimiento, como una chispa nueva encendida por primera vez? ¿O ya brillabas desde antes, como una estrella lejana esperando su momento para caer? "Quizá brillabas tranquila en la inmensidad, mirando la tierra con gran ansiedad, y al ver tu cuerpo pequeño, saltaste de allá, dejando tu trono en el cielo." Esta balada orquestal de piano y cuerdas envolventes se hace esa pregunta con la urgencia de quien necesita creer que este amor no empezó ayer. La respuesta nunca llega del todo, pero la certeza sí: el amor que hoy existe no pudo haber nacido de la nada. Viene de algún lugar más antiguo que nosotros. Hay misterios que la ciencia no toca, y el origen del alma es uno de ellos. A 72 BPM, con un crescendo orquestal que abraza la duda sin resolverla.
+Balada orquestal con piano, cuerdas envolventes y guitarra acústica a 72 BPM. Para escuchar en la madrugada, cuando te preguntas cómo es posible que exista la persona que duerme a tu lado. ¿El alma se crea al nacer o ya brillaba como estrella lejana esperando caer? La estrella que ansía caer no es un astro: es el amor que no empezó ayer, la certeza de que hay encuentros que trascienden el tiempo. Si alguna vez has pensado «no puede ser casualidad que estemos juntos», esta canción es tuya. Hay misterios que la ciencia no toca, y el origen del alma es uno de ellos.
 
 ## Style Prompt
 

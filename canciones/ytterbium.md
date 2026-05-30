@@ -40,7 +40,7 @@
 
 ## Descripción
 
-El iterbio mide el tiempo con precisión atómica: está en los relojes más exactos del mundo, los que se desvían un segundo cada mil millones de años. También se encoge bajo presión, como un medidor de estrés hecho metal. Esta pieza instrumental captura esa doble vida — la electrónica que cuenta el tiempo con precisión implacable mientras se comprime bajo su propio peso. Música que sabe exactamente qué hora es y cuánto falta para que todo termine, pero que sigue sonando porque el tiempo aún no se ha quedado sin paciencia.
+Electrónica instrumental con pulsos precisos y texturas que se comprimen. Para escuchar cuando el tiempo pesa y necesitas ponerle sonido a esa presión. El iterbio mide el tiempo con precisión atómica y se encoge bajo estrés. Esta pieza cuenta los segundos con implacable exactitud mientras se comprime bajo su propio peso, como un metal que sabe qué hora es y cuánto falta, pero sigue sonando porque el tiempo aún no se ha quedado sin paciencia.
 
 ```
 

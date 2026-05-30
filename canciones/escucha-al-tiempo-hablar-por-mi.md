@@ -39,7 +39,7 @@
 
 ## Descripción
 
-Tiene tu risa en el bolsillo del abrigo y una dirección sin terminar. Camina por la ciudad al atardecer, entre semáforos que crujen y marquesinas que inventan rutas. No es una despedida, tampoco una promesa: solo está parado en la línea donde el mundo se curva, a un centímetro del salto. La canción captura ese instante suspendido entre el vértigo de mirar arriba y la claridad de mirar adentro. Synth-pop nostálgico con texturas ochenteras para decir, sin decirlo del todo: «Aún queda el mundo entero por venir».
+Synth-pop nostálgico con texturas ochenteras a 160 BPM, groove relajado. Para escuchar al atardecer, caminando por la ciudad, cuando no sabes si vas hacia algo o te alejas de todo. Se para en el instante entre el vértigo y la claridad, a un centímetro del salto, con la risa de alguien en el bolsillo y una dirección sin terminar. La línea donde el mundo se curva es el umbral donde todo sigue siendo posible. Si alguna vez has estado en una esquina sin saber si girar, y has sentido que ambas opciones te cambiaban la vida, sabes que el vértigo y la claridad son la misma cosa. Aún queda el mundo entero por venir.
 
 ## Style Prompt
 

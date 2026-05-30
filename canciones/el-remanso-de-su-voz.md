@@ -39,7 +39,7 @@
 
 ## Descripción
 
-Agua clara que gotea sobre la piedra gris. Loto abierto en ríos de virtud, bajo arcos de templos viejos. Rosas vivas que brillan en jardines de Persia cerrados, donde el misterio lo abraza todo. "Su voz es como el agua clara, allá donde el ruido no llega, donde la Calma solitaria juega." Esta pieza neoclásica con arpa, flauta traversa y cuerdas orquestales no te cuenta una historia: te lleva a un lugar. Un bosque lejano donde el silencio tiene matices, donde la Calma se sienta y sueña, donde no hay prisa ni principio ni fin. A 68 BPM, con sonidos sutiles de agua de fondo y una voz de soprano que flota como una aparición, esta canción es para quien necesita recordar que ese lugar existe —ese espacio interior donde todo está en orden, donde la paz no es una conquista sino un estado natural del ser. Escúchala cuando el ruido del mundo te haya convencido de que la calma no existe.
+Neoclásico etéreo con arpa, flauta traversa, violonchelo y cuerdas a 68 BPM, con agua de fondo y una soprano que flota como aparición. Para escuchar cuando el ruido del mundo te haya convencido de que la calma no existe. No cuenta una historia: te lleva a un bosque donde el silencio tiene matices, donde la Calma se sienta y sueña. El agua clara no es una mujer: es un estado del ser, la paz que no depende de las circunstancias. Si alguna vez has querido desaparecer en un lugar donde nadie te encuentre, esta canción es ese lugar. La paz no es una conquista: es un estado natural, y esta canción te lleva de vuelta a él.
 
 ## Style Prompt
 

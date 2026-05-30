@@ -39,7 +39,7 @@
 
 ## Descripción
 
-Hay un cajón que nunca se abre. Allí guarda la última foto que se tomaron, los poemas que ella comentó, las cartas perfumadas que cruzaron fronteras. Cada objeto es una reliquia de un amor que el tiempo no pudo borrar: mil besos blancos, mil travesuras simples, mil encantos. Pero un día, harto del polvo acumulado, saca el corazón para limpiarlo y termina rompiéndolo en llanto. La canción es el sonido de un cajón que se cierra — el acto final de alguien que, por fin, se permite abrirlo para despedirse.
+El cajón izquierdo está a la izquierda del pecho, donde está el corazón. No es una metáfora: el cajón es el corazón, y el corazón es un mueble. Allí guarda la última foto que se tomaron, los poemas que ella comentó, las cartas perfumadas que cruzaron fronteras — todo lo que un corazón puede retener cuando no se abre. Cada objeto es una reliquia cardiaca de un amor que el tiempo no pudo borrar: mil besos blancos, mil travesuras simples, mil encantos. Pero un día, harto del polvo acumulado de no abrirse nunca, saca el corazón para limpiarlo — es decir, abre el cajón — y termina rompiéndolo en llanto. La canción es el sonido de un cajón que se cierra: el acto final de alguien que, por fin, se permite abrir lo que siempre estuvo cerrado para despedirse.
 
 ## Style Prompt
 

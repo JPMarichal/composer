@@ -40,7 +40,7 @@
 
 ## Descripción
 
-"Mira, esa línea de luces que ves, cadena de estrellas cayendo a mis pies. ¿Por qué no la tomas y me la das?" Hay noches de invierno que, con la persona correcta, huelen a abril. Un autobús se vuelve carruaje, una plaza desierta se transforma en jardín, el frío se olvida. "Mi pecho está lleno de flores de abril, pensamientos tontos, más de mil. Tengo que dártelos antes que mueran." Ella lee un poema en un banco bajo la niebla, y ese banco se convierte en el lugar más cálido del mundo. "Porque traemos abril, tú y yo, a esta noche de invierno y frío. Marcamos huellas de fuego y oro, un rastro secreto que yo atesoro." Folk pop con piano, violín y guitarras acústicas, con esa atmósfera etérea de quien sabe que el amor verdadero no cambia las estaciones: las trasciende. Si conoces ese amor que hace florecer lo gris, esta canción ya es tuya.
+Folk pop con piano, violín y guitarras acústicas, atmósfera etérea que envuelve sin abrumar. Para escuchar una noche de invierno junto a quien hace que el frío se olvide. Hay noches que, con la persona correcta, huelen a abril: un autobús se vuelve carruaje, una plaza desierta se transforma en jardín. Abril no es un mes: es llevar primavera donde no la hay. «Traemos abril, tú y yo» es la certeza de que el amor no espera a que las condiciones sean perfectas. Si alguna vez has estado con alguien y el mundo ha desaparecido a tu alrededor, ya has vivido lo que esta canción canta. El amor no cambia el clima: cambia lo que el clima significa.
 
 ## Style Prompt
 

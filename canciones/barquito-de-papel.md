@@ -40,7 +40,7 @@
 
 ## Descripción
 
-No hay letra que descifrar ni historia que seguir. No hay destino, no hay mapa, no hay prisa. Solo la fragilidad de algo que se pliega, flota y navega sin saber adónde va —y aun así llega. Esta pieza a cappella, minimal y lenta es el equivalente sonoro de un barquito de papel en un charco: una pausa que el ruido del mundo no puede darte porque el ruido del mundo no sabe existir así. Entre el pliegue y el agua, entre la respiración y el silencio, hay un espacio que solo la música más desnuda puede habitar. Es una canción que no intenta ser nada más que un instante de calma, tan frágil que si respiras muy fuerte, desaparece. Y quizá por eso es tan necesaria.
+A cappella instrumental, minimal y lenta, como una respiración que no necesita justificarse. No hay letra, no hay destino, no hay mapa, no hay prisa. Solo la fragilidad de un papel que se pliega, flota y navega sin saber adónde va —y aun así llega. La canción no intenta ser nada más que el espacio entre la inspiración y la espiración, entre el pliegue y el agua. Es una pausa que el ruido del mundo no puede darte porque no sabe existir así. Su tesis es que la calma es un acto de resistencia: cuando todo corre, detenerse es revolucionario. Para el momento en que necesitas que todo se calle, incluso la música.
 
 ## Style Prompt
 

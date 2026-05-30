@@ -39,7 +39,7 @@
 
 ## Descripción
 
-Si fuera una rosa de terciopelo, treparía hasta tu ventana y adornaría tu cristal para ti. Si fuera el ave pequeña que trina en la rama del jardín, cantaría todo el día solo para que me oyeras. Pero soy quien soy: solo una mujer que camina bajando la mirada, con un fuego por dentro que nadie ve, con un beso guardado que sería más rojo que cualquier rosa, más rojo que la flor en su esplendor. "Transformaste mi voz en un suspiro, y no ves el fuego con el que te miro. Se pierde en el aire lo que respiro." Y porque el silencio es su prisión, su amor nunca será conocido. Paso de largo sin decir nada, con la esperanza ya cansada y el alma un poco callada. Indie pop con guitarras acústicas, sintetizadores atmosféricos y esa voz femenina que flota entre la melancolía y la dulzura. Esta canción es para el amor que nunca se atrevió a hablar, para todos los besos que se quedaron guardados.
+Indie pop soñador con guitarras acústicas, sintetizadores atmosféricos y voz femenina que flota entre la melancolía y la dulzura. Para escuchar cuando piensas en esa persona que nunca supo lo que sentías. De qué sirve tener un beso de mil kilates si nunca lo das. La rosa no es una flor: es el beso no dado, el «te quiero» que se pudre en la lengua. Si alguna vez has querido a alguien sin atreverte a decírselo, esta canción es el monumento a todos esos amores que nunca serán conocidos.
 
 ## Style Prompt
 

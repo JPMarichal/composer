@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Neruda escribió cinco estrofas que abren con el mismo verso: «Me gustas cuando callas porque estás como ausente». Es un poema sobre la distancia, sobre amar a alguien que no está del todo ahí, sobre la contemplación de un cuerpo dormido o lejano que se vuelve más hermoso exactamente porque no habla. La musicalización — guitarra acústica en fingerpicking que crece desde la intimidad más frágil hasta un clímax de cuerdas orquestales — respeta cada palabra del poeta y construye un arco que va del silencio al alivio gozoso del final, cuando el poeta descubre que la ausencia también es una forma de presencia.
+Adaptación musical del poema de Pablo Neruda, con guitarra acústica en fingerpicking que crece desde la intimidad más frágil hasta un clímax de cuerdas orquestales, para la persona que amas mientras duerme y no sabe que la estás mirando. El poema explora una paradoja: te gusto cuando callas porque estás como ausente, porque tu silencio te vuelve más hermosa. Es un poema sobre la distancia en la cercanía, sobre quien ama a alguien que no está del todo ahí. La musicalización respeta cada palabra y construye un arco que va del silencio al alivio gozoso del final, cuando el poeta descubre que la ausencia también es una forma de presencia. Para quien ha amado a alguien en su silencio y ha descubierto que hay comuniones que no necesitan palabras.
 
 ```
 

@@ -51,7 +51,20 @@ Formato estandarizado para archivos `.md` de canciones en `canciones/`, alineado
 
 ## Descripción
 
-<tesis o resumen de 2-4 líneas>
+La descripción es un texto de 1-2 párrafos con esta estructura:
+
+1. **Hook:** género, tempo (si se conoce), instrumentación destacada, para qué momento escucharla («Para escuchar cuando...»)
+2. **Tesis:** de qué trata realmente la canción, sin spoilear la letra completa
+3. **Simbolismo explícito:** si hay un objeto central, explicar su significado (ej. «el cajón no es un mueble: es el corazón»)
+4. **Conexión:** frase que comience con «Si alguna vez has...» que conecte con la vivencia del oyente
+5. **Cierre:** una línea o imagen breve que resuma el mensaje
+
+**Reglas:**
+- Máximo 2 párrafos, preferiblemente 1
+- No usar la voz pasiva ni «esta canción trata sobre» — ir directo al grano
+- Cada frase debe pasar la prueba del bar: «¿lo diría alguien en una conversación real?»
+- Un gancho al inicio («Folk orquestal con chelo y violín. Para escuchar cuando...») sin perder tiempo
+- Para instrumentales de elementos: género + sintetizadores → para qué escucharla → propiedad del elemento → conexión musical → cierre poético
 
 ## Style Prompt
 

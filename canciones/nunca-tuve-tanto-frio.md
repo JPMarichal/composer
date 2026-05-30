@@ -39,7 +39,7 @@
 
 ## Descripción
 
-Las calles están heladas, los árboles cubiertos de escarcha, las estrellas son agujas de frío sideral. Pero el invierno más profundo no está en la ciudad: está en el momento exacto en que una voz amada dice que el fuego se apagó. Esta balada encuentra palabras para ese frío que no tiene estación y que, si lo has sentido, reconocerás desde la primera nota.
+Balada indie folk con piano eléctrico con eco, guitarra limpia con reverb y un clímax contenido que nunca termina de estallar, como el frío que no se va. Las calles son láminas de cristal, los árboles están cubiertos de escarcha, las estrellas son agujas de frío sideral. Pero la canción no habla del invierno de la ciudad: habla del que llega cuando una voz amada dice que el fuego se apagó. «Esta helada no es cosa de la estación, es un invierno eterno en mi propia razón.» La tesis es que hay un frío que no tiene estación ni remedio: el que entra cuando alguien deja de quererte. Si alguna vez has sentido el frío que no se quita con bufandas ni calefacción, esta canción sabe exactamente cómo se llama.
 
 ## Style Prompt
 

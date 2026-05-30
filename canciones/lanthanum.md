@@ -40,7 +40,7 @@
 
 ## Descripción
 
-El lantano abre la serie de los lantánidos: es el primero, el que empieza la familia, pero también el que más rápido se oxida al contacto con el aire. Esta pieza instrumental captura ese doble filo del origen — la belleza de ser el principio de algo y la fragilidad de exponerse al mundo por primera vez. Una electrónica que brilla recién cortada y se empaña mientras suena, como un metal que prefiere guardarse antes que mostrarse, como el vértigo de ser el primer paso de todo.
+Electrónica de origen: brillante al principio pero oxidándose con el aire. Para escuchar cuando empiezas algo y sientes el vértigo de lo frágil que es el principio. El lantano abre la serie de los lantánidos pero se oxida más rápido que ningún otro al contacto con el aire. Esta pieza captura ese doble filo: la belleza de empezar y la fragilidad de exponerse al mundo por primera vez. Brilla recién cortada y se empaña mientras suena, como el vértigo de ser el primer paso de todo.
 
 ```
 

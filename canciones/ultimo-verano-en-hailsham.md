@@ -39,7 +39,7 @@
 
 ## Descripción
 
-Camas en fila, cortinas grises, aire quieto. Tu sombra cruza el pasillo como un recuerdo que se arrepintió de haber venido. Cartas guardadas en un cajón que nunca abrí. Tu risa corta el silencio y ya no sé si fue de aquí o de otro lugar. Una mano trémula rozando apenas un abrigo azul. Quería decirte "vámonos", pero bajé la voz. Inspirada en el universo conmovedor de Kazuo Ishiguro, esta canción no lucha contra nada: acepta. Y en esa aceptación brumosa y lenta hay una extraña dignidad que se te queda dentro mucho después de que termina. "Acepto este destino lento como lluvia en un cristal. Ya no peleo contra el tiempo. Solo dejo de respirar si te vas." Dreampop con guitarras bañadas en reverb, voces flotando bajas en la mezcla, y una atmósfera de niebla que lo envuelve todo como un último verano que se niega a terminar.
+Dreampop brumoso con guitarras bañadas en reverb, voces flotando bajas en la mezcla y un groove perezoso que se niega a terminar, como el último verano de alguien que sabe que no habrá otro. Inspirada en Kazuo Ishiguro y su universo de destinos aceptados sin lucha. Camas en fila, cortinas grises, cartas guardadas en un cajón que nunca se abre. La mano que roza un abrigo azul y se retira. Las ganas de decir «vámonos» y la voz que se baja. La tesis de la canción es que la dignidad no está en resistir sino en aceptar —y que esa aceptación duele más que la lucha. «Acepto este destino lento como lluvia en un cristal. Ya no peleo contra el tiempo. Solo dejo de respirar si te vas.» Si alguna vez has sabido que algo se terminaba y no has hecho nada porque cualquier cosa habría dolido más, esta canción te reconoce desde la primera nota.
 
 ## Style Prompt
 

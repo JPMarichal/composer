@@ -39,7 +39,7 @@
 
 ## Descripción
 
-El sol se ha ido, la luna naranja sube lenta sobre los montes. Los arces se dibujan negros contra un azul que se vuelve más hondo que el jazmín. Los gorriones cruzan el aire sin rumbo, juntos ahora y luego separados como pétalos de un árbol violento. Bajé la cuesta y perdí los caminos del hombre y su razón, porque los aromas de la noche despertaron en mí un éxtasis que no sabía que cabía en un pecho humano. Y entonces, al borde de un estanque de marfil, algo se abrió: la certeza de que no hay amargura que pueda doblar, ni tristeza que logre abatir, a quien ama el mundo hasta el final. "Oh, Belleza, de tanta copa llena me has embriagado, salvaje y feliz, desde que era una niña sin pena." Folk orquestal con chelo, violín y guitarra acústica: un himno a la capacidad de la belleza de redimirlo todo.
+Folk orquestal con chelo, violín y guitarra acústica a medio tempo. Para escuchar al atardecer cuando el cielo se vuelve rosa y necesitas recordar que hay cosas que ningún problema puede tocar. No habla de una persona sino de la Belleza como fuerza redentora: la luna naranja, los gorriones sin rumbo y el estanque de marfil son escalones hacia la certeza de que quien ama el mundo no puede ser vencido. Si alguna vez un atardecer te ha recordado que vale la pena estar vivo, esta canción es para ti.
 
 ## Style Prompt
 

@@ -39,7 +39,15 @@
 
 ## Descripción
 
-Empieza con pasos. Alguien camina detrás de ti desde que empezó la canción. Doblas una esquina y ya no están, pero juras que los oíste. La luz del bar tiembla, las risas suenan secas, cada pared tiene sed de tu silencio. En un soul/R&B que alterna el tenso fraseo staccato de los versos con estribillos explosivos y melismáticos, la canción traza un descenso completo a la paranoia: no hay un solo momento de tregua, ni siquiera cuando cierras los ojos. Porque el delirio no se va — también respira. También vive en ti.
+Soul/R&B tenso con fraseo staccato en los versos, piano brillante y bajo sintético que cambia de tonalidad sin avisar, estribillos explosivos y melismáticos. Para escuchar con los cascos puestos, de noche, caminando rápido por la calle cuando sientes que alguien te sigue —aunque sepas que no hay nadie.
+
+Empieza con pasos. Alguien camina detrás de ti desde que empezó la canción. Doblas una esquina y ya no están, pero juras que los oíste. Cada pared tiene sed de tu silencio y la luz del bar tiembla como si también tuviera miedo. La canción no describe la paranoia desde fuera: te mete dentro, y no te deja salir ni cuando cierras los ojos.
+
+Los pasos que nunca se materializan, la voz grabada en la pared, las sombras que quieren entrar —no son enemigos externos. El verdadero perseguidor está dentro de la cabeza, y no necesita zapatos para caminar.
+
+Si alguna vez has estado solo en una habitación y has sentido que algo —no sabes qué— te observaba desde el borde de tu visión, y has mirado y no había nada, y eso te ha dado más miedo que si hubiera habido alguien, entonces ya has estado en el lugar al que esta canción te lleva.
+
+El delirio no se va. También respira. También vive en ti. Pero reconocerlo es el primer paso para dejar de huir.
 
 ## Style Prompt
 

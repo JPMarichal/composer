@@ -39,7 +39,7 @@
 
 ## Descripción
 
-La conoció un viernes por la noche. Brillaba la luna a su alrededor y él pensó que era un ángel traído para amarle. Pero ella era la hija de un dragón: fuego puro que quema resistencias, incandescencia que abrasa, pero con el corazón congelado. Mientras él se consumía en su llama, ella se volvía desierto. Una dark pop ballad con flautas fantasmales, violines mínimos y susurros — el testimonio de alguien que ardió por amor a una mujer que no podía sentir calor. «¿Dónde está que no puedo sin su fuego subsistir?».
+Dark pop ballad cinematográfica con flautas espectrales, violines mínimos, susurros masculinos y un drop electrónico que corta como un hachazo, para quienes han amado a alguien que no podía devolver el calor. La canción más antigua del corpus (1991) y ya contiene todas las semillas de lo que vendrá: la mujer que es fuego puro pero tiene congelado el corazón, el hombre que arde mientras ella se vuelve desierto. La tesis es una paradoja: el amor puede ser real y destructivo al mismo tiempo. «Como una flama creí era su presencia, / y dejé que se extendiera en mi interior. / Creí que era un ángel traído para amarme, / pero ella era la hija de un dragón.» Si alguna vez has dado todo a alguien que solo podía quemarte, esta canción sabe que el fuego no siempre calienta: a veces calcina.
 
 ```
 The 4:30 minutes cinematic dark pop ballad begins with rubato, minor-key piano joined by reverberant, ethereal flute, Breathy Spanish tenor vocals with heavy reverb and surreal whispered male interjections float above, all mandatory, Sparse violins fill silences, while sudden electronic drops and aggressive bass ignite tension, Lush, minimal textures and violin-piano interplay sustain a haunting, otherworldly ambience throughout, Celtic influence, Somewhat epic, somewhat stacatto, Whispers, including the initial, first verse, "Tierra", are all male, mandatory and equal in tune, with no interpretation, They are the semantic column of the song
@@ -50,12 +50,13 @@ The 4:30 minutes cinematic dark pop ballad begins with rubato, minor-key piano j
 ## Letra
 
 [Verse 1]
+Tierra
 La conocí un viernes por la noche
 Agua
 Brillaba la luna a su alrededor
-aire
+Aire
 Pensé que era un ángel traído para amarme
-fuego
+Fuego
 Desde la primera vez que me besó
 
 [Pre-Chorus]
@@ -65,12 +66,13 @@ Y yo tonto joven débil e inexperto
 Le creí y le entregué todo mi amor
 
 [Chorus]
+Tierra
 Como una flama creí era su presencia
 Agua
 Y dejé que se extendiera en mi interior
-aire
+Aire
 Creí que era un ángel traído para amarme
-fuego
+Fuego
 Pero ella era la hija de un dragón
 
 [Post-Chorus]
@@ -82,12 +84,13 @@ Y nubló para siempre mi razón
 ¿Donde está que a este incendio no podré sobrevivir?
 
 [Verse 2]
+Tierra
 Fuego puro quemando mis resistencias
-fuego
+Fuego
 Fuego puro abrazando mi razón
-aire
+Aire
 Ella era de fuego por su incandescencia
-agua
+Agua
 Pero tenía congelado el corazón
 
 [Pre-Chorus]

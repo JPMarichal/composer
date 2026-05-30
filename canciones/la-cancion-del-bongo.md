@@ -40,7 +40,7 @@
 
 ## Descripción
 
-No hay letra que cantar aquí: solo el bongó y lo que sus dos tambores tienen que decirse. El parche más pequeño — agudo, nervioso, que habla rápido — y el más grande — grave, pausado, que responde sin prisas. Como dos personas discutiendo sin palabras, encontrando el ritmo a golpes, reconciliándose en el contratiempo. La canción confía en que el bongó cuenta mejor la historia que cualquier voz, porque hay conversaciones que solo se pueden tener percutiendo el cuero con las manos desnudas.
+Percusión pura e instrumental: un bongó y sus dos tambores. El parche pequeño —agudo, nervioso— habla rápido; el grande —grave, pausado— responde sin prisas. Como dos personas discutiendo sin palabras, encontrando el ritmo a golpes, reconciliándose en el contratiempo. La tesis es que hay conversaciones que no necesitan lenguaje: dos tambores pueden decir más de lo que cualquier voz articula. Para el momento en que las palabras sobran y solo queda el golpe seco de las manos contra el cuero.
 
 ```
 

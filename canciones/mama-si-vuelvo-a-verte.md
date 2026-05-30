@@ -39,7 +39,7 @@
 
 ## Descripción
 
-Un niño le escribe a su mamá después de una redada de inmigración. Le promete ahorrar cada dólar para visitarla, guardar las caracolas porque el mar le recuerda a ella, amar a su hermano. No hay ira en esta canción, solo la ternura devastadora de alguien demasiado pequeño para entender por qué tuvo que crecer sin su madre. Una herida social contada con la voz del amor más puro.
+Balada folk con piano, cuerdas y voz femenina a 75 BPM, para escuchar en silencio y recordar que hay niños que crecen explicándose a sí mismos por qué su madre no está. Un niño le escribe a su mamá después de una redada de inmigración. Le promete ahorrar cada dólar, guardar las caracolas, amar a su hermano. No hay ira: hay la ternura devastadora de alguien demasiado pequeño para entender la frontera. La tesis de la canción es que el amor de un niño no entiende de leyes: «los adultos seguro explicarán que es que yo nací aquí y tú naciste allá». Esa línea, repetida hasta el final, es la herida abierta del siglo: la explicación que no explica nada. Para quienes saben que el amor no se mide en kilómetros pero el dolor sí.
 
 ## Style Prompt
 

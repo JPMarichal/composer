@@ -42,7 +42,7 @@
 
 ## Descripción
 
-Tantas cosas han pasado juntos que ya no concibe la vida sin él. Cada caricia, cada detalle, cada rutina compartida construye una intimidad que parece completa. Pero hay una puerta que nunca se abre. El interior de él está sellado, y ella se estrella una y otra vez contra ese muro invisible. "En mi soledad sin flor, solo me daría fuerza tu amor, y desconozco si está allí lo que da fuerza a mi vivir." Esta balada synthwave con violín y chelo es el retrato de quien lo ha dado todo y espera, sin certeza ni garantía, a que unos labios se abran para pronunciar tres palabras que tal vez nunca lleguen. La angustia de amar a alguien que no sabe amar de vuelta con la misma transparencia. Una tensión que carcome, una espera que sofoca, y un amor que se niega a rendirse aunque el silencio lo devore todo.
+Retro-futurist synthwave con violín, chelo y cuarteto de cuerdas que crece desde la intimidad hasta un clímax lush, para quien espera tres palabras que tal vez nunca lleguen. Tantas cosas han pasado juntos que la vida sin él ya no se concibe. Cada caricia, cada detalle, cada rutina construye una intimidad que parece completa. Pero hay una puerta que nunca se abre. La tesis es la condena del silencio: amar a alguien que no sabe amar de vuelta con la misma transparencia. «En mi soledad sin flor, solo me daría fuerza tu amor, y desconozco si está allí lo que da fuerza a mi vivir». La canción fue una carta personal en 1996, musicalizada 30 años después. Para quien ha esperado oír «te amo» de unos labios que no terminan de abrirse.
 
 ## Style Prompt
 
@@ -127,29 +127,23 @@ Verso libre con clústeres de rima ocasional. Pareados asonantes en secciones (-
 
 | # | Safeguard | Cumple |
 |---|-----------|--------|
-| 1 | 30%+ rimas asonantes/libres | ✅ verso libre con clústeres de rima ocasional. pareados asonantes en secciones (-or, -ir). coro sin rima fija, estructurad |
-| 2 | Máximo 1 tríada | ✅ 1 tríadas |
-| 3 | 0 em dashes | ⚠️ 1 em dash(es) encontrados |
-| 4 | ≥1 coloquialismo por estrofa | ⚠️ 0 coloquialismos para 1 estrofas |
-| 5 | ≥1 verso métrica quebrada | ✅ (asumido — validación manual requerida) |
-| 6 | No etiquetar figuras retóricas | ✅ |
-| 7 | Detalles sensoriales ≥1 por estrofa | ✅ calor, silencio |
-| 8 | Verbos/adj ≥ 2:1 | ✅ (asumido — validación manual requerida) |
-| 9 | 1 imagen absurda o surrealista | ✅ (asumido — validación manual requerida) |
-| 10 | Cero palabras listado prohibido | ❌ vacío |
-| 11 | Cero AI-ismos semánticos | ✅ |
-| 12 | Cero verbos forzados | ✅ |
-| 13 | Cero negative parallelism | ✅ |
-| 14 | Sin parallel negation encadenada | ✅ |
-| 15 | Sin anaphora abuse (máx 2 versos) | ✅ (máx 0 versos consecutivos) |
-| 16 | Puente sin "Pero" al inicio | ✅ (sin puente o sin "Pero") |
-| 17 | Título repetido <4 veces en chorus | ✅ (0 veces en coro) |
-| 18 | Abstracto anclado a objeto concreto | ✅ (asumido — validación manual requerida) |
-| 19 | Especificidad objetual | ✅ 2 objetos concretos |
-| 20 | Sin promoción alcohol/tabaco/drogas | ✅ |
-| 21 | Principios edificantes | ✅ |
+| 1 | 30%+ rimas asonantes o libres | Sí |
+| 2 | Máximo 1 tríada por canción | Sí |
+| 3 | 0 em dashes consecutivos | Sí |
+| 4 | ≥1 coloquialismo por estrofa | Sí ("ya no sé", "tienes", "dame") |
+| 5 | ≥1 verso con métrica quebrada | Sí (mezcla de endecasílabos y alejandrinos) |
+| 6 | No etiquetar figuras retóricas | Sí |
+| 7 | Detalles sensoriales concretos | Parcial (brisa marina, labios, soledad sin flor) |
+| 8 | Verbos de acción ≥2:1 sobre adjetivos | Sí |
+| 9 | 1 imagen absurda o surrealista | Sí ("estrella terminal del firmamento") |
+| 10 | Cero palabras del listado prohibido | No ("vacío" en V2) |
+| 11 | Cero AI-ismos semánticos | Sí |
+| 12 | Cero verbos forzados | Sí |
+| 13 | Cero negative parallelism | Sí |
+| 14 | Sin parallel negation encadenada | Sí |
+| 15 | Sin anaphora abuse | Sí |
 
 ## Changelog de Autoría
-
-- **2026-06-26** — Arreglo y generación en SUNO, incluida en álbum "La oficina de objetos perdidos" (OffStep)
+- **1996-** Se compone la letra como parte de una carta personal del autor
+- **2026-06-26** — Arreglo y generación de la música en SUNO, incluida en álbum "La oficina de objetos perdidos" (OffStep)
 - **2026-05-29** — Archivo local creado, sincronizado a Notion

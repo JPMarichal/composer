@@ -40,7 +40,7 @@
 
 ## Descripción
 
-El cerio es el elemento químico que alimenta las luces de carbón — esas que iluminaron las calles antes de que existiera la electricidad. Esta pieza instrumental toma su nombre prestado para preguntarse qué significa crear luz artificial en la oscuridad. Sin una sola palabra, la electrónica cuenta lo que el lenguaje no puede: la fragilidad de la llama que elegimos encender, el rumor de una ciudad que no duerme, la belleza de una luz que sabe que se va a apagar.
+Electrónica instrumental que toma su nombre del elemento químico que alimentaba las luces de carbón antes de la electricidad, para la hora en que la ciudad se queda a oscuras y solo queda el rumor de lo que no duerme. Sin una sola palabra, la música cuenta lo que el lenguaje no puede: la fragilidad de la llama que elegimos encender, el zumbido de una ciudad que nunca se apaga del todo, la belleza de una luz que sabe que se va a extinguir. La tesis es que la luz artificial es también un acto humano, tan frágil y heroico como cualquier otro. Si alguna vez has mirado una farola encenderse al anochecer y sentido que hay algo conmovedor en esa obstinación, esta es tu canción.
 
 ## Style Prompt
 

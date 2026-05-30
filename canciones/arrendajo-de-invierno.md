@@ -40,7 +40,7 @@
 
 ## Descripción
 
-¿Qué tan alto puede llegar el gozo? La canción que da nombre al álbum no responde: pregunta. Un lago helado, dos personas bebiendo el vino del viento, el éxtasis de estar vivos y, de pronto, en la rama negra de un arce nevado, un arrendajo azul —valiente y leal— que parece decir que el amor también puede ser así. Orquestal, jubilosa e imposible de escuchar sin sonreír.
+Folk orquestal jubiloso con piano, violín y guitarra acústica a 78 BPM, con ecos africanos e indios y un crescendo que estalla cuando menos lo esperas. Para escuchar cuando el invierno parece interminable. Un lago helado, dos personas bebiendo el vino del viento y, de pronto, en la rama negra de un arce nevado, un arrendajo azul que aparece como una señal. No describe la alegría: la persigue y la atrapa. El arrendajo no es un pájaro: es la prueba de que la belleza puede aparecer en cualquier esquina, incluso cuando ya habías dejado de esperarla. Si alguna vez has estado gris y algo inesperado te ha devuelto la luz, esta canción es ese algo.
 
 ## Style Prompt
 

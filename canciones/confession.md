@@ -15,6 +15,7 @@
 - **Distribuidor:** 
 - **ISRC:** 
 - **Álbum:** 
+- **NotionPageID:** 2c722335-ada6-8039-90b8-c1f4b281ecd7
 - **Música:**
 
 ### Producción musical
@@ -39,7 +40,7 @@
 
 ## Descripción
 
-
+Canción de lírica torrencial con estructura de pregunta recurrente («¿Qué pasa si te digo...?») y rima asonante parcial, para el amanecer de una noche de insomnio en que todas las preguntas se agolpan. Compuesta en 1998, es una confesión sin filtro ni contención: el mundo entero pasa por la ventana, el noticiero difama al Estado, la inocencia se pierde por dinero, el cauce del mar está seco. La tesis no está en las preguntas sino en la respuesta que las cierra todas: la esposa, el regazo, el jardín encantado donde los sueños se funden. «¿Qué pasa si te digo que no pierdo mi fe porque a diario la encuentro en tu rostro al volver?» Si alguna vez has sentido que el mundo se derrumba y solo una persona lo sostiene todo, esta canción sabe que esa persona existe.
 
 ## Style Prompt
 

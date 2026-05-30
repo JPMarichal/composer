@@ -39,7 +39,7 @@
 
 ## Descripción
 
-Tus mensajes guardados como si fueran fe. Esos "llegué bien, ¿cómo andás?" que ahora leo en voz baja. Tu bufanda que aún huele a lluvia de estación, a café frío y confusión, a despedida atrasada. Tu nombre rayado en la ventana empañada de un vagón que ya se fue sin mí. El tren pasa frente al mar, el libro abierto sin mirar, y yo cuento los segundos que se alargan como si el tiempo fuera a devolverte. "Tal vez en otra ciudad compres flores sin pensar en mí. Yo doblo esquinas al azar buscando un eco de ti." Esta balada indie folk con voz cercana, guitarra con cepillo y susurros sabe exactamente cómo se siente llevar el invierno de otra persona pegado a la piel. Aunque cambies de ciudad, aunque pase el tiempo, hay recuerdos que se quedan como una foto borrosa que nunca quisiste perder.
+Indie folk intimista con voz cercana, guitarra con cepillo y susurros, para escuchar en un tren mientras ves pasar el mar y piensas en alguien que ya no está. Los mensajes guardados «como si fueran fe». Las palabras «llegué bien, ¿cómo andás?» que ahora se leen en voz baja. La bufanda que huele a lluvia de estación, a café frío, a despedida atrasada. La canción entiende que los objetos no guardan recuerdos: los recuerdos quedan pegados a los objetos. La tesis es que la nostalgia no es un sentimiento vago: es geográfica, es olfativa, es táctil. La foto borrada, la bufanda que no se devuelve, el nombre rayado en la ventana del vagón. Si alguna vez has guardado un mensaje sabiendo que ya no recibirás más, esta canción es ese mensaje.
 
 ## Style Prompt
 

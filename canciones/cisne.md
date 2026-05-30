@@ -40,7 +40,7 @@
 
 ## Descripción
 
-La puerta del zaguán estaba abierta y las malas lenguas aún no se han callado. Ella perdió su inocencia, se tatuó las marcas de sus errores, y el mundo entero la juzgó. Pero hay algo que el juicio no puede arrancar: la sonrisa que la hizo merecer amor, el resplandor de su gloria que aún brilla en la mirada. Construida sobre la metáfora del cisne que canta más hermoso cuanto más cerca está del final, la canción avanza del juicio a la absolución y termina en un homenaje: «Le haremos un espacio donde pueda volar».
+Balada de estructura libre con rima asonante, construida sobre la metáfora del cisne que canta más hermoso cuanto más cerca está del final, para quienes han sido juzgados y esperan absolución. La puerta del zaguán estaba abierta y las malas lenguas aún no se callan. Ella perdió su inocencia, su cuerpo lleva las marcas de sus errores, y el mundo la juzga. Pero la canción no juzga: absuelve. Avanza del señalamiento al homenaje, de la condena social a la pregunta «¿Dónde está esa sonrisa que la hizo merecer el amor de quien la llegó a conocer?». La tesis es que el juicio ajeno no borra la dignidad de quien ha caído. El cisne canta antes de morir, y su canto es más puro porque sabe que se acaba. «No importa dónde ha estado: ella es digna de amar. Le haremos un espacio donde pueda volar.»
 
 ## Style Prompt
 

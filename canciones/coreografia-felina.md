@@ -39,7 +39,7 @@
 
 ## Descripción
 
-Son las cinco con cuarenta y dos y cuatro kilos de felino te han aplastado la nariz. No es una pesadilla: es el Michi ensayando su número de music-hall. Con la precisión de un coreógrafo de Broadway y la indiferencia de un dictador, tu gato convierte tu mejilla en su escenario, tu barbilla en su trampolín y tu pómulo en el punto exacto del clímax. Hay scratch en la mandíbula, giro sobre el ojo izquierdo, solo de zarpazo de improviso. Y mientras él ronronea más fuerte cuanto más protestas, tú descubres que lo peor de todo no es el dolor: es que, en el fondo, sabes que te lo has ganado. Indie folk pop con ukelele, batería electrónica y una verdad incómoda: el gato manda, y tú eres solo el mobiliario.
+Indie electropop con ukelele, batería electrónica y un groove juguetón a 124 BPM, para cuando tu gato te recuerda quién manda en casa. Son las cinco con cuarenta y dos y cuatro kilos de felino te han aplastado la nariz. No es una pesadilla, es el Michi ensayando su número de music-hall. Con la precisión de un coreógrafo de Broadway y la indiferencia de un dictador, convierte tu mejilla en escenario, tu barbilla en trampolín, tu pómulo en el punto del clímax. La ironía es la tesis: el dueño de la casa es el mobiliario. «Mi gato es el artista y yo soy el escenario». Y lo peor de todo es que, en el fondo, sabes que te lo has ganado. Para quienes han sido despertados a las 6 AM por una pata en la cara y han descubierto que el amor también duele en forma de zarpazo.
 
 ## Style Prompt
 

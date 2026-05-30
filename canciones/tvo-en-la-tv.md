@@ -39,7 +39,7 @@
 
 ## Descripción
 
-Siempre puntual a la cita, llega luciendo su outfit del día, segura, sin prisa, con ese modo de hablar que convierte la rutina en fiesta. Te cuenta los chismes, te pone al tanto de todo, te ofrece dulces manjares desde su set de cocina. Y tú la miras, la escuchas, te aprendes sus gestos, sus silencios, la mancha en la pantalla que dejó tu dedo de tanto querer tocar su rostro. Solo hay un problema: que vive en una pantalla. "No sabes cómo te agradezco esta visita diaria, que convierte en festejo toda tarde rutinaria." Esta canción pop electrónica a 124 BPM no se burla de ti por ese amor platónico moderno. Al contrario: lo celebra. Porque el cariño no distingue entre carne y píxel, y hay tardes enteras que se construyen frente a una pantalla con la misma intensidad que cualquier otra historia de amor.
+Pop electrónico a 124 BPM con energía de estadio y un coro que estalla en celebración, para quienes han amado a alguien que vive en una pantalla. Siempre puntual a la cita, llega luciendo su outfit, te cuenta los chismes, te ofrece dulces manjares desde su set de cocina. Te aprendes sus gestos, sus silencios, la mancha en la pantalla que dejó tu dedo de tanto querer tocar su rostro. Solo hay un problema: vive en una pantalla. La tesis es que el cariño no distingue entre carne y píxel — hay tardes enteras que se construyen frente a una pantalla con la misma intensidad que cualquier historia de amor. El outro lo confirma: «Cuando la fama te pase factura... yo estaré aquí». Para quien sabe que el amor platónico moderno también es amor.
 
 ## Style Prompt
 

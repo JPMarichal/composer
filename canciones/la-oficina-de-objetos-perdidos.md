@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Ella subía la escalera mientras él bajaba los peldaños. Se separan dos años exactos, pisan los mismos lugares con distancia de reloj. Podrían haber coincidido si el tiempo hubiera sido otro — como los rieles de un tren que comparten destino pero nunca cruzan sus caminos — pero el cielo traza líneas que dividen. El estribillo invita a pasar a la oficina de objetos perdidos: ese lugar metafórico donde se guarda todo lo que pudo ser y no llegó a existir. «Pase usted, no tenga prisa, aquí guardamos todo lo que nunca pudo ser pero que empieza aquí».
+Pop de cámara con estructura narrativa circular, para escuchar en el tren mientras piensas en alguien que no volverás a ver. Ella subía la escalera mientras él bajaba los peldaños. Se separan dos años exactos, pisan los mismos lugares con distancia de reloj. Esa es la tesis: hay gente que se cruza en el tiempo equivocado, y el amor no resuelve la ecuación, solo la constata. La oficina de objetos perdidos no es un lugar: es el archivo mental donde guardamos todo lo que pudo ser y no fue. Cada coro es una invitación a entrar, a reconocer que hay pérdidas que no se recuperan pero que merecen ser nombradas. Si alguna vez has pensado «qué hubiera pasado si…», esta canción ya sabe lo que sentiste.
 
 ```
 

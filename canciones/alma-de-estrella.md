@@ -39,7 +39,7 @@
 
 ## Descripción
 
-Has visto alguna vez un rayo de luz que cruza el cielo nocturno y te preguntaste si tuvo madre, si nació de algo que ya no existe? Este rayo vagó mil años por el cosmos sin recordar su origen, latiendo con la energía de una estrella que murió antes de que él naciera. La canción se pregunta si es posible seguir brillando cuando has olvidado de dónde vienes — una metáfora celestial sobre la memoria, la identidad y esa luz interior que llevamos sin saber a quién perteneció antes.
+Synth-pop etéreo con pads atmosféricos y build anthemic a 80 BPM, voz masculina que se abre en un coro expansivo. Para escuchar de noche mirando al cielo, preguntándote de dónde viene la luz que sientes dentro. Un rayo de luz cruza el cosmos sin recordar su origen, latiendo con la energía de una estrella que murió antes de que él naciera. El rayo es el alma humana, y el olvido de su origen es la memoria del hogar que llevamos sin saberlo. Si alguna vez te has preguntado de dónde sacas fuerzas para seguir cuando no sabes quién eres, esta luz errante eres tú. La estrella que te dio luz ya no existe, pero tú sigues brillando.
 
 ## Style Prompt
 

@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Dos personas en una pista de baile que no se conocen. Al principio hay distancia, desconfianza, cada quien en su propio compás. Pero algo empieza a pasar: los cuerpos comienzan a sincronizarse sin que las mentes intervengan. Un pie que se adelanta cuando el otro retrocede, una cadera que cede, una mano que encuentra su lugar en el aire. Este instrumental electrónico captura ese momento incómodo y bellísimo en que dos extraños aprenden a moverse como si siempre hubieran bailado juntos. No hay letra porque el lenguaje sobra cuando el cuerpo habla.
+Electrónica instrumental con sintetizadores en evolución y una base rítmica que empieza dispersa y encuentra su centro. Sin letra porque el lenguaje sobra cuando el cuerpo habla. Para escuchar con los ojos cerrados, dejando que el ritmo te encuentre. Dos personas en una pista de baile que no se conocen: al principio distancia y desconfianza, luego sus cuerpos se sincronizan sin que las mentes intervengan. No habla de baile: habla de conexión humana sin palabras, del momento en que dos extraños se mueven como si siempre hubieran bailado juntos. Si alguna vez has conectado con alguien sin mediar palabra, sabes que hay cosas que el lenguaje no puede atrapar.
 
 ## Style Prompt
 

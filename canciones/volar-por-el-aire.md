@@ -40,7 +40,7 @@
 
 ## Descripción
 
-Si pudiera volar por el aire, cruzar los valles y entregarte esta letra. Si pudiera alzarme del suelo, llevarte una rosa en las manos y un pedazo de cielo. La canción es un suspiro nada más: el deseo imposible de romper la gravedad por amor, de llegar hasta quien amas sin necesidad de caminos. No hay historia, no hay desarrollo — solo la imagen más pura de alguien que volaría por ti si pudiera. A veces una canción no necesita más que un deseo y una imagen para quedarse para siempre en la memoria de quien la escucha.
+Canción breve de amor imposible con rima asonante, como un suspiro que se lleva el viento. Si pudiera volar por el aire, cruzar los valles, llevarte una rosa y un pedazo de cielo. No hay historia ni desarrollo: solo la imagen más pura de alguien que violaría la gravedad por amor. La tesis es que a veces una canción no necesita más que un deseo y una imagen: el amor que no encuentra camino se inventa alas. Para cuando amas a alguien tan lejos que solo el aire podría llevarte.
 
 ```
 

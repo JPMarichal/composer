@@ -40,7 +40,7 @@
 
 ## Descripción
 
-El lutecio es el último de los lantánidos, el más denso, el más duro, el que cierra la serie. Su nombre viene de Lutetia — el nombre romano de París — como si cargara con toda la historia de una ciudad al final del viaje. Esta pieza instrumental suena a cierre de ciclo: la electrónica se condensa, se vuelve más pesada a cada compás, como si supiera que es la última pista y tuviera que contenerlo todo antes de que el disco termine. El peso de lo que se acaba, empaquetado en un metal que brilla como el Sena al anochecer.
+Electrónica de cierre, densa y condensada, sintetizadores que pesan como París al anochecer. Para escuchar cuando algo se acaba y necesitas que termine bien. El lutecio cierra la serie de los lantánidos: el más denso, el más duro, el final del viaje. Su nombre viene de Lutetia, la antigua Roma llamaba así a París. Esta pieza se condensa, se vuelve más pesada a cada compás, como si supiera que es la última y tuviera que contenerlo todo antes de que el disco termine.
 
 ```
 

@@ -39,7 +39,7 @@
 
 ## Descripción
 
-Afuera nieva sin tregua sobre las avenidas de París. La ciudad se extiende como un lienzo de metal bajo un cielo que no perdona. Pero aquí dentro el tiempo se detuvo: ella dormita en el sillón de cuero, su gato blanco descansa a sus pies, la luz del fuego juega sobre su rostro. Hay porcelanas chinas puestas al revés, un biombo antiguo, la seda de Japón en cada esquina. Entro en silencio, dejo el peso del ayer en la puerta. Ella tiene esa fragancia que solo ella sabe tener. Y en ese instante —un refugio, una señal— comprendo que los mejores momentos no caben en ninguna postal. Este synth-pop elegante con pads cinematográficos y bajo cálido captura la verdad más sencilla: que la calma no es la ausencia de tormenta, sino la presencia de la persona correcta cuando el mundo se congela.
+Synth-pop sofisticado con pads cinematográficos y bajo cálido, para el momento exacto en que afuera el mundo se congela pero dentro hay luz de fuego y un gato blanco que duerme a los pies de quien amas. París es un lienzo de metal bajo un cielo que no perdona. Pero aquí dentro el tiempo se detuvo: ella dormita en el sillón, la porcelana china está puesta al revés, la seda de Japón forra las esquinas. La tesis es que la calma no es la ausencia de tormenta sino la presencia de la persona correcta cuando el mundo se congela. «Es un instante, un refugio, una señal.» Si has tenido la suerte de estar en el lugar correcto con la persona correcta mientras todo afuera se derrumba, sabes que esta canción no exagera ni una nota.
 
 ## Style Prompt
 

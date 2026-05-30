@@ -53,7 +53,7 @@
 
 ## Descripción
 
-Cae la misma agua sobre el campo y sobre la ciudad, pero no cumple el mismo destino. En el campo, la lluvia huele a tomillo, llena el pozo, empapa la higuera, la tierra la espera y la siembra la anhela. En la ciudad, la misma agua se pierde entre aceras y coches, escurre sin propósito, se queda dormida sobre el cemento. La canción es la confesión de alguien que se mudó del pueblo a la ciudad y descubrió que, aunque el paisaje cambió, adentro sigue llevando el campo. «Siempre está lloviendo por dentro y por fuera — porque he descubierto que aún sobre el cemento llevo agua de lluvia, llevo el campo adentro».
+Indie folk en 6/8 a 72 BPM con guitarra fingerpicked y upright bass, para las tardes de lluvia en que la ciudad huele a cemento mojado pero tú sigues oliendo a tomillo. Cae la misma agua sobre el campo y sobre la ciudad, pero no cumple el mismo destino: en el campo empapa la tierra que la espera, llena el pozo, se entrega a la higuera. En la ciudad se pierde entre aceras. La tesis es que la identidad no se muda: el campo se lleva dentro, aunque el paisaje exterior sea otro. «Siempre está lloviendo por dentro y por fuera — porque he descubierto que aún sobre el cemento llevo agua de lluvia, llevo el campo adentro.» La canción más detallada del corpus en cuanto a métrica y armonía (con tabla de coherencia línea por línea), diseñada para quien ha dejado su pueblo y ha descubierto que los lugares no se cambian: se cargan.
 
 ## Tesis
 

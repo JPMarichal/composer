@@ -39,7 +39,7 @@
 
 ## Descripción
 
-"Me solté de la nube en silencio, un desprendimiento sin dolor. Seis puntas de simetría y misterio, un viajero blanco, puro en su esplendor." Un copo de nieve narra su propio viaje: la fragilidad de una joya de diseño perfecto, una estrella cristalina que el frío forjó. Sin red, sin mapa, con todo el cielo por delante. Bailó sobre el Sena con la bruma, besó la altitud en los Alpes, giró sobre el mundo tan ufano. Y ahora que el viento se calma y el suelo se siente tan cerca, entrega su alma sin resistencia. "No soy un náufrago al viento, soy un testigo del sol. Disuelvo mi breve momento en un viaje que pierde el control." Hasta caer, despacio, en calma total, sobre el labio de un niño que ríe al jugar. Dejar de ser hielo para ser vida. Indie pop íntimo con piano frágil y cuerdas cálidas, una canción que sabe a rendición dulce, para quienes han descubierto que soltar también puede ser hermoso.
+Indie pop íntimo con piano frágil, cuerdas cálidas y un build-up gradual que culmina en calma luminosa. Para escuchar en invierno junto a una ventana empañada, cuando necesitas recordar que soltar no es perder. Un copo de nieve narra su viaje: bailó sobre el Sena, besó los Alpes, giró sobre el mundo. Y ahora que el viento se calma, se entrega sin resistencia. No cae derrotado: cae completo, habiendo cumplido su ciclo. Deja de ser hielo para ser vida en la boca de un niño. Si alguna vez has tenido que soltar algo con la paz de quien sabe que era el momento, este copo eres tú. Soltar no es rendirse: es completar el viaje para ser otra cosa.
 
 ## Style Prompt
 

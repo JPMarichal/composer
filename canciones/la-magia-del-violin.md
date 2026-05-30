@@ -42,7 +42,7 @@
 
 ## Descripción
 
-Un violín traza hebras de sonido en la penumbra de una sala. Las notas flotan, giran, se enredan como hebras de luz que el arco va hilando en el aire. Y entonces ocurre: la música se vuelve visible. Destellos oro contra la oscuridad, una chispa en la niebla gris, el cuarto entero transformándose en un lienzo de resplandor. "Y vi cómo flotaban, y cómo se enredaban." Pero toda magia tiene su precio: cuando el arco se detiene, la red se rompe, el resplandor se extingue y el sueño se termina. Este chamber pop con cuarteto de cuerdas y piano es un homenaje al poder efímero de la música —esa capacidad de cambiar un instante, de pintar el aire de colores, de hacer que todo sea soportable mientras dura. Y cuando termina, solo queda la noche. Pero por un momento, todo fue dorado.
+Chamber pop con cuarteto de cuerdas y piano, elegante y cinematográfico. Para escuchar en penumbra, con los ojos cerrados, cuando la música duele porque es demasiado hermosa. Una nota sostenida, un arco que se desliza, y el cuarto se llena de oro. Captura ese instante en que el sonido se vuelve tangible y la certeza de que no durará. La magia no está en el instrumento: está en ver más allá del sonido. Si alguna vez has escuchado algo que te hizo olvidar que el mundo existe, sabes de qué habla. La música no dura. Pero mientras dura, todo es dorado.
 
 ## Style Prompt
 

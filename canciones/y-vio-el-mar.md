@@ -42,7 +42,7 @@
 
 ## Descripción
 
-Horas de asfalto gris, ventanas llenas de nada, la radio baja y un niño en el asiento de atrás dibujando nubes en su almohada. Cuando el cielo se abre y el olor salado entra por la ventanilla, algo le tiembla en la pierna. Y entonces lo ve: inmenso, interminable, real. "Papá, es gigante, no se acaba nunca, ¿cierto?" El padre traga saliva para esconder que está abierto por dentro, porque en los ojos de su hijo no solo está el mar: está el niño que él mismo fue, la coraza que se ha ido construyendo año tras año, y la certeza de que hay asombros que desarman hasta al más blindado. Synth-pop con arpegios de bajo, felt piano y glockenspiel: una canción sobre redescubrir la inmensidad a través de la mirada de quien ve todo por primera vez.
+Synth-pop a 118 BPM con arpegios de bajo, felt piano y glockenspiel, con un build gradual que imita el momento exacto en que el horizonte se abre, para escuchar en el coche con alguien que amas. Horas de asfalto gris, un niño en el asiento de atrás dibujando nubes en su almohada. Entonces el cielo se abre y el olor salado entra por la ventanilla. «Papá, es gigante, no se acaba nunca, ¿cierto?». En los ojos del hijo no solo está el mar: está el niño que el padre fue, la coraza que se ha construido, y la certeza de que hay asombros que desarman hasta al más blindado. La tesis es que la paternidad es la segunda oportunidad de ver el mundo por primera vez. El niño ofrece un puñado de espuma —«pa' que no se vaya el mar»— y ese gesto imposible es la canción entera. Si has visto el mar por primera vez a través de los ojos de un hijo, esta canción te deja abierto por dentro.
 
 ## Style Prompt
 

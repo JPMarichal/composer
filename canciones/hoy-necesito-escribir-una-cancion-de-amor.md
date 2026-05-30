@@ -1,7 +1,13 @@
 # Hoy necesito escribir una canción de amor
+Canción sin género definido aún, con estructura de verso-coro clásico y un estribillo que se extiende como una declaración sin aliento. Voz masculina que suena urgente, como si necesitara decirlo todo antes de que se acabe la página. Para escuchar cuando las palabras sobran pero tienes que decirlas igual.
 
-## Metadatos
+A veces el amor no se puede demostrar con hechos: hay que escribirlo. Esta canción nace de esa urgencia: el reloj se ha quedado sin horas, los faros del puerto ya están encendidos, la noche es oscura y necesitas hacer que salga el sol con solo palabras. «Hoy necesito escribir una canción de amor» no es una decisión: es una necesidad física, como respirar.
 
+El reloj sin horas y los faros encendidos son el momento en que el tiempo ordinario se suspende y solo queda la necesidad de decir «te quiero» —aunque suene anticuado, aunque no haya forma nueva de decirlo. Las sombras que no existen donde ella está son la prueba de que el amor, cuando es real, tiene poder de transformación.
+
+Si alguna vez has estado tan lleno de amor que no cabía en tu pecho y tenías que escribirlo, cantarlo, pintarlo o decírselo a alguien —aunque no supieras cómo— esta canción es ese nudo en la garganta hecho letra.
+
+Cuando no sabes qué hacer con todo lo que sientes, solo queda una opción: amar más.
 ### Notion DB
 
 - **Título de la canción:** Hoy necesito escribir una canción de amor
@@ -15,6 +21,7 @@
 - **Distribuidor:** OffStep
 - **ISRC:** 
 - **Álbum:** La oficina de objetos perdidos
+- **NotionPageID:** 2c722335-ada6-8065-9eb6-caa8148276d0
 - **Música:**
 
 ### Producción musical
@@ -37,9 +44,7 @@
 | Sección | Acordes | Notas |
 |---------|---------|-------|
 
-## Descripción
-
-
+Canción sin género definido aún, estructura verso-coro, voz masculina urgente como si necesitara decirlo todo antes de que se acabe la página. Para escuchar cuando las palabras sobran pero tienes que decirlas igual. El reloj se quedó sin horas, los faros del puerto ya están encendidos, la noche es oscura y solo queda escribir. «Hoy necesito escribir una canción de amor» no es una decisión: es una necesidad física. Si alguna vez has estado tan lleno de amor que no cabía en tu pecho y tenías que decirlo sin saber cómo, esta canción es ese nudo en la garganta. Cuando no sabes qué hacer con lo que sientes, solo queda amar más.
 
 ## Style Prompt
 

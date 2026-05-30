@@ -42,7 +42,7 @@
 
 ## Descripción
 
-"Pequeña era, pequeña estaba, y nadie entre todos la notaba." Pero irradiaba. Bajo el toque claro de su sencillez, algo presagiaba que pronto pondría el mundo al revés. Rosalind Franklin, Sara Teasdale, Harriet Beecher Stowe, Helen Keller: mujeres que pasaron desapercibidas en su tiempo y sin embargo transformaron la humanidad desde la pequeñez aparente. El Pulitzer, el Oscar, el Grammy, la gloria del Nobel no fueron su motivación, sino su consecuencia. Este indie-pop con groove sincopado celebra a quienes cambiaron la ruta de la entera humanidad sin hacer ruido, desde una mota hirsuta hasta el punto de inflexión. Porque lo pequeño no es poco: es potencia contenida. Y cuando esa potencia se libera, el mundo se pone del revés. Con armonías vocales de celebración y una energía ascendente que crece como el impacto de estas mujeres.
+Indie-pop épico con groove sincopado, armonías vocales de celebración y una energía ascendente que crece como el impacto de quienes cambiaron el mundo sin hacer ruido, para cuando necesitas recordar que lo pequeño es potencia contenida. Rosalind Franklin, Sara Teasdale, Harriet Beecher Stowe, Helen Keller: mujeres que pasaron desapercibidas en su tiempo y transformaron la humanidad desde la pequeñez aparente. «Pequeña era, pequeña estaba, y nadie entre todos la notaba. Pero irradiaba». La tesis es que el Pulitzer, el Oscar, el Grammy, el Nobel no fueron su motivación sino su consecuencia: ellas hicieron lo que hicieron porque era lo que había que hacer. «Pasó de una voluta diminuta, una mota hirsuta, a cambiar la ruta de la entera humanidad». Para quien necesita recordar que lo pequeño no es poco: es un punto de inflexión esperando su momento.
 
 ## Style Prompt
 

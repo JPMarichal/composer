@@ -39,7 +39,7 @@
 
 ## Descripción
 
-"Diciembre es esta imagen que se queda: la lluvia que desciende con su son, rumor de tren que pasa por la acera, una plaza hundida en la soledad." Caminas bajo el aguacero, empapado hasta los huesos, llorando por la calle como un trapo viejo, sucio y vencido. El cielo es negro y gris, ceniza y duelo. Y entonces ella aparece: una niña morena que pasa con unos zapatos rojos en la mano, flamantes como un pájaro tropical en medio del lodo. Sus ojos son tizones encendidos. Tiembla como un gorrión de nidos perdidos bajo el agua que no deja de brotar. Y tú no puedes dejar de mirar. Ese destello de fuego en medio del gris, esa imagen que se clava y no se borra. Pop folk con piano nostálgico y saxofón suave, porque a veces la belleza aparece donde menos la esperas y cambia todo sin pedir permiso.
+Soft rock melódico con piano nostálgico y saxofón suave a 85 BPM, para caminar bajo la lluvia cuando el mundo es gris y necesitas que algo rojo lo atraviese. Diciembre es la imagen que se queda: la lluvia que desciende, el tren que pasa, una plaza hundida en la soledad. El hablante camina empapado, llorando por la calle como un trapo viejo. Y entonces una niña morena pasa con unos zapatos rojos en la mano, flamantes como un pájaro tropical en medio del lodo. La tesis de la canción es que la belleza no resuelve nada y sin embargo lo cambia todo: los zapatos rojos no detienen la lluvia ni devuelven la alegría, pero su imagen se clava y no se borra. «Un destello de fuego en medio del gris.» Si alguna vez has visto algo tan hermoso en medio de tu peor día que la belleza te dolió, esta canción es ese momento.
 
 ## Style Prompt
 

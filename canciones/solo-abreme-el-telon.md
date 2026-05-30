@@ -39,7 +39,7 @@
 
 ## Descripción
 
-Otra calle con un nombre raro, otra esquina que suena igual. Tu bufanda dentro de mi maleta, tu perfume en mi abrigo gris. Los domingos saben a nada, a cafetería al final del tren. Mis bocetos llenan servilletas mientras ensayo que esto es un hogar. "Traigo un mapa en la maleta pero a ti te dejé atrás, persiguiendo esta promesa de que aquí me va a ir mejor." Esta canción le habla a cualquiera que ha apostado por algo importante y lleva el peso de quienes esperan. Una artista en una ciudad desconocida, haciéndose amiga de la vieja plaza, del farol que la ve pasar, guardando la risa de quien ama en un voicemail como un amuleto. Y la promesa: "Cuando tenga algo que ofrecerte más que voces y un telón, voy a ir a buscar tu abrazo." Pop con piano eléctrico, chelo y un crescendo cinematográfico que crece como una promesa que no puede quebrarse. Un himno para todos los que están lejos de casa persiguiendo un sueño.
+Pop orquestal con piano eléctrico, chelo y un crescendo cinematográfico, para quien está lejos de casa persiguiendo un sueño y lleva el peso de quienes esperan. Otra calle con nombre raro, otra esquina que suena igual. La bufanda dentro de la maleta, el perfume en el abrigo gris, los domingos que saben a cafetería al final del tren. La tesis es la promesa que se hace quien emigra por su arte: «Traigo un mapa en la maleta pero a ti te dejé atrás». Guarda la risa de quien ama en un voicemail como un amuleto. Y al final, la promesa que sostiene todo: «Cuando tenga algo que ofrecerte más que voces y un telón, voy a ir a buscar tu abrazo». Para quien ha apostado todo por un sueño y sabe que la distancia no es abandono.
 
 ## Style Prompt
 
