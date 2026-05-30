@@ -66,14 +66,14 @@ Spanish chamber pop with synthwave pulse, 105 BPM, arpeggiated synth sequence as
 (Arpegiador synth, pads de cuerda, batería a 105 BPM — 8 compases)
 
 [Verse 1]
-Te prometieron que la piel
-Era una trampa, no un consuelo
-Y aquel amigo que fue fiel
-Te fue robando todo el cielo
-Que la belleza era tu centro
-Y cada forma un nuevo intento
-Cada caricia un nuevo encuentro
-El mundo es puro sentimiento
+Te convencieron de que el tacto
+Mandaba sobre el pensamiento
+Que la belleza era un santuario
+Y el sentimiento innecesario
+Que cada forma merecía
+La devoción de los sentidos
+Que la conciencia se inclinaba
+A ser juguete del sentido
 
 [Pre-Chorus 1]
 (Entra bombo, sube tensión)
@@ -165,7 +165,7 @@ Desde el principio)
 
 Dos métricas conviven: eneasílabos (9 sílabas) en versos y pre-coros, hexasílabos a decasílabos en coros (hook corto + desarrollo). Rima asonante ABAB en versos, AABB con dispersión en coros.
 
-- **V1**: ABABCDCD. A: -el consonante (piel/fiel), B: -elo consonante (consuelo/cielo), C: -entro consonante (centro/encuentro), D: -ento consonante (intento/sentimiento).
+- **V1**: Pares irregulares. L3-L4: -ario consonante (santuario/innecesario). L6-L8: -ido consonante (sentidos/sentido, rima eco). L1-L2: asonante lejana a-o/e-o (tacto/pensamiento).
 - **PC1**: AABB. A: -ada consonante (madrugada/nada), B: -ento consonante (pensamiento/momento).
 - **C1**: Asonante dispersa con pares internos: -esa (L3/L5), -a-a (L2/L7).
 - **V2**: ABABCDCD. A: ie-e/ue-e/ie-e, B: o-o/e-a/o-o/e-a. Asonante homogénea en A.
@@ -182,11 +182,11 @@ Dos métricas conviven: eneasílabos (9 sílabas) en versos y pre-coros, hexasí
 | 1 | 30%+ rimas asonantes/libres | ✅ ABAB asonante en versos, coros con pares internos asonantes. <30% consonante |
 | 2 | Máximo 1 tríada | ✅ 0 tríadas |
 | 3 | 0 em dashes | ✅ |
-| 4 | ≥1 coloquialismo por estrofa | ✅ "no te mueves", "Sabes muy bien", "Siempre fue usted", "no pesa nada", "vale menos" |
+| 4 | ≥1 coloquialismo por estrofa | ✅ "Te convencieron", "no te mueves", "Sabes muy bien", "Siempre fue usted", "no pesa nada", "vale menos" |
 | 5 | ≥1 verso métrica quebrada | ✅ Convíven eneasílabos (V1: 9+9+9+9+9+9+9+9) con hexas (hook "Dorian frente al cuadro") y decas |
 | 6 | No etiquetar figuras retóricas | ✅ |
 | 7 | Detalles sensoriales ≥1 por estrofa | ✅ crujía (oído), hoja/óleo (tacto), se seca el ojo (vista), pudre/silencio (olfato/oído), grito |
-| 8 | Verbos/adj ≥ 2:1 | ✅ Rango estimado 3:1 — versos cargados de acción (prometieron, sembrando, crujía, firmaste, etc.) |
+| 8 | Verbos/adj ≥ 2:1 | ✅ Rango estimado 3:1 — versos cargados de acción (convencieron, mandaba, inclinaba, crujía, firmaste, etc.) |
 | 9 | 1 imagen absurda o surrealista | ✅ "El monstruo siempre fue usted" — "Usted" como distancia cortés para el monstruo interior |
 | 10 | Cero palabras listado prohibido | ✅ eco, susurro, neón, sombras, vacío, abismo, etc. — ausentes |
 | 11 | Cero AI-ismos semánticos | ✅ |
@@ -206,10 +206,11 @@ Dos métricas conviven: eneasílabos (9 sílabas) en versos y pre-coros, hexasí
 | Filtro | Verificación |
 |--------|-------------|
 | Clímax (vocales abiertas en agudos) | C3: "belleza" [b-e-ʎ-e-θ-a], "factura" [f-a-k-t-u-ɾ-a], "vida entera" [v-i-ð-a e-n-t-e-ɾ-a] — vocales abiertas [a, e, o] dominan el 70% de las sílabas tónicas |
-| Legato (sonorantes en pasajes suaves) | Puente: "Creíste que era por el placer" — líquidas [r, l] y nasales [n] en cada palabra. V1: "prometieron" [m, r], "sembrando" [m, n, r], "reflejo" [r, l] |
+| Legato (sonorantes en pasajes suaves) | Puente: "Creíste que era por el placer" — líquidas [r, l] y nasales [n] en cada palabra. V1: "convencieron" [n, r], "mandaba" [m, n], "inclinaba" [n, l, n], "sentido" [n, d] |
 | Rítmico (oclusivas alineadas al beat) | C1, tiempo fuerte: "cuadro" [k], "firmabas" [f, b], "deseo" [d], "pesa" [p], "crujía" [k], "hipoteca" [p, t, k] — 7 oclusivas en golpes de corchea 1 y 3 |
 | Prueba del susurro | Sin acumulaciones de sibilantes (máx 2 consecutivas). Transiciones CV/VC fluidas en todo el texto |
 
 ## Changelog de Autoría
 
 - **2026-05-30** — Composición original. Reescritura completa sobre la versión generada por IA previa. Tesis: "cualquier pasión desbordada destruye, incluso la belleza". Segunda persona, voz desde dentro del protagonista. Chamber pop + synthwave a 105 BPM.
+- **2026-05-30 (2nd pass)** — Reescritura de V1: doctrina materialista de Lord Henry (tacto > pensamiento, belleza como santuario, conciencia como juguete del sentido). Eliminada metáfora ambigua de "piel". Estructura de rima en pares irregulares.
