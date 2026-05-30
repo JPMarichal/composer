@@ -95,14 +95,14 @@ Pero tu cuadro preserva el registro fiel
 
 [Verse 2]
 (Staccato de cuerda, pads más oscuros)
-La gente pasa, no la sientes
-El mundo gira y no te mueves
-El corazón ya no te miente
-La máscara eres tú, la tienes
-Cada conquista es un despojo
-Cada caricia una sentencia
-Se seca el ojo, pierde el rojo
-Cada placer es una ausencia
+Ya estás de pie frente a la tela
+Y la razón te ha abandonado
+El corazón pesa y no vuela
+Todo el placer se ha congelado
+Lo que sembraste en la confianza
+Hoy es cadena y no es alivio
+Cada promesa es una lanza
+Cada caricia es un martirio
 
 [Pre-Chorus 2]
 Sabes muy bien lo que se pudre
@@ -168,7 +168,7 @@ Dos métricas conviven: eneasílabos (9 sílabas) en versos y pre-coros, hexasí
 - **V1**: Dos cuartetos. Q1: L1-L2 asonante a-o/e-o (tacto/pensamiento), L3-L4 consonante -ario (santuario/innecesario). Q2: L6-L8 rima eco -ido (sentidos/sentido), L5 y L7 libres con desinencia verbal.
 - **PC1**: AABB. A: -ada consonante (madrugada/nada), B: -ento consonante (pensamiento/momento).
 - **C1**: Estructura fija de coro (8 líneas). L2-L4: asonante (acusa/dibuja/ser). L5-L6: asonante e-o (cuero/verdadero). L7-L8: consonante -iel (piel/fiel). L8 métrica quebrada intencional.
-- **V2**: ABABCDCD. A: ie-e/ue-e/ie-e, B: o-o/e-a/o-o/e-a. Asonante homogénea en A.
+- **V2**: ABABCDCD. A: asonante e-a (tela/vuela). B: consonante -ado (abandonado/congelado). C: consonante -anza (confianza/lanza). D: asonante i-o (alivio/martirio).
 - **PC2**: Libre con rima interna: -udre/-encio/-eso/-enos (asonante e-o).
 - **C2**: Misma estructura que C1. Variación quirúrgica: L4 (costura en vez de interno) y L8 (cuenta fiel).
 - **Puente**: Prosa rítmica, verso libre, sin rima fija.
@@ -179,7 +179,7 @@ Dos métricas conviven: eneasílabos (9 sílabas) en versos y pre-coros, hexasí
 
 | # | Safeguard | Cumple |
 |---|-----------|--------|
-| 1 | 30%+ rimas asonantes/libres | ✅ ABAB asonante en versos, coros con pares internos asonantes. <30% consonante |
+| 1 | 30%+ rimas asonantes/libres | ✅ V1: pares irregulares asonantes. V2: ABAB mixto (2 asonante, 2 consonante). Coros: asonante con pares internos. ~40% asonante |
 | 2 | Máximo 1 tríada | ✅ 0 tríadas |
 | 3 | 0 em dashes | ✅ |
 | 4 | ≥1 coloquialismo por estrofa | ✅ "Te convencieron", "no te mueves", "Sabes muy bien", "Siempre fue usted", "no pesa nada", "vale menos" |
@@ -206,8 +206,8 @@ Dos métricas conviven: eneasílabos (9 sílabas) en versos y pre-coros, hexasí
 | Filtro | Verificación |
 |--------|-------------|
 | Clímax (vocales abiertas en agudos) | C3: "belleza" [b-e-ʎ-e-θ-a], "factura" [f-a-k-t-u-ɾ-a], "vida entera" [v-i-ð-a e-n-t-e-ɾ-a] — vocales abiertas [a, e, o] dominan el 70% de las sílabas tónicas |
-| Legato (sonorantes en pasajes suaves) | Puente: "Creíste que era por el placer" — líquidas [r, l] y nasales [n] en cada palabra. V1: "convencieron" [n, r], "mandaba" [m, n], "inclinaba" [n, l, n], "sentido" [n, d] |
-| Rítmico (oclusivas alineadas al beat) | C1, tiempo fuerte: "cuadro" [k], "firmabas" [f, b], "deseo" [d], "pesa" [p], "crujía" [k], "hipoteca" [p, t, k] — 7 oclusivas en golpes de corchea 1 y 3 |
+| Legato (sonorantes en pasajes suaves) | Puente: "Creíste que era por el placer" — líquidas [r, l] y nasales [n] en cada palabra. V1: "convencieron" [n, r], "mandaba" [m, n], "inclinaba" [n, l, n], "sentido" [n, d]. V2: "corazón" [r, n], "vuela" [v, l], "confianza" [n, θ], "martirio" [r, t, r] |
+| Rítmico (oclusivas alineadas al beat) | C1, tiempo fuerte: "cuadro" [k], "acusa" [k, s], "tela" [t], "dibuja" [d, b], "cuero" [k], "sesgo" [s, g], "piel" [p] — 7 oclusivas en golpes de corchea 1 y 3 |
 | Prueba del susurro | Sin acumulaciones de sibilantes (máx 2 consecutivas). Transiciones CV/VC fluidas en todo el texto |
 
 ## Changelog de Autoría
@@ -215,3 +215,4 @@ Dos métricas conviven: eneasílabos (9 sílabas) en versos y pre-coros, hexasí
 - **2026-05-30** — Composición original. Reescritura completa sobre la versión generada por IA previa. Tesis: "cualquier pasión desbordada destruye, incluso la belleza". Segunda persona, voz desde dentro del protagonista. Chamber pop + synthwave a 105 BPM.
 - **2026-05-30 (2nd pass)** — Reescritura de V1: doctrina materialista de Lord Henry. Estructura de rima en pares irregulares.
 - **2026-05-30 (3rd pass)** — Reescritura completa de C1, C2, C3: paradoja espejo/lienzo, escena física (sillón de cuero, sesgo verdadero), rima piel/fiel. C2 y C3 con variación quirúrgica. PC1: "del momento" corrige "en el momento".
+- **2026-05-30 (4th pass)** — Reescritura de V2: salto temporal, resumen histórico de la confrontación. Tesis: la doctrina de LH colapsa frente al cuadro. Rima ABABCDCD.
