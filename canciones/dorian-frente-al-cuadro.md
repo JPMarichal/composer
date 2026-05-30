@@ -80,18 +80,18 @@ A ser juguete del sentido
 Quisiste helar la madrugada
 Que el tiempo no avanzase nada
 Congelar todo el pensamiento
-Guardar la gloria en el momento
+Guardar la gloria del momento
 
 [Chorus 1]
 (Batería completa, arpegios, cuerdas)
 Dorian frente al cuadro
-No sabías lo que firmabas
-Cada deseo es la promesa
-Que la tela cobra a escondidas
-Creíste que mirar no pesa
-Pero el marco ya crujía
-La piel hermosa que adoraste
-Se volvió tu hipoteca
+Aunque el espejo no te acusa
+Sobre la tela se dibuja
+Lo más interno de tu ser
+Hundido en el sillón de cuero
+Miras el sesgo verdadero
+Que no se ve en tu propia piel
+Pero tu cuadro preserva el registro fiel
 
 [Verse 2]
 (Staccato de cuerda, pads más oscuros)
@@ -112,13 +112,13 @@ Cada minuto vale menos
 
 [Chorus 2]
 Dorian frente al cuadro
-Sabes muy bien lo que firmaste
-Cada deseo es la condena
-Que la tela cobra a escondidas
-Creíste que mirar no pesa
-Pero el marco ya crujía
-La piel hermosa que adoraste
-Se volvió tu hipoteca
+Aunque el espejo no te acusa
+Sobre la tela se dibuja
+Cada costura de tu ser
+Hundido en el sillón de cuero
+Miras el sesgo verdadero
+Que no se ve en tu propia piel
+Y tu cuadro lleva la cuenta fiel
 
 [Bridge]
 (Música se retira. Spoken, tenso, solo voz y un pad)
@@ -139,13 +139,13 @@ Siempre fue usted
 [Chorus 3]
 (Half-time, batería pesada, cuerdas sostenidas)
 Dorian frente al cuadro
-Ya se cumplió lo que firmaste
-Cada deseo es la factura
-Que la tela cobra a escondidas
-Creíste que mirar no pesa
-Pero el marco ya no cruje
-La piel hermosa que adoraste
-Se llevó tu vida entera
+Aunque el espejo no te acusa
+Sobre la tela se dibuja
+Las grietas hondas de tu ser
+Hundido en el sillón de cuero
+Miras el sesgo verdadero
+Que no se ve en tu propia piel
+Y el bastidor se queda con tu piel
 
 [Outro]
 (Piano solo, un cello. Arpegiador decayendo.)
@@ -167,12 +167,12 @@ Dos métricas conviven: eneasílabos (9 sílabas) en versos y pre-coros, hexasí
 
 - **V1**: Dos cuartetos. Q1: L1-L2 asonante a-o/e-o (tacto/pensamiento), L3-L4 consonante -ario (santuario/innecesario). Q2: L6-L8 rima eco -ido (sentidos/sentido), L5 y L7 libres con desinencia verbal.
 - **PC1**: AABB. A: -ada consonante (madrugada/nada), B: -ento consonante (pensamiento/momento).
-- **C1**: Asonante dispersa con pares internos: -esa (L3/L5), -a-a (L2/L7).
+- **C1**: Estructura fija de coro (8 líneas). L2-L4: asonante (acusa/dibuja/ser). L5-L6: asonante e-o (cuero/verdadero). L7-L8: consonante -iel (piel/fiel). L8 métrica quebrada intencional.
 - **V2**: ABABCDCD. A: ie-e/ue-e/ie-e, B: o-o/e-a/o-o/e-a. Asonante homogénea en A.
 - **PC2**: Libre con rima interna: -udre/-encio/-eso/-enos (asonante e-o).
-- **C2**: Idéntico a C1 excepto L1 y L3 — variación semántica quirúrgica.
+- **C2**: Misma estructura que C1. Variación quirúrgica: L4 (costura en vez de interno) y L8 (cuenta fiel).
 - **Puente**: Prosa rítmica, verso libre, sin rima fija.
-- **C3**: Idéntico a C1 excepto L1, L3, L6, L8 — segunda variación quirúrgica.
+- **C3**: Misma estructura que C1. Variación quirúrgica: L4 (grietas hondas) y L8 (bastidor se queda con tu piel).
 - **Outro**: Verso libre, cierre en prosa.
 
 ## Checklist Anti-AI
@@ -213,4 +213,5 @@ Dos métricas conviven: eneasílabos (9 sílabas) en versos y pre-coros, hexasí
 ## Changelog de Autoría
 
 - **2026-05-30** — Composición original. Reescritura completa sobre la versión generada por IA previa. Tesis: "cualquier pasión desbordada destruye, incluso la belleza". Segunda persona, voz desde dentro del protagonista. Chamber pop + synthwave a 105 BPM.
-- **2026-05-30 (2nd pass)** — Reescritura de V1: doctrina materialista de Lord Henry (tacto > pensamiento, belleza como santuario, conciencia como juguete del sentido). Eliminada metáfora ambigua de "piel". Estructura de rima en pares irregulares.
+- **2026-05-30 (2nd pass)** — Reescritura de V1: doctrina materialista de Lord Henry. Estructura de rima en pares irregulares.
+- **2026-05-30 (3rd pass)** — Reescritura completa de C1, C2, C3: paradoja espejo/lienzo, escena física (sillón de cuero, sesgo verdadero), rima piel/fiel. C2 y C3 con variación quirúrgica. PC1: "del momento" corrige "en el momento".
