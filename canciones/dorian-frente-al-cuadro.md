@@ -105,9 +105,9 @@ Cada promesa es una lanza
 Cada caricia es un martirio
 
 [Pre-Chorus 2]
-Las manos tiemblan sobre el brazo
-El cuero cruje con el peso
-No hay vuelta atrás, no hay reemplazo
+Tus manos tiemblan sobre el brazo
+El cuero cruje con tu peso
+No hay vuelta atrás, ya no hay reemplazo
 El cuadro es dueño del proceso
 
 [Chorus 2]
@@ -140,7 +140,7 @@ Siempre fue usted
 (Half-time, batería pesada, cuerdas sostenidas)
 Dorian frente al cuadro
 Aunque el espejo no te acusa
-Sobre la tela se dibuja
+Sobre la tela se dibujan
 Las grietas hondas de tu ser
 Hundido en el sillón de cuero
 Miras el sesgo verdadero
@@ -218,3 +218,4 @@ Dos métricas conviven: eneasílabos (9 sílabas) en versos y pre-coros, hexasí
 - **2026-05-30 (4th pass)** — Reescritura de V2: salto temporal, resumen histórico de la confrontación. Tesis: la doctrina de LH colapsa frente al cuadro. Rima ABABCDCD.
 - **2026-05-30 (5th pass)** — C2 L6: "sesgo verdadero" → "crudo derrotero" por decisión léxica del autor.
 - **2026-05-30 (6th pass)** — PC2 reescrito: escena física (brazo, cuero, cuadro). Eliminado "silencio" (AI-ism) y rima rota. Rima ABAB -azo/e-o.
+- **2026-05-30 (7th pass)** — Ajustes manuales del autor: PC2 L1 "Las"→"Tus", L2 "el"→"tu", L3 "no hay"→"ya no hay". C3 L3 "se dibuja"→"se dibujan" (concierta con "grietas").
