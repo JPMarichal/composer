@@ -7,15 +7,7 @@
 
 ## Bio corta (Spotify / Apple Music / YouTube Music)
 
-JP Marichal es un compositor mexicano de [...] que escribe canciones donde
-lo concreto salva a lo abstracto. Sus letras evitan los grandes sustantivos
-vacíos: el amor aparece como una bufanda que huele a lluvia de estación, la
-pérdida como un cajón que nunca se abre, la paternidad como un niño
-ofreciendo un puñado de espuma "pa' que no se vaya el mar". Su música cruza
-del synth-pop al indie folk, de la bossa nova a la electrónica instrumental,
-con un pie en la poesía clásica española y el otro en la observación
-callejera. No canta sus canciones: las compone, las escribe y las entrega
-para que otras voces las habiten.
+JP Marichal es un compositor mexicano de indie folk, synth-pop y chamber pop que escribe canciones donde lo concreto rescata lo abstracto. Sus letras evitan los grandes sustantivos vacíos: el amor aparece como una bufanda que huele a lluvia de estación, la pérdida como un cajón que nunca se abre, la paternidad como un niño ofreciendo un puñado de espuma «pa' que no se vaya el mar». Su música cruza del synth-pop al indie folk, de la bossa nova a la electrónica instrumental, con un pie en la poesía clásica española y el otro en la observación callejera. No canta sus canciones: las compone, las escribe y las entrega para que otras voces las habiten. Sus álbumes, tales como *La oficina de objetos perdidos*, trazan el mapa de un compositor que cree que una emoción se hace vivencial si se impregna y simboliza en lo tangible.
 
 ---
 
@@ -60,18 +52,24 @@ que llega al oyente es la impresión de que la canción siempre estuvo ahí.
 
 ---
 
+## Historia
+
+JP Marichal desciende de una familia de artistas y literatos. Su infancia transcurrió rodeada de libros e inmersa en un ambiente de preocupación y ocupación social y cultural. Dibujó desde muy niño y fue gran aficionado a la lectura. En la secundaria hacía cómics por diversión; en la preparatoria intentó publicar uno a nivel profesional. Desde siempre recuerda haber escrito pequeños trozos poéticos o líricos. Hacia el final de la secundaria comenzaron a convertirse en poemas y canciones, aunque no tomaron seriedad sino hasta la época universitaria, cuando empezó a recopilarlos formalmente. Comenzó a componer como una forma de expresar su interior, sus preocupaciones y observaciones sobre la vida y sus vivencias.
+
+---
+
 ## Datos rápidos
 
 | | |
 |---|---|
 | **Rol** | Compositor (no intérprete) |
 | **Idioma** | Español |
-| **Origen** | México [...] |
+| **Origen** | Ciudad de México |
+| **Generación** | Cultura pop de los 80 y 90 |
 | **Álbum** | *La oficina de objetos perdidos* |
-| **Influencias literarias** | Pablo Neruda, Antonio Machado, Sor Juana Inés de la Cruz, [...] |
-| **Influencias musicales** | [...] |
-| **Formación musical** | [...] |
-| **Instrumentos** | [...] |
+| **Influencias literarias** | Pablo Neruda, Antonio Machado, Sor Juana Inés de la Cruz |
+| **Influencias musicales** | Mecano, Bosé, Miguel Mateos, Alaska, Naranjo, La Oreja de Van Gogh · Rock/pop 80-90 · Madness · Alberto Cortez, Silvio Rodríguez, Pablo Milanés · Coldplay, Adele · Beatles, Bee Gees, ABBA, Monkees, Madonna |
+| **Formación musical** | Autodidacta |
 
 ---
 
@@ -101,19 +99,54 @@ Cumbia · Vallenato · Soul · R&B
 
 ---
 
-## Notas para el autor
+## Guía de plataformas — Extensiones y formato recomendado
 
-Este archivo está vivo. Complétalo con:
+### Spotify for Artists
+| Campo | Valor |
+|-------|-------|
+| **Límite** | 1500 caracteres |
+| **Recomendado** | 100–150 palabras (corta) / 150–250 palabras (completa) |
+| **Persona** | Tercera persona |
+| **Formato** | Párrafo continuo, sin listas ni saltos de línea forzados |
+| **Clave** | Las primeras 150 caracteres son lo único visible sin «Read more». Ahí va: género + ubicación + propuesta de valor. |
+| **SEO** | Incluir palabras clave de género (amplio y de nicho), ubicación, artistas de referencia. Etiquetar con @ a artistas, álbumes, playlists. |
+| **Tono** | Debe reflejar la personalidad del artista |
+| **Actualización** | Mínimo cada 3–6 meses, siempre con cada lanzamiento |
 
-- Tu ciudad o región en México
-- Tu formación musical (autodidacta, escuela, conservatorio...)
-- Instrumentos que tocas
-- Influencias musicales específicas (artistas, bandas, compositores)
-- Año de nacimiento o generación (si quieres hacerlo público)
-- Historia de cómo empezaste a componer
-- Lo que JP significa, si es relevante
+### Apple Music for Artists
+| Campo | Valor |
+|-------|-------|
+| **Recomendado** | 100–150 palabras |
+| **Persona** | Primera persona (Apple: «write in the first person and be conversational») |
+| **Formato** | Oraciones completas, original, precisa |
 
-Cuando este archivo esté completo, puede usarse como fuente única para:
+### SoundCloud
+| Recomendado | 2–3 oraciones (50–80 palabras), tercera persona |
+
+### Redes sociales (Instagram, TikTok, X)
+| Recomendado | 10–20 palabras (one-liner), primera persona. Hook + proof point + CTA. |
+
+### Press kit / Web
+| Campo | Valor |
+|-------|-------|
+| **Recomendado** | 200–300 palabras |
+| **Persona** | Tercera persona |
+| **Estructura** | Hook (lo más interesante, no tu nombre) → Historia (2–3 detalles que explican tu sonido) → Ahora (lanzamiento actual) |
+
+### Festival / Booking
+| Recomendado | 150–250 palabras. Incluir credenciales en vivo, audiencia, género claro. |
+
+### Estructura universal (bio corta profesional)
+1. Quién + género + ubicación
+2. Sonido con referencias concretas
+3. Logro destacado (streams, prensa, colaboración)
+4. Qué está pasando ahora
+
+> Fuentes: Spotify for Artists, Apple Music for Artists, Chartlex (2400+ perfiles), Orphiq, MusicNSW, BandCopilot, Promo Hype, Musician.ie
+
+JP son las iniciales de **J**uan **P**ablo Marichal.
+
+Este archivo está completo. Puede usarse como fuente única para:
 - Bio de Spotify / Apple Music / YouTube Music
 - Press kit
 - Redes sociales (Instagram, TikTok, X)
