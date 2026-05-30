@@ -29,7 +29,7 @@ Cuando el usuario solicite una canción:
 18. **Changelog de Autoría** — cada canción incluye un changelog que registra todas las decisiones del autor humano vs. sugerencias del asistente. Esto protege la autoría en caso de controversia legal.
 19. **Enfocarse en composición original** — poesía existente (Neruda, Machado, Benedetti) y experimentos instrumentales (Rare Metals) son experimentales/secundarios. El mérito real del autor está en la composición lírica original de su autoría. Cualquier análisis (genérico, temático, de frecuencia) debe priorizar las canciones con letra original sobre adaptaciones o piezas instrumentales.
 20. **Género obligatorio al crear** — toda canción nueva debe tener género asignado en el campo `- **Género:**` del template. Canciones sin género distorsionan el análisis del catálogo.
-21. **Los géneros primarios del autor son Pop y Balada** — estos representan el núcleo de su producción lírica original, no Indie/Folk como podría sugerir un análisis superficial.
+21. **Los géneros del autor por volumen: Pop (33%), Balada (19%), Indie/Folk (20%)** — Pop y Balada son el núcleo (~52% de la producción lírica). Indie/Folk es un tercer polo significativo (~20%), a menudo como textura secundaria sobre base Pop. Rare Metals (instrumental electrónica) es una serie experimental aparte. No confundir Rare Metals con la producción lírica principal.
 
 ## Registro de canciones existentes
 

@@ -52,7 +52,94 @@ Contemporary Folk Pop, Indian and African Rhythms Wind and Drums, Piano Ballad, 
 
 ## Letra
 
-[Song Title: El Arrendajo de Invierno]n[Genre: Orchestral Indie Folk / Chamber Pop]n[Tempo: Mid-tempo, 78 BPM]n[Mood: Uplifting, Romantic, Wintery, Bright]nn[Intro]n(Acoustic guitar arpeggios fading in)n(Soft piano melody joins)n(Cello enters with a warm, deep tone)n(Atmospheric sound: Subtle wind chime texture)n[Instrumental Build-Up]nn[Verse 1]nLa nieve brillante susurra al pisarncrujiendo sus cristales, un ritmo al andar.nDetrás de nosotros, siguiendo el sendero,nlas sombras danzaban con paso ligero.nFiguras fantásticas, de un azul vivaz,ndibujan historias de un tiempo fugaz.nn[Verse 2]nCruzando el lago, los patinadoresnvolaban y daban sus giros mejores.nCon giros agudos, tejiendo en el hielonuna red invisible bajo el frío cielo.nEl aire es agudo, la tarde es plateada,ny el mundo respira con calma sagrada.nn[Pre-Chorus]n(Strings swell gently)nTodo es movimiento, todo es claridadnen este paisaje de gran majestad.nn[Chorus]nEn éxtasis la tierra bebió la luz del sol,nplata derramada, brillante arrebol.nEn éxtasis bebieron, con velocidad,nel vino del viento, la libertad.nY en éxtasis reímos, tú y yo a la par,nbebiendo el vino dulce de amar.nn[Instrumental Interlude]n(Violin solo - emotional and sweeping)n(Piano accompaniment intensifies)n(Drums enter - soft brushes, steady rhythm)nn[Bridge]n(Tempo slows slightly, intimate vocal)n¿Acaso la música de nuestra alegríantocó ya su nota más alta este día?n¿Es este el limite del gozo mortal?n¿El punto más alto de nuestro final?nn[Verse 3]n(Music stops briefly, then returns with bright acoustic strumming)n¡Pero no! De repente, alzaste la frente,ndijiste: "¡Oh, mira!", con voz impaciente.nAllí, en la rama negra del arce nevado,nvaliente y alegre, un ser alado.nComo nuestro amor, sin miedo y leal,n¡un arrendajo azul, con su cresta real!nn[Guitar Solo]n(Bright, folk-style fingerpicking)n(Orchestral backing builds to a crescendo)nn[Chorus]nEn éxtasis la tierra bebió la luz del sol,nplata derramada, brillante arrebol.nEn éxtasis bebieron, con velocidad,nel vino del viento, la libertad.nY en éxtasis reímos, tú y yo a la par,nbebiendo el vino dulce de amar.nn[Refrain]n(Vocal harmonies)nUn arrendajo azul (símbolo de amor).nEn la rama negra (brilla su color).nSin miedo y alegre (como tú y yo).nn[Outro]n(Music slows down, stripping back layers, whispering)n¿Quién puede decir el rango del gozo?n¿Quién pone los límites a lo hermoso?n¿Quién marca el final de la belleza?n(Piano plays the melody one last time)n(Fade to silence)n[End]
+[Song Title: El Arrendajo de Invierno]
+[Genre: Orchestral Indie Folk / Chamber Pop]
+[Tempo: Mid-tempo, 78 BPM]
+[Mood: Uplifting, Romantic, Wintery, Bright]
+
+[Intro]
+(Acoustic guitar arpeggios fading in)
+(Soft piano melody joins)
+(Cello enters with a warm, deep tone)
+(Atmospheric sound: Subtle wind chime texture)
+[Instrumental Build-Up]
+
+[Verse 1]
+La nieve brillante susurra al pisar
+crujiendo sus cristales, un ritmo al andar.
+Detrás de nosotros, siguiendo el sendero,
+las sombras danzaban con paso ligero.
+Figuras fantásticas, de un azul vivaz,
+dibujan historias de un tiempo fugaz.
+
+[Verse 2]
+Cruzando el lago, los patinadores
+volaban y daban sus giros mejores.
+Con giros agudos, tejiendo en el hielo
+una red invisible bajo el frío cielo.
+El aire es agudo, la tarde es plateada,
+y el mundo respira con calma sagrada.
+
+[Pre-Chorus]
+(Strings swell gently)
+Todo es movimiento, todo es claridad
+en este paisaje de gran majestad.
+
+[Chorus]
+En éxtasis la tierra bebió la luz del sol,
+plata derramada, brillante arrebol.
+En éxtasis bebieron, con velocidad,
+el vino del viento, la libertad.
+Y en éxtasis reímos, tú y yo a la par,
+bebiendo el vino dulce de amar.
+
+[Instrumental Interlude]
+(Violin solo - emotional and sweeping)
+(Piano accompaniment intensifies)
+(Drums enter - soft brushes, steady rhythm)
+
+[Bridge]
+(Tempo slows slightly, intimate vocal)
+¿Acaso la música de nuestra alegría
+tocó ya su nota más alta este día?
+¿Es este el limite del gozo mortal?
+¿El punto más alto de nuestro final?
+
+[Verse 3]
+(Music stops briefly, then returns with bright acoustic strumming)
+¡Pero no! De repente, alzaste la frente,
+dijiste: "¡Oh, mira!", con voz impaciente.
+Allí, en la rama negra del arce nevado,
+valiente y alegre, un ser alado.
+Como nuestro amor, sin miedo y leal,
+¡un arrendajo azul, con su cresta real!
+
+[Guitar Solo]
+(Bright, folk-style fingerpicking)
+(Orchestral backing builds to a crescendo)
+
+[Chorus]
+En éxtasis la tierra bebió la luz del sol,
+plata derramada, brillante arrebol.
+En éxtasis bebieron, con velocidad,
+el vino del viento, la libertad.
+Y en éxtasis reímos, tú y yo a la par,
+bebiendo el vino dulce de amar.
+
+[Refrain]
+(Vocal harmonies)
+Un arrendajo azul (símbolo de amor).
+En la rama negra (brilla su color).
+Sin miedo y alegre (como tú y yo).
+
+[Outro]
+(Music slows down, stripping back layers, whispering)
+¿Quién puede decir el rango del gozo?
+¿Quién pone los límites a lo hermoso?
+¿Quién marca el final de la belleza?
+(Piano plays the melody one last time)
+(Fade to silence)
+[End]
 
 ---
 
