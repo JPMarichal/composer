@@ -97,8 +97,7 @@ Pero tu cuadro preserva el registro fiel
 (Staccato de cuerda, pads más oscuros)
 Ya estás de pie frente a la tela
 Y la razón te ha abandonado
-El corazón pesa y no vuela
-Todo el placer se ha congelado
+El corazón pesa y se hiela
 Lo que sembraste en la confianza
 Hoy es cadena y no es alivio
 Cada promesa es una lanza
@@ -168,7 +167,7 @@ Dos métricas conviven: eneasílabos (9 sílabas) en versos y pre-coros, hexasí
 - **V1**: Dos cuartetos. Q1: L1-L2 asonante a-o/e-o (tacto/pensamiento), L3-L4 consonante -ario (santuario/innecesario). Q2: L6-L8 rima eco -ido (sentidos/sentido), L5 y L7 libres con desinencia verbal.
 - **PC1**: AABB. A: -ada consonante (madrugada/nada), B: -ento consonante (pensamiento/momento).
 - **C1**: Estructura fija de coro (8 líneas). L2-L4: asonante (acusa/dibuja/ser). L5-L6: asonante e-o (cuero/verdadero). L7-L8: consonante -iel (piel/fiel). L8 métrica quebrada intencional.
-- **V2**: ABABCDCD. A: asonante e-a (tela/vuela). B: consonante -ado (abandonado/congelado). C: consonante -anza (confianza/lanza). D: asonante i-o (alivio/martirio).
+- **V2**: 7 versos. Q1: asonante e-a (tela/hiela) con L2 libre. Q2: C consonante -anza (confianza/lanza), D asonante i-o (alivio/martirio).
 - **PC2**: Libre con rima interna: -udre/-encio/-eso/-enos (asonante e-o).
 - **C2**: Misma estructura que C1. Variación quirúrgica: L4 (costura en vez de interno) y L8 (cuenta fiel).
 - **Puente**: Prosa rítmica, verso libre, sin rima fija.
@@ -217,3 +216,4 @@ Dos métricas conviven: eneasílabos (9 sílabas) en versos y pre-coros, hexasí
 - **2026-05-30 (3rd pass)** — Reescritura completa de C1, C2, C3: paradoja espejo/lienzo, escena física (sillón de cuero, sesgo verdadero), rima piel/fiel. C2 y C3 con variación quirúrgica. PC1: "del momento" corrige "en el momento".
 - **2026-05-30 (4th pass)** — Reescritura de V2: salto temporal, resumen histórico de la confrontación. Tesis: la doctrina de LH colapsa frente al cuadro. Rima ABABCDCD.
 - **2026-05-30 (5th pass)** — C2 L6: "sesgo verdadero" → "crudo derrotero" por decisión léxica del autor.
+- **2026-05-30 (6th pass)** — V2: eliminada L3 duplicada ("pesa y no vuela"). L4 pasa a L3: "El corazón pesa y se hiela". V2 pasa a 7 versos.
