@@ -11,11 +11,11 @@ Cuando el usuario solicite una canción:
 2. **Auditoría Léxica Previa** — antes de escribir, lista cada sustantivo abstracto y adjetivo; verifica que no esté en listado prohibido (§1.3, §2.5) y que pase la regla del bar.
 3. **Regla del Sustantivo Concreto** — por cada abstracto (amor, dolor, soledad), en el mismo verso debe haber un objeto físico específico (una taza, un grifo, una persiana).
 4. **Regla de Especificidad** — prohibido usar genéricos: no "la ciudad" sino "Carabanchel"; no "un coche" sino "un Renault 4"; no "una flor" sino "una buganvilia".
-5. **Planificar** — elegir género, BPM, compás, tonalidad, progresión, estructura, esquema de rima y meta-tags.
+5. **Planificar** — elegir género (requerido, no opcional), BPM, compás, tonalidad, progresión, estructura, esquema de rima y meta-tags.
 6. **Aplicar checklist anti-AI** de `specs/002-anti-ai-isms.md` — los 21 safeguards cuantificables del compositor. Cada estrofa debe pasar todos los ítems; si 3+ fallan, rehacer la canción desde cero.
 7. **Verificación Fonética** — aplicar la lista de verificación fonética de `corpus/007-fonetica-acustica.md §5`: filtro de clímax (vocales abiertas en notas agudas), filtro de legato (consonantes sonoras en pasajes suaves), filtro rítmico (oclusivas alineadas con la base rítmica) y la prueba del susurro.
 8. **Usar meta-tags `[ ]`** en la letra para marcar secciones (Intro, Verse, Chorus, Bridge, Outro, etc.), transiciones (Pre-Chorus, Build, Drop) y voces ([spoken word], [rap verse], [whisper]).
-9. Si es necesario, usar `just ingest` y `just query "requisitos"` para recuperar contexto del RAG.
+9. Para recuperar contexto del RAG, usar `just query "requisitos"`. Para indexar cambios, usar `just ingest` (incremental — solo re-procesa archivos modificados). Usar `just reset` + `just ingest` solo cuando se cambie la estructura del chunking o se añadan/eliminen directorios completos.
 10. Para canciones complejas o largas, se puede invocar al subagente `compositor` con el task tool.
     10b. **Regla moral** — las letras promueven principios edificantes: responsabilidad, templanza, respeto, integridad familiar, esperanza realista. Cero promoción de alcohol, tabaco, drogas, café como desahogo, ni sexo prematrimonial/extramatrimonial como deseable. Ver §7 del spec.
 11. **Template obligatorio** — toda canción nueva debe seguir `specs/003-file-template.md`. Usar `just template "Título" "Género"` para generar el esqueleto. La descripción debe seguir el formato de 5 partes del spec §Descripción: hook (género/instrumentación/momento), tesis, simbolismo explícito, conexión («Si alguna vez has...»), cierre. Máximo 2 párrafos.
@@ -26,6 +26,9 @@ Cuando el usuario solicite una canción:
 16. **Suspenso por Capas** — la verdad de la canción se revela gradualmente (V1 descriptivo → Chorus tesis → V2 conflicto → Bridge revelación → Outro resolución). El oyente debe poder descubrir algo nuevo en cada escucha.
 17. **Style Prompt limitado a 1000 chars** — priorizar armonía > instrumentación > emoción. Incluir acordes, estructura y referencia sonora ("like X at their most Y"). Copiar metadatos completos al campo de estilo de Suno mejora la generación.
 18. **Changelog de Autoría** — cada canción incluye un changelog que registra todas las decisiones del autor humano vs. sugerencias del asistente. Esto protege la autoría en caso de controversia legal.
+19. **Enfocarse en composición original** — poesía existente (Neruda, Machado, Benedetti) y experimentos instrumentales (Rare Metals) son experimentales/secundarios. El mérito real del autor está en la composición lírica original de su autoría. Cualquier análisis (genérico, temático, de frecuencia) debe priorizar las canciones con letra original sobre adaptaciones o piezas instrumentales.
+20. **Género obligatorio al crear** — toda canción nueva debe tener género asignado en el campo `- **Género:**` del template. Canciones sin género distorsionan el análisis del catálogo.
+21. **Los géneros primarios del autor son Pop y Balada** — estos representan el núcleo de su producción lírica original, no Indie/Folk como podría sugerir un análisis superficial.
 
 ## Herramientas del sistema
 
