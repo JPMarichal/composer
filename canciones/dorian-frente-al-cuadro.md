@@ -216,3 +216,4 @@ Dos métricas conviven: eneasílabos (9 sílabas) en versos y pre-coros, hexasí
 - **2026-05-30 (2nd pass)** — Reescritura de V1: doctrina materialista de Lord Henry. Estructura de rima en pares irregulares.
 - **2026-05-30 (3rd pass)** — Reescritura completa de C1, C2, C3: paradoja espejo/lienzo, escena física (sillón de cuero, sesgo verdadero), rima piel/fiel. C2 y C3 con variación quirúrgica. PC1: "del momento" corrige "en el momento".
 - **2026-05-30 (4th pass)** — Reescritura de V2: salto temporal, resumen histórico de la confrontación. Tesis: la doctrina de LH colapsa frente al cuadro. Rima ABABCDCD.
+- **2026-05-30 (5th pass)** — C2 L6: "sesgo verdadero" → "crudo derrotero" por decisión léxica del autor.
