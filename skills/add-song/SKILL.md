@@ -49,7 +49,9 @@ El archivo debe incluir:
 - 4 filtros fonéticos (clímax, legato, rítmico, prueba del susurro)
 - Sintaxis Suno: `[ ]` para instrucciones, `( )` para ad-libs cantados
 
-### 6. Publicar (Notion→Ingest→Push)
+### 6. Publicar — obligatorio (Notion→Ingest→Push)
+
+**Este paso no es opcional.** Toda canción registrada debe estar en Notion y GitHub, sincronizada siempre.
 
 Un solo comando hace todo:
 
@@ -57,7 +59,12 @@ Un solo comando hace todo:
 just publish-song "canciones/<titulo-en-kebab-case>.md" "add song: <título>"
 ```
 
-Esto: sincroniza a Notion (crea/actualiza página + escribe NotionPageID), indexa en vector store, y hace git commit + push.
+Esto, en orden: sincroniza a Notion (crea/actualiza página + escribe NotionPageID en el archivo local), indexa en vector store, y hace git commit + push.
+
+Al terminar, verificar:
+- `git status` debe decir "nothing to commit, working tree clean"
+- El archivo local debe tener `NotionPageID` poblado
+- La página debe existir en la base de datos "Canciones de JPMarichal" en Notion
 
 ## Referencias
 
