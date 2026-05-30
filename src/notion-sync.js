@@ -160,26 +160,28 @@ async function main() {
 
   let pageId;
 
+  const SONG_ICON = { type: "emoji", emoji: "\uD83C\uDFB6" };
+
   if (notionPageId) {
     pageId = notionPageId;
-    await notion.pages.update({ page_id: pageId, properties });
+    await notion.pages.update({ page_id: pageId, properties, icon: SONG_ICON });
     await replaceBlocks(pageId, children);
     console.log(`✓ Actualizado en Notion: ${title}`);
   } else {
     const existingId = await findExistingPage();
     if (existingId) {
       pageId = existingId;
-      await notion.pages.update({ page_id: pageId, properties });
+      await notion.pages.update({ page_id: pageId, properties, icon: SONG_ICON });
       await replaceBlocks(pageId, children);
       console.log(`✓ Actualizado en Notion: ${title}`);
     } else {
       const resp = await notion.pages.create({
         parent: { data_source_id: DATA_SOURCE_ID, type: "data_source_id" },
+        icon: SONG_ICON,
         properties,
         children,
       });
       pageId = resp.id;
-      resp.url || `https://www.notion.so/${resp.id.replace(/-/g, "")}`;
       console.log(`✓ Creado en Notion: ${title}`);
     }
   }

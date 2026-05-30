@@ -89,14 +89,26 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
     },
     {
       name: "update_page",
-      description: "Actualiza las propiedades de una página en Notion",
+      description: "Actualiza las propiedades y/o ícono de una página en Notion",
       inputSchema: {
         type: "object",
         properties: {
           page_id: { type: "string", description: "ID de la página" },
           properties: { type: "object", description: "Propiedades a actualizar" },
+          icon: {
+            type: "object",
+            description: "Ícono de la página: { type: 'emoji', emoji: '🎶' } o { type: 'external', external: { url: '...' } }",
+            properties: {
+              type: { type: "string", enum: ["emoji", "external"] },
+              emoji: { type: "string" },
+              external: {
+                type: "object",
+                properties: { url: { type: "string" } },
+              },
+            },
+          },
         },
-        required: ["page_id", "properties"],
+        required: ["page_id"],
       },
     },
     {
@@ -162,11 +174,15 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
       const parent = parentType === "data_source_id"
         ? { data_source_id: args.database_id, type: "data_source_id" }
         : { database_id: args.database_id, type: "database_id" };
-      const resp = await notion.pages.create({
+      const createArgs = {
         parent,
         properties: args.properties,
         children: args.children,
-      });
+      };
+      if (args.database_id === "86be0268-5d13-44e1-bbde-e5944c7b8d44") {
+        createArgs.icon = { type: "emoji", emoji: "\uD83C\uDFB6" };
+      }
+      const resp = await notion.pages.create(createArgs);
       return { content: [{ type: "text", text: JSON.stringify(resp, null, 2) }] };
     }
     case "append_blocks": {
@@ -177,10 +193,10 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
       return { content: [{ type: "text", text: JSON.stringify(resp, null, 2) }] };
     }
     case "update_page": {
-      const resp = await notion.pages.update({
-        page_id: args.page_id,
-        properties: args.properties,
-      });
+      const updateArgs = { page_id: args.page_id };
+      if (args.properties) updateArgs.properties = args.properties;
+      if (args.icon) updateArgs.icon = args.icon;
+      const resp = await notion.pages.update(updateArgs);
       return { content: [{ type: "text", text: JSON.stringify(resp, null, 2) }] };
     }
     case "update_database": {
