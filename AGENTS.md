@@ -50,6 +50,9 @@ Cuando el usuario entregue canciones ya compuestas (letra + metadatos) para aña
 - `just template "Título" "Género"` — generar esqueleto de canción
 - `just notion-sync "canciones/canción.md"` — sincronizar archivo local → Notion
 - `just reset` + `just ingest` — reindexar vector store tras cambios
-- `just suno-index` — indexar todo el catálogo de Suno localmente (1,500+ clips)
+- `just suno-index` — indexar todo el catálogo de Suno localmente (~1,500 clips). **Actualiza** project_name de clips existentes, no solo añade nuevos. Ejecutar después de mover clips entre proyectos.
 - `just suno-search "término"` — buscar canciones en el índice local por título
 - `just suno-stats` — resumen del catálogo por proyecto
+- `just suno-list-projects` — lista todos los proyectos con su clip count
+- `just suno-move-clips "Singles" "Mamá" "si vuelvo"` — mueve clips al proyecto indicado (busca por título en el índice local)
+- `just suno-move-clips-from "Fronteras" "Singles" "Mamá" "si vuelvo"` — mueve clips desde un proyecto específico a otro

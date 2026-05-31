@@ -87,6 +87,22 @@ suno-search term:
 suno-stats:
     {{sunopy}} scripts/suno-stats.py
 
+# Mueve clips entre proyectos de Suno: just suno-move-clips <target> <title> [<title>...]
+suno-move-clips target *titles:
+    {{sunopy}} scripts/suno-move-clips.py "{{target}}" {{titles}}
+
+# Mueve clips desde un proyecto específico: just suno-move-clips-from <source> <target> <title> [...]
+suno-move-clips-from source target *titles:
+    {{sunopy}} scripts/suno-move-clips.py --from "{{source}}" "{{target}}" {{titles}}
+
+# Lista proyectos de Suno con su clip count
+suno-list-projects:
+    {{sunopy}} -c "import asyncio,json,os; os.environ['SSL_VERIFY']='0'; from suno_mcp.suno_client import SunoClient; async def main(): \
+        async with SunoClient(open(r'$(pwd)/.env').read().split('SUNO_COOKIE=')[1].split('\n')[0].strip().strip('\"').strip(\"'\")) as c: \
+            projs=(await c._api('GET','/api/project/me')).json().get('projects',[]); \
+            [print(f\"  {p['name']:35s} {p['clip_count']:4d} clips ({p['id'][:8]}...)\") for p in sorted(projs,key=lambda x:-x['clip_count'])]; \
+        asyncio.run(main())"
+
 # ─── Ayuda ─────────────────────────────────────────────────
 
 default:

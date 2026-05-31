@@ -75,20 +75,31 @@ async def enumerate_all():
             with open(INDEX_PATH, encoding='utf-8') as f:
                 existing = json.load(f)
 
-        seen_ids = {c['id'] for c in existing['clips']}
+        existing_by_id = {c['id']: c for c in existing['clips']}
         new_count = 0
+        updated_count = 0
         for c in all_clips:
-            if c['id'] not in seen_ids:
-                existing['clips'].append(c)
-                seen_ids.add(c['id'])
+            cid = c['id']
+            if cid not in existing_by_id:
+                existing_by_id[cid] = c
                 new_count += 1
+            else:
+                # Update project info and other mutable fields
+                old = existing_by_id[cid]
+                if (c.get('project_id') != old.get('project_id')
+                        or c.get('project_name') != old.get('project_name')
+                        or c.get('title') != old.get('title')
+                        or c.get('status') != old.get('status')):
+                    existing_by_id[cid].update(c)
+                    updated_count += 1
 
+        existing['clips'] = list(existing_by_id.values())
         existing['total'] = len(existing['clips'])
         existing['generated_at'] = time.time()
         with open(INDEX_PATH, 'w', encoding='utf-8') as f:
             json.dump(existing, f, ensure_ascii=False, indent=2)
 
-        print(f'Saved {new_count} new + {len(existing["clips"]) - new_count} existing')
+        print(f'Saved {new_count} new + {updated_count} updated + {len(existing["clips"]) - new_count - updated_count} unchanged')
         print(f'Total: {existing["total"]} clips in {INDEX_PATH}')
 
         # Summary by project
