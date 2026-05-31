@@ -103,6 +103,11 @@ suno-list-projects:
             [print(f\"  {p['name']:35s} {p['clip_count']:4d} clips ({p['id'][:8]}...)\") for p in sorted(projs,key=lambda x:-x['clip_count'])]; \
         asyncio.run(main())"
 
+# Descarga thumbnails de Suno para canciones distribuidas: just suno-thumbs
+# (sin args) busca distribuidor OffStep. --distributor "X" busca otro.
+suno-thumbs *args:
+    {{sunopy}} scripts/suno-thumbs.py {{args}}
+
 # ─── Ayuda ─────────────────────────────────────────────────
 
 default:

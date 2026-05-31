@@ -12,6 +12,7 @@
 - **Fecha de lanzamiento:** 2026-06-26
 - **Estado de publicación:** Distribuida en plataformas
 - **Generador:** SUNO
+- **Título Suno:** Angel nocturno
 - **Temas:** Amor, Mortalidad, Carpe diem
 - **Distribuidor:** OffStep
 - **ISRC:** QZHZ52604999
