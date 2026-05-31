@@ -48,8 +48,22 @@ Las imágenes se guardan en `canciones/thumbs/` con nombre:
 {slug}_{clip_id[:8]}_{sanitized_title}.jpg
 ```
 
+## Songs renamed after Suno generation
+
+If a song was generated in Suno under one name but later renamed for distribution,
+add a `**Título Suno:**` field in the song's metadata block pointing to the
+original Suno title. The script will use this as a fallback when slug matching
+fails.
+
+Example (farolas-sin-luz.md):
+```markdown
+- **Generador:** SUNO
+- **Título Suno:** Angel nocturno
+```
+
 ## Notas
 
 - Idempotente: no redescarga si el archivo ya existe
 - Las canciones sin clips en el índice local se saltan con un aviso
 - Usa fuzzy matching para emparejar títulos de canciones (slugs kebab-case contra títulos Unicode de Suno)
+- Estrategia de búsqueda: 1) slug del filename → 2) `Título Suno` si existe → 3) título de canción completo
