@@ -9,11 +9,13 @@
 - **Tipo:** Canción
 - **Año:** 1991
 - **Fecha de composición:** 
-- **Estado de publicación:** Sin procesar
+- **Fecha de lanzamiento:** 2026-06-26
+- **Estado de publicación:** Distribuida en plataformas
 - **Generador:** SUNO
 - **Temas:** 
 - **Distribuidor:** OffStep
-- **ISRC:** 
+- **ISRC:** QZHZ52604993
+- **UPC:** 742121170223
 - **Álbum:** La oficina de objetos perdidos
 - **NotionPageID:** 31a22335-ada6-80df-8956-c606442b3160
 - **Música:**

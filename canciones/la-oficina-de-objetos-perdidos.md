@@ -9,11 +9,13 @@
 - **Tipo:** Canción
 - **Año:** 2025
 - **Fecha de composición:** 2025-12-12
-- **Estado de publicación:** Sin procesar
+- **Fecha de lanzamiento:** 2026-06-26
+- **Estado de publicación:** Distribuida en plataformas
 - **Generador:** SUNO
 - **Temas:** Amor, Nostalgia, Reflexión
 - **Distribuidor:** OffStep
-- **ISRC:** 
+- **ISRC:** QZHZ52604989
+- **UPC:** 742121170223
 - **Álbum:** La oficina de objetos perdidos
 - **NotionPageID:** 36f22335-ada6-8117-a1ae-dbcb13daf9d8
 - **Música:**

@@ -9,11 +9,13 @@
 - **Tipo:** Canción
 - **Año:** 1997
 - **Fecha de composición:** 1997-10-01
-- **Estado de publicación:** Sin procesar
+- **Fecha de lanzamiento:** 2026-06-26
+- **Estado de publicación:** Distribuida en plataformas
 - **Generador:** SUNO
 - **Temas:** 
 - **Distribuidor:** OffStep
-- **ISRC:** 
+- **ISRC:** QZHZ52604991
+- **UPC:** 742121170223
 - **Álbum:** La oficina de objetos perdidos
 - **NotionPageID:** 2c822335-ada6-8047-8afd-d337b53c0352
 - **Música:**

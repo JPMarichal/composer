@@ -15,11 +15,13 @@ Cuando no sabes qué hacer con todo lo que sientes, solo queda una opción: amar
 - **Tipo:** Canción
 - **Año:** 
 - **Fecha de composición:** 
-- **Estado de publicación:** Sin procesar
+- **Fecha de lanzamiento:** 2026-06-26
+- **Estado de publicación:** Distribuida en plataformas
 - **Generador:** SUNO
 - **Temas:** Amor, Reflexión
 - **Distribuidor:** OffStep
-- **ISRC:** 
+- **ISRC:** QZHZ52605000
+- **UPC:** 742121170223
 - **Álbum:** La oficina de objetos perdidos
 - **NotionPageID:** 2c722335-ada6-8065-9eb6-caa8148276d0
 - **Música:**

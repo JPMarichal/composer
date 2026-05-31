@@ -1,6 +1,6 @@
 {
-  "total": 1567,
-  "generated_at": 1780194286.3231769,
+  "total": 1572,
+  "generated_at": 1780219961.8752635,
   "clips": [
     {
       "id": "64bdd2fe-3e7b-407f-8ba4-1f5671ea4724",
@@ -8,8 +8,8 @@
       "status": "complete",
       "created_at": "2026-05-27T18:14:01.547Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "3498d5f6-1981-4641-8dea-7b9c03ee019b",
+      "project_name": "Instrumental 1",
       "duration": 127.44
     },
     {
@@ -18,8 +18,8 @@
       "status": "complete",
       "created_at": "2026-05-27T18:14:01.547Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "3498d5f6-1981-4641-8dea-7b9c03ee019b",
+      "project_name": "Instrumental 1",
       "duration": 147.08
     },
     {
@@ -28,8 +28,8 @@
       "status": "complete",
       "created_at": "2026-05-27T06:36:21.824Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "3498d5f6-1981-4641-8dea-7b9c03ee019b",
+      "project_name": "Instrumental 1",
       "duration": 128.12
     },
     {
@@ -38,8 +38,8 @@
       "status": "complete",
       "created_at": "2026-05-27T06:36:21.824Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "3498d5f6-1981-4641-8dea-7b9c03ee019b",
+      "project_name": "Instrumental 1",
       "duration": 123.8
     },
     {
@@ -48,8 +48,8 @@
       "status": "complete",
       "created_at": "2026-05-27T06:28:57.172Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "3498d5f6-1981-4641-8dea-7b9c03ee019b",
+      "project_name": "Instrumental 1",
       "duration": 166.08
     },
     {
@@ -58,8 +58,8 @@
       "status": "complete",
       "created_at": "2026-05-27T06:28:57.172Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "3498d5f6-1981-4641-8dea-7b9c03ee019b",
+      "project_name": "Instrumental 1",
       "duration": 147.16
     },
     {
@@ -2028,8 +2028,8 @@
       "status": "complete",
       "created_at": "2026-05-09T09:28:16.716Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6b6938fe-d5e3-4f85-aa56-8f0de7be5915",
+      "project_name": "Finished",
       "duration": 319.88
     },
     {
@@ -2038,8 +2038,8 @@
       "status": "complete",
       "created_at": "2026-05-08T22:52:20.692Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "2ec66367-1910-4808-983c-bde2a9371b3e",
+      "project_name": "Recordings",
       "duration": 97.92
     },
     {
@@ -2458,8 +2458,8 @@
       "status": "complete",
       "created_at": "2026-05-04T18:56:17.158Z",
       "model_name": "chirp-flounder",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "22d6c3fd-d388-4a15-8f83-eeee3bbb02d0",
+      "project_name": "_Singles",
       "duration": 223.6
     },
     {
@@ -2468,8 +2468,8 @@
       "status": "complete",
       "created_at": "2026-05-04T17:45:30.850Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6b6938fe-d5e3-4f85-aa56-8f0de7be5915",
+      "project_name": "Finished",
       "duration": 189.92
     },
     {
@@ -2478,8 +2478,8 @@
       "status": "complete",
       "created_at": "2026-05-04T17:26:24.967Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6b6938fe-d5e3-4f85-aa56-8f0de7be5915",
+      "project_name": "Finished",
       "duration": 249.96
     },
     {
@@ -3178,8 +3178,8 @@
       "status": "complete",
       "created_at": "2026-04-24T00:03:38.515Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 253.28
     },
     {
@@ -3188,8 +3188,8 @@
       "status": "complete",
       "created_at": "2026-04-24T00:03:38.515Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 238.12
     },
     {
@@ -3558,8 +3558,8 @@
       "status": "complete",
       "created_at": "2026-04-18T21:28:00.617Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 266.64
     },
     {
@@ -3568,8 +3568,8 @@
       "status": "complete",
       "created_at": "2026-04-18T21:21:32.905Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 262.32
     },
     {
@@ -3578,8 +3578,8 @@
       "status": "complete",
       "created_at": "2026-04-18T21:14:08.321Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 272.08
     },
     {
@@ -3588,8 +3588,8 @@
       "status": "complete",
       "created_at": "2026-04-18T21:11:19.299Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 264.68
     },
     {
@@ -3598,8 +3598,8 @@
       "status": "complete",
       "created_at": "2026-04-18T21:11:19.299Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 263.08
     },
     {
@@ -3608,8 +3608,8 @@
       "status": "complete",
       "created_at": "2026-04-18T21:00:01.125Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 280.8
     },
     {
@@ -3618,8 +3618,8 @@
       "status": "complete",
       "created_at": "2026-04-18T21:00:01.125Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 264.64
     },
     {
@@ -3628,8 +3628,8 @@
       "status": "complete",
       "created_at": "2026-04-18T20:54:15.381Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 283.96
     },
     {
@@ -3638,8 +3638,8 @@
       "status": "complete",
       "created_at": "2026-04-18T20:54:15.381Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 286.92
     },
     {
@@ -3828,8 +3828,8 @@
       "status": "complete",
       "created_at": "2026-04-18T17:58:56.295Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 201.44
     },
     {
@@ -3838,8 +3838,8 @@
       "status": "complete",
       "created_at": "2026-04-18T17:58:56.295Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 220.88
     },
     {
@@ -3848,8 +3848,8 @@
       "status": "complete",
       "created_at": "2026-04-18T17:58:39.709Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 237.68
     },
     {
@@ -3858,8 +3858,8 @@
       "status": "complete",
       "created_at": "2026-04-18T17:58:39.709Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 209.48
     },
     {
@@ -4018,8 +4018,8 @@
       "status": "complete",
       "created_at": "2026-04-17T01:34:00.796Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6b6938fe-d5e3-4f85-aa56-8f0de7be5915",
+      "project_name": "Finished",
       "duration": 223.6
     },
     {
@@ -4218,8 +4218,8 @@
       "status": "complete",
       "created_at": "2026-04-14T20:18:38.063Z",
       "model_name": "chirp-chirp",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 250.14533333333333
     },
     {
@@ -4228,8 +4228,8 @@
       "status": "complete",
       "created_at": "2026-04-14T19:47:39.655Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 397.64
     },
     {
@@ -4238,8 +4238,8 @@
       "status": "complete",
       "created_at": "2026-04-14T19:47:39.655Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 221.68
     },
     {
@@ -4268,8 +4268,8 @@
       "status": "complete",
       "created_at": "2026-04-14T19:38:37.572Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 237.64
     },
     {
@@ -4278,8 +4278,8 @@
       "status": "complete",
       "created_at": "2026-04-14T19:38:37.572Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 236.92
     },
     {
@@ -4298,8 +4298,8 @@
       "status": "complete",
       "created_at": "2026-04-14T19:27:09.105Z",
       "model_name": "chirp-v1",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 219.6
     },
     {
@@ -4308,8 +4308,8 @@
       "status": "complete",
       "created_at": "2026-04-14T19:20:53.176Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 242.8
     },
     {
@@ -4318,8 +4318,8 @@
       "status": "complete",
       "created_at": "2026-04-14T19:20:53.175Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 222.0
     },
     {
@@ -4328,8 +4328,8 @@
       "status": "complete",
       "created_at": "2026-04-14T19:18:51.293Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 408.72
     },
     {
@@ -4338,8 +4338,8 @@
       "status": "complete",
       "created_at": "2026-04-14T19:18:51.293Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 408.72
     },
     {
@@ -4348,8 +4348,8 @@
       "status": "complete",
       "created_at": "2026-04-14T19:17:46.629Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 408.8
     },
     {
@@ -4358,8 +4358,8 @@
       "status": "complete",
       "created_at": "2026-04-14T19:17:46.628Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 408.8
     },
     {
@@ -4368,8 +4368,8 @@
       "status": "complete",
       "created_at": "2026-04-14T19:16:18.277Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 229.84
     },
     {
@@ -4378,8 +4378,8 @@
       "status": "complete",
       "created_at": "2026-04-14T19:16:18.277Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 237.68
     },
     {
@@ -4518,8 +4518,8 @@
       "status": "complete",
       "created_at": "2026-04-13T23:26:31.591Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6b6938fe-d5e3-4f85-aa56-8f0de7be5915",
+      "project_name": "Finished",
       "duration": 233.76
     },
     {
@@ -4918,8 +4918,8 @@
       "status": "complete",
       "created_at": "2026-04-10T16:47:47.419Z",
       "model_name": "chirp-fenix",
-      "project_id": "6b6938fe-d5e3-4f85-aa56-8f0de7be5915",
-      "project_name": "Finished",
+      "project_id": "22d6c3fd-d388-4a15-8f83-eeee3bbb02d0",
+      "project_name": "_Singles",
       "duration": 253.04
     },
     {
@@ -5008,8 +5008,8 @@
       "status": "complete",
       "created_at": "2026-04-07T07:19:15.033Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6b6938fe-d5e3-4f85-aa56-8f0de7be5915",
+      "project_name": "Finished",
       "duration": 479.4
     },
     {
@@ -5028,8 +5028,8 @@
       "status": "complete",
       "created_at": "2026-04-07T06:44:13.831Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6b6938fe-d5e3-4f85-aa56-8f0de7be5915",
+      "project_name": "Finished",
       "duration": 343.6
     },
     {
@@ -5038,8 +5038,8 @@
       "status": "complete",
       "created_at": "2026-04-07T06:32:08.381Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6b6938fe-d5e3-4f85-aa56-8f0de7be5915",
+      "project_name": "Finished",
       "duration": 443.2
     },
     {
@@ -6178,8 +6178,8 @@
       "status": "complete",
       "created_at": "2026-03-29T12:17:57.423Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6b6938fe-d5e3-4f85-aa56-8f0de7be5915",
+      "project_name": "Finished",
       "duration": 212.92
     },
     {
@@ -6198,8 +6198,8 @@
       "status": "complete",
       "created_at": "2026-03-29T11:47:23.023Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6b6938fe-d5e3-4f85-aa56-8f0de7be5915",
+      "project_name": "Finished",
       "duration": 212.08
     },
     {
@@ -6208,8 +6208,8 @@
       "status": "complete",
       "created_at": "2026-03-29T11:47:23.023Z",
       "model_name": "chirp-fenix",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6b6938fe-d5e3-4f85-aa56-8f0de7be5915",
+      "project_name": "Finished",
       "duration": 203.24
     },
     {
@@ -6668,8 +6668,8 @@
       "status": "complete",
       "created_at": "2026-03-25T03:12:53.222Z",
       "model_name": "chirp-crow",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 204.96
     },
     {
@@ -6678,8 +6678,8 @@
       "status": "complete",
       "created_at": "2026-03-25T03:11:26.577Z",
       "model_name": "chirp-crow",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 213.76
     },
     {
@@ -6688,8 +6688,8 @@
       "status": "complete",
       "created_at": "2026-03-25T03:09:15.527Z",
       "model_name": "chirp-crow",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 228.92
     },
     {
@@ -6698,8 +6698,8 @@
       "status": "complete",
       "created_at": "2026-03-25T03:09:15.527Z",
       "model_name": "chirp-crow",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 227.2
     },
     {
@@ -6708,8 +6708,8 @@
       "status": "complete",
       "created_at": "2026-03-25T03:01:05.194Z",
       "model_name": "chirp-crow",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 253.28
     },
     {
@@ -6718,8 +6718,8 @@
       "status": "complete",
       "created_at": "2026-03-25T03:01:05.194Z",
       "model_name": "chirp-crow",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 234.92
     },
     {
@@ -9168,8 +9168,8 @@
       "status": "complete",
       "created_at": "2026-03-07T22:46:46.577Z",
       "model_name": "chirp-bluejay",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "6d5d7add-f4a2-40b5-98d2-6f86e75af54b",
+      "project_name": "Otros90s",
       "duration": 283.6
     },
     {
@@ -10428,8 +10428,8 @@
       "status": "complete",
       "created_at": "2026-02-26T02:31:47.182Z",
       "model_name": "chirp-bluejay",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "270bcbaf-6a82-4db3-95a6-74391d41e13c",
+      "project_name": "Church",
       "duration": 479.96
     },
     {
@@ -11298,8 +11298,8 @@
       "status": "complete",
       "created_at": "2026-02-20T12:18:03.125Z",
       "model_name": "chirp-bluejay",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "270bcbaf-6a82-4db3-95a6-74391d41e13c",
+      "project_name": "Church",
       "duration": 239.68
     },
     {
@@ -12328,8 +12328,8 @@
       "status": "complete",
       "created_at": "2026-02-14T21:17:58.261Z",
       "model_name": "chirp-crow",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "e557a46d-d4cb-4873-9df9-3db4fdf3ade2",
+      "project_name": "De poetas y sapoetas",
       "duration": 162.88
     },
     {
@@ -13838,8 +13838,8 @@
       "status": "complete",
       "created_at": "2026-01-22T19:36:58.753Z",
       "model_name": "chirp-crow",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "cb063be6-23e8-4496-98de-cd97fef67b3e",
+      "project_name": "De caballeros y dragones",
       "duration": 356.36
     },
     {
@@ -13918,8 +13918,8 @@
       "status": "complete",
       "created_at": "2026-01-22T17:27:32.705Z",
       "model_name": "chirp-crow",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "270bcbaf-6a82-4db3-95a6-74391d41e13c",
+      "project_name": "Church",
       "duration": 329.04
     },
     {
@@ -13928,8 +13928,8 @@
       "status": "complete",
       "created_at": "2026-01-22T17:27:32.705Z",
       "model_name": "chirp-crow",
-      "project_id": null,
-      "project_name": null,
+      "project_id": "270bcbaf-6a82-4db3-95a6-74391d41e13c",
+      "project_name": "Church",
       "duration": 353.12
     },
     {
@@ -15671,6 +15671,56 @@
       "project_id": "27d9ea71-7457-48b2-8172-87f54dc551c9",
       "project_name": "_La oficina de objetos perdidos",
       "duration": 228.84
+    },
+    {
+      "id": "f2ec5e00-85eb-42c5-af2d-031b1a9fa75d",
+      "title": "112.4s Grabación (28 may @ 18:52)",
+      "status": "complete",
+      "created_at": "2026-05-29T00:53:51.137Z",
+      "model_name": "chirp-chirp",
+      "project_id": "2ec66367-1910-4808-983c-bde2a9371b3e",
+      "project_name": "Recordings",
+      "duration": 111.964625
+    },
+    {
+      "id": "84d4897a-287e-4b08-a71a-047cdf82dcdc",
+      "title": "Luna tiesa",
+      "status": "complete",
+      "created_at": "2026-05-28T13:11:20.266Z",
+      "model_name": "chirp-fenix",
+      "project_id": "68c3ce6b-a7d3-4be5-a448-bf48889653b6",
+      "project_name": "Lab",
+      "duration": 176.88
+    },
+    {
+      "id": "99b404ab-b045-47a8-9040-468a848feb5f",
+      "title": "Luna tiesa",
+      "status": "complete",
+      "created_at": "2026-05-28T13:11:20.266Z",
+      "model_name": "chirp-fenix",
+      "project_id": "68c3ce6b-a7d3-4be5-a448-bf48889653b6",
+      "project_name": "Lab",
+      "duration": 182.16
+    },
+    {
+      "id": "910feb50-ece1-4733-913e-c012b6a9b3b2",
+      "title": "Paren el mundo",
+      "status": "complete",
+      "created_at": "2026-05-28T12:15:15.980Z",
+      "model_name": "chirp-fenix",
+      "project_id": "68c3ce6b-a7d3-4be5-a448-bf48889653b6",
+      "project_name": "Lab",
+      "duration": 157.2
+    },
+    {
+      "id": "4c0e3e76-5152-4c7a-bebd-af491ff96161",
+      "title": "Paren el mundo",
+      "status": "complete",
+      "created_at": "2026-05-28T12:10:02.302Z",
+      "model_name": "chirp-fenix",
+      "project_id": "68c3ce6b-a7d3-4be5-a448-bf48889653b6",
+      "project_name": "Lab",
+      "duration": 129.84
     }
   ]
 }

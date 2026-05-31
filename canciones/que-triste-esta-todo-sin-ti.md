@@ -9,11 +9,13 @@
 - **Tipo:** Canción
 - **Año:** 1993
 - **Fecha de composición:** 1993-01-01
-- **Estado de publicación:** Sin procesar
+- **Fecha de lanzamiento:** 2026-06-26
+- **Estado de publicación:** Distribuida en plataformas
 - **Generador:** SUNO
 - **Temas:** Amor, Tristeza, Nostalgia
 - **Distribuidor:** OffStep
-- **ISRC:** 
+- **ISRC:** QZHZ52604990
+- **UPC:** 742121170223
 - **Álbum:** La oficina de objetos perdidos
 - **NotionPageID:** ae7e2eec-7a82-4423-979d-76e9a4c56df1
 - **Música:**

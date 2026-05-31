@@ -14,8 +14,8 @@
 - **Generador:** SUNO
 - **Temas:** Desamor, Liberación, Esperanza
 - **Distribuidor:** OffStep
-- **ISRC:** 
-- **UPC:** 
+- **ISRC:** QZHZ52604998
+- **UPC:** 742121170223
 - **Álbum:** La oficina de objetos perdidos
 - **NotionPageID:** 36f22335-ada6-8195-ba4c-ef6a4c41d714
 - **Música:**

@@ -9,11 +9,13 @@
 - **Tipo:** Canción
 - **Año:** 1998
 - **Fecha de composición:** 1998-02-14
-- **Estado de publicación:** Sin procesar
-- **Generador:** 
+- **Fecha de lanzamiento:** 2026-06-26
+- **Estado de publicación:** Distribuida en plataformas
+- **Generador:** SUNO
 - **Temas:** 
-- **Distribuidor:** 
-- **ISRC:** 
+- **Distribuidor:** OffStep
+- **ISRC:** QZHZ52604995
+- **UPC:** 742121170223
 - **Álbum:** La oficina de objetos perdidos
 - **NotionPageID:** 2c722335-ada6-8039-90b8-c1f4b281ecd7
 - **Música:**

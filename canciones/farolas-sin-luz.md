@@ -14,8 +14,8 @@
 - **Generador:** SUNO
 - **Temas:** Amor, Mortalidad, Carpe diem
 - **Distribuidor:** OffStep
-- **ISRC:** 
-- **UPC:** 
+- **ISRC:** QZHZ52604999
+- **UPC:** 742121170223
 - **Álbum:** La oficina de objetos perdidos
 - **Archivo:** Angel nocturno
 - **NotionPageID:** 2c722335-ada6-808f-8a7c-d2a10616e91e

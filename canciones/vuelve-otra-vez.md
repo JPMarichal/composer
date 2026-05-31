@@ -9,11 +9,13 @@
 - **Tipo:** Canción
 - **Año:** 
 - **Fecha de composición:** 
-- **Estado de publicación:** Sin procesar
+- **Fecha de lanzamiento:** 2026-06-26
+- **Estado de publicación:** Distribuida en plataformas
 - **Generador:** SUNO
 - **Temas:** 
 - **Distribuidor:** OffStep
-- **ISRC:** 
+- **ISRC:** QZHZ52605001
+- **UPC:** 742121170223
 - **Álbum:** La oficina de objetos perdidos
 - **NotionPageID:** 2ca22335-ada6-8005-be23-cbd0d7838671
 - **Música:**
