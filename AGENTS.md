@@ -51,6 +51,7 @@ Cuando el usuario entregue canciones ya compuestas (letra + metadatos) para aña
 - `just notion-sync "canciones/canción.md"` — sincronizar archivo local → Notion
 - `just reset` + `just ingest` — reindexar vector store tras cambios
 - `just suno-index` — indexar todo el catálogo de Suno localmente (~1,500 clips). **Actualiza** project_name de clips existentes, no solo añade nuevos. Ejecutar después de mover clips entre proyectos.
+- **Buscar en cuenta propia primero** — al recuperar canciones de Suno, usar `suno-account_list_songs` antes de buscar en público (`suno-account_search_songs`). Las canciones del usuario pueden ser privadas y no aparecer en búsquedas públicas.
 - `just suno-search "término"` — buscar canciones en el índice local por título
 - `just suno-stats` — resumen del catálogo por proyecto
 - `just suno-list-projects` — lista todos los proyectos con su clip count
