@@ -1,6 +1,6 @@
 {
-  "total": 1572,
-  "generated_at": 1780219961.8752635,
+  "total": 1573,
+  "generated_at": 1780320447.909874,
   "clips": [
     {
       "id": "64bdd2fe-3e7b-407f-8ba4-1f5671ea4724",
@@ -15721,6 +15721,16 @@
       "project_id": "68c3ce6b-a7d3-4be5-a448-bf48889653b6",
       "project_name": "Lab",
       "duration": 129.84
+    },
+    {
+      "id": "34a4f7fa-46c8-4cdb-8092-3b3dadf61593",
+      "title": "112.4s Grabación (28 may @ 18:52) (Remix)",
+      "status": "complete",
+      "created_at": "2026-05-29T00:54:29.106Z",
+      "model_name": "chirp-fenix",
+      "project_id": "2ec66367-1910-4808-983c-bde2a9371b3e",
+      "project_name": "Recordings",
+      "duration": 108.12
     }
   ]
 }
