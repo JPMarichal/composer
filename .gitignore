@@ -2,5 +2,6 @@ node_modules/
 .chroma/
 .trunk/
 .env
+.venv/
 mp3/
 nul
