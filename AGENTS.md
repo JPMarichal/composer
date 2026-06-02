@@ -35,6 +35,10 @@ Cuando el usuario solicite una canción:
 
 Cuando el usuario entregue canciones ya compuestas (letra + metadatos) para añadir al repositorio, seguir el workflow en `skills/add-song/SKILL.md`.
 
+## Songcase Analysis (canciones externas)
+
+Cuando el usuario pida analizar una canción existente (no del catálogo propio), activar el skill `songcase-analysis`. Los análisis se guardan en `inspiration/<artista>-<cancion>.md` siguiendo `inspiration/SONG-TEMPLATE.md`. El directorio `inspiration/` se indexa automáticamente con `just ingest` para consultas RAG sobre armonía, estructura y producción de cualquier canción analizada.
+
 ## Herramientas del sistema
 
 - Usar **ripgrep (`rg`)** en lugar de `grep` para búsquedas en contenido local — es más rápido y soporta regex completo.
@@ -57,3 +61,7 @@ Cuando el usuario entregue canciones ya compuestas (letra + metadatos) para aña
 - `just suno-list-projects` — lista todos los proyectos con su clip count
 - `just suno-move-clips "Singles" "Mamá" "si vuelvo"` — mueve clips al proyecto indicado (busca por título en el índice local)
 - `just suno-move-clips-from "Fronteras" "Singles" "Mamá" "si vuelvo"` — mueve clips desde un proyecto específico a otro
+- `just deezer "canción" "artista"` — consultar BPM, ISRC, gain vía Deezer
+- `just lookup "canción" "artista"` — Deezer + preview + análisis librosa
+- `just audio-analyze "archivo.mp3"` — analizar archivo local con librosa
+- `just songcase "artista" "canción"` — crear un songcase desde el template

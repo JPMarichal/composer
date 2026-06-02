@@ -9,7 +9,7 @@ if (args.length === 0) {
   console.log("Uso: node src/index.js <comando> [argumentos]");
   console.log("");
   console.log("Comandos:");
-  console.log("  ingest                       Indexar docs/, specs/ y corpus/");
+  console.log("  ingest                       Indexar docs/, specs/, corpus/, inspiration/ y bio/");
   console.log(
     "  query <pregunta>             Consulta RAG (modelo configurado: " +
       config.ollama.model +

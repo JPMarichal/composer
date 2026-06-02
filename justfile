@@ -108,6 +108,33 @@ suno-list-projects:
 suno-thumbs *args:
     {{sunopy}} scripts/suno-thumbs.py {{args}}
 
+# ─── Songcase Analysis ─────────────────────────────────────
+
+# Crea un archivo songcase desde el template: just songcase "artista" "cancion"
+songcase artist song:
+	$p = "inspiration/{{artist}}-{{song}}.md".ToLower() -replace ' ','-'; if (!(Test-Path $p)) { Copy-Item "inspiration/SONG-TEMPLATE.md" $p; Write-Host "Creado: $p" } else { Write-Host "Ya existe: $p" }
+
+# ─── Audio Metadata ─────────────────────────────────────────
+
+# Python para audio-meta (usa el Python del sistema con librosa instalado)
+pyaudio := "python"
+
+# Busca metadata de una canción via Deezer: just deezer "Blinding Lights" "The Weeknd"
+deezer song artist="":
+    {{pyaudio}} scripts/audio-meta.py deezer "{{song}}" "{{artist}}"
+
+# Analiza un archivo de audio local con librosa: just audio-analyze mp3/cancion.wav
+audio-analyze path:
+    {{pyaudio}} scripts/audio-meta.py analyze "{{path}}"
+
+# Busca en Deezer + descarga preview + analiza con librosa: just lookup "Bohemian Rhapsody" "Queen"
+lookup song artist="":
+    {{pyaudio}} scripts/audio-meta.py lookup "{{song}}" "{{artist}}"
+
+# Lista los campos disponibles de audio-meta.py
+audio-fields:
+    {{pyaudio}} scripts/audio-meta.py fields
+
 # ─── Ayuda ─────────────────────────────────────────────────
 
 default:
