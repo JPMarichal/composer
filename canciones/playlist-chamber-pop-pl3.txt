@@ -1,0 +1,94 @@
+# Chamber Pop: Belleza, Deseo y Perfección
+# PL3 — 80 Tracks
+# Promovida: Mármol Que Respira (JPMarichal) — #5
+# A=4 B=16 C=24 D=21 E=15
+
+# E — Mainstream (15)
+spotify:track:3lGMtkONrZdJ8kTCg6KIFf  Hasta la Raíz — Natalia Lafourcade
+spotify:track:6p3yxt0uJJshAS3CT0znQg  Tú Sí Sabes Quererme — Natalia Lafourcade, Los Macorinos
+spotify:track:5wWxUdgn2OugIOvLJOdreH  Lo Que Construimos — Natalia Lafourcade
+spotify:track:1lwDY40WKKZ2aT5yAmQpWF  Eres Tú — Carla Morrison
+spotify:track:50WkRwFR0BAo6If7GtXnA8  Disfruto — Carla Morrison
+spotify:track:4JLxHIpx5RABaxsk4yHcxb  Hasta la Piel — Carla Morrison
+spotify:track:3OU489Tm4FEL2zslbaIUa9  Contigo — Carla Morrison
+spotify:track:4YEU9N2XAE0DfUwxWI5ijA  Todo se transforma — Jorge Drexler
+spotify:track:3teG9A32EAbIGBetIqSsaO  El Plan Maestro — Jorge Drexler
+spotify:track:3JBFUsZatpE435Y8ejP7RZ  Te Vi — Julieta Venegas
+spotify:track:2JBs412fpVUuzIaIp3CyIs  Bendita Tu Luz — Maná
+spotify:track:0UXYHVm0pV7VrAsYFS3uvf  Aventurera — Natalia Lafourcade, Alex Ferreira
+spotify:track:3NgX1P2MCtrOFGvg2h8OBO  Por el Resto de Mis Días — Silvio Rodríguez
+spotify:track:1PQzZbitOJ6XPFg7FFzsKQ  El amor después del amor — Fito Páez
+spotify:track:7dQFpbs34ufIEU745DVclf  Aute Cuture — ROSALÍA
+
+# D — Established (21)
+spotify:track:6fBxDlCJTjrYz6O4aVu4zv  Las Flores — Gepe
+spotify:track:7xegX5StkVJfnsYEBwS0ob  Fruta y Té — Gepe
+spotify:track:1tyI6Sq6oBLsMmIgvBfQrI  Vámonos De Viaje — Bandalos Chinos
+spotify:track:5VFNWuzWCalL6oZwV4GJF7  Departamento — Bandalos Chinos
+spotify:track:3XJmD5suzFUBHJ7sizBAiy  La Magia — Little Jesus
+spotify:track:22LGgFochmXJw5vVr5knDl  Optimista — Caloncho
+spotify:track:4zgVoY40iiq9XLu8V9Q9kb  Somos Instantes — Caloncho
+spotify:track:7l4cSfrED7RrtT0t5CSOzv  00:00 — Siddhartha
+spotify:track:3ONxFMHXamgGmYLPHcwECM  Ser Parte — Siddhartha
+spotify:track:1lPtRKnoleAVN1mAlGpcZa  Contradicción — Love of Lesbian, Rigoberta Bandini
+spotify:track:4bZEZhCq2kqUxnMacXVl5x  Copenhague — Vetusta Morla
+spotify:track:1RnDdNwGdqTMSTiZmSLYdU  Maldita Dulzura — Vetusta Morla
+spotify:track:1v15LSVQiEsGm4FK8SH7rI  Visita — Enjambre
+spotify:track:2JXWGqA83ARQ8DrYHnWabc  Vinculo — Enjambre
+spotify:track:1Z6NUe88dVXBDpWiWpSpie  Somos Ajenos — Enjambre
+spotify:track:4SFnGr7vly55T2PBLYtZ6c  Yo No Te Pido la Luna — Javiera Mena
+spotify:track:55XYDj1z6UvXTTxIL2oLHI  Luz de Piedra de Luna — Javiera Mena
+spotify:track:5FrtmkTTf45HUlP9mwSAYZ  Copacabana — IZAL
+spotify:track:5reQI13tWWYDLMrGcUF4Mk  Nuestra Canción — Monsieur Periné, Vicente Garcia
+spotify:track:4hi9OTFKomNUlAIhp1fmap  Bailar Contigo — Monsieur Periné
+spotify:track:2VybHZvsshGs8GpOaB0wS1  Aunque tú no lo sepas — Enrique Urquijo
+
+# C — Rising (24)
+spotify:track:0MbiIQrfTj9U3MXzv3AsoK  Te Guardo — Silvana Estrada
+spotify:track:04rJsvvczPIxiyXVnOAytj  Sabré Olvidar — Silvana Estrada
+spotify:track:4T8i5In6BRejd70ekFFgi2  Cada Día Te Extraño Menos — Silvana Estrada
+spotify:track:69xKQh7dxKqCe91WbGUhWv  Ojos Noche — Elsa y Elmar
+spotify:track:2Ye3wsl794JOx6Miklej48  amantes y amigos — Elsa y Elmar
+spotify:track:4MgmkN3AjyFveP2MAv85YP  Planeando el Tiempo — Elsa y Elmar
+spotify:track:3IdwVRNZzzkoz0QJg72Lyq  Flores — Daniela Spalla
+spotify:track:6ZPx4OfYVHv7FkPAF2Khbm  Lejos De La Ciudad — Daniela Spalla
+spotify:track:6rlI9zMChJzIv5u0iSBO4l  Guantanamera — Guitarricadelafuente
+spotify:track:3aZTZQ3mu6GihdOry4xqpV  Tramuntana — Guitarricadelafuente
+spotify:track:635hgofIxCYGZmZaq92bK2  Abc — Guitarricadelafuente
+spotify:track:47kvdcvOqnligC4Ocnx4b3  Bolero Mafioso — María José Llergo
+spotify:track:23mKr8PzAUn0xIe5UTry9F  Olvídame — María José Llergo
+spotify:track:1op8GBKx3U5BrDDvOAKYbO  guerrera — Valeria Castro
+spotify:track:3BWXjm01PnQKL6WV3vyvvM  tiene que ser más fácil — Valeria Castro
+spotify:track:5D7hSm0LjrDq1OcDtXpKbE  cuídate — Valeria Castro
+spotify:track:3v76x7Laqw77NNygd5QvcX  Amor de Anticuario — Sofia Ellar
+spotify:track:42ZASSKlh3UtYCgwZb8lBS  La Puerta Violeta — Rozalén
+spotify:track:5HpxfszsQWyHcYIDWH7ZPy  Este Tren — Rozalén
+spotify:track:0q26YkYooQjbNyNXzGcHGP  Mira cómo vuelo — Miss Caffeina
+spotify:track:6VpGsUoHKm3J8hXZPtZiHw  Raffaella — Varry Brava
+spotify:track:6lnMhL5wand7kNTpU3msIy  El paraíso — Mikel Izal
+spotify:track:0SRddBTphQwQcfqw4Br1uX  Brillas — León Larregui
+spotify:track:3GSMdtJphymHEsR8K9jT5Q  Locos — León Larregui
+
+# B — Emerging (16)
+spotify:track:0z5yLgBmAtaylDYrgwzlpH  Amapolas — Leo Rizzi
+spotify:track:1561A0KDSbrQR4WW0dTeyt  Puro — Leo Rizzi
+spotify:track:6zwZsqsI4fyWVLLtYK1QQM  La Tirita — Belén Aguilera
+spotify:track:3UO6Hj6xtowWdanb3hs5QR  mejores amigos — Paula Koops
+spotify:track:5koBWoS2PnjWSOsiHVlXQv  Vas a encontrarte — Muerdo
+spotify:track:3E6Biow3hFr1axedNqmRoe  Lejos de la ciudad — Muerdo
+spotify:track:4ieunk0Q7WADWYoZMSolwG  Handful of Water — Sofía Valdés
+spotify:track:6rKYbosg95SJuFsD4AEF3m  How's That Working Out — Sofía Valdés, Cuco
+spotify:track:3aZxnqYFM8UI2jLgUD3B2a  San Lucas — Kevin Kaarl
+spotify:track:23oIli6ejy1DsFAaCKSZpB  Colapso — Kevin Kaarl
+spotify:track:6UMFZWqCG8K5G31MmodMtw  9Amor — Gala Briê
+spotify:track:0EhmTBq33eARyOz3SIi4P2  En Otra Vida — Yami Safdie, Lasso
+spotify:track:1WvWaKRZA7NfJVY95GR8aD  Aquí te espero — Laia Lepiani
+spotify:track:0vccKCMndMlg1ZVfGllV63  Rara Bien — Rupatrupa
+spotify:track:3b9BBjthb7r9Jn5yyWMlrm  lo que un día fue — Paloma Morphy
+spotify:track:5zToFZsOW3uV98BrfvB2Z9  Para Que No Me Olvides — Tony Acosta
+
+# A — JPMarichal propias (4)
+#5  spotify:track:6OeAtwcT7NcWWzAl4P1zrr  Mármol Que Respira
+#25 spotify:track:5j2BEitZnNLAAyjOp3I6cS  La Magia del Violín
+#45 spotify:track:6XhccyJwqQwbzLO29ooyKw  Que Das la Vida para Dar Vida
+#65 spotify:track:49oZsVhJ9bNQB3LmpMMX7K  El Remanso de Su Voz

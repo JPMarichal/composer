@@ -1,0 +1,69 @@
+{
+  "mercado": "ES",
+  "genero": "chamber-pop",
+  "last_refresh": "2026-06-06",
+  "keywords": [
+    {
+      "term": "chamber pop español",
+      "dimension": "género",
+      "trends_interest_30d": 25,
+      "trends_related_queries": ["indie pop español", "música acústica español", "piano y cuerdas"],
+      "spotify_playlist_count": 12,
+      "spotify_top_titles": ["Indie Pop | Dream Pop | Chamber Pop - En Español"],
+      "is_primary_candidate": true,
+      "notes": "Playlist única con este nombre exacto. Bajo volumen pero crece."
+    },
+    {
+      "term": "música para soñar despierto",
+      "dimension": "mood/activity",
+      "trends_interest_30d": 35,
+      "trends_related_queries": ["música para soñar", "música ambiente", " sueños creativos"],
+      "spotify_playlist_count": 28,
+      "spotify_top_titles": ["MUSICA PARA SOÑAR DESPIERTOS", "Música para sentirte en un viaje astral"],
+      "is_primary_candidate": true,
+      "notes": "Espacio abierto. Demanda media-alta, competencia baja."
+    },
+    {
+      "term": "piano y cuerdas español",
+      "dimension": "instrumentación",
+      "trends_interest_30d": 42,
+      "trends_related_queries": ["piano y violín", "cámara pop", "música de cámara"],
+      "spotify_playlist_count": 45,
+      "spotify_top_titles": ["Piano y cuerdas", "Piano, Cuerdas y Soundtracks"],
+      "is_primary_candidate": false,
+      "notes": "Alto volumen de búsqueda, pero playlists son instrumentales puras. Necesita enfoque vocal."
+    },
+    {
+      "term": "baroque pop español",
+      "dimension": "género",
+      "trends_interest_30d": 18,
+      "trends_related_queries": ["barroco moderno", "clásico contemporáneo"],
+      "spotify_playlist_count": 5,
+      "spotify_top_titles": ["Modern Baroque Pop", "Lo mejor del Barroco"],
+      "is_primary_candidate": false,
+      "notes": "Nicho muy pequeño. Alto riesgo de esfuerzo/retorno bajo."
+    },
+    {
+      "term": "música cinematográfica español",
+      "dimension": "contexto",
+      "trends_interest_30d": 55,
+      "trends_related_queries": ["banda sonora", "soundtrack español", "música para película"],
+      "spotify_playlist_count": 67,
+      "spotify_top_titles": ["Música para Películas", "Soundtracks Románticos"],
+      "is_primary_candidate": false,
+      "notes": "Alta demanda, mucha competencia. Úsalo como tag secundario."
+    },
+    {
+      "term": "elegancia musical",
+      "dimension": "mood",
+      "trends_interest_30d": 30,
+      "trends_related_queries": ["música sofisticada", "armonía perfecta", "belleza auditiva"],
+      "spotify_playlist_count": 15,
+      "spotify_top_titles": ["Música Soberbia", "Arte y Elegancia"],
+      "is_primary_candidate": true,
+      "notes": "Keyword emocional fuerte. Poca competencia directa."
+    }
+  ],
+  "playlist_name_template": "[Primary] : [Secondary], [Tema]",
+  "notes": "Este kw-pool se enfoca en Chamber Pop como diferenciador único. Los tracks deben tener piano/cuerdas + voz. Usar 'música para soñar despierto' como long-tail principal."
+}

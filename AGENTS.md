@@ -29,7 +29,16 @@ Cuando el usuario solicite una canción:
 18. **Changelog de Autoría** — cada canción incluye un changelog que registra todas las decisiones del autor humano vs. sugerencias del asistente. Esto protege la autoría en caso de controversia legal.
 19. **Enfocarse en composición original** — poesía existente (Neruda, Machado, Benedetti) y experimentos instrumentales (Rare Metals) son experimentales/secundarios. El mérito real del autor está en la composición lírica original de su autoría. Cualquier análisis (genérico, temático, de frecuencia) debe priorizar las canciones con letra original sobre adaptaciones o piezas instrumentales.
 20. **Género obligatorio al crear** — toda canción nueva debe tener género asignado en el campo `- **Género:**` del template. Canciones sin género distorsionan el análisis del catálogo.
-21. **Los géneros del autor por volumen: Pop (33%), Balada (19%), Indie/Folk (20%)** — Pop y Balada son el núcleo (~52% de la producción lírica). Indie/Folk es un tercer polo significativo (~20%), a menudo como textura secundaria sobre base Pop. Rare Metals (instrumental electrónica) es una serie experimental aparte. No confundir Rare Metals con la producción lírica principal.
+21. **Los géneros del autor por volumen (canciones líricas, 134 archivos, ver `specs/012-identity-and-genre-analysis.md`):**
+    - **Pop (33%)** — base ancha. Pop + Pop rock + Latin pop = 44 tags.
+    - **Indie (33%)** — firma de autor. Indie + Spanish indie pop + Indie pop + Indie folk + Dream pop = 44 tags. "Spanish indie pop" es la sub-marca distintiva (6%).
+    - **Folk (22%)** — anclaje emocional. Folk + Folk pop + Folk-pop + Indie folk = 30 tags.
+    - **Chamber pop / Orquestal (14%)** — identidad culta. Chamber pop + Orchestral pop = 19 tags.
+    - **Balada (12%)** — núcleo melancólico. 16 tags.
+    - **Electrónica con letra (13%)** — segundo polo experimental. Electrónica + Synthwave + Synth-pop + Electropop = 17 tags.
+    - **Rock (15%)** — contrapeso enérgetico. Rock + Pop rock + Soft rock + Acoustic rock = 20 tags.
+    - **Statement of identity real:** Pop indie folk chamber en español, con balada como sub-modo melancólico y experimentación electrónica como segundo polo. NO proyectar "balada folk" ni "indie pop español" como identidad única — son subsets. Ver `specs/012-identity-and-genre-analysis.md` §5.
+    - **Rare Metals (24 instrumentales electrónicos)** — serie experimental aparte. No compite con la obra letrista por mercado ni SEO.
 
 ## Registro de canciones existentes
 
@@ -65,3 +74,33 @@ Cuando el usuario pida analizar una canción existente (no del catálogo propio)
 - `just lookup "canción" "artista"` — Deezer + preview + análisis librosa
 - `just audio-analyze "archivo.mp3"` — analizar archivo local con librosa
 - `just songcase "artista" "canción"` — crear un songcase desde el template
+
+## Playlist Promotion (Spotify)
+
+Cuando el usuario pida crear una playlist promocional para una canción:
+
+1. **Leer `specs/008-playlist-curation-rules.md`** — reglas completas, tiers, hallazgos de procedimiento
+2. **Cargar skill** `playlist-promotion` (`.claude/skills/playlist-promotion/SKILL.md`) — workflow de 4 fases
+3. **Usar script** `scripts/spotify-playlist.ps1` para operaciones API
+4. **SEO del título — basado en investigación (no asumir género=primario)**: Investigar ANTES de proponer nombre. El término con **mayor search volume** va primero — puede ser actividad, mood, era o género (no siempre es el género). Estructura validada: `[Primary high-volume] : [Secondary mood/activity], [Tema]`. Las 4 dimensiones: **actividad** (workout, study, focus, sleep, driving), **mood** (chill, sad, nostalgic, energetic, melancholic), **género/subgénero** (lofi, indie folk, phonk, bedroom pop), **era/contexto** (2000s, late night, throwback). NO poético/abstracto — debe ser leíble como query de búsqueda real.
+    4b. **SEO de descripción**: La descripción TAMBIÉN es SEO (Spotify la indexa). Fórmula: genre + mood + actividad + 3-5 artistas comparables (nombres buscables, >100k ML) + propuesta de valor + "Actualizada semanalmente". Máx 100 chars por frase. Ver `specs/008-playlist-curation-rules.md §Descripción SEO`.
+    4c. **Patrón "Research-Once-Use-Many"** (objetivo: 2-3 min por playlist, no 15-20): Mantener un **keyword pool cacheado** en `kw-pool/` con datos de Google Trends + Spotify Search ya capturados. Por playlist, pick de la piscina + 30s de verificación en Spotify Autocomplete. Refresco mensual del pool (15 min) en lugar de re-investigar cada vez.
+    4d. **Workflow de naming** (per-playlist, 2-3 min): (1) Listar 5-8 términos candidatos de `kw-pool/` cubriendo las 4 dimensiones para el género/mercado. (2) **30s check en Spotify Autocomplete** manual — escribir el candidato principal en Spotify y ver si aparece en sugerencias. (3) Si hay duda entre 2-3 candidatos, correr `just kw-spotify "termino" "ES"` para ver señales de demanda (cuántas playlists, qué títulos, qué followers). (4) Elegir primary (mayor search volume / más resultados / más popular en autocomplete). (5) Componer título y documentar en changelog de la playlist.
+    4e. **Herramientas gratuitas validadas (sin coste)**:
+       - **Spotify Search API** (nuestra app `playlister` ya configurada) — `GET /v1/search?type=playlist&q=<termino>` retorna top 10-50 playlists. **Los títulos de esas playlists = proxy directo de lo que la gente busca**. Funciona en español. Sin coste, sin rate limit raro. Usar `just kw-spotify "termino" "ES"`.
+       - **trendspyg** (`flack0x/trendspyg`, Python, sin API key) — Google Trends RSS-based, 125 países (incluye ES, MX, AR, CL, CO), 20 categorías, sin 429 errors, 0.2s response, 5min cache built-in. Usar `just kw-trends "termino" "ES"`.
+       - **trendsmcp MCP** (free tier 100 req/día, sin tarjeta) — alternativa MCP-integrada con Claude/Cursor si prefieres no usar Python.
+       - ~~pytrends~~ — **NO USAR**, archivado desde 2023, 429 constantes, requiere proxies.
+       - ~~artist.tools~~ — solo útil con plan de pago (Industry Access). Free tier muy limitado.
+    4e. **Construir el pool inicial** (one-time, 1-2 horas): Para cada combinación (género principal × mercado meta), poblar `kw-pool/<genero>-<mercado>.json` con 30-50 keywords + interest_over_time + related_queries + Spotify playlist matches. Mercados meta iniciales: ES, MX, AR (cubren 90% del público hispano). Géneros del catálogo: balada, pop, indie/folk, indie pop, folk latino. Documentar en `kw-pool/README.md` los criterios de inclusión.
+5. **Aplicar código moral §7** — filtrar artistas que promuevan alcohol, tabaco, drogas, café, violencia, abuso, malas palabras o contenido explícito
+6. **Proporciones**: A=4, B=~16, C=~24, D=~21, E=~15 (70/30 rule, OnesToWatch)
+7. **Credenciales en `.env`**: `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, `SPOTIFY_REFRESH_TOKEN`, `SPOTIFY_USER_ID`
+7b. **Redirect URI**: `http://127.0.0.1:8080/callback/` (app: playlister en Spotify Dashboard)
+7c. **⚠️ Token refresh**: extraer de .env con `$line -split '=', 2 | Select-Object -Last 1`. NO usar `-replace '.*= '` (falla porque .env no tiene espacio tras el =)
+7d. **Popularidad siempre null**: app playlister creada post-Feb 2026, el campo `popularity` no está disponible en API para apps nuevas en dev mode. La métrica real está en Spotify for Artists (save rate, skip rate, streams).
+8. **⚠️ Limitación crítica**: No se puede modificar tracks de una playlist existente via API (DELETE /items = 400/403). Para "actualizar", crear playlist NUEVA con `POST /v1/me/playlists` (no `/users/{id}/playlists`) y eliminar la vieja con `DELETE /followers`. La URL cambia cada vez.
+9. **Usar `POST /v1/me/playlists` siempre** para crear playlists — `/users/{id}/playlists` devuelve 403.
+
+Playlist v1 (referencia): "Balada Folk Latino: Nostalgia, Raíces y Hogar" — 80 tracks, promoviendo "Mamá, si vuelvo a verte" en posición #5. Propias en #5, #25, #45, #65. URL: https://open.spotify.com/playlist/3RemCcFC1HkpdutHaATLbp
+Playlist v2 (referencia): "Indie Pop Épico: Triunfo y Transformación" — 80 tracks, promoviendo "Pequeña Era" en posición #5. Propias en #5, #25, #45, #65. URL: https://open.spotify.com/playlist/3A35KIqDxtIPnmU9FrAkAH

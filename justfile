@@ -11,6 +11,9 @@ set shell := ["powershell.exe", "-NoLogo", "-Command"]
 # Node.js wrapper: usa la v22 de nvm4w sin tocar el default del sistema
 node := "&'C:\\Users\\Juan.Pablo.Marichal\\AppData\\Local\\nvm\\v22.20.0\\node.exe'"
 
+# PowerShell runner reutilizable para scripts del repo
+pwsh := "pwsh -NoLogo -NoProfile -ExecutionPolicy Bypass -File"
+
 # ─── Ingest ────────────────────────────────────────────────
 
 # Indexa docs/, specs/ y corpus/ en el vector store
@@ -47,6 +50,18 @@ pull-models:
 # Limpia el índice vectorial (requiere re-ingest)
 reset:
     Remove-Item -LiteralPath ".chroma" -Recurse -Force -ErrorAction SilentlyContinue; Write-Host "Índice borrado. Ejecuta 'just ingest' para reindexar."
+
+# Activa los MCP locales del proyecto en la config MCP activa de VS Code
+mcp-activate-local:
+    {{pwsh}} scripts/project-mcp.ps1 activate
+
+# Desactiva los MCP locales del proyecto previamente activados
+mcp-deactivate-local:
+    {{pwsh}} scripts/project-mcp.ps1 deactivate
+
+# Muestra qué MCP locales del proyecto están activos en VS Code
+mcp-status-local:
+    {{pwsh}} scripts/project-mcp.ps1 status
 
 # Empuja cambios a git
 git-push msg:
@@ -134,6 +149,67 @@ lookup song artist="":
 # Lista los campos disponibles de audio-meta.py
 audio-fields:
     {{pyaudio}} scripts/audio-meta.py fields
+
+# ─── Spotify Playlist Promotion ────────────────────────────
+
+# Genera una plantilla editable para redactar un pitch editorial de Spotify
+# Uso: just spotify-pitch-template "Título de la canción" [ruta_salida]
+# Salida por defecto: canciones/pitches/pitch-editorial-<slug>.md
+spotify-pitch-template title output="":
+    if ("{{output}}" -eq "") { {{pwsh}} scripts/spotify-pitch-template.ps1 -Title "{{title}}" } else { {{pwsh}} scripts/spotify-pitch-template.ps1 -Title "{{title}}" -OutputPath "{{output}}" }
+
+# Crea una playlist: just playlist-create "Título" "Descripción" true/false
+playlist-create title desc ispublic:
+    pwsh -NoLogo -File scripts/spotify-playlist.ps1 create "{{title}}" "{{desc}}" "{{ispublic}}"
+
+# Añade tracks a una playlist: just playlist-add <id> <uri1> <uri2> ...
+playlist-add id *uris:
+    pwsh -NoLogo -File scripts/spotify-playlist.ps1 add "{{id}}" {{uris}}
+
+# Elimina una playlist (unfollow): just playlist-delete <id>
+playlist-delete id:
+    pwsh -NoLogo -File scripts/spotify-playlist.ps1 delete "{{id}}"
+
+# Busca en Spotify: just playlist-search "término" track|artist|playlist
+playlist-search term type="track":
+    pwsh -NoLogo -File scripts/spotify-playlist.ps1 search "{{term}}" "{{type}}"
+
+# Lista tracks de una playlist: just playlist-tracks <id>
+playlist-tracks id:
+    pwsh -NoLogo -File scripts/spotify-playlist.ps1 tracks "{{id}}"
+
+# Crea playlist NUEVA con tracks, elimina la vieja: just playlist-upload <oldId> "Título" "Descripción" true/false --file <uriFile>
+# El uriFile contiene un URI por línea (spotify:track:...). La URL cambia cada vez.
+playlist-upload id title desc ispublic *uris:
+    pwsh -NoLogo -File scripts/spotify-playlist.ps1 upload "{{id}}" "{{title}}" "{{desc}}" "{{ispublic}}" {{uris}}
+
+# ─── Playlist Outreach ─────────────────────────────────────
+
+# Genera documento de DMs desde el CSV: just outreach-generate
+outreach-generate:
+    pwsh -NoLogo -File .claude/skills/playlist-outreach/scripts/generate-dms.ps1
+
+# Marca un artista como contacted|replied|no_reply|skipped en el CSV
+# Uso: just outreach-mark "Alex Ferreira" contacted
+outreach-mark artist status:
+    $csv=Import-Csv "contacts/playlist-artists.csv"; $c=0; $csv|ForEach-Object {if($_.Artist -eq "{{artist}}"){$_.Status="{{status}}";$c++}}; if($c-eq0){Write-Host "No encontrado: {{artist}}";exit 1}; $csv|Export-Csv "contacts/playlist-artists.csv" -NoTypeInformation -Encoding UTF8; Write-Host "OK {{artist}} -> {{status}} ($c registros)"
+
+# Muestra estado del outreach: just outreach-status
+outreach-status:
+    $csv=Import-Csv "contacts/playlist-artists.csv"; $u=$csv|Sort-Object Artist -Unique; Write-Host "Total: $(($u|Measure-Object).Count)  Pending: $(($u|Where-Object Status -eq 'pending'|Measure-Object).Count)  Contacted: $(($u|Where-Object Status -eq 'contacted'|Measure-Object).Count)  Replied: $(($u|Where-Object Status -eq 'replied'|Measure-Object).Count)  No_reply: $(($u|Where-Object Status -eq 'no_reply'|Measure-Object).Count)"
+
+# Voice analysis: just voice-analysis "<PREFIX><RANGE> <ARTIST>"
+# PREFIX: F or M + voice type acronym (S, MS, A, C, T, BT, B)
+# RANGE: vocal range e.g. E2-G6 (use # if needed)
+# ARTIST: acronym of artist name omitting vowels, all caps
+# Output file: voces/<PREFIX>_<RANGE>_<ARTIST>.md
+voice-analysis prefix range artist:
+    @if (!(Test-Path "voces")) { mkdir voces }
+    $prefix=$(echo "{{prefix}}" | tr -d '\n')
+    $range=$(echo "{{range}}" | tr -d '\n')
+    $artist=$(echo "{{artist}}" | tr -d '\n')
+    $filename=$(printf "%s_%s_%s.md" "$prefix" "$range" "$artist" | tr ' ' '_' | tr '[:lower:]' '[:upper:]')
+    {{node}} src/voice-analysis.js "{{prefix}}" "{{range}}" "{{artist}}" > voces/$filename
 
 # ─── Ayuda ─────────────────────────────────────────────────
 

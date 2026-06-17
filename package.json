@@ -7,10 +7,13 @@
     "doc": "docs"
   },
   "scripts": {
-    "ingest": "just ingest",
-    "query": "just query",
-    "start": "just",
-    "reset": "just reset"
+    "ingest": "pwsh -NoLogo -NoProfile -ExecutionPolicy Bypass -File scripts/just.ps1 ingest",
+    "query": "pwsh -NoLogo -NoProfile -ExecutionPolicy Bypass -File scripts/just.ps1 query",
+    "start": "pwsh -NoLogo -NoProfile -ExecutionPolicy Bypass -File scripts/just.ps1",
+    "reset": "pwsh -NoLogo -NoProfile -ExecutionPolicy Bypass -File scripts/just.ps1 reset",
+    "mcp:activate-local": "pwsh -NoLogo -NoProfile -ExecutionPolicy Bypass -File scripts/just.ps1 mcp-activate-local",
+    "mcp:deactivate-local": "pwsh -NoLogo -NoProfile -ExecutionPolicy Bypass -File scripts/just.ps1 mcp-deactivate-local",
+    "mcp:status-local": "pwsh -NoLogo -NoProfile -ExecutionPolicy Bypass -File scripts/just.ps1 mcp-status-local"
   },
   "repository": {
     "type": "git",
@@ -34,6 +37,7 @@
     "dotenv": "^17.4.2",
     "glob": "^13.0.6",
     "langchain": "^1.4.2",
+    "mysql2": "^3.22.5",
     "node-fetch": "^2.7.0"
   }
 }

@@ -1,0 +1,90 @@
+# Indie Pop Épico: Triunfo y Transformación
+# URL: https://open.spotify.com/playlist/3A35KIqDxtIPnmU9FrAkAH
+# Promovida: Pequeña Era (JPMarichal) — #5
+# Propias: #5, #25, #45, #65
+# Estado: CREADA el 2026-06-04 (v2 post-auditoría moral 2026-06-05)
+# Género: Indie Pop Épico
+# BPM target: 90-130
+#
+# A=Propio  B=Emerging  C=Rising  D=Established  E=Mainstream
+
+#1  D spotify:track:3XJmD5suzFUBHJ7sizBAiy  La Magia — Little Jesus
+#2  D spotify:track:5FrtmkTTf45HUlP9mwSAYZ  Copacabana — IZAL
+#3  D spotify:track:22LGgFochmXJw5vVr5knDl  Optimista — Caloncho
+#4  D spotify:track:3gi9YCpoU2dsEj7pgWIEQf  Belice — Love of Lesbian
+#5  A spotify:track:5xmeesKt8v3oQDu44QXN8E  Pequeña Era — JPMarichal
+#6  D spotify:track:61KBXxlwM2RKpC1j8KK9sb  Diamantes — Carla Morrison
+#7  C spotify:track:0fl9zrtFxmZEE3sx7RbS7k  Ojos Noche (feat. Carla Morrison) — Elsa y Elmar
+#8  C spotify:track:42ZASSKlh3UtYCgwZb8lBS  La Puerta Violeta — Rozalén
+#9  D spotify:track:7l4cSfrED7RrtT0t5CSOzv  00:00 — Siddhartha
+#10 C spotify:track:4FglsPNvL4avF0MWJIeZm8  Un Rayo de Luz — Silvana Estrada
+#11 B spotify:track:0iOOp78NhtAbTmI2qJD46R  REVOLUCION AZUL — Leo Rizzi
+#12 B spotify:track:6zwZsqsI4fyWVLLtYK1QQM  La Tirita — Belén Aguilera
+#13 C spotify:track:1op8GBKx3U5BrDDvOAKYbO  guerrera — Valeria Castro
+#14 C spotify:track:0MbiIQrfTj9U3MXzv3AsoK  Te Guardo — Silvana Estrada
+#15 C spotify:track:3qKzESguQJ7GpqWf6K2hOE  Los Abrazos Prohibidos — Veintiuno
+#16 B spotify:track:3KmQdSCHeb6YZSCMDRuSir  Vas a encontrarte — Muerdo
+#17 C spotify:track:4zXhEgk3gx2HkLVREPBYdq  Me Miras Pero No Me Ves — María José Llergo
+#18 B spotify:track:3UO6Hj6xtowWdanb3hs5QR  mejores amigos — Paula Koops
+#19 B spotify:track:39pOIs14Oo8CpWLP3vYloo  Mandarinas en la cocina — Jimena Amarillo
+#20 B spotify:track:6UMFZWqCG8K5G31MmodMtw  9Amor — Gala Brie
+#21 B spotify:track:4ieunk0Q7WADWYoZMSolwG  Handful of Water — Sofía Valdés
+#22 B spotify:track:1WvWaKRZA7NfJVY95GR8aD  Aquí te espero — Laia Lepiani
+#23 B spotify:track:3aZxnqYFM8UI2jLgUD3B2a  San Lucas — Kevin Kaarl
+#24 C spotify:track:0EhmTBq33eARyOz3SIi4P2  En Otra Vida — Yami Safdie
+#25 A spotify:track:697JPgeoKgtFugZexofp1l  Más Roja Que las Rosas — JPMarichal
+#26 C spotify:track:1tyI6Sq6oBLsMmIgvBfQrI  Vámonos de Viaje — Bandalos Chinos
+#27 C spotify:track:0q26YkYooQjbNyNXzGcHGP  Mira cómo vuelo — Miss Caffeina
+#28 C spotify:track:3J5t0PpStW1dgRIt0L0BgS  Ácido — Miss Caffeina
+#29 C spotify:track:1fRrlHawWB7PgXn463eLrV  Roma — Varry Brava
+#30 C spotify:track:4BOvq46runFnsgjWoqfsth  Confeti — Varry Brava
+#31 D spotify:track:3OU489Tm4FEL2zslbaIUa9  Contigo — Carla Morrison
+#32 C spotify:track:6rlI9zMChJzIv5u0iSBO4l  Guantanamera — Guitarricadelafuente
+#33 C spotify:track:3v76x7Laqw77NNygd5QvcX  Amor de Anticuario — Sofia Ellar
+#34 C spotify:track:3IdwVRNZzzkoz0QJg72Lyq  Flores — Daniela Spalla
+#35 B spotify:track:0vccKCMndMlg1ZVfGllV63  Rara Bien — Rupatrupa
+#36 C spotify:track:2In3kGLwM10ViRLBVJnVhI  El Baile — Pedro Pastor
+#37 B spotify:track:1cuO9s59NdTpSnG5HGB8KD  lo que un día fue — Paloma Morphy
+#38 B spotify:track:6PLIfuZYh2IrRNqJIEH26S  Hablar De Nada — Viva Suecia
+#39 B spotify:track:5zToFZsOW3uV98BrfvB2Z9  Para Que No Me Olvides — Tony Acosta
+#40 D spotify:track:0D8qIsQZvrXmClkyp19Lsl  Otra Era — Javiera Mena
+#41 D spotify:track:7F01A0iUZOuMyuGQcmIaYS  Sol de Invierno — Javiera Mena
+#42 C spotify:track:0Vhp06KZxL9QsAbxBVLsZH  Los Vampiros — Dënver
+#43 C spotify:track:7xegX5StkVJfnsYEBwS0ob  Fruta y Té — Gepe
+#44 D spotify:track:2vNDq5XAoF4Gl4hfY7aacS  ¿Qué Tiene? — Ximena Sariñana
+#45 A spotify:track:31NGEYzMrMVqx3l5cA3Dh1  Ultimo Verano en Hailsham — JPMarichal
+#46 D spotify:track:0SRddBTphQwQcfqw4Br1uX  Brillas — León Larregui
+#47 D spotify:track:3GSMdtJphymHEsR8K9jT5Q  Locos — León Larregui
+#48 C spotify:track:6lnMhL5wand7kNTpU3msIy  El paraíso — Mikel Izal
+#49 C spotify:track:04SMqCZzMk3ltuIgpl9gbq  Precisa Tiempo — Alex Ferreira
+#50 D spotify:track:2VYmMTl044I1nR6UuPcxHY  Himno Eterno — Porter
+#51 D spotify:track:1v15LSVQiEsGm4FK8SH7rI  Visita — Enjambre
+#52 C spotify:track:5reQI13tWWYDLMrGcUF4Mk  Nuestra Canción — Monsieur Periné
+#53 D spotify:track:4OIsuylBMB5jRrxSTNBEM0  Buen Soldado — Francisca Valenzuela
+#54 C spotify:track:1VXPKfgMIAn95PFK4TlyDD  La Fortaleza — Francisca Valenzuela
+#55 D spotify:track:5vXjOa8QLl65Yoof3bG2C4  Sería Feliz — Julieta Venegas
+#56 E spotify:track:3JBFUsZatpE435Y8ejP7RZ  Te Vi — Julieta Venegas
+#57 C spotify:track:6KWTSRF9Aa2rFZaJpsCWfa  Hoy No Quiero — Julieta Venegas
+#58 D spotify:track:3yAVc9zsc742nCxO8mDB8T  La Deriva — Vetusta Morla
+#59 C spotify:track:55DfugJIh1351fCiwO2we2  La Tormenta de Arena — Dorian
+#60 D spotify:track:1QBZR4Kmx8JI3dzVccIh6E  Tierra Mía — Kany García
+#61 B spotify:track:7uGti8G1BLceH3SC9iL0dL  Mala Fama — Ases Falsos
+#62 D spotify:track:7rhKh1Ool2Yel5JXmiemZB  Manía Cardiaca — Enjambre
+#63 D spotify:track:5WT2UHfmv6zv3hOOVS9fQs  Murciélago — Porter
+#64 C spotify:track:67ed4jjP4A0IfcQfgCnGWl  La Danza de las Libélulas — Manuel García
+#65 A spotify:track:1asezKeaKwWfG5wch9M5Oc  Eco en Tu Memoria — JPMarichal
+#66 C spotify:track:195ocXuPysKalNoYv5ld9t  Ya no hay verano — Carolina Durante
+#67 C spotify:track:1TZKf5MDUZtuNYTxvB2t7N  Cariñito — Novedades Carminha
+#68 D spotify:track:2VybHZvsshGs8GpOaB0wS1  Aunque tú no lo sepas — Enrique Urquijo
+#69 D spotify:track:6fBxDlCJTjrYz6O4aVu4zv  Las Flores — Gepe
+#70 C spotify:track:1PE7FaEownPL5NTipf0PYC  N.I.T. — Mikel Izal
+#71 E spotify:track:7dQFpbs34ufIEU745DVclf  Aute Cuture — ROSALÍA
+#72 E spotify:track:6Me39TMyDgkVULgO92meQt  La Luz — Juanes
+#73 E spotify:track:4YEU9N2XAE0DfUwxWI5ijA  Todo se transforma — Jorge Drexler
+#74 E spotify:track:3teG9A32EAbIGBetIqSsaO  El Plan Maestro — Jorge Drexler
+#75 E spotify:track:2JBs412fpVUuzIaIp3CyIs  Bendita Tu Luz — Maná
+#76 C spotify:track:2Sfl7odHUmG7qc8SbqUyzE  DI MI NOMBRE (Cap.8: Éxtasis) — ROSALÍA
+#77 C spotify:track:05neYxc9nmlxJ7uTOZPlnq  Como Tú — León Larregui
+#78 D spotify:track:6RIGJ8IcyV3zocSYV8B9tr  El Aire — Siddhartha
+#79 E spotify:track:0UXYHVm0pV7VrAsYFS3uvf  Aventurera (with Alex Ferreira) — Natalia Lafourcade
+#80 C spotify:track:0yR3obqk6DwxphJKCncdAw  El Momento Más Feliz — La Casa Azul

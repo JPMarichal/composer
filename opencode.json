@@ -36,6 +36,11 @@
         "CDP_URL": "http://localhost:9100",
         "NODE_TLS_REJECT_UNAUTHORIZED": "0"
       }
+    },
+    "mysql": {
+      "type": "local",
+      "command": ["node", "tools/mysql-mcp-wrapper.js"],
+      "enabled": true
     }
   }
 }

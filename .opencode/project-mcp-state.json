@@ -1,0 +1,13 @@
+{
+  "projectConfig": "C:\\own\\composer\\opencode.json",
+  "userConfig": "C:\\Users\\Juan.Pablo.Marichal\\AppData\\Roaming\\Code\\User\\mcpServers.json",
+  "serverNames": [
+    "composer--notion",
+    "composer--notebooklm",
+    "composer--suno-thirdparty",
+    "composer--suno-account",
+    "composer--suno-browser",
+    "composer--mysql"
+  ],
+  "updatedAt": "2026-06-07T04:46:16.9623797-06:00"
+}
