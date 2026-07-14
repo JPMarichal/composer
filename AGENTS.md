@@ -26,8 +26,9 @@ Sistema RAG de composición musical con Ollama local. Node.js v22 + LangChain.js
 
 ## MCP
 
-`opencode.json` define 6 MCP locales. Activar con `just mcp-activate-local` antes de usar en VS Code.
+`opencode.json` define 7 MCP locales. Activar con `just mcp-activate-local` antes de usar en VS Code.
 
+- **pcloud** — `node src/pcloud-mcp.js` (gestión de archivos/directorios; requiere `PCLOUD_USERNAME`, `PCLOUD_PASSWORD`, `PCLOUD_BASE_FOLDER` en `.env`)
 - **notion** — `node src/notion-mcp.js`
 - **notebooklm** — `npx -y notebooklm-mcp@latest`
 - **suno-thirdparty** — Python server con API key de sunoapi.org
