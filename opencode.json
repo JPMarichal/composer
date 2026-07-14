@@ -1,6 +1,11 @@
 {
   "$schema": "https://opencode.ai/config.json",
   "mcp": {
+    "pcloud": {
+      "type": "local",
+      "command": ["node", "src/pcloud-mcp.js"],
+      "enabled": true
+    },
     "notion": {
       "type": "local",
       "command": ["node", "src/notion-mcp.js"]
