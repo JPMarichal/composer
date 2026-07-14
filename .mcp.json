@@ -1,0 +1,57 @@
+{
+  "mcpServers": {
+    "pcloud": {
+      "command": "C:\\Users\\Juan.Pablo.Marichal\\AppData\\Local\\nvm\\v22.20.0\\node.exe",
+      "args": ["C:\\own\\composer\\src\\pcloud-mcp.js"],
+      "env": {
+        "PCLOUD_API_HOST": "api.pcloud.com",
+        "PCLOUD_USERNAME": "jpmarichal@gmail.com",
+        "PCLOUD_PASSWORD": "QQd$68G3TPeW",
+        "PCLOUD_BASE_FOLDER": "32263080726"
+      }
+    },
+    "notion": {
+      "command": "C:\\Users\\Juan.Pablo.Marichal\\AppData\\Local\\nvm\\v22.20.0\\node.exe",
+      "args": ["C:\\own\\composer\\src\\notion-mcp.js"],
+      "env": {
+        "NOTION_TOKEN": "ntn_I91806550145ul9VKrcU0rGEMySxBGRPHQrzNa8GW6c0PG"
+      }
+    },
+    "notebooklm": {
+      "command": "npx",
+      "args": ["-y", "notebooklm-mcp@latest"],
+      "enabled": true
+    },
+    "suno-thirdparty": {
+      "command": "C:\\Users\\JUANPA~1.MAR\\AppData\\Local\\Temp\\opencode\\suno-venv\\Scripts\\python.exe",
+      "args": ["C:\\Users\\JUANPA~1.MAR\\AppData\\Local\\Temp\\opencode\\suno-codekeanu\\server.py"],
+      "env": {
+        "SUNO_API_KEY": "4d97b379a2566ec188ad3c11c4b81819",
+        "SUNO_API_BASE_URL": "https://api.sunoapi.org"
+      }
+    },
+    "suno-account": {
+      "command": "C:\\Users\\JUANPA~1.MAR\\AppData\\Local\\Temp\\opencode\\suno-ai-mcp\\.venv\\Scripts\\python.exe",
+      "args": ["-m", "suno_mcp"],
+      "env": {
+        "SUNO_COOKIE": "__client=eyJhbGciOiJSUzI1NiIsImtpZCI6InN1bm8tYXBpLXJzMjU2LWtleS0xIiwidHlwIjoiSldUIn0.eyJzdW5vLmNvbS9jbGFpbXMvY2xpZW50X2lkIjoiY2xpZW50X0dVOXFacnB1bkR1a3JRU21GczZ1NVMiLCJzdW5vLmNvbS9jbGFpbXMvdG9rZW5fdHlwZSI6InJlZnJlc2giLCJpc3MiOiJodHRwczovL2F1dGguc3Vuby5jb20iLCJleHAiOjE4MTE2OTYzOTB9.ZlnFMGLV9I4YD6wyh1jQM_bvaVQHaEjZLddMbgdukSJg7SvnfgOw2IvaFEyC1jLL6BA815LOZASsN93V3ywMiJA8_XnhFAdgquLb69ILjqVKAzKegG2dhNjJIZrOoapL9rUOpiBzoen73VIRAKAksk3f7IMUhZvleHPQtarKkHVIKS2gtmGWBy6nVKCsI4rMoF2UMUZ8HOohasuI72d2wDoxgAloV0WhXFaoDqKVwH94hYwe6y8lDCunWZWJyMyTEoBHJMCt3WNfz9kR5se7eiSQoLLyWmhSgkrXMxOPpMsBP5hEAaZ0bPLqlzaCwpblGIhZp4-1mgnqdRdccJYCqg; __session=eyJhbGciOiJSUzI1NiIsImtpZCI6InN1bm8tYXBpLXJzMjU2LWtleS0xIiwidHlwIjoiSldUIn0.eyJzdW5vLmNvbS9jbGFpbXMvdXNlcl9pZCI6ImE4MTg4YWMwLTIwY2MtNGNiNC04NzAwLTFjYWZmMmFkMTY3NSIsImh0dHBzOi8vc3Vuby5haS9jbGFpbXMvY2xlcmtfaWQiOiJ1c2VyXzM2a0pQb0t0bEdXM0RqMlc0cjlVSXV2S2VETCIsInN1bm8uY29tL2NsYWltcy90b2tlbl90eXBlIjoiYWNjZXNzIiwic3Vuby9kaWQiOjk1MDk4ODY0LCJleHAiOjE3ODAxNjM5NzIsImF1ZCI6InN1bm8tYXBpIiwic3ViIjoidXNlcl8zNmtKUG9LdGxHVzNEajJXNHI5VUl1dktlREwiLCJhenAiOiJodHRwczovL3N1bm8uY29tIiwiZnZhIjpbMCwtMV0sImlhdCI6MTc4MDE2MDM3MiwiaXNzIjoiaHR0cHM6Ly9hdXRoLnN1bm8uY29tIiwiaml0IjoiOTliNDgwYzYtM2JkYS00NTVlLTk0NmYtY2UyNzQ1YzYwNDA1IiwicGxhbiI6IjNlYWViZWYzLWVmNDYtNDQ2YS05MzFjLTNkNTBjZDE1MTRmMTp5ZWFyOiIsInN1bm8vam9pbmVkIjoxNzY1NTQ0NjE2LCJzdW5vLmNvbS9jbGFpbXMvZW1haWwiOiJqcG1hcmljaGFsQGdtYWlsLmNvbSIsImh0dHBzOi8vc3Vuby5haS9jbGFpbXMvZW1haWwiOiJqcG1hcmljaGFsQGdtYWlsLmNvbSIsInN1bm8vaGFuZGxlIjoianBtYXJpY2hhbCIsInN1bm8vdXNlcl9pZCI6IjEyNTcwMzIwOCIsInN1bm8vdXNlcm5hbWUiOiJqcG1hcmljaGFsQGdtYWlsLmNvbSJ9.F_PLxaT8QqLzoTTYcogEtAyc6FvIM3WK9iptfesX4jBFPQww9bHcRfiWADXGhB2G0rYgTHqfHER6F3Sfkwogxkj1ey7cxjQNEatatOmA66TK9tHVPNI7xuvH3od0V6ORM2Q1FyVQFFou50v1TTPDa9buKbIPRpcLD4I35n-OVYYSB9g13P1kiJBhJC4oNxVbuSpGKy9CU6uzcP52ZKTvWK4xDS6BOlbXR1txbRTTp5t25lk9eq1knE-M9sBkMXt_ZV7oheBnhUz9MXgu-OSmw4IIW6XEZFsiuMoPmpCQZfVhGmPAK6b7Q1vaQ7YE13tzRWUj7L8CjFE1DX5V-JwWFw; __session_Jnxw-muT=eyJhbGciOiJSUzI1NiI...",
+        "SUNO_GENERATION_MODE": "api",
+        "SUNO_BROWSER_HEADLESS": "false",
+        "SUNO_DEFAULT_MODEL": "chirp-fenix",
+        "SSL_VERIFY": "0"
+      }
+    },
+    "suno-browser": {
+      "command": "C:\\Users\\JUANPA~1.MAR\\AppData\\Local\\Temp\\opencode\\suno-mcp\\src\\index.js",
+      "env": {
+        "CDP_URL": "http://localhost:9100",
+        "NODE_TLS_REJECT_UNAUTHORIZED": "0"
+      }
+    },
+    "mysql": {
+      "command": "C:\\Users\\Juan.Pablo.Marichal\\AppData\\Local\\nvm\\v22.20.0\\node.exe",
+      "args": ["C:\\own\\composer\\tools\\mysql-mcp-wrapper.js"],
+      "enabled": true
+    }
+  }
+}
