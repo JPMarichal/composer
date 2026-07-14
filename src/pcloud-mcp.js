@@ -1,6 +1,6 @@
-#!/usr/bin/env node
 require("dotenv").config();
 if (!globalThis.fetch) globalThis.fetch = require("node-fetch");
+
 const { Server } = require("@modelcontextprotocol/sdk/server/index.js");
 const { StdioServerTransport } = require("@modelcontextprotocol/sdk/server/stdio.js");
 const { ListToolsRequestSchema, CallToolRequestSchema } = require("@modelcontextprotocol/sdk/types.js");
@@ -64,13 +64,13 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
   tools: [
     {
       name: "list_folder",
-      description: "List contents of a folder in pCloud. Uses PCLOUD_BASE_FOLDER if path/folderid is omitted.",
+      description: "List contents of a folder in pCloud.",
       inputSchema: {
         type: "object",
         properties: {
-          path: { type: "string", description: "Folder path (discouraged)" },
-          folderid: { type: "number", description: "Folder ID" },
-          recursive: { type: "boolean", description: "If true, list recursively" },
+          path: { type: "string" },
+          folderid: { type: "number" },
+          recursive: { type: "boolean" },
         },
       },
     },
@@ -80,9 +80,9 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
       inputSchema: {
         type: "object",
         properties: {
-          path: { type: "string", description: "Folder path to create" },
-          folderid: { type: "number", description: "Parent folder ID" },
-          name: { type: "string", description: "Folder name" },
+          path: { type: "string" },
+          folderid: { type: "number" },
+          name: { type: "string" },
         },
         required: ["name"],
       },
@@ -93,9 +93,9 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
       inputSchema: {
         type: "object",
         properties: {
-          path: { type: "string", description: "Folder path" },
-          folderid: { type: "number", description: "Folder ID" },
-          recursive: { type: "boolean", description: "If true, delete non-empty folder" },
+          path: { type: "string" },
+          folderid: { type: "number" },
+          recursive: { type: "boolean" },
         },
         required: ["folderid"],
       },
@@ -106,10 +106,10 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
       inputSchema: {
         type: "object",
         properties: {
-          filename: { type: "string", description: "Filename to save as" },
-          content: { type: "string", description: "Text content to upload" },
-          path: { type: "string", description: "Destination folder path" },
-          folderid: { type: "number", description: "Destination folder ID" },
+          filename: { type: "string" },
+          content: { type: "string" },
+          path: { type: "string" },
+          folderid: { type: "number" },
         },
         required: ["filename", "content"],
       },
@@ -120,8 +120,8 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
       inputSchema: {
         type: "object",
         properties: {
-          path: { type: "string", description: "File path" },
-          fileid: { type: "number", description: "File ID" },
+          path: { type: "string" },
+          fileid: { type: "number" },
         },
       },
     },
@@ -131,9 +131,9 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
       inputSchema: {
         type: "object",
         properties: {
-          path: { type: "string", description: "Path to file or folder" },
-          fileid: { type: "number", description: "File ID" },
-          folderid: { type: "number", description: "Folder ID" },
+          path: { type: "string" },
+          fileid: { type: "number" },
+          folderid: { type: "number" },
         },
       },
     },
@@ -143,11 +143,11 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
       inputSchema: {
         type: "object",
         properties: {
-          path: { type: "string", description: "Current file path" },
-          fileid: { type: "number", description: "Current file ID" },
-          toname: { type: "string", description: "New filename" },
-          topath: { type: "string", description: "New folder path" },
-          tofolderid: { type: "number", description: "New parent folder ID" },
+          path: { type: "string" },
+          fileid: { type: "number" },
+          toname: { type: "string" },
+          topath: { type: "string" },
+          tofolderid: { type: "number" },
         },
         required: ["toname"],
       },
@@ -158,8 +158,8 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
       inputSchema: {
         type: "object",
         properties: {
-          path: { type: "string", description: "File path" },
-          fileid: { type: "number", description: "File ID" },
+          path: { type: "string" },
+          fileid: { type: "number" },
         },
         required: ["fileid"],
       },
@@ -170,9 +170,9 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
       inputSchema: {
         type: "object",
         properties: {
-          query: { type: "string", description: "Search query" },
-          path: { type: "string", description: "Limit search to folder path" },
-          folderid: { type: "number", description: "Limit search to folder ID" },
+          query: { type: "string" },
+          path: { type: "string" },
+          folderid: { type: "number" },
         },
         required: ["query"],
       },
@@ -189,7 +189,6 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
   const { name, arguments: args } = request.params;
   try {
     await ensureAuth();
-
     if (name === "list_folder") {
       const folderid = resolveFolderId(args.folderid ?? BASE_FOLDER);
       const resp = await api("listfolder", {
@@ -200,18 +199,10 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
       if (resp.result !== 0) throw new Error(JSON.stringify(resp));
       const contents = resp.metadata?.contents || [];
       if (contents.length === 0) {
-        return { content: [{ type: "text", text: `Folder is empty.` }] };
+        return { content: [{ type: "text", text: `Folder "${args.path || folderid}" is empty.` }] };
       }
-      return {
-        content: [
-          {
-            type: "text",
-            text: contents.map(formatMetadata).join("\n\n"),
-          },
-        ],
-      };
+      return { content: [{ type: "text", text: contents.map(formatMetadata).join("\n\n") }] };
     }
-
     if (name === "create_folder") {
       const folderid = resolveFolderId(args.folderid);
       const resp = await api("createfolder", {
@@ -222,7 +213,6 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
       if (resp.result !== 0) throw new Error(JSON.stringify(resp));
       return { content: [{ type: "text", text: formatMetadata(resp.metadata) }] };
     }
-
     if (name === "delete_folder") {
       const folderid = resolveFolderId(args.folderid);
       const method = args.recursive ? "deletefolderrecursive" : "deletefolder";
@@ -233,7 +223,6 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
         : "Folder deleted.";
       return { content: [{ type: "text", text }] };
     }
-
     if (name === "upload_file") {
       const folderid = resolveFolderId(args.folderid ?? BASE_FOLDER);
       const form = new FormData();
@@ -241,23 +230,18 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
       form.append("auth", authToken);
       if (folderid) form.append("folderid", String(folderid));
       form.append("file", new Blob([args.content]), args.filename);
-      const resp = await fetch(`${BASE_URL}/uploadfile`, {
-        method: "POST",
-        body: form,
-      });
+      const resp = await fetch(`${BASE_URL}/uploadfile`, { method: "POST", body: form });
       const data = await resp.json();
       if (data.result !== 0) throw new Error(JSON.stringify(data));
       const meta = data.metadata?.[0] || data.metadata;
       return { content: [{ type: "text", text: formatMetadata(meta) }] };
     }
-
     if (name === "download_file") {
       const fileid = resolveFolderId(args.fileid);
       const resp = await api("gettextfile", { fileid, path: args.path });
       if (resp.result !== 0) throw new Error(JSON.stringify(resp));
       return { content: [{ type: "text", text: resp.content || "" }] };
     }
-
     if (name === "stat") {
       const fileid = resolveFolderId(args.fileid);
       const folderid = resolveFolderId(args.folderid);
@@ -265,7 +249,6 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
       if (resp.result !== 0) throw new Error(JSON.stringify(resp));
       return { content: [{ type: "text", text: formatMetadata(resp.metadata) }] };
     }
-
     if (name === "rename_file") {
       const fileid = resolveFolderId(args.fileid);
       const resp = await api("renamefile", {
@@ -278,35 +261,21 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
       if (resp.result !== 0) throw new Error(JSON.stringify(resp));
       return { content: [{ type: "text", text: formatMetadata(resp.metadata) }] };
     }
-
     if (name === "delete_file") {
       const fileid = resolveFolderId(args.fileid);
       const resp = await api("deletefile", { fileid, path: args.path });
       if (resp.result !== 0) throw new Error(JSON.stringify(resp));
       return { content: [{ type: "text", text: "File deleted." }] };
     }
-
     if (name === "search_files") {
-      const resp = await api("search", {
-        query: args.query,
-        path: args.path,
-        folderid: args.folderid,
-      });
+      const resp = await api("search", { query: args.query, path: args.path, folderid: args.folderid });
       if (resp.result !== 0) throw new Error(JSON.stringify(resp));
       const results = resp.metadata || [];
       if (results.length === 0) {
         return { content: [{ type: "text", text: `No results for "${args.query}".` }] };
       }
-      return {
-        content: [
-          {
-            type: "text",
-            text: results.map(formatMetadata).join("\n\n"),
-          },
-        ],
-      };
+      return { content: [{ type: "text", text: results.map(formatMetadata).join("\n\n") }] };
     }
-
     if (name === "get_user_info") {
       const resp = await api("userinfo");
       if (resp.result !== 0) throw new Error(JSON.stringify(resp));
@@ -322,7 +291,6 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
         ],
       };
     }
-
     throw new Error(`Unknown tool: ${name}`);
   } catch (err) {
     return {
@@ -332,5 +300,13 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
   }
 });
 
-const transport = new StdioServerTransport();
-server.connect(transport);
+async function main() {
+  const transport = new StdioServerTransport();
+  await server.connect(transport);
+  console.error("MCP pcloud server connected");
+}
+
+main().catch((err) => {
+  console.error("Fatal error:", err);
+  process.exit(1);
+});
