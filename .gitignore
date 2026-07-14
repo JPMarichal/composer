@@ -5,6 +5,7 @@ node_modules/
 .venv/
 mp3/
 nul
+.mcp.json
 
 # Audio/video/binary — managed in pCloud, not git
 *.mp3
