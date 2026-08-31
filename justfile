@@ -123,6 +123,58 @@ suno-list-projects:
 suno-thumbs *args:
     {{sunopy}} scripts/suno-thumbs.py {{args}}
 
+# ─── Suno WAV Download ───────────────────────────────────────
+
+# Container name for the Suno Manager with WAV support
+suno_container := "suno-manager-wav"
+
+# Sincroniza la base de datos local al container: just wav-sync-in
+wav-sync-in:
+    podman cp "canciones\audio\bksuno\_downloads.sqlite" {{suno_container}}:/app/data/_downloads.sqlite
+
+# Sincroniza la base de datos del container a disco local: just wav-sync-out
+wav-sync-out:
+    podman cp {{suno_container}}:/app/data/_downloads.sqlite "canciones\audio\bksuno\_downloads.sqlite"
+
+# Muestra estadísticas del backlog WAV: just wav-stats
+wav-stats:
+    {{pwsh}} -c "podman cp canciones\audio\bksuno\_downloads.sqlite {{suno_container}}:/app/data/_tmp.sqlite 2>nul; podman exec {{suno_container}} sh -c 'WAV_DB_PATH=/app/data/_tmp.sqlite python3 /app/suno-wav-manager.py stats'; podman exec {{suno_container}} rm -f /app/data/_tmp.sqlite"
+
+# Lista clips del backlog WAV: just wav-list [filter]
+# Filtros: all pending queued downloaded skipped errors <project>
+wav-list filter="all":
+    {{pwsh}} -c "podman cp canciones\audio\bksuno\_downloads.sqlite {{suno_container}}:/app/data/_tmp.sqlite 2>nul; podman exec {{suno_container}} sh -c 'WAV_DB_PATH=/app/data/_tmp.sqlite python3 /app/suno-wav-manager.py list {{filter}}'; podman exec {{suno_container}} rm -f /app/data/_tmp.sqlite"
+
+# Marca clips para descarga WAV: just wav-queue <project> <n> | wav-queue-all [n]
+wav-queue project count:
+    {{pwsh}} -c "podman cp canciones\audio\bksuno\_downloads.sqlite {{suno_container}}:/app/data/_tmp.sqlite 2>nul; podman exec {{suno_container}} sh -c 'WAV_DB_PATH=/app/data/_tmp.sqlite python3 /app/suno-wav-manager.py queue \"{{project}}\" {{count}}'; podman cp {{suno_container}}:/app/data/_tmp.sqlite canciones\audio\bksuno\_downloads.sqlite; podman exec {{suno_container}} rm -f /app/data/_tmp.sqlite"
+
+# Cola todos los clips completos: just wav-queue-all [n]
+wav-queue-all count="all":
+    {{pwsh}} -c "podman cp canciones\audio\bksuno\_downloads.sqlite {{suno_container}}:/app/data/_tmp.sqlite 2>nul; podman exec {{suno_container}} sh -c 'WAV_DB_PATH=/app/data/_tmp.sqlite python3 /app/suno-wav-manager.py queue {{count}}'; podman cp {{suno_container}}:/app/data/_tmp.sqlite canciones\audio\bksuno\_downloads.sqlite; podman exec {{suno_container}} rm -f /app/data/_tmp.sqlite"
+
+# Marca un clip como omitido: just wav-skip <clip_id[:8]> <reason>
+# Razon: experimental low_quality short duplicate instrumental not_interesting other
+wav-skip clip_id reason:
+    {{pwsh}} -c "podman cp canciones\audio\bksuno\_downloads.sqlite {{suno_container}}:/app/data/_tmp.sqlite 2>nul; podman exec {{suno_container}} sh -c 'WAV_DB_PATH=/app/data/_tmp.sqlite python3 /app/suno-wav-manager.py skip {{clip_id}} {{reason}}'; podman cp {{suno_container}}:/app/data/_tmp.sqlite canciones\audio\bksuno\_downloads.sqlite; podman exec {{suno_container}} rm -f /app/data/_tmp.sqlite"
+
+# Establece prioridad: just wav-priority <clip_id[:8]> <level(-2..+2)>
+wav-priority clip_id level:
+    {{pwsh}} -c "podman cp canciones\audio\bksuno\_downloads.sqlite {{suno_container}}:/app/data/_tmp.sqlite 2>nul; podman exec {{suno_container}} sh -c 'WAV_DB_PATH=/app/data/_tmp.sqlite python3 /app/suno-wav-manager.py priority {{clip_id}} {{level}}'; podman cp {{suno_container}}:/app/data/_tmp.sqlite canciones\audio\bksuno\_downloads.sqlite; podman exec {{suno_container}} rm -f /app/data/_tmp.sqlite"
+
+# Descarga WAV por lotes (usa BD del container): just wav-download [n]
+# Primero ejecuta wav-sync-in, luego este comando, luego wav-sync-out
+wav-download count="all":
+    podman cp scripts/suno-wav-manager.py {{suno_container}}:/app/suno-wav-manager.py
+    podman exec {{suno_container}} sh -c 'WAV_DB_PATH=/app/data/_downloads.sqlite python3 /app/suno-wav-manager.py queue {{count}}'
+    podman exec -i {{suno_container}} python3 /app/batch_wav.py
+
+# Descarga WAVs para un proyecto específico: just wav-project "Nombre del proyecto"
+# Resultado en /app/downloads/<project>_wavs/ (container) — sincroniza después con wav-sync-out
+wav-project project:
+    podman cp scripts/suno-download-wav.py {{suno_container}}:/app/project_wav.py
+    podman exec {{suno_container}} sh -c 'WAV_DB_PATH=/app/data/_downloads.sqlite python3 /app/project_wav.py "{{project}}"'
+
 # ─── Songcase Analysis ─────────────────────────────────────
 
 # Crea un archivo songcase desde el template: just songcase "artista" "cancion"

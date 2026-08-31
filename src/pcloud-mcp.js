@@ -6,16 +6,34 @@ const { StdioServerTransport } = require("@modelcontextprotocol/sdk/server/stdio
 const { ListToolsRequestSchema, CallToolRequestSchema } = require("@modelcontextprotocol/sdk/types.js");
 
 const API_HOST = process.env.PCLOUD_API_HOST || "api.pcloud.com";
-const BASE_URL = `https://${API_HOST}`;
+const FALLBACK_API_HOSTS = ["eapi.pcloud.com", "api.pcloud.com"];
 const USERNAME = process.env.PCLOUD_USERNAME;
 const PASSWORD = process.env.PCLOUD_PASSWORD;
+const ACCESS_TOKEN = process.env.PCLOUD_AUTH_TOKEN || process.env.PCLOUD_ACCESS_TOKEN;
+const CLIENT_ID = process.env.PCLOUD_CLIENT_ID;
+const CLIENT_SECRET = process.env.PCLOUD_CLIENT_SECRET;
+const OAUTH_CODE = process.env.PCLOUD_OAUTH_CODE;
 const BASE_FOLDER = process.env.PCLOUD_BASE_FOLDER || "0";
 
 let authToken = null;
 let tokenExpires = 0;
+let currentApiHost = API_HOST;
 
-function api(method, params = {}) {
-  const url = new URL(`${BASE_URL}/${method}`);
+function getBaseUrl(host = currentApiHost) {
+  return `https://${host}`;
+}
+
+function getCandidateHosts() {
+  return [...new Set([API_HOST, ...FALLBACK_API_HOSTS].filter(Boolean))];
+}
+
+function summarizeAuthFailure(host, resp) {
+  if (!resp || typeof resp !== "object") return `${host}: invalid response`;
+  return `${host}: ${resp.error || "Unknown error"} (${resp.result ?? "no result"})`;
+}
+
+function api(method, params = {}, host = currentApiHost) {
+  const url = new URL(`${getBaseUrl(host)}/${method}`);
   if (authToken) params.auth = authToken;
   const body = new URLSearchParams();
   for (const [k, v] of Object.entries(params)) {
@@ -30,15 +48,90 @@ function api(method, params = {}) {
 
 async function ensureAuth() {
   if (authToken && Date.now() < tokenExpires) return;
-  const resp = await api("userinfo", {
-    getauth: 1,
-    username: USERNAME,
-    password: PASSWORD,
-  });
-  if (resp.result !== 0) throw new Error(`pCloud auth failed: ${JSON.stringify(resp)}`);
-  authToken = resp.auth;
-  const expiresIn = Number(resp.expires || 86400);
-  tokenExpires = Date.now() + (expiresIn - 60) * 1000;
+
+  const failures = [];
+
+  if (CLIENT_ID && CLIENT_SECRET && OAUTH_CODE) {
+    const oauthResp = await api(
+      "oauth2_token",
+      {
+        client_id: CLIENT_ID,
+        client_secret: CLIENT_SECRET,
+        code: OAUTH_CODE,
+      },
+      "api.pcloud.com"
+    );
+
+    if (oauthResp.result !== 0 || !oauthResp.access_token) {
+      throw new Error(`pCloud oauth2_token exchange failed: ${JSON.stringify(oauthResp)}`);
+    }
+
+    for (const host of getCandidateHosts()) {
+      const resp = await api("userinfo", { auth: oauthResp.access_token }, host);
+      if (resp.result === 0) {
+        authToken = oauthResp.access_token;
+        tokenExpires = Number.MAX_SAFE_INTEGER;
+        currentApiHost = host;
+        return;
+      }
+      failures.push(summarizeAuthFailure(host, resp));
+    }
+
+    throw new Error(
+      `pCloud oauth token exchange succeeded but validation failed. ${failures.join(" | ")}`
+    );
+  }
+
+  if (ACCESS_TOKEN) {
+    for (const host of getCandidateHosts()) {
+      const resp = await api("userinfo", { auth: ACCESS_TOKEN }, host);
+      if (resp.result === 0) {
+        authToken = ACCESS_TOKEN;
+        tokenExpires = Number.MAX_SAFE_INTEGER;
+        currentApiHost = host;
+        return;
+      }
+      failures.push(summarizeAuthFailure(host, resp));
+    }
+
+    throw new Error(
+      `Configured pCloud access token was rejected. ${failures.join(" | ")}`
+    );
+  }
+
+  if (!USERNAME || !PASSWORD) {
+    throw new Error(
+      "Missing pCloud credentials. Set PCLOUD_AUTH_TOKEN or PCLOUD_ACCESS_TOKEN, provide PCLOUD_CLIENT_ID/PCLOUD_CLIENT_SECRET/PCLOUD_OAUTH_CODE, or provide PCLOUD_USERNAME and PCLOUD_PASSWORD."
+    );
+  }
+
+  for (const host of getCandidateHosts()) {
+    const resp = await api(
+      "userinfo",
+      {
+        getauth: 1,
+        username: USERNAME,
+        password: PASSWORD,
+      },
+      host
+    );
+
+    if (resp.result === 0 && resp.auth) {
+      authToken = resp.auth;
+      const expiresIn = Number(resp.expires || 86400);
+      tokenExpires = Date.now() + (expiresIn - 60) * 1000;
+      currentApiHost = host;
+      return;
+    }
+
+    failures.push(summarizeAuthFailure(host, resp));
+  }
+
+  throw new Error(
+    "pCloud password login failed on all candidate hosts. " +
+      `${failures.join(" | ")}. ` +
+      "If your account now requires OAuth, configure PCLOUD_AUTH_TOKEN or PCLOUD_ACCESS_TOKEN."
+  );
 }
 
 function resolveFolderId(input) {
@@ -230,7 +323,7 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
       form.append("auth", authToken);
       if (folderid) form.append("folderid", String(folderid));
       form.append("file", new Blob([args.content]), args.filename);
-      const resp = await fetch(`${BASE_URL}/uploadfile`, { method: "POST", body: form });
+      const resp = await fetch(`${getBaseUrl()}/uploadfile`, { method: "POST", body: form });
       const data = await resp.json();
       if (data.result !== 0) throw new Error(JSON.stringify(data));
       const meta = data.metadata?.[0] || data.metadata;

@@ -1,0 +1,195 @@
+Metadata-Version: 2.4
+Name: suno-mcp
+Version: 0.1.0
+Summary: MCP server for Suno AI music generation using your suno.com account (no third-party API)
+Author: David Shibley
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/David-J-Shibley/suno-mcp
+Project-URL: Repository, https://github.com/David-J-Shibley/suno-mcp
+Project-URL: Issues, https://github.com/David-J-Shibley/suno-mcp/issues
+Keywords: mcp,model-context-protocol,suno,ai-music,music-generation
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: mcp>=1.0.0
+Requires-Dist: httpx>=0.27.0
+Requires-Dist: pydantic>=2.0.0
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: playwright>=1.40.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0.0; extra == "dev"
+Requires-Dist: pytest-asyncio>=0.21.0; extra == "dev"
+Requires-Dist: ruff>=0.1.0; extra == "dev"
+Dynamic: license-file
+
+# Suno MCP
+
+[![PyPI version](https://img.shields.io/pypi/v/suno-mcp.svg)](https://pypi.org/project/suno-mcp/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![MCP](https://img.shields.io/badge/MCP-compatible-green.svg)](https://modelcontextprotocol.io)
+
+MCP server for generating music with **your [suno.com](https://suno.com) account** — no third-party API keys, no 2Captcha, no extra paid services.
+
+Use it from [Cursor](https://cursor.com), Claude Desktop, or any MCP-compatible client to check credits, generate songs, and download MP3s.
+
+## Features
+
+- **Your Suno account** — uses your existing subscription/credits
+- **No API middlemen** — authenticates via Clerk in a real browser session
+- **Generation tools** — custom lyrics/style or simple prompt mode
+- **Library access** — credits, recent songs, status polling, MP3 download
+
+## Requirements
+
+- Python 3.10+
+- A **free or paid Suno account** at [suno.com](https://suno.com)
+- Chromium (installed via Playwright)
+
+## Quick Start
+
+### Install from PyPI
+
+```bash
+pip install suno-mcp
+playwright install chromium
+cp .env.example .env  # optional — defaults work out of the box
+```
+
+### Install from source
+
+```bash
+git clone https://github.com/David-J-Shibley/suno-mcp.git
+cd suno-mcp
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -e .
+playwright install chromium
+cp .env.example .env
+```
+
+**First run:** A browser window opens. Log into Suno if prompted. Your session is saved to `~/.suno-mcp/browser-profile`.
+
+## Cursor
+
+Add to `~/.cursor/mcp.json`:
+
+```json
+{
+  "mcpServers": {
+    "suno": {
+      "command": "/absolute/path/to/suno-mcp/.venv/bin/python",
+      "args": ["-m", "suno_mcp"],
+      "env": {
+        "SUNO_HEADLESS": "false"
+      }
+    }
+  }
+}
+```
+
+Set `SUNO_HEADLESS` to `false` — the Create button must be visible for generation to work.
+
+Restart the MCP server after config or code changes (Cursor → Settings → MCP).
+
+### macOS Homebrew Python note
+
+If `pip` fails with a `pyexpat` / `libexpat` error on macOS Tahoe, add to your MCP env:
+
+```json
+"DYLD_LIBRARY_PATH": "/opt/homebrew/opt/expat/lib"
+```
+
+## Claude Desktop
+
+Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
+
+```json
+{
+  "mcpServers": {
+    "suno": {
+      "command": "/absolute/path/to/suno-mcp/.venv/bin/python",
+      "args": ["-m", "suno_mcp"],
+      "env": {
+        "SUNO_HEADLESS": "false"
+      }
+    }
+  }
+}
+```
+
+## Tools
+
+| Tool | Description |
+|------|-------------|
+| `suno_get_credits` | Check your Suno credit balance |
+| `suno_get_recent` | List recent songs in your library |
+| `suno_generate_song` | Custom mode — lyrics + style |
+| `suno_generate_from_description` | Simple mode — describe the song |
+| `suno_check_status` | Poll generation status by song ID |
+| `suno_wait_for_songs` | Wait until songs are ready |
+| `suno_download_song` | Download MP3 to a folder |
+
+## How It Works
+
+1. **Auth** — Reads JWT from `window.Clerk.session.getToken()` in the logged-in browser tab.
+2. **Reads** (credits, feed, recent) — Direct HTTPS to `studio-api.prod.suno.com`.
+3. **Generation** — Fills lyrics/style via React state, then dispatches a trusted CDP mouse click on the Create button (required by hCaptcha).
+
+Generation approach adapted from [unforced/suno-mcp](https://github.com/unforced/suno-mcp).
+
+## Configuration
+
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `SUNO_BROWSER_PROFILE_DIR` | `~/.suno-mcp/browser-profile` | Persistent browser profile |
+| `SUNO_HEADLESS` | `false` | Must be `false` for generation |
+| `SUNO_CDP_URL` | — | Connect to existing Chrome via CDP |
+| `SUNO_DEBUG` | — | Set to `1` for debug logging |
+
+## Optional: Use Your Own Chrome
+
+```bash
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome \
+  --remote-debugging-port=9222 \
+  --user-data-dir=~/.suno-mcp/chrome-profile
+```
+
+Then in `.env`:
+
+```
+SUNO_CDP_URL=http://localhost:9222
+```
+
+Log into Suno in that Chrome window.
+
+## Troubleshooting
+
+**Not signed in** — Log into [suno.com/create](https://suno.com/create) in the browser window the MCP server opens.
+
+**Profile already in use** — Restart the Suno MCP server in Cursor (only one browser instance per profile).
+
+**Empty song IDs after generate** — Keep `SUNO_HEADLESS=false`, ensure the browser window stays visible, and restart the MCP server after updates.
+
+**Cookie dialog** — Click "Allow All" once if Suno shows a privacy/cookie banner.
+
+## Limitations
+
+- **Unofficial** — Uses Suno's internal endpoints; may break when Suno updates.
+- **Browser required** — Generation needs a visible browser window.
+- **Uses your Suno credits** — Same quota as the website.
+- **MVP scope** — No covers, extends, or stems yet.
+
+## Disclaimer
+
+This is an unofficial project and is not affiliated with Suno. Use at your own risk and in accordance with [Suno's terms of service](https://suno.com/terms).
+
+## Contributing
+
+Issues and pull requests are welcome on [GitHub](https://github.com/David-J-Shibley/suno-mcp).
+
+See [PUBLISHING.md](PUBLISHING.md) for PyPI release instructions.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
