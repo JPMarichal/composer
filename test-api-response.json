@@ -1,0 +1,787 @@
+{
+  "clips": [
+    {
+      "status": "complete",
+      "title": "Pop azampoñado",
+      "play_count": 2,
+      "upvote_count": 0,
+      "allow_comments": true,
+      "is_verified": false,
+      "id": "64bdd2fe-3e7b-407f-8ba4-1f5671ea4724",
+      "entity_type": "song_schema",
+      "video_url": "",
+      "audio_url": "https://cdn1.suno.ai/64bdd2fe-3e7b-407f-8ba4-1f5671ea4724.mp3",
+      "media_urls": [
+        {
+          "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/64bdd2fe-3e7b-407f-8ba4-1f5671ea4724.m4a",
+          "content_type": "m4a-opus",
+          "delivery": "progressive",
+          "encoding": "1.0.0"
+        },
+        {
+          "url": "https://cdn1.suno.ai/64bdd2fe-3e7b-407f-8ba4-1f5671ea4724.mp3",
+          "content_type": "mp3",
+          "delivery": "progressive"
+        }
+      ],
+      "image_url": "https://cdn2.suno.ai/image_64bdd2fe-3e7b-407f-8ba4-1f5671ea4724.jpeg",
+      "image_large_url": "https://cdn2.suno.ai/image_large_64bdd2fe-3e7b-407f-8ba4-1f5671ea4724.jpeg",
+      "major_model_version": "v5.5",
+      "model_name": "chirp-fenix",
+      "metadata": {
+        "tags": "90s chamber pop/baroque pop with acoustic propulsion, lively 4-minute dance pace, and a bathroom-recorded ambience: deep tiled-room reverb on everything, close-mic zampoña, quena, flauta, flautín, armónica, ocarina, and whistle leads over harpsichord, harp, bass, and baroque violin. French ballad afrobeats alegro with African percussion, crisp hand drums, claps, and bright rhythmic accents., Synthwave, combina samba ",
+        "prompt": "",
+        "type": "gen",
+        "duration": 127.44,
+        "refund_credits": false,
+        "stream": true,
+        "make_instrumental": false,
+        "can_remix": false,
+        "is_remix": false,
+        "priority": 10,
+        "has_stem": false,
+        "uses_latest_model": true,
+        "model_badges": {
+          "songcard": {
+            "display_name": "v5.5",
+            "light": {
+              "text_color": "FD429C",
+              "background_color": "0000004D",
+              "border_color": "00000000"
+            },
+            "dark": {
+              "text_color": "FD429C",
+              "background_color": "0000004D",
+              "border_color": "00000000"
+            }
+          },
+          "songrow": {
+            "display_name": "v5.5",
+            "light": {
+              "text_color": "FD429C",
+              "background_color": "FD429C1A",
+              "border_color": "00000000"
+            },
+            "dark": {
+              "text_color": "FD429C",
+              "background_color": "FD429C40",
+              "border_color": "00000000"
+            }
+          }
+        },
+        "is_mumble": false
+      },
+      "is_liked": false,
+      "user_id": "a8188ac0-20cc-4cb4-8700-1caff2ad1675",
+      "display_name": "JPMarichal",
+      "handle": "jpmarichal",
+      "is_handle_updated": true,
+      "avatar_image_url": "https://cdn2.suno.ai/7806c44c-1fd4-4c23-8926-a654f0ab5599.jpeg",
+      "is_trashed": false,
+      "is_hidden": false,
+      "created_at": "2026-05-27T18:14:01.547Z",
+      "is_public": false,
+      "reaction": {
+        "play_count": 2,
+        "skip_count": 0,
+        "flagged": false,
+        "clip": "64bdd2fe-3e7b-407f-8ba4-1f5671ea4724",
+        "updated_at": "2026-08-11T20:11:36.575Z"
+      },
+      "is_persona_root": false,
+      "is_following_creator": false,
+      "project": {
+        "id": "3498d5f6-1981-4641-8dea-7b9c03ee019b",
+        "name": "Instrumental 1",
+        "description": "",
+        "is_trashed": false,
+        "is_public": false
+      },
+      "albums": [],
+      "explicit": false,
+      "comment_count": 0,
+      "flag_count": 0,
+      "display_tags": "chamber pop, baroque pop, afrobeats",
+      "is_contest_clip": false,
+      "has_hook": false,
+      "batch_index": 1,
+      "action_config": {
+        "actions": [
+          {
+            "action_type": "add_to_playlist",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "like_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "share_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "dislike_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "report_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remove_from_playlist",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "delete_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "edit_song_details",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "create_hook",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "download_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "download_as_video",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "open_in_studio",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "publish_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remaster",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remix_extend",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remix_cover",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remix_reuse_style",
+            "disabled": false,
+            "visible": true
+          }
+        ]
+      }
+    },
+    {
+      "status": "complete",
+      "title": "Pop azampoñado",
+      "play_count": 1,
+      "upvote_count": 0,
+      "allow_comments": true,
+      "is_verified": false,
+      "id": "1880a51f-4811-4ee8-8fd3-8ee5db0f4e9e",
+      "entity_type": "song_schema",
+      "video_url": "",
+      "audio_url": "https://cdn1.suno.ai/1880a51f-4811-4ee8-8fd3-8ee5db0f4e9e.mp3",
+      "media_urls": [
+        {
+          "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/1880a51f-4811-4ee8-8fd3-8ee5db0f4e9e.m4a",
+          "content_type": "m4a-opus",
+          "delivery": "progressive",
+          "encoding": "1.0.0"
+        },
+        {
+          "url": "https://cdn1.suno.ai/1880a51f-4811-4ee8-8fd3-8ee5db0f4e9e.mp3",
+          "content_type": "mp3",
+          "delivery": "progressive"
+        }
+      ],
+      "image_url": "https://cdn2.suno.ai/image_1880a51f-4811-4ee8-8fd3-8ee5db0f4e9e.jpeg",
+      "image_large_url": "https://cdn2.suno.ai/image_large_1880a51f-4811-4ee8-8fd3-8ee5db0f4e9e.jpeg",
+      "major_model_version": "v5.5",
+      "model_name": "chirp-fenix",
+      "metadata": {
+        "tags": "90s chamber pop/baroque pop with acoustic propulsion, lively 4-minute dance pace, and a bathroom-recorded ambience: deep tiled-room reverb on everything, close-mic zampoña, quena, flauta, flautín, armónica, ocarina, and whistle leads over harpsichord, harp, bass, and baroque violin. French ballad afrobeats alegro with African percussion, crisp hand drums, claps, and bright rhythmic accents., Synthwave, combina samba ",
+        "prompt": "",
+        "type": "gen",
+        "duration": 147.08,
+        "refund_credits": false,
+        "stream": true,
+        "make_instrumental": false,
+        "can_remix": false,
+        "is_remix": false,
+        "priority": 10,
+        "has_stem": false,
+        "uses_latest_model": true,
+        "model_badges": {
+          "songcard": {
+            "display_name": "v5.5",
+            "light": {
+              "text_color": "FD429C",
+              "background_color": "0000004D",
+              "border_color": "00000000"
+            },
+            "dark": {
+              "text_color": "FD429C",
+              "background_color": "0000004D",
+              "border_color": "00000000"
+            }
+          },
+          "songrow": {
+            "display_name": "v5.5",
+            "light": {
+              "text_color": "FD429C",
+              "background_color": "FD429C1A",
+              "border_color": "00000000"
+            },
+            "dark": {
+              "text_color": "FD429C",
+              "background_color": "FD429C40",
+              "border_color": "00000000"
+            }
+          }
+        },
+        "is_mumble": false
+      },
+      "is_liked": false,
+      "user_id": "a8188ac0-20cc-4cb4-8700-1caff2ad1675",
+      "display_name": "JPMarichal",
+      "handle": "jpmarichal",
+      "is_handle_updated": true,
+      "avatar_image_url": "https://cdn2.suno.ai/7806c44c-1fd4-4c23-8926-a654f0ab5599.jpeg",
+      "is_trashed": false,
+      "is_hidden": false,
+      "created_at": "2026-05-27T18:14:01.547Z",
+      "is_public": false,
+      "reaction": {
+        "play_count": 1,
+        "skip_count": 0,
+        "flagged": false,
+        "clip": "1880a51f-4811-4ee8-8fd3-8ee5db0f4e9e",
+        "updated_at": "2026-05-28T13:28:01.933Z"
+      },
+      "is_persona_root": false,
+      "is_following_creator": false,
+      "project": {
+        "id": "3498d5f6-1981-4641-8dea-7b9c03ee019b",
+        "name": "Instrumental 1",
+        "description": "",
+        "is_trashed": false,
+        "is_public": false
+      },
+      "albums": [],
+      "explicit": false,
+      "comment_count": 0,
+      "flag_count": 0,
+      "display_tags": "chamber pop, baroque pop, afrobeats",
+      "is_contest_clip": false,
+      "has_hook": false,
+      "batch_index": 0,
+      "action_config": {
+        "actions": [
+          {
+            "action_type": "add_to_playlist",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "like_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "share_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "dislike_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "report_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remove_from_playlist",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "delete_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "edit_song_details",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "create_hook",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "download_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "download_as_video",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "open_in_studio",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "publish_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remaster",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remix_extend",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remix_cover",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remix_reuse_style",
+            "disabled": false,
+            "visible": true
+          }
+        ]
+      }
+    },
+    {
+      "status": "complete",
+      "title": "Pop azampoñado",
+      "play_count": 4,
+      "upvote_count": 0,
+      "allow_comments": true,
+      "is_verified": false,
+      "id": "c60885d9-da0b-49b2-8d02-20ad3f8e8520",
+      "entity_type": "song_schema",
+      "video_url": "",
+      "audio_url": "https://cdn1.suno.ai/c60885d9-da0b-49b2-8d02-20ad3f8e8520.mp3",
+      "media_urls": [
+        {
+          "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/c60885d9-da0b-49b2-8d02-20ad3f8e8520.m4a",
+          "content_type": "m4a-opus",
+          "delivery": "progressive",
+          "encoding": "1.0.0"
+        },
+        {
+          "url": "https://cdn1.suno.ai/c60885d9-da0b-49b2-8d02-20ad3f8e8520.mp3",
+          "content_type": "mp3",
+          "delivery": "progressive"
+        }
+      ],
+      "image_url": "https://cdn2.suno.ai/image_c60885d9-da0b-49b2-8d02-20ad3f8e8520.jpeg",
+      "image_large_url": "https://cdn2.suno.ai/image_large_c60885d9-da0b-49b2-8d02-20ad3f8e8520.jpeg",
+      "major_model_version": "v5.5",
+      "model_name": "chirp-fenix",
+      "metadata": {
+        "tags": "90s chamber pop/baroque pop with acoustic propulsion, lively 4-minute dance pace, and a bathroom-recorded ambience: deep tiled-room reverb on everything, close-mic zampoña, quena, flauta, flautín, armónica, ocarina, and whistle leads over harpsichord, harp, bass, and baroque violin. French ballad afrobeats alegro with African percussion, crisp hand drums, claps, and bright rhythmic accents., synthwave",
+        "prompt": "",
+        "type": "gen",
+        "duration": 128.12,
+        "refund_credits": false,
+        "stream": true,
+        "make_instrumental": false,
+        "can_remix": false,
+        "is_remix": false,
+        "priority": 10,
+        "has_stem": false,
+        "uses_latest_model": true,
+        "model_badges": {
+          "songcard": {
+            "display_name": "v5.5",
+            "light": {
+              "text_color": "FD429C",
+              "background_color": "0000004D",
+              "border_color": "00000000"
+            },
+            "dark": {
+              "text_color": "FD429C",
+              "background_color": "0000004D",
+              "border_color": "00000000"
+            }
+          },
+          "songrow": {
+            "display_name": "v5.5",
+            "light": {
+              "text_color": "FD429C",
+              "background_color": "FD429C1A",
+              "border_color": "00000000"
+            },
+            "dark": {
+              "text_color": "FD429C",
+              "background_color": "FD429C40",
+              "border_color": "00000000"
+            }
+          }
+        },
+        "is_mumble": false
+      },
+      "is_liked": false,
+      "user_id": "a8188ac0-20cc-4cb4-8700-1caff2ad1675",
+      "display_name": "JPMarichal",
+      "handle": "jpmarichal",
+      "is_handle_updated": true,
+      "avatar_image_url": "https://cdn2.suno.ai/7806c44c-1fd4-4c23-8926-a654f0ab5599.jpeg",
+      "is_trashed": false,
+      "is_hidden": false,
+      "created_at": "2026-05-27T06:36:21.824Z",
+      "is_public": false,
+      "reaction": {
+        "play_count": 4,
+        "skip_count": 0,
+        "flagged": false,
+        "clip": "c60885d9-da0b-49b2-8d02-20ad3f8e8520",
+        "updated_at": "2026-05-27T18:05:13.797Z"
+      },
+      "is_persona_root": false,
+      "is_following_creator": false,
+      "project": {
+        "id": "3498d5f6-1981-4641-8dea-7b9c03ee019b",
+        "name": "Instrumental 1",
+        "description": "",
+        "is_trashed": false,
+        "is_public": false
+      },
+      "albums": [],
+      "explicit": false,
+      "comment_count": 0,
+      "flag_count": 0,
+      "display_tags": "chamber pop, baroque pop, afrobeats",
+      "is_contest_clip": false,
+      "has_hook": false,
+      "batch_index": 1,
+      "action_config": {
+        "actions": [
+          {
+            "action_type": "add_to_playlist",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "like_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "share_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "dislike_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "report_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remove_from_playlist",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "delete_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "edit_song_details",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "create_hook",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "download_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "download_as_video",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "open_in_studio",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "publish_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remaster",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remix_extend",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remix_cover",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remix_reuse_style",
+            "disabled": false,
+            "visible": true
+          }
+        ]
+      }
+    },
+    {
+      "status": "complete",
+      "title": "Pop azampoñado",
+      "play_count": 5,
+      "upvote_count": 0,
+      "allow_comments": true,
+      "is_verified": false,
+      "id": "a339b3d1-1a51-4129-ac85-29f99beb0d3a",
+      "entity_type": "song_schema",
+      "video_url": "",
+      "audio_url": "https://cdn1.suno.ai/a339b3d1-1a51-4129-ac85-29f99beb0d3a.mp3",
+      "media_urls": [
+        {
+          "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/a339b3d1-1a51-4129-ac85-29f99beb0d3a.m4a",
+          "content_type": "m4a-opus",
+          "delivery": "progressive",
+          "encoding": "1.0.0"
+        },
+        {
+          "url": "https://cdn1.suno.ai/a339b3d1-1a51-4129-ac85-29f99beb0d3a.mp3",
+          "content_type": "mp3",
+          "delivery": "progressive"
+        }
+      ],
+      "image_url": "https://cdn2.suno.ai/image_a339b3d1-1a51-4129-ac85-29f99beb0d3a.jpeg",
+      "image_large_url": "https://cdn2.suno.ai/image_large_a339b3d1-1a51-4129-ac85-29f99beb0d3a.jpeg",
+      "major_model_version": "v5.5",
+      "model_name": "chirp-fenix",
+      "metadata": {
+        "tags": "90s chamber pop/baroque pop with acoustic propulsion, lively 4-minute dance pace, and a bathroom-recorded ambience: deep tiled-room reverb on everything, close-mic zampoña, quena, flauta, flautín, armónica, ocarina, and whistle leads over harpsichord, harp, bass, and baroque violin. French ballad afrobeats alegro with African percussion, crisp hand drums, claps, and bright rhythmic accents., synthwave",
+        "prompt": "",
+        "type": "gen",
+        "duration": 123.8,
+        "refund_credits": false,
+        "stream": true,
+        "make_instrumental": false,
+        "can_remix": false,
+        "is_remix": false,
+        "priority": 10,
+        "has_stem": false,
+        "uses_latest_model": true,
+        "model_badges": {
+          "songcard": {
+            "display_name": "v5.5",
+            "light": {
+              "text_color": "FD429C",
+              "background_color": "0000004D",
+              "border_color": "00000000"
+            },
+            "dark": {
+              "text_color": "FD429C",
+              "background_color": "0000004D",
+              "border_color": "00000000"
+            }
+          },
+          "songrow": {
+            "display_name": "v5.5",
+            "light": {
+              "text_color": "FD429C",
+              "background_color": "FD429C1A",
+              "border_color": "00000000"
+            },
+            "dark": {
+              "text_color": "FD429C",
+              "background_color": "FD429C40",
+              "border_color": "00000000"
+            }
+          }
+        },
+        "is_mumble": false
+      },
+      "is_liked": false,
+      "user_id": "a8188ac0-20cc-4cb4-8700-1caff2ad1675",
+      "display_name": "JPMarichal",
+      "handle": "jpmarichal",
+      "is_handle_updated": true,
+      "avatar_image_url": "https://cdn2.suno.ai/7806c44c-1fd4-4c23-8926-a654f0ab5599.jpeg",
+      "is_trashed": false,
+      "is_hidden": false,
+      "created_at": "2026-05-27T06:36:21.824Z",
+      "is_public": false,
+      "reaction": {
+        "play_count": 5,
+        "skip_count": 0,
+        "flagged": false,
+        "clip": "a339b3d1-1a51-4129-ac85-29f99beb0d3a",
+        "updated_at": "2026-05-27T18:07:14.530Z"
+      },
+      "is_persona_root": false,
+      "is_following_creator": false,
+      "project": {
+        "id": "3498d5f6-1981-4641-8dea-7b9c03ee019b",
+        "name": "Instrumental 1",
+        "description": "",
+        "is_trashed": false,
+        "is_public": false
+      },
+      "albums": [],
+      "explicit": false,
+      "comment_count": 0,
+      "flag_count": 0,
+      "display_tags": "chamber pop, baroque pop, afrobeats",
+      "is_contest_clip": false,
+      "has_hook": false,
+      "batch_index": 0,
+      "action_config": {
+        "actions": [
+          {
+            "action_type": "add_to_playlist",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "like_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "share_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "dislike_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "report_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remove_from_playlist",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "delete_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "edit_song_details",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "create_hook",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "download_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "download_as_video",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "open_in_studio",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "publish_song",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remaster",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remix_extend",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remix_cover",
+            "disabled": false,
+            "visible": true
+          },
+          {
+            "action_type": "remix_reuse_style",
+            "disabled": false,
+            "visible": true
+          }
+        ]
+      }
+    }
+  ],
+  "num_total_results": 4,
+  "current_page": 0,
+  "has_more": false
+}

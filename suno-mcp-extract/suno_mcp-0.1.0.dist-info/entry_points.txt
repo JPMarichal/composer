@@ -1,0 +1,2 @@
+[console_scripts]
+suno-mcp = suno_mcp.server:main

@@ -2,3 +2,23 @@ node_modules/
 .chroma/
 .trunk/
 .backup/
+.env
+.venv/
+mp3/
+nul
+.mcp.json
+
+# Audio/video/binary — managed in pCloud, not git
+*.mp3
+*.mp4
+*.wav
+*.ogg
+*.avi
+*.mov
+*.waveformbackup
+*.tracktionedit
+canciones/My song/
+canciones/Newone/
+canciones/También estuve a punto/
+canciones/audio/
+canciones/canvas/

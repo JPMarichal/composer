@@ -1,0 +1,12 @@
+suno_mcp/__init__.py,sha256=dfOp9bNnF0mS-SdtZPKjuBQFGcrRpFJerA3uSZP6i5A,85
+suno_mcp/__main__.py,sha256=Z6fP7_2C7o82D3kjE8_W35nEWGjar4_53BDsW-3FtMs,129
+suno_mcp/browser.py,sha256=f9obt0ytjzUHqJP2vU4Z6XspX6OWm8knAv4pzeMSTlI,15237
+suno_mcp/client.py,sha256=b1UlHdHkZZah5KBdZya-v57Mns3NC75etOzSRX4H0HU,8716
+suno_mcp/config.py,sha256=d2j8QJsTpJsQJXanvARtvKleBe-3l88lw24iWwlnn1k,605
+suno_mcp/server.py,sha256=J8VwfeZbetr6Oz5qASVoEt1EXLAIk6bwE6IpDncT_RA,4300
+suno_mcp-0.1.0.dist-info/licenses/LICENSE,sha256=MY4LFGKf1zr5EJPis74EWEZuUR7Sm7P6queDX9PZxEI,1070
+suno_mcp-0.1.0.dist-info/METADATA,sha256=TlIZj1hmWcpZrb-Dt2J6kpK1OUGhHCkJ4ihSgohlZkQ,6213
+suno_mcp-0.1.0.dist-info/WHEEL,sha256=aeYiig01lYGDzBgS8HxWXOg3uV61G9ijOsup-k9o1sk,91
+suno_mcp-0.1.0.dist-info/entry_points.txt,sha256=btNYvys372nSxWcbcT8_CXW5C7jWn_xsWdbCeEOFFqM,50
+suno_mcp-0.1.0.dist-info/top_level.txt,sha256=D1vq4rYs0AwicIKLkWazP510et0hm04a6oWXHmTzgdE,9
+suno_mcp-0.1.0.dist-info/RECORD,,

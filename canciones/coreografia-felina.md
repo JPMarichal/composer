@@ -1,0 +1,157 @@
+# Coreografía felina
+
+## Metadatos
+
+### Notion DB
+
+- **Título de la canción:** Coreografía felina
+- **Género:** Indie, Folk, Pop
+- **Tipo:** Canción
+- **Año:** 2026
+- **Fecha de composición:** 2026-03-03
+- **Estado de publicación:** Sin procesar
+- **Generador:** SUNO
+- **Temas:** Alegría
+- **Distribuidor:** 
+- **ISRC:** 
+- **Álbum:** 
+- **NotionPageID:** af890deb-5b3f-43df-ba89-17a5f75f05f1
+- **Música:**
+
+### Producción musical
+
+- **BPM:** 124
+- **Compás:**
+- **Tonalidad:**
+- **Progresión:**
+- **Estructura:** Intro — Verse — Pre-Chorus — Chorus — Solo tap — Verse 2 — Interlude — Bridge — Final Chorus — Outro
+## Armonía
+
+- **Progresión base:**
+- **Patrón rítmico:**
+- **Dinámica por sección:**
+- **Riff melódico:**
+
+### Acordes por sección
+
+| Sección | Acordes | Notas |
+|---------|---------|-------|
+
+## Descripción
+
+Indie electropop con ukelele, batería electrónica y un groove juguetón a 124 BPM, para cuando tu gato te recuerda quién manda en casa. Son las cinco con cuarenta y dos y cuatro kilos de felino te han aplastado la nariz. No es una pesadilla, es el Michi ensayando su número de music-hall. Con la precisión de un coreógrafo de Broadway y la indiferencia de un dictador, convierte tu mejilla en escenario, tu barbilla en trampolín, tu pómulo en el punto del clímax. La ironía es la tesis: el dueño de la casa es el mobiliario. «Mi gato es el artista y yo soy el escenario». Y lo peor de todo es que, en el fondo, sabes que te lo has ganado. Para quienes han sido despertados a las 6 AM por una pata en la cara y han descubierto que el amor también duele en forma de zarpazo.
+
+## Style Prompt
+
+```
+indie electropop, techno-influenced, comedic, fast, 124 BPM, electronic drums, synth bass, ukulele accent, bright male vocals, no autotune, Spanish vocals
+```
+
+---
+
+## Letra
+
+[All lyrics in Spanish]
+[Mood: Playful]
+[Energy: High]
+[Instrument: Electronic Drums, Synth Bass, Ukulele]
+
+[Intro | electronic drums | synth bass | energetic | bright | fade in]
+
+[Verse | full mix | bright vocal | playful | medium energy | syncopated]
+Son las cinco con cuarenta y dos
+y un peso de cuatro kilos me ha aplastado la nariz
+no es una pesadilla, no es un terremoto, no
+es el Michi ensayando su número de music-hall aquí
+
+[Pre-Chorus | build | ukulele enters | riser]
+Tres pasos a la izquierda
+un giro sobre el ojo
+un salto en el mentón
+
+[Chorus | full mix | playful | high energy | stacked harmonies | handclaps]
+Mi gato tiene coreografía
+y actúa en mi mejilla sin permiso
+a las seis de la mañana en punto
+con un solo de zarpazo de improviso
+(improvisado, improvisado)
+mi gato es el artista
+y yo soy el escenario
+
+[Solo tap | electronic drums | high energy]
+
+[Verse 2 | full mix | higher energy | synth bass pumping]
+Abro un ojo, lo fulmino con la mirada
+él ronronea más fuerte, eso es lo único que pasa
+le digo "bájate" con voz de autoridad
+y él me pone la cola exactamente en la mitad
+
+[Pre-Chorus | build | ukulele | riser]
+Dos pasos sobre el pómulo
+un scratch en la barbilla
+y llama al bis final
+
+[Chorus | full mix | playful | high energy | stacked harmonies | handclaps]
+Mi gato tiene coreografía
+y actúa en mi mejilla sin permiso
+a las seis de la mañana en punto
+con un solo de zarpazo de improviso
+(improvisado, improvisado)
+[Interlude][Silence]
+mi gato es el artista
+y yo soy el escenario
+
+[Bridge | breakdown | electronic break | glitchy | spoken word]
+(spoken) Dicen los expertos que los gatos duermen dieciséis horas al día.
+(spoken) Lo que no dicen es que las otras ocho las dedican a coreografiar sobre tu cara.
+(spoken) Con una satisfacción artística... absolutamente inapelable.
+
+[Final Chorus | full mix | high energy | stacked harmonies | handclaps | key change]
+Mi gato tiene coreografía
+y actúa en mi mejilla sin permiso
+a las siete de la mañana en punto
+con un solo de zarpazo de improviso
+(improvisado, improvisado)
+[Interlude][Silence]
+mi gato es el artista...
+y yo soy... el escenario
+
+[Outro | stripped back | ukulele | fingerpicking]
+(softly) Michi, por favor...
+(very softly) son las seis...
+[Fade Out]
+
+---
+
+## Esquema de rima
+
+Estrofas: alternada asonante (ABAB). Pre-coro: verso libre. Coro: alternada consonante (ABAB). Estrofas: pareados asonante (AABB). Pre-coro: verso libre. InterludeSilence: verso libre. Puente: verso libre. Final Chorus | full mix | high energy | stacked harmonies | handclaps | key change: alternada consonante (ABAB). Outro: verso libre.
+
+## Checklist Anti-AI
+
+| # | Safeguard | Cumple |
+|---|-----------|--------|
+| 1 | 30%+ rimas asonantes/libres | ✅ estrofas: alternada asonante (abab). pre-coro: verso libre. coro: alternada consonante (abab). estrofas: pareados asonan |
+| 2 | Máximo 1 tríada | ✅ 0 tríadas |
+| 3 | 0 em dashes | ✅ |
+| 4 | ≥1 coloquialismo por estrofa | ⚠️ 0 coloquialismos para 2 estrofas |
+| 5 | ≥1 verso métrica quebrada | ✅ (asumido — validación manual requerida) |
+| 6 | No etiquetar figuras retóricas | ✅ |
+| 7 | Detalles sensoriales ≥1 por estrofa | ⚠️ 0 referencias sensoriales para 2 estrofas |
+| 8 | Verbos/adj ≥ 2:1 | ✅ (asumido — validación manual requerida) |
+| 9 | 1 imagen absurda o surrealista | ✅ (asumido — validación manual requerida) |
+| 10 | Cero palabras listado prohibido | ✅ |
+| 11 | Cero AI-ismos semánticos | ✅ |
+| 12 | Cero verbos forzados | ✅ |
+| 13 | Cero negative parallelism | ✅ |
+| 14 | Sin parallel negation encadenada | ❌ "no es una pesadilla, no es un terremoto, no
+es..." |
+| 15 | Sin anaphora abuse (máx 2 versos) | ✅ (máx 0 versos consecutivos) |
+| 16 | Puente sin "Pero" al inicio | ✅ Puente empieza con "(spoken) dicen los" |
+| 17 | Título repetido <4 veces en chorus | ✅ (0 veces en coro) |
+| 18 | Abstracto anclado a objeto concreto | ✅ (asumido — validación manual requerida) |
+| 19 | Especificidad objetual | ✅ 2 objetos concretos |
+| 20 | Sin promoción alcohol/tabaco/drogas | ⚠️ Posible mención — revisión manual |
+| 21 | Principios edificantes | ✅ |
+
+## Changelog de Autoría
