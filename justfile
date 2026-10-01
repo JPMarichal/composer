@@ -49,6 +49,27 @@ reset:
 git-push msg:
     git add -A; if ($?) { git status }; if ($?) { git commit -m "{{msg}}" }; if ($?) { git push }
 
+# ─── Obsidian ↔ pCloud ─────────────────────────────────────
+
+# Simula la sincronización Obsidian → P:\Canciones\letras (no copia nada)
+sync:
+    python scripts/sync_canciones.py
+
+# Sincroniza Obsidian → P:\Canciones\letras (copia nuevos/modificados, nunca borra)
+sync-apply:
+    python scripts/sync_canciones.py --apply
+
+# Simula la homologación del frontmatter en el vault de Obsidian
+fm-check:
+    python scripts/normalize_fm.py
+
+# Homologa el frontmatter (18 campos) en el vault; respalda originales primero
+fm-apply:
+    python scripts/normalize_fm.py --apply
+
+# Homologa frontmatter y luego sincroniza a pCloud
+publish: fm-apply sync-apply
+
 # ─── Ayuda ─────────────────────────────────────────────────
 
 default:
