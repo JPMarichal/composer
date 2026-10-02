@@ -88,6 +88,20 @@ fm-apply:
 # Homologa frontmatter y luego sincroniza a pCloud
 publish: fm-apply sync-apply
 
+# ─── bunny.net Storage (audio) ─────────────────────────────
+
+# Simula la subida de P:\Canciones\audio\{mp3,wav} a la zona jpmarichal-cancionero, subdirectorios mp3/ y wav/ (no sube nada)
+audio-sync:
+    python scripts/bunny_audio.py
+
+# Sube a bunny.net los mp3/wav nuevos o modificados (nunca borra en la zona)
+audio-sync-apply:
+    python scripts/bunny_audio.py --apply
+
+# Limpia de la raíz de la zona los mp3/wav que ya tienen copia idéntica (SHA256) en mp3/ o wav/
+audio-prune-root:
+    python scripts/bunny_audio.py --prune-root
+
 # ─── Template ──────────────────────────────────────────────
 
 # Genera un template de canción: just template "Mi canción" "Indie Folk"
