@@ -1,0 +1,32 @@
+{
+ "style": "Vertical dreamy hand-painted gouache illustration, soft focus, warm dusk palette of amber, rose and deep indigo, romantic mood, painterly texture, soft glow, no text, no hat. ",
+ "width": 720,
+ "height": 1280,
+ "scenes": [
+  {
+   "id": "s1_calle",
+   "seed": 1101,
+   "prompt": "Wide shot of a quiet central street at dusk in one-point perspective with the horizon high, one third down from the top of the image; old two-story buildings on both sides with warm lit windows; the building on the right is under construction: its upper floors rest on a row of thick, tall, square-section timber structural pillars standing on the sidewalk from the ground up to the overhanging floor above, like a covered walkway, with a heavy beam across their tops; a tiny young man in a dark suit and tie seen from behind walking along the sidewalk beside the pillars; street lamps glowing; key elements in the upper two thirds"
+  },
+  {
+   "id": "s2_grabando",
+   "seed": 1202,
+   "prompt": "Close-up of a tall, thick, square-section wooden structural pillar rising from the sidewalk to beyond the top edge of the frame and supporting a heavy beam above, seen from the side; only a young man's hand and forearm are visible, holding a small knife and carving a mark into the pillar's surface; wood shavings falling; the carved grooves glowing warm amber; blurred warm street lights behind; vertical composition, the pillar fills the left-center and runs past the top and bottom edges; not a tree stump, not a cut log"
+  },
+  {
+   "id": "s3_rostro",
+   "seed": 1303,
+   "prompt": "Close-up portrait of a happy young man about 20 years old, thick wavy dark hair, bare-headed, white shirt collar and dark suit jacket, a calm satisfied smile, warm golden light on his face, dreamy blurred street lights bokeh behind, face in the upper half"
+  },
+  {
+   "id": "s4_manos",
+   "seed": 1404,
+   "prompt": "Close-up of a young man's hand and a young woman's hand with fingers interlaced while walking, a dark suit sleeve and a pale sleeve, blurred warm bokeh of a dusk street behind, hands in the upper half, soft golden light"
+  },
+  {
+   "id": "s5_labios",
+   "seed": 1505,
+   "prompt": "Extreme close-up of a young woman's smiling lips and cheek, soft natural smile, warm golden light, dreamy soft focus, blurred warm bokeh background, subject in the upper half"
+  }
+ ]
+}

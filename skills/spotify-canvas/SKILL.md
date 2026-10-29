@@ -1,0 +1,124 @@
+---
+name: spotify-canvas
+description: Crear el Canvas de Spotify (video vertical en loop de ~8 s) de una canción a partir de su letra: imaginar la escena, generar una ilustración limpia con modelos locales (ComfyUI + z_image_turbo), animarla en código (luz, cámara, partículas) con loop matemáticamente perfecto y validar los requisitos de Spotify. Activar cuando se pida "canvas", "canvas de Spotify", "video loop para la canción" o un clip vertical corto para una canción del catálogo. Escrito para que cualquier agente (Claude, GPT, Gemini, local) lo ejecute con solo shell y lectura de archivos.
+---
+
+# Spotify Canvas desde la letra
+
+Resultado: un MP4 vertical, H.264, sin audio, en bucle, atractivo y aceptado por Spotify.
+Caso de referencia: "Los postes de la calle central" (`examples/`). El método final (sección 3) salió de un intento fallido (sección 7); no repetirlo.
+
+## 1. Requisitos de Spotify (qué es oficial y qué no)
+
+| Dato | Valor | Fuente |
+|---|---|---|
+| Aspecto | 9:16 vertical | Oficial |
+| Duración | 3–8 s | Oficial |
+| Formato | MP4 (o JPG) | Oficial |
+| Alto | "720–1080 px" | Oficial pero ambiguo |
+| Tamaño en MB | **No publicado** | Terceros dicen 8–200 MB, sin respaldo |
+
+Decisiones y por qué:
+- **1080×1920.** El texto oficial leído literal daría 576×1024, pero los creadores reportan que 720×1280 (mínimo) y 1080×1920 (recomendado) suben bien. Manda la práctica.
+- **7,958 s (191 frames a 24 fps), nunca 8,000 exactos.** Dos fuentes independientes reportan rechazo con 8,00 s.
+- **Tamaño ≤ 15 MB** (margen propio, no oficial; el caso de referencia pesó 3 MB). Hubo un reporte de 17,4 MB rechazado sin motivo claro.
+- **Sin pista de audio** (quitarla, no silenciarla), `yuv420p`, `+faststart`.
+- Si la subida web falla, probar la app móvil de Spotify for Artists. Los loops solo funcionan en las apps móviles.
+
+Política de contenido (si no, lo retiran): la imagen es el foco; sin ventas ni promoción; sin enlaces ni "síguenos"; sin logo de Spotify ni marcas; sin título ni nombre de artista (ya salen en Now Playing); sin voz cantada, cortes rápidos ni destellos.
+
+Fuentes: support.spotify.com (Canvas guidelines, content policy, fix-spotify-canvas-upload-error), artists.spotify.com/blog (10 tips, canvas-metrics-guide), artist.tools, makecanvas.me, calvinwest.com, renderforest.com.
+
+## 2. Qué hace atractivo un Canvas (aplicar siempre)
+
+- **Una idea visual, un movimiento principal, un reinicio intencional** (Renderforest).
+- **Arco completo, aunque sea de 8 s** (Spotify): un principio y un final, no una sola acción repetida. Un joven tallando un poste durante 8 s fue "aburridísimo".
+- **Movimiento suave**; sin cortes rápidos ni destellos. Funcionan: luz que se desplaza, empuje lento de cámara, partículas, humo, agua.
+- **Zona segura:** lo importante en la mitad superior y al centro; los controles tapan la mitad inferior y algunos teléfonos recortan los bordes.
+- **Sin texto.** El texto generado por IA se deforma.
+- **Rebote (adelante y atrás) solo si el movimiento se ve bien al revés.** Con luz y cámara sí; con manos, humo o personas no.
+- Coherencia con la portada y el perfil del artista; puede actualizarse con el tiempo.
+- Cifras de impacto de Spotify (>4× en guardados/añadidos a listas; "hasta 120 % más streams") son internas y máximas, no promesas.
+
+## 3. Método: IA para la ilustración fija, código para el movimiento
+
+**Por qué:** el video generativo de 5B en una GPU de 6 GB produce saltos y artefactos (cables que aparecen y desaparecen, manos deformes). Animar en código da bucle perfecto y cero artefactos, y tarda 1,5 min en vez de 10.
+
+### Paso 1 — Leer la letra y extraer fielmente la imagen
+1. Leer la letra completa (en este proyecto: `Obsidian Vault\Canciones\<título>.md`).
+2. **Interpretar cada palabra clave en su sentido de la letra, no el más común.** Error real: "postes" son "los pilares de una construcción" (la letra lo dice), no postes de luz; y el nombre se **graba**, no se cuelga como etiqueta. Si hay duda, preguntar al usuario.
+3. Elegir una imagen con arco: p. ej. una obra de pilares al anochecer que se ilumina uno a uno, hasta reiniciarse.
+4. Personajes: edad y rasgos explícitos ("about 20 years old, thick wavy dark hair", "bare-headed") y pequeños en cuadro (silueta de espaldas); evitar rostros y manos en primer plano.
+5. Guardar concepto y prompts en `canvas/<slug>.md`.
+
+### Paso 2 — Ilustración limpia
+Requisitos del encuadre (se descubrieron a base de fallos):
+- Vertical 9:16, estilo ilustración plana/gouache, **sin cables, sin texto, sin detalle fino** que luego no se pueda animar.
+- Perspectiva de un punto con el motivo principal (los pilares) en la parte media-alta: indicar en el prompt "horizon line one third down from the top, tall pillars rising to the top edge, wide ground in the lower two thirds". Sin esa instrucción, el modelo puso la acción en el tercio inferior (tapado por los controles).
+- Generar con `scripts/gen.py image --width 720 --height 1280 --prompt "..." --seed N`; **mirar la imagen** y repetir con otra `--seed` hasta que sea correcta (en el ejemplo, la 2.ª).
+
+### Paso 3 — Marcar las zonas a animar
+Mirar la imagen y anotar, para cada elemento (pilar), un rectángulo `[x0, x1, y0, y1]` en píxeles, **de cerca a lejos**, agrupado por lados. Crear `config.json` (ver `examples/postes.cfg.json` y el docstring de `scripts/animate_light.py`). Dibujar los rectángulos sobre la imagen con Pillow y revisarlos antes de renderizar; la máscara de gris los ajusta al elemento.
+
+### Paso 4 — Renderizar
+```
+D:\ComfyUI\.venv\Scripts\python.exe skills\spotify-canvas\scripts\animate_light.py config.json salida.mp4
+```
+(cualquier Python con numpy, Pillow y scipy; ffmpeg en el PATH). Genera 191 frames a 1080×1920 con: ola de luz ámbar que recorre los elementos de lejos a cerca (el "arco"), empuje de cámara que vuelve al inicio, respiración del horizonte, estrellas que titilan y brasas ascendentes. **Todo es periódico en el número de frames**, así que el último enlaza con el primero. Los trucos: fases enteras (`sin(2π·m·u)`), y partículas con alfa 0 en el punto de reinicio.
+
+### Paso 5 — Verificar
+- Hoja de contacto: `ffmpeg -i v.mp4 -vf "select='eq(n,0)+eq(n,50)+eq(n,100)+eq(n,150)',scale=360:640,tile=4x1" -frames:v 1 sheet.png` (los mosaicos se ven pegados; no confundir con el contenido). Mirar también un fotograma a tamaño completo.
+- Bucle: comparar la diferencia media entre el frame 190 y el 0 con la mediana entre frames consecutivos; deben ser del mismo orden (en el ejemplo, 0,77 vs 0,59).
+- `ffprobe`: 1080×1920, `h264`, `yuv420p`, 191 frames, 7,958 s, sin stream de audio, tamaño ≤ 15 MB.
+
+### Paso 6 — Entregar
+Enviar el MP4 al usuario para que lo vea. **Pedir confirmación antes de sobrescribir** un archivo existente en `P:\Canciones\audio\wav\love\assets\canvas\<Título>.mp4` (nombre = título de la canción).
+
+## 3b. Variante multiescena (onírica, para más engagement)
+
+Cuando se pida "multiescena" o se quiera más ritmo que un solo plano. Caso: "Los postes de la calle central" v2 (`examples/multiescena.*`).
+
+1. **Imaginar 4–5 planos que cuenten la letra**, de lo general a lo íntimo y de vuelta: calle (plano general) → acción clave en primer plano (grabar el pilar) → rostro → manos enlazadas → sonrisa → vuelve a la calle. Cada plano ≥ 1,5 s.
+2. **Disolvencias largas (≈16 frames) en vez de cortes**: son más oníricas y evitan lo que Spotify desaconseja (cortes rápidos, destellos). Spotify solo avala el corte duro; la disolvencia no está confirmada oficialmente y no se encontró ningún tutorial multiescena. Si el usuario quiere el camino seguro, usar menos planos y más largos.
+3. **Capas continuas que unan los planos**: bokeh y brasas flotantes, velo cálido y bloom constantes en todo el clip. Son periódicas, así que la costura del bucle (último plano → primero) no se nota.
+4. **Mantener coherencia visual** con un prefijo de estilo común en todos los prompts (`style` en `scenes.json`), paleta cálida y la misma descripción del personaje.
+5. Pipeline: `scenes.json` (prompts, semillas) → `python scripts/gen_scenes.py scenes.json <carpeta> metrics.csv` (solo genera lo que falta; para repetir una escena, borrar su PNG) → **mirar las 5 imágenes** → `render.json` (zoom, pan y halo por plano) → `python scripts/animate_scenes.py render.json salida.mp4` (~2,5 min).
+6. Cada imagen: lo importante en la mitad superior. Los planos cerrados (rostro, manos, labios) funcionan bien con ilustración pintada; los labios salen más fotográficos, el bloom y el velo cálido unifican el conjunto.
+7. **Verificar el bucle** comparando la diferencia en la costura con la de las demás disolvencias (deben ser del mismo orden; en el ejemplo, 4,2 vs 4–5). La diferencia mediana entre frames es mayor que en un plano único (1,6 vs 0,6) porque las disolvencias cambian toda la imagen.
+8. **Métricas:** registrar un `epoch,etapa` por hito (`gen_scenes.py` lo hace para las imágenes) y resumirlo en `canvas/metrics/`. Referencia: 11,3 min en total, de ellos 2,4 min de render y ≈ 1 min por imagen.
+
+Lección de fidelidad: la palabra **"postes"** de esta letra son "los pilares de una construcción" **en la calle**, no troncos cortados ni postes de luz. La escena debe mostrar pilares estructurales de madera (de suelo a viga) sosteniendo un edificio en obra, sobre la banqueta de la calle central. Un tocón o tronco cortado, o un poste de luz, es un error. Lo mismo con el vestuario: "disfrazado de traje y corbata" exige la **corbata visible en todos los planos donde aparezca el personaje**. En la v2 del Canvas el plano de grabado salió sin corbata porque el prompt solo decía "hand and forearm"; en planos cerrados de manos o torso, nombrar la prenda explícitamente (p. ej. "dark suit sleeve with a white cuff, a dark tie hanging into frame") y revisarla al mirar cada imagen. Antes de generar, traducir cada sustantivo clave de la letra a una descripción visual inequívoca y repetirla en los prompts (incluidas las negaciones: "not a tree stump, not a cut log").
+
+## 4. Requisitos del entorno (una sola vez)
+
+- GPU NVIDIA con CUDA (probado en RTX 3050 6 GB). ffmpeg/ffprobe y Python 3.
+- ComfyUI en `D:\ComfyUI` con `.venv` de uv; modelos enlazados desde `D:\myapps\ai-models\comfyui-models`: `diffusion_models/z_image_turbo_nvfp4.safetensors`, `text_encoders/qwen_3_4b_fp8_mixed.safetensors`, `vae/ae.safetensors`.
+- Arrancar el servidor y esperar a que responda; **detenerlo al terminar** para liberar la GPU:
+  ```
+  cd D:\ComfyUI && .venv\Scripts\python.exe main.py --listen 127.0.0.1 --port 8188 --lowvram
+  ```
+  (`--lowvram` es obligatorio con 6 GB; tras un reinicio del equipo el servidor hay que relanzarlo.) Tiempo de la ilustración: ~4 min a 720×1280.
+- Solo para la vía opcional del video generativo (sección 6): nodo ComfyUI-GGUF (`git clone https://github.com/city96/ComfyUI-GGUF` en `custom_nodes` + `uv pip install --python <python del venv> gguf`; el venv no trae pip), `unet/Wan2.2-TI2V-5B-Q4_K_M.gguf`, `text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors`, `vae/Wan2.2_VAE.pth`. Es código de terceros: pedir autorización antes de instalarlo.
+
+## 5. Checklist final
+
+- [ ] La escena respeta el sentido real de la letra (palabras clave bien interpretadas)
+- [ ] Tiene arco (principio → cambio → reinicio), un movimiento principal
+- [ ] 9:16, 1080×1920; 3–7,96 s (nunca 8,000 exactos); H.264 `yuv420p`; sin audio; ≤ 15 MB
+- [ ] Sin texto, logos ni promoción; lo importante arriba/centro
+- [ ] Bucle sin salto (diferencia del seam similar a la de frames consecutivos)
+- [ ] Revisado visualmente por el agente y aprobado por el usuario antes de sobrescribir nada
+
+## 6. Vía opcional: video generativo (solo para movimiento sutil)
+
+`scripts/gen.py video --image <png en ComfyUI/input> --prompt "..."` (Wan2.2 TI2V 5B, 97 frames a 448×800, ~9,5 min) y `scripts/make-canvas.ps1 -Clip <clip.mp4>` (rebote + 1080×1920 + 191 frames + validación). Usar solo para escenas con poco detalle y movimiento reversible (humo, agua, tela). **No** para personas ni escenas con cables, manos o texturas finas.
+
+## 7. Lecciones del intento fallido (v1)
+
+Un joven tallando un poste con navaja, animado con Wan2.2 y rebote, fue rechazado por el usuario: aburrido (una acción repetida, sin arco), con saltos y cables que aparecían y desaparecían, y además infiel a la letra (postes de luz y etiquetas en vez de pilares con el nombre grabado). Cambios: ilustración limpia sin cables, método de animación en código, arco de luz y lectura literal de la letra.
+
+## 8. Notas para el agente
+
+- Independiente del agente: solo hace falta shell y leer archivos; si el agente no es multimodal, pedir al usuario que apruebe la ilustración.
+- Efectos fuera del repositorio (instalar un nodo de terceros, escribir o sobrescribir en `P:`) requieren autorización del usuario.
+- Los límites de Spotify cambian: reconfirmar en `support.spotify.com/artists` (Canvas guidelines) antes de fijar cifras nuevas.

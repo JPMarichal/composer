@@ -65,6 +65,7 @@ Reglas no negociables. Incumplir cualquiera = canción rechazada.
 ## Skills
 
 - `skills/add-song/SKILL.md` — registrar canciones ya compuestas (letra + metadatos).
+- `skills/spotify-canvas/SKILL.md` — crear el Canvas de Spotify (video vertical en loop, mono o multiescena) desde la letra: ilustraciones con ComfyUI + animación en código + ffmpeg.
 - `.claude/skills/playlist-promotion/SKILL.md` — crear playlists promocionales Spotify.
 - `.claude/skills/playlist-outreach/SKILL.md` — generar DMs de outreach.
 - `.claude/skills/songcase-analysis/SKILL.md` — analizar canciones externas.
