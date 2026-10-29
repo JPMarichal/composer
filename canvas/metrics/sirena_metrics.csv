@@ -1,0 +1,11 @@
+epoch,stage
+1793258973,00_inicio_tarea
+1793259041,02_imagen_s1_galeon_65s
+1793259107,02_imagen_s2_marinero_65s
+1793259172,02_imagen_s3_sirena_65s
+1793259237,02_imagen_s4_manos_65s
+1793259302,02_imagen_s5_estrella_65s
+1793259302,03_imagenes_terminadas
+1793259328,04_inicia_render
+1793259498,05_render_terminado
+1793259510,06_entregado_en_P

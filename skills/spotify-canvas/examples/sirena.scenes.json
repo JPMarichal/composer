@@ -1,0 +1,16 @@
+{
+ "style": "Vertical dreamy hand-painted gouache illustration, soft focus, palette of deep teal, indigo and silver moonlight with warm amber lantern accents, romantic mystical mood, painterly texture, soft glow, no text. ",
+ "width": 720, "height": 1280,
+ "scenes": [
+  {"id": "s1_galeon", "seed": 2101,
+   "prompt": "Wide shot of an old wooden galleon with full billowing sails sailing alone on a perfectly calm forbidden sea at twilight, the ship in the upper-middle of the image, the horizon high one third down from the top, thin silver mist on the water, a violet and teal sky with the first stars, a small warm amber lantern glowing at the ship's stern, the water reflecting moonlight"},
+  {"id": "s2_marinero", "seed": 2202,
+   "prompt": "Close-up of a weathered adult sailor captain about 35 years old with a short dark beard and dark hair tied back, wearing a linen shirt open at the collar and a dark captain's coat, leaning on the ship's wooden rail with his eyes closed and a rapt peaceful expression as if hypnotized by a distant beautiful song, silver moonlight on his face, blurred sea and stars behind, face in the upper half"},
+  {"id": "s3_sirena", "seed": 2303,
+   "prompt": "Close-up of a beautiful young siren with long flowing wet dark hair rising from the glowing moonlit sea, seen from the shoulders up in gentle profile, singing softly with her eyes half closed, bioluminescent turquoise light on her skin, drops of water and glowing ripples around her, dreamy and tender, face in the upper half"},
+  {"id": "s4_manos", "seed": 2404,
+   "prompt": "Close-up of a sailor's weathered hand in a dark coat sleeve reaching down from a wooden ship rail to touch a delicate wet female hand rising from the glowing turquoise sea, fingertips almost touching, luminous ripples and drops of water, blurred moonlit night behind, hands in the upper half"},
+  {"id": "s5_estrella", "seed": 2505,
+   "prompt": "A single very bright north star shining above a calm silver-teal sea at night with a faint glowing reflection on the water, the silhouette of a small galleon with one warm amber lantern far away on the horizon, a few smaller stars, serene and hopeful, the star and ship in the upper half, the horizon high one third down from the top"}
+ ]
+}

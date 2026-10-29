@@ -10,11 +10,12 @@ render.json:
   "frames": 191, "fps": 24,             # 191 frames a 24 fps = 7.958 s
   "dissolve": 16,                       # frames de cada disolvencia (centrada en el límite entre planos)
   "seed": 7,
+  "particle_color": [1.0, 0.68, 0.30], "leak_color": [1.0, 0.55, 0.30],   # opcionales: color de bokeh/brasas y del velo
   "scenes": [                           # en orden de aparición; duran N/len(scenes) cada una
     {"id": "s1_calle",
      "zoom": [1.0, 1.08],               # zoom inicial y final durante el plano
      "pan": [[0.5, 0.42], [0.5, 0.38]], # centro de cámara (fracción de la imagen) al inicio y al final
-     "glow": {"x": 0.45, "y": 0.4, "r": 0.18, "amp": 0.6, "k": 2}}   # opcional: halo ámbar que late (k latidos)
+     "glow": {"x": 0.45, "y": 0.4, "r": 0.18, "amp": 0.6, "k": 2, "color": [1.0, 0.68, 0.3]}}   # opcional: halo que late (k latidos)
   ]
 }
 Requiere numpy, Pillow, scipy y ffmpeg en el PATH.
@@ -32,7 +33,9 @@ N, FPS, D = cfg.get("frames", 191), cfg.get("fps", 24), cfg.get("dissolve", 16)
 rng = np.random.default_rng(cfg.get("seed", 7))
 scenes = cfg["scenes"]; n = len(scenes); L = N / n
 folder = os.path.join(os.path.dirname(os.path.abspath(cfgp)), cfg.get("dir", "."))
-AMBER = np.array([1.0, 0.68, 0.30], np.float32)
+AMBER = np.array([1.0, 0.68, 0.30], np.float32)  # color por defecto del halo
+PCOL = np.array(cfg.get("particle_color", [1.0, 0.68, 0.30]), np.float32)  # bokeh y brasas
+LEAK = np.array(cfg.get("leak_color", [1.0, 0.55, 0.30]), np.float32)  # velo que barre
 yy, xx = np.mgrid[0:H, 0:W].astype(np.float32)
 
 for s in scenes:
@@ -66,7 +69,7 @@ def scene_frame(i, pos):
         gx = ((g["x"] * W) - x0) * z; gy = ((g["y"] * H) - y0) * z
         m = np.exp(-(((xx - gx) ** 2 + (yy - gy) ** 2) / (2 * (g["r"] * W * z) ** 2)))
         amp = g.get("amp", 0.5) * (0.6 + 0.4 * np.sin(2 * np.pi * g.get("k", 2) * pos / N))
-        fr = 1 - (1 - fr) * (1 - np.clip(m[..., None] * amp, 0, 1) * AMBER)
+        fr = 1 - (1 - fr) * (1 - np.clip(m[..., None] * amp, 0, 1) * np.array(g.get("color", AMBER), np.float32))
     return fr
 
 
@@ -114,15 +117,15 @@ for f in range(N):
     img = 1 - (1 - img) * (1 - np.clip(bloom * 0.7, 0, 1))
     # velo cálido que barre suavemente (periódico)
     leak = np.exp(-(((xx - W * (0.5 + 0.45 * np.sin(2 * np.pi * u))) / 260.0) ** 2)) * 0.09
-    img = 1 - (1 - img) * (1 - leak[..., None] * np.array([1.0, 0.55, 0.3], np.float32))
+    img = 1 - (1 - img) * (1 - leak[..., None] * LEAK)
     img = img * vig
     # bokeh y brasas continuos (alfa 0 en el reinicio => sin corte)
     for x, y, p, a_, m, r in zip(bk["x"], bk["y"], bk["p"], bk["a"], bk["m"], bk["r"]):
         k = (u + p) % 1.0
-        stamp(img, x + a_ * np.sin(2 * np.pi * m * k), y - 160 * k, r, 0.16 * np.sin(np.pi * k) ** 2, AMBER)
+        stamp(img, x + a_ * np.sin(2 * np.pi * m * k), y - 160 * k, r, 0.16 * np.sin(np.pi * k) ** 2, PCOL)
     for x, y, p, a_, m, r in zip(ep["x"], ep["y"], ep["p"], ep["a"], ep["m"], ep["r"]):
         k = (u + p) % 1.0
-        stamp(img, x + a_ * np.sin(2 * np.pi * m * k), y - 520 * k, r, 0.95 * np.sin(np.pi * k) ** 2, AMBER)
+        stamp(img, x + a_ * np.sin(2 * np.pi * m * k), y - 520 * k, r, 0.95 * np.sin(np.pi * k) ** 2, PCOL)
     enc.stdin.write((np.clip(img, 0, 1) * 255).astype(np.uint8).tobytes())
     if f % 20 == 0:
         print(f"{f}/{N}", flush=True)

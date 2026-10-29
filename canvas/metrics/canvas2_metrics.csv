@@ -15,3 +15,10 @@ epoch,stage
 1793258152,04_inicia_render
 1793258294,05_render_terminado
 1793258315,06_entregado_en_P
+1793258528,10_correccion_corbata_inicio
+1793258543,11_servidor_listo
+1793258608,02_imagen_s2_grabando_65s
+1793258622,12_corbata_imagen_lista_inicia_render
+1793258772,13_render_corregido_terminado
+1793258934,14_render_corregido_pan_derecha_terminado
+1793258942,15_p_reemplazado_corbata
