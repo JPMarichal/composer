@@ -1,0 +1,32 @@
+{
+ "style": "Vertical dreamy hand-painted gouache illustration, soft focus, palette of parched ochre, burnt amber and bleached white that turns to emerald and teal, longing hopeful tropical mood, painterly texture, soft glow, no text, people never show a visible face. ",
+ "width": 720,
+ "height": 1280,
+ "scenes": [
+  {
+   "id": "s1_valle_seco",
+   "seed": 4101,
+   "prompt": "Wide shot of a dry tropical valley in drought, a riverbed winding between hills with cracked mud and only a thin trickle of water, harsh white sun high in a pale sky, ochre dry grass, distant hills with dusty green jungle, the horizon one third down from the top, heat haze"
+  },
+  {
+   "id": "s2_tierra",
+   "seed": 4202,
+   "prompt": "Close-up of deeply cracked dry earth filling the lower half, and in the upper half a single small wilted drooping flower on a thin stem growing straight out of the cracked ground, nothing else, no trees and no palms, a few small birds frozen mid-flight in a pale hot sky above, dust in the air, harsh warm light"
+  },
+  {
+   "id": "s3_espera",
+   "seed": 4313,
+   "prompt": "A young man seen from behind in a white shirt with rolled sleeves standing on a wide plain of dry cracked mud and pale dry stones, the dried-up bed of a vanished stream stretching ahead of him, parched and empty, looking toward the far horizon, waiting, small in the frame in the upper-middle of the image, a grey mockingbird perched on a dry leafless branch at the left, hot ochre sky, dry yellow grass, the horizon one third down from the top, face not visible"
+  },
+  {
+   "id": "s4_regreso",
+   "seed": 4404,
+   "prompt": "A tiny woman in a light dress with long dark hair seen from far away and from behind, walking along a dirt road through the dry valley toward the viewer's left, above her a huge dark teal storm cloud opening, a curtain of rain falling behind her and the first raindrops darkening the dusty road, the horizon one third down from the top, face not visible"
+  },
+  {
+   "id": "s5_despertar",
+   "seed": 4505,
+   "prompt": "Close-up of wet dark earth with young green sprouts and a big leaf holding shining raindrops in the upper half, a small bird returning to its nest on a branch, a river with fresh flowing water blurred behind, emerald and teal light, mist"
+  }
+ ]
+}

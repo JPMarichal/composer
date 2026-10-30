@@ -1,0 +1,32 @@
+{
+ "style": "Vertical dreamy hand-painted gouache illustration, soft focus, palette of soft sky blue, fresh spring green, pale rose and warm gold, tender hopeful new-beginning mood, painterly texture, soft glow, no text, no snow, no ice, no winter, people never show a visible face. ",
+ "width": 720,
+ "height": 1280,
+ "scenes": [
+  {
+   "id": "s1_cielo",
+   "seed": 3101,
+   "prompt": "Wide shot of golden morning sunlight breaking through parting clouds in a soft blue sky above the tiled rooftops and chimneys of an old town after rain, wet roofs shining, a few fresh green trees, the sky and rooftops in the upper two thirds, the horizon one third down from the top, tender and hopeful"
+  },
+  {
+   "id": "s2_espera",
+   "seed": 3202,
+   "prompt": "A young woman seen from behind in a light cardigan, standing in the open doorway of a house with warm golden light inside, looking out at a quiet old town street in the morning with flowering potted plants by the door, waiting, small in the frame in the upper-middle of the image, face not visible"
+  },
+  {
+   "id": "s3_renuevo",
+   "seed": 3303,
+   "prompt": "Close-up of a tiny bright green sprout pushing up out of dark damp earth with morning dew drops on its leaves, soft golden dawn light, blurred green garden behind, the sprout in the upper half"
+  },
+  {
+   "id": "s4_abrazo",
+   "seed": 3404,
+   "prompt": "A man in a dark jacket and a woman in a light dress embracing tightly seen from behind and slightly from the side, her head resting on his shoulder, their faces completely hidden by her hair, a quiet old town street with a flowering tree and soft golden morning light behind, the couple in the upper half"
+  },
+  {
+   "id": "s5_velar",
+   "seed": 3515,
+   "prompt": "A stone house at deep night seen from outside under a dark navy sky full of bright stars, a crescent moon, one window glowing warm gold, inside the window the dark silhouette of a man sitting beside a bed where someone sleeps under a blanket, climbing green vines on the wall and pink flowers in the dark garden, the house in the upper half, no faces visible"
+  }
+ ]
+}

@@ -5,6 +5,8 @@ description: Crear el Canvas de Spotify (video vertical en loop de ~8 s) de una 
 
 # Spotify Canvas desde la letra
 
+> **Estado (2026-10-29): línea de trabajo en pausa.** Ver `canvas/ESTADO.md` para lo entregado (5 Canvas), lo pendiente y cómo retomar.
+
 Resultado: un MP4 vertical, H.264, sin audio, en bucle, atractivo y aceptado por Spotify.
 Caso de referencia: "Los postes de la calle central" (`examples/`). El método final (sección 3) salió de un intento fallido (sección 7); no repetirlo.
 

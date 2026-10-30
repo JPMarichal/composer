@@ -1,0 +1,32 @@
+{
+ "style": "Vertical hand-drawn charcoal line drawing with soft translucent watercolor washes on rough textured paper, visible charcoal strokes and paper grain, a romantic melancholic palette of dusty rose, soft teal-blue, warm ochre and golden light with glowing ember-orange accents, bittersweet and tender mood, sad but gentle and beautiful, not gloomy and not dark, luminous and airy, no text, people never show a visible face. ",
+ "width": 720,
+ "height": 1280,
+ "scenes": [
+  {
+   "id": "s1_basurero",
+   "seed": 5121,
+   "prompt": "Imposing wide view from the rim looking down into a vast hollow valley completely covered with heaps of trash, an enormous landfill like the great dumps on the outskirts of a big city, rolling mountains of refuse stretching to the horizon, many fires burning continuously across the hollow with tall columns of smoke rising and glowing orange flames among the heaps, flocks of birds circling, tiny distant figures, a vast sky of rose, gold and soft teal in the upper half, the horizon one third down from the top, grand, monumental and awe-inspiring but luminous, not dark"
+  },
+  {
+   "id": "s2_hoguera",
+   "seed": 5232,
+   "prompt": "Large close-up detail of two hands in the upper half of the image, sleeves of a dusty-rose coat, opening and letting fall a wilted white tuberose, a thin golden ring, an old calendar page and a cracked piece of a vinyl record, the objects tumbling through the air downward, far below them in the lower part a vast landfill hollow burning with many glowing orange fires and rising smoke columns, warm firelight on the hands, soft rose and teal dusk sky, only hands visible, no face, tender and monumental"
+  },
+  {
+   "id": "s3_objetos",
+   "seed": 5333,
+   "prompt": "Medium shot of the rim of a huge landfill hollow at dusk, keepsakes scattered on the dusty ground at the edge at different distances: a cracked vinyl record leaning on a stone, a thin golden ring glinting, a white dress draped over a dead branch, a small white wilted tuberose fallen on its side, an old calendar page, and behind them the enormous hollow full of trash with many fires burning and tall smoke columns under a rose, gold and teal sky, objects spread through the upper two thirds with depth, bittersweet, romantic and monumental"
+  },
+  {
+   "id": "s4_estacion",
+   "seed": 5404,
+   "prompt": "An empty railway station platform at dusk with a lone figure seen from behind sitting on a wooden bench looking down the empty tracks, a quiet crossroads of rails and an unlabeled signpost, a warm orange lamp glowing, a soft rose and teal evening sky, the figure and bench in the upper-middle of the image, the horizon one third down from the top, face not visible, romantic and wistful"
+  },
+  {
+   "id": "s5_barranca",
+   "seed": 5525,
+   "prompt": "Dramatic low-angle foreshortened view from below looking up at a man standing on firm ground, shot from the ground up so he looms against a huge luminous dawn sky of gold, peach and rose, warm sunrise light catching his chin, jaw and shoulders, his face growing deeper in soft shadow toward the top so his features are not fully revealed, only his gaze glinting beneath the shadow as he looks into the distance toward the horizon, imposing and tender, mist at his feet, the figure in the upper-middle of the image"
+  }
+ ]
+}

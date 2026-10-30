@@ -1,0 +1,7 @@
+{
+  "image": "ya-no-te-dejare-base.png", "frames": 191, "fps": 24,
+  "groups": {
+    "ground": [[10, 710, 640, 1250], [30, 690, 670, 1150], [50, 660, 700, 1050]]
+  },
+  "origin": [360, 1100], "push": 0.045, "sky_y": 480, "seed": 7
+}
