@@ -11,8 +11,11 @@ render.json:
   "dissolve": 16,                       # frames de cada disolvencia (centrada en el límite entre planos)
   "seed": 7,
   "particle_color": [1.0, 0.68, 0.30], "leak_color": [1.0, 0.55, 0.30],   # opcionales: color de bokeh/brasas y del velo
+  "transitions": "auto",                # opcional: elige transiciones variadas automáticamente (ver CYCLE); si no, "dissolve"
+  "transition_default": "dissolve",      # opcional: la que se usa si un plano no declara la suya
   "scenes": [                           # en orden de aparición; duran N/len(scenes) cada una
     {"id": "s1_calle",
+     "transition": "zoom",              # cómo pasa AL SIGUIENTE plano: dissolve | zoom | blur | light | wipe_right | wipe_left | wipe_up | push_up | push_left
      "zoom": [1.0, 1.08],               # zoom inicial y final durante el plano
      "pan": [[0.5, 0.42], [0.5, 0.38]], # centro de cámara (fracción de la imagen) al inicio y al final
      "glow": {"x": 0.45, "y": 0.4, "r": 0.18, "amp": 0.6, "k": 2, "color": [1.0, 0.68, 0.3]}}   # opcional: halo que late (k latidos)
@@ -73,6 +76,63 @@ def scene_frame(i, pos):
     return fr
 
 
+# --- transiciones entre planos: la del plano i es la que lo une con el siguiente (el último, con el primero) ---
+CYCLE = ["zoom", "wipe_right", "blur", "push_up", "light", "wipe_up", "push_left", "dissolve"]
+AUTO = cfg.get("transitions") == "auto"
+_off = cfg.get("seed", 7) % len(CYCLE)  # canciones de un álbum con seeds distintas arrancan en transiciones distintas
+
+
+def kind(i):
+    t = scenes[i].get("transition")
+    if t is None:
+        t = CYCLE[(_off + i) % len(CYCLE)] if AUTO else cfg.get("transition_default", "dissolve")
+    return t
+
+
+def zoom_img(a, z):
+    bw, bh = W / z, H / z
+    im = Image.fromarray((np.clip(a, 0, 1) * 255).astype(np.uint8))
+    return np.asarray(im.resize((W, H), Image.BICUBIC, box=((W - bw) / 2, (H - bh) / 2, (W + bw) / 2, (H + bh) / 2)), np.float32) / 255.0
+
+
+def blur_img(a, sigma):
+    if sigma < 0.3:
+        return a
+    sm = a[::4, ::4]
+    return np.kron(np.stack([gaussian_filter(sm[..., k], sigma / 4) for k in range(3)], -1), np.ones((4, 4, 1), np.float32))[:H, :W]
+
+
+def transition(i, t, A, B):
+    """A = plano que sale, B = plano que entra, t = avance suavizado 0..1."""
+    k = kind(i)
+    if k == "zoom":  # zoom cruzado: A se acerca mientras se funde, B llega desde cerca
+        return (1 - t) * zoom_img(A, 1 + 0.30 * t) + t * zoom_img(B, 1 + 0.30 * (1 - t))
+    if k == "blur":  # el plano sale de foco y el siguiente se enfoca
+        m = 18.0
+        return (1 - t) * blur_img(A, m * t) + t * blur_img(B, m * (1 - t))
+    if k == "light":  # swell suave de luz cálida (nunca destello brusco)
+        w = 0.5 * np.sin(np.pi * t) ** 2
+        return ((1 - t) * A + t * B) * (1 - w) + np.array([1.0, 0.93, 0.80], np.float32) * w
+    if k.startswith("wipe"):  # cortina de borde suave
+        edge = 320.0
+        if k == "wipe_up":
+            pos = H - t * (H + edge) + edge  # el borde sube
+            m = np.clip((yy[:, :1] - (pos - edge)) / edge, 0, 1)[..., None]
+        else:
+            pos = t * (W + edge)
+            xs = xx[:1, :] if k != "wipe_left" else (W - xx[:1, :])
+            m = np.clip((pos - xs) / edge, 0, 1)[..., None]
+        return (1 - m) * A + m * B
+    if k.startswith("push"):  # B empuja a A
+        out = np.empty_like(A)
+        if k == "push_up":
+            o = int(round(t * H)); out[:H - o] = A[o:]; out[H - o:] = B[:o]
+        else:
+            o = int(round(t * W)); out[:, :W - o] = A[:, o:]; out[:, W - o:] = B[:, :o]
+        return out
+    return (1 - t) * A + t * B  # dissolve
+
+
 # capas continuas (periódicas)
 NB = 14
 bk = dict(x=rng.uniform(0.05, 0.95, NB) * W, y=rng.uniform(0.1, 0.9, NB) * H, p=rng.uniform(0, 1, NB),
@@ -103,9 +163,9 @@ for f in range(N):
     u = f / N
     c = int(f // L); dp = f - c * L; dn = (c + 1) * L - f
     if dp < D / 2:
-        a = smooth((dp + D / 2) / D); img = a * scene_frame(c, f) + (1 - a) * scene_frame((c - 1) % n, f)
+        a = smooth((dp + D / 2) / D); img = transition((c - 1) % n, a, scene_frame((c - 1) % n, f), scene_frame(c, f))
     elif dn <= D / 2:
-        b = smooth((dn + D / 2) / D); img = b * scene_frame(c, f) + (1 - b) * scene_frame((c + 1) % n, f)
+        b = smooth((dn + D / 2) / D); img = transition(c, 1 - b, scene_frame(c, f), scene_frame((c + 1) % n, f))
     else:
         img = scene_frame(c, f)
     # brillo onírico: bloom de las luces + enfoque suave
