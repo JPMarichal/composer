@@ -61,4 +61,4 @@ Este video usa contenido generado o alterado con IA.
 ## Pendientes para el autor
 - Revisar los fotogramas en `P:\Canciones\audio\wav\love\assets\fotogramas\yo-siento-amor-infinito\` (puerta 2 diferida porque estuvo ausente).
 - Aportar la historia de la canción para la descripción.
-- Montar en Camtasia según la tabla y alinear a oído con la letra; generar `.srt` (requiere `stable-ts`, no instalado).
+- Montar en Camtasia según la tabla; importar `letra.srt` (ya generado con `stable-ts`; el usuario comprobó que encaja bien con el audio).

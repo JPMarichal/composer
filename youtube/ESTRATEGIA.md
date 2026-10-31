@@ -42,7 +42,7 @@ Camtasia: no encontré documentación verificable de ajustes de exportación; us
 ## Ahorro de tokens: qué delegar
 | Tarea | Quién | Nota |
 |---|---|---|
-| Alinear letra con audio → SRT | local: `stable-ts` (forced alignment) con la letra conocida | Separar voz primero si hay mucha instrumentación; revisar a ojo 1 vez |
+| Alinear letra con audio → SRT | local: `stable-ts` (forced alignment) con la letra conocida | Separar voz primero si hay mucha instrumentación (probado sin separar: encaja); guardar el .srt en UTF-8 con BOM para Camtasia (`scripts/align-lyrics.py`) |
 | Cortes al pulso / mapa de secciones | local: librosa (ya está `just audio-analyze`) | Dar a Claude solo la tabla de tiempos |
 | Primer borrador de prompts por escena | local: `mistral:7b` o `gemma4` con el prefijo de estilo fijo | Claude solo revisa el resultado (puerta 1) |
 | Imágenes | local: ComfyUI z_image_turbo ≈ 65 s c/u → 16 imágenes ≈ 17 min | 0 tokens de Claude |
