@@ -1,0 +1,77 @@
+{
+ "style": "Wide cinematic layered paper-cut diorama illustration, handcrafted cut-paper layers with soft shadows between them, warm backlight glowing through the paper, subtle paper texture, tender luminous romantic and serene mood, no text, people never show a visible face. ",
+ "width": 1280,
+ "height": 720,
+ "scenes": [
+  {
+   "id": "01_prado_manana",
+   "seed": 6101,
+   "prompt": "Palette of fresh spring green, pale gold and sky blue. A wide meadow of wildflowers on layered rolling paper hills at sunrise, a gentle breeze lifting petals, a few butterflies, one small blossoming almond tree on the middle hill, golden light, the horizon about 45 percent down from the top, the lower third is soft green meadow with very little detail and low contrast"
+  },
+  {
+   "id": "02_brisa",
+   "seed": 6202,
+   "prompt": "Palette of fresh green, poppy red and warm gold. A field of tall grasses and red poppies bending in the breeze made of layered paper strips, drifting petals and dandelion seeds in the air, a low golden sun on the right, cut-paper clouds, the lower third is calm grass with very little detail"
+  },
+  {
+   "id": "03_flor_lluvia",
+   "seed": 6313,
+   "prompt": "Palette of fresh green, pink and silver-blue. A single large pink paper flower with many layered petals and a green stem and leaves in close view, filling the upper two thirds, cut-paper raindrops falling around it and glistening on its petals while a sunbeam shines through the rain, a soft blurred green background, the lower third is calm green leaves with very little detail"
+  },
+  {
+   "id": "04_arbol_amanecer",
+   "seed": 6404,
+   "prompt": "Palette of gold and blush pink. One single large flowering almond tree with white and pink blossoms standing on a rounded paper hill, golden sunrise glowing behind layered cut-paper clouds, petals floating in the air, the tree centered in the upper two thirds, the lower third is calm grass with very little detail"
+  },
+  {
+   "id": "05_sueno",
+   "seed": 6505,
+   "prompt": "Palette of lavender, soft blue and warm gold. A small sleeping figure seen from above lying in a meadow of flowers with the face turned away and not visible, above it floating paper petals gathering into the gentle outline of another person's silhouette, a night sky with paper stars, the lower third is calm dark meadow with very little detail"
+  },
+  {
+   "id": "06_despertar",
+   "seed": 6606,
+   "prompt": "Palette of peach, pale gold and cream. Morning light entering through an open window with paper curtains, a person seen from behind as a silhouette sitting up in bed looking at the window, petals drifting in the light, a blossoming branch at the window, the lower third is calm cream bed linen with very little detail, no face visible"
+  },
+  {
+   "id": "07_arbol_lluvia",
+   "seed": 6707,
+   "prompt": "Palette of fresh green and silver. The same big flowering almond tree on its paper hill under a soft light rain with sunshine breaking through, cut-paper rain strands, shining blossoms, small birds in its branches, the tree in the upper two thirds, the lower third is calm wet grass with very little detail"
+  },
+  {
+   "id": "08_desierto",
+   "seed": 6808,
+   "prompt": "Palette of warm ochre, sand and amber. A wide golden desert of layered paper dunes under a pale peach sky, a tiny green sprout with two leaves in the middle ground, long soft shadows, the horizon about 45 percent down from the top, the lower third is calm smooth sand with very little detail"
+  },
+  {
+   "id": "09_brote_flor",
+   "seed": 6909,
+   "prompt": "Palette of amber, gold and fresh green. Close view of cracked dry earth where a green sprout opens into a small bright flower, cut-paper dunes glowing behind it, warm backlight, the flower in the upper two thirds, the lower third is calm sand with very little detail"
+  },
+  {
+   "id": "10_ave_atardecer",
+   "seed": 7010,
+   "prompt": "Palette of rose, coral and lavender. A small songbird singing on a blossoming branch at sunset in close view, pink and lavender paper clouds, a glowing sun disc, the branch and bird in the upper two thirds, the lower third is calm soft sky with very little detail"
+  },
+  {
+   "id": "11_ave_horizonte",
+   "seed": 7111,
+   "prompt": "Palette of rose, lavender and gold. A small bird flying toward a glowing horizon over a sea of layered paper clouds, an endless horizon, the bird small in the upper-middle, the sun low, the lower third is calm soft clouds with very little detail"
+  },
+  {
+   "id": "12_arbol_atardecer",
+   "seed": 7222,
+   "prompt": "Palette of rose, coral and lavender. The same single large flowering almond tree with small white and pale pink blossoms (not roses, not large flowers) on its rounded paper hill at dusk, a rose and lavender sky of layered paper clouds, a few petals floating, the tree centered in the upper two thirds, the lower third is calm grass with very little detail"
+  },
+  {
+   "id": "13_arbol_noche",
+   "seed": 7313,
+   "prompt": "Palette of deep indigo and gold. The same single large flowering almond tree on its paper hill at night under a deep indigo sky full of golden paper stars, fireflies glowing around it, blossoms softly lit, the tree in the upper two thirds, the lower third is calm dark grass with very little detail"
+  },
+  {
+   "id": "14_cierre",
+   "seed": 7414,
+   "prompt": "Palette of deep indigo and gold. A distant view of the single flowering tree on a far hill under an endless sky of golden paper stars, a calm quiet horizon, very restful, the tree small in the upper-middle, the lower third is calm dark ground with very little detail"
+  }
+ ]
+}

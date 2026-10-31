@@ -93,8 +93,9 @@ def analyze_chunk(y, sr, hop_length, n_fft):
     # BPM
     onset_env = librosa.onset.onset_strength(y=y, sr=sr, hop_length=hop_length,
                                               n_fft=n_fft, aggregate=np.median)
-    tempo = librosa.beat.tempo(onset_envelope=onset_env, sr=sr, hop_length=hop_length, aggregate=np.median)
-    tempo = float(tempo) if hasattr(tempo, '__iter__') else float(tempo)
+    _tempo_fn = getattr(librosa.feature, "tempo", None) or librosa.beat.tempo  # librosa >= 1.0 movió tempo a feature
+    tempo = _tempo_fn(onset_envelope=onset_env, sr=sr, hop_length=hop_length, aggregate=np.median)
+    tempo = float(np.atleast_1d(tempo)[0])
     res['bpm'] = round(tempo, 1)
 
     beats = librosa.beat.beat_track(onset_envelope=onset_env, sr=sr, hop_length=hop_length)[1]

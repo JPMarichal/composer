@@ -26,7 +26,7 @@ Documentos hermanos (leer antes de trabajar):
 
 ### 0. Ubicaciones y datos
 - Letra: `C:\Users\jpmar\OneDrive\Documents\Obsidian Vault\Canciones\<Título>.md`. Ruta directa: **no buscar en el disco**; si el nombre no coincide, listar solo ese directorio.
-- Audio maestro (WAV) para tiempos: pedirlo al usuario o ver `P:\Canciones\audio\wav\...`. Mapa de secciones y pulso: `just audio-analyze "archivo"` (librosa); pasar a Claude solo la tabla de tiempos.
+- Audio maestro (WAV): `P:\Canciones\audio\wav\love\<Título>.wav` (ruta directa). Mapa de pulso y secciones con librosa, que vive en un entorno aparte, `D:\myapps\audio-venv` (el Python del sistema no lo tiene): `D:\myapps\audio-venv\Scripts\python.exe scripts/audio-sections.py "<wav>" [n_secciones]` imprime duración, tempo, compás y una tabla de secciones; `just audio-analyze "<wav>"` ya usa ese entorno. Para repartir cortes, ajustar cada cambio de imagen al pulso más cercano; pasar a Claude solo la tabla de tiempos. Si el entorno falta: `uv venv D:\myapps\audio-venv --python 3.12` y `uv pip install --no-cache --python D:\myapps\audio-venv\Scripts\python.exe librosa soundfile` (tras un reinicio brusco la caché de uv puede quedar corrupta; `--no-cache` lo evita). Sin alineación letra-audio (`stable-ts` no instalado) el mapeo de escenas a versos es aproximado: dilo en el plan.
 - Fotogramas para aprobación: `P:\Canciones\audio\wav\love\assets\fotogramas\<slug>\`. Portada y miniatura finales: `P:\Canciones\audio\wav\love\assets\youtube\<slug>\`. Trabajo: `youtube/<slug>/`.
 
 ### 1. Concepto (puerta 1: aprobar antes de generar)
@@ -57,7 +57,7 @@ Documentos hermanos (leer antes de trabajar):
 - b) **Canal principal de revisión = la carpeta, no el chat:** copiar los PNG aprobados por la autorrevisión y `hoja.jpg` a `P:\...\fotogramas\<slug>\` y decirle la ruta al usuario, para que revise con independencia de la interfaz de la IA. Esperar su visto bueno: **no pasar al montaje sin él**.
 
 ### 4. Portada y miniatura
-`python youtube/cover.py <imagen.png> "<Título>" <carpeta_salida> [--author JPMarichal]` genera `portada_1920x1080.png` y `miniatura_1280x720.png`. Zonas seguras: 12 % superior y 22 % inferior libres, márgenes laterales ≥ 8 %, título centrado al 58 %. Elegir la escena de mayor contraste; miniatura con ≤ 3–5 palabras. El usuario aprueba antes de publicar.
+`python youtube/cover.py <imagen.png> "<Título>" <carpeta_salida> [--author JPMarichal]` genera `portada_1920x1080.png` y `miniatura_1280x720.png`. Zonas seguras: 12 % superior y 22 % inferior libres, márgenes laterales ≥ 8 %, título centrado al 58 %. Elegir una escena **oscura o con el sujeto fuera del centro**: el título se dibuja centrado y tapa lo que haya ahí, y el nombre del autor no se lee sobre fondos claros (en "Yo siento amor infinito por ti" el amanecer fallaba y la escena nocturna funcionó). Revisar siempre portada y miniatura a la vista. Miniatura con ≤ 3–5 palabras. El usuario aprueba antes de publicar.
 
 ### 5. Montaje (fuera de este skill; ver `youtube/CAMTASIA.md`)
 - Proyecto 1920×1080 a 24 fps; importar el **WAV maestro**. Cada imagen a 1920×1080 con zoom máximo ≈ 110 %, alternando zoom-in, zoom-out y panorámica izquierda/derecha (no repetir el mismo movimiento en planos consecutivos).
@@ -76,3 +76,6 @@ Título "Canción – Artista"; descripción con párrafo inicial, letra complet
 - Confirmar duración real y secciones de "Trae contigo la lluvia" con el audio.
 - Decidir con el usuario "con letra" o "sin letra" para la siguiente canción y comparar en Studio.
 - El resto del repertorio se publica por etapas; cada canción nueva repite este flujo con un estilo distinto.
+
+## Prueba del flujo: "Yo siento amor infinito por ti" (2026-10-30)
+Primera canción hecha con este skill, de forma autónoma por ausencia del usuario (puertas 1 y 2 diferidas: concepto autoaprobado, fotogramas guardados para su revisión). Resultado en `youtube/yo-siento-amor-infinito/`: `PLAN.md` (tabla de cortes, movimientos, transiciones, metadatos borrador), `scenes.json`, `imgs/` (14 escenas), `hoja.jpg`, `cover/`. Estilo propio de la canción: diorama de papel recortado en capas, arco de color verde/oro → plata → ocre → rosa/lavanda → índigo, motivo del almendro en flor. La autorrevisión con hojas de contacto de 6 imágenes detectó 2 fallos (flor ausente, árbol con rosas que rompía el motivo) que se regeneraron antes de guardar. 14 imágenes + 2 regeneradas ≈ 16 min.

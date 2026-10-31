@@ -219,7 +219,7 @@ songcase artist song:
 # ─── Audio Metadata ─────────────────────────────────────────
 
 # Python para audio-meta (usa el Python del sistema con librosa instalado)
-pyaudio := "python"
+pyaudio := "D:/myapps/audio-venv/Scripts/python.exe"
 
 # Busca metadata de una canción via Deezer: just deezer "Blinding Lights" "The Weeknd"
 deezer song artist="":
