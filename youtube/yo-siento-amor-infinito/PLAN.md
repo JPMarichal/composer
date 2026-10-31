@@ -1,25 +1,27 @@
 # Plan de montaje — "Yo siento amor infinito por ti" (prueba del flujo de imágenes)
 
-Audio: `P:\Canciones\audio\wav\love\Yo siento amor infinito por ti.wav` (243,2 s = 4:03; tempo ≈ 117,5 BPM; compás ≈ 2,04 s). Cortes ajustados al pulso más cercano con `scripts/audio-sections.py` (librosa).
+Audio: `P:\Canciones\audio\wav\love\Yo siento amor infinito por ti.wav` (243,2 s = 4:03; tempo ≈ 117,5 BPM; compás ≈ 2,04 s). Cortes alineados con la letra (`letra.srt`, `scripts/align-lyrics.py`) y ajustados al pulso con librosa.
 
-**Aviso:** el reparto de escenas es en partes iguales (≈ 17,3 s ≈ 8,5 compases) porque no hay alineación letra-audio (falta `stable-ts`). Las escenas están pensadas por sección de la letra; **ajustar a oído en Camtasia** para que el árbol de los coros caiga en cada estribillo. Los primeros 15 s ya traen movimiento (zoom-in desde el cuadro 0).
+**Alineación real:** los cortes salen de `letra.srt` (stable-ts, modelo medium, sobre la mezcla completa) ajustados al pulso más cercano con librosa. Los versos (19–140 s) quedaron bien alineados; en los estribillos finales (140–243 s) los tiempos de cada renglón no son fiables (hay interludios instrumentales y el mismo renglón se repite 12 veces), así que ahí se usaron los cambios de sección detectados en el audio. Escuchar una vez con la tabla y mover a oído lo que haga falta.
 
-| # | Escena | Entra | Sale | Dur. | Movimiento | Transición hacia la siguiente |
-|---|---|---|---|---|---|---|
-| 1 | `01_prado_manana` | 0:00.0 | 0:17.2 | 17.2 s | zoom-in lento | disolvencia larga |
-| 2 | `02_brisa` | 0:17.2 | 0:34.9 | 17.6 s | pan derecha→izquierda | disolvencia larga |
-| 3 | `03_flor_lluvia` | 0:34.9 | 0:52.3 | 17.5 s | zoom-out | zoom cruzado (flor → árbol) |
-| 4 | `04_arbol_amanecer` | 0:52.3 | 1:09.3 | 17.0 s | zoom-in lento | desenfoque (entra el sueño) |
-| 5 | `05_sueno` | 1:09.3 | 1:26.8 | 17.5 s | pan izquierda→derecha | disolvencia larga |
-| 6 | `06_despertar` | 1:26.8 | 1:44.3 | 17.5 s | zoom-out | cortina suave hacia la derecha (llega la mañana) |
-| 7 | `07_arbol_lluvia` | 1:44.3 | 2:01.8 | 17.5 s | zoom-in | disolvencia larga |
-| 8 | `08_desierto` | 2:01.8 | 2:18.8 | 17.0 s | pan derecha→izquierda | zoom cruzado (del desierto al brote) |
-| 9 | `09_brote_flor` | 2:18.8 | 2:36.3 | 17.5 s | zoom-in lento | disolvencia larga |
-| 10 | `10_ave_atardecer` | 2:36.3 | 2:53.9 | 17.5 s | pan izquierda→derecha | empuje lento hacia arriba (el ave se eleva) |
-| 11 | `11_ave_horizonte` | 2:53.9 | 3:10.9 | 17.0 s | zoom-out | disolvencia larga |
-| 12 | `12_arbol_atardecer` | 3:10.9 | 3:28.4 | 17.6 s | zoom-in | desenfoque (cae la noche) |
-| 13 | `13_arbol_noche` | 3:28.4 | 3:45.7 | 17.2 s | zoom-out | disolvencia muy lenta (cierre) |
-| 14 | `14_cierre` | 3:45.7 | 4:03.2 | 17.5 s | zoom-out muy lento | — (fin) |
+| # | Escena | Entra | Sale | Dur. | Qué dice la letra en ese tramo | Movimiento | Transición hacia la siguiente |
+|---|---|---|---|---|---|---|---|
+| 1 | `01_prado_manana` | 0:00.0 | 0:26.6 | 26.6 s | intro; «Más de una vez… te encontré entre la naturaleza» | zoom-in lento | disolvencia larga |
+| 2 | `02_brisa` | 0:26.6 | 0:31.2 | 4.6 s | «en la brisa suave» | pan derecha→izquierda | disolvencia corta |
+| 3 | `03_flor_lluvia` | 0:31.2 | 0:37.4 | 6.2 s | «en cada flor, en cada lluvia, en cada ave» | zoom-out | zoom cruzado (flor → árbol) |
+| 4 | `04_arbol_amanecer` | 0:37.4 | 0:52.9 | 15.5 s | estribillo 1 | zoom-in lento | desenfoque (entra el sueño) |
+| 5 | `05_sueno` | 0:52.9 | 0:57.5 | 4.6 s | «te he visto al soñar» | pan izquierda→derecha | disolvencia |
+| 6 | `06_despertar` | 0:57.5 | 1:10.4 | 12.9 s | «te he rencontrado al despertar… sueño despierto» | zoom-out | cortina suave a la derecha |
+| 7 | `07_arbol_lluvia` | 1:10.4 | 1:44.8 | 34.4 s | estribillo 2 + interludio instrumental | zoom-in muy lento | disolvencia larga |
+| 8 | `08_desierto` | 1:44.8 | 1:53.1 | 8.3 s | «se agolpa el secreto… en cada desierto» | pan derecha→izquierda | zoom cruzado (del desierto al brote) |
+| 9 | `09_brote_flor` | 1:53.1 | 2:01.8 | 8.7 s | «brote oculto… cada pieza de mi naturaleza» | zoom-in lento | disolvencia |
+| 10 | `10_ave_atardecer` | 2:01.8 | 2:09.1 | 7.3 s | «en cada tarde escucha al ave» | pan izquierda→derecha | empuje lento hacia arriba (el ave se eleva) |
+| 11 | `11_ave_horizonte` | 2:09.1 | 2:19.9 | 10.8 s | «mi amor te susurra… más allá de la tumba» | zoom-out | disolvencia larga |
+| 12 | `12_arbol_atardecer` | 2:19.9 | 3:04.7 | 44.8 s | estribillos 3 a 5 | zoom-in | desenfoque (cae la noche) |
+| 13 | `13_arbol_noche` | 3:04.7 | 3:46.2 | 41.5 s | estribillos 6 a 8 | zoom-out | disolvencia muy lenta (cierre) |
+| 14 | `14_cierre` | 3:46.2 | 4:03.2 | 17.0 s | último estribillo y final | zoom-out muy lento | — (fin) |
+
+**Limitación:** el tramo final (estribillos, 2:20–3:46) tiene 3 escenas para 86 s, y la 7 dura 34 s. No hay más imágenes porque cada estribillo repite el mismo texto. Si se ve monótono: generar 2–3 variaciones del almendro (p. ej. con luciérnagas, con luna, con el ave posada) y repartirlas ahí.
 
 Reglas aplicadas: no repetir movimiento en planos consecutivos; zoom máximo ≈ 110 %; 4 tipos de transición (disolvencia, zoom cruzado, desenfoque, cortina/empuje), sin destellos; pantalla final calmada (escena 14) sin texto; el título de portada solo 3–4 s al inicio.
 
