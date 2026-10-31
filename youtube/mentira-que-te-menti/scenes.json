@@ -1,92 +1,187 @@
 {
- "style": "Wide illustration in the style of a vintage Mexican screen-print poster, flat bold shapes with slightly misregistered ink layers, visible grain and halftone texture on cream paper, limited ink palette of coral red, turquoise, mustard yellow and deep indigo, playful tender romantic mood, no text, people never show a visible face. ",
+ "style": "Cinematic surreal dream photograph in wide 16:9 composition, soft ethereal haze like pads of glowing light, shallow depth of field, impossible dreamlike scale, deep ink-blue and teal night tones with warm sodium-amber light, fine film grain, glass reflections, a recurring glowing amber ribbon of magnetic tape, no text, no letters, people only seen from behind or as silhouettes with no visible face. ",
  "width": 1280,
  "height": 720,
  "scenes": [
   {
-   "id": "01_balcon",
-   "seed": 8101,
-   "prompt": "A sunny talavera-tiled courtyard in the afternoon, a young woman seen from behind on a wooden balcony with two long black braids tied with turquoise ribbons and a coral red dress, shaking her head, below in the street a slim man in a mustard yellow shirt and dark trousers seen from behind holding up one red carnation toward her, potted geraniums on the balcony, the lower third is a calm cobblestone street with very little detail"
+   "id": "01_patio_noche",
+   "seed": 20003,
+   "glitch": 5,
+   "prompt": "An empty Andalusian-style courtyard at night with a patterned blue and white tiled floor, arched galleries, a dry fountain, one thin amber ribbon of magnetic tape stretching from the floor across the starry sky, the lower third is calm with very little detail"
   },
   {
-   "id": "02_corazon",
-   "seed": 8212,
-   "prompt": "Close view of a man's two hands in a mustard yellow shirt sleeve pressed over the center of his chest, shown from the neck down only, a large simple red heart shape glowing softly behind his hands, turquoise background with halftone dots, a single red carnation held between his fingers, short hair only, no long hair, the lower third is calm turquoise with very little detail"
+   "id": "02_carrete",
+   "seed": 20010,
+   "glitch": 5,
+   "prompt": "A gigantic reel of magnetic tape floating in the air above a tiled courtyard at night, an amber ribbon of tape unspooling down to the floor, small lit windows in the arches, the lower third is calm with very little detail"
   },
   {
-   "id": "03_trenzas",
-   "seed": 8303,
-   "prompt": "Back of a young woman's head and shoulders in a coral red dress, two long black braids running parallel down her back tied with turquoise ribbons, a pattern of woven strands, warm mustard yellow wall of a courtyard behind her with hanging pots of ferns, the lower third is calm yellow wall with very little detail"
+   "id": "03_mobius",
+   "seed": 20017,
+   "glitch": 5,
+   "prompt": "A giant twisted Mobius band made of amber magnetic tape rising over terracotta rooftops at dusk, two tiny figures seen from behind standing on opposite edges of the band that is really the same surface, the lower third is calm with very little detail"
   },
   {
-   "id": "04_coro_flor",
-   "seed": 8404,
-   "prompt": "Two figures facing each other in profile as dark silhouettes, on the left a slim man holding out one red carnation, on the right a young woman with two long braids raising her open palm in a gentle refusal, sunny mustard yellow sky with a big coral red sun between them, tile rooftops far below, the lower third is calm dark rooftops with very little detail"
+   "id": "04_magnetofono",
+   "seed": 20024,
+   "glitch": 5,
+   "prompt": "An open vintage reel-to-reel tape recorder on a wooden table in a dark room, a warm pulsing amber glow between the reels like a heartbeat, an amber ribbon of tape flowing out toward a woman seen from behind with a long dark braid, the lower third is calm with very little detail"
   },
   {
-   "id": "05_mirada",
-   "seed": 8515,
-   "prompt": "A round antique mirror on a wall, in the mirror only the back of a young woman's head with long braids is reflected, her head tilted to the side, a bold diagonal band of light crossing the mirror, no face anywhere, turquoise and coral red room with a jasmine branch in a vase, we see her from behind in front of the mirror with her head tilted, the lower third is a calm dark wooden dresser with very little detail"
+   "id": "05_trenzas",
+   "seed": 20031,
+   "glitch": 5,
+   "prompt": "Two amber magnetic tape ribbons braided together descending from soft night clouds, parallel strands woven like a long braid, stars, deep ink-blue sky, a distant quiet village at the bottom, the lower third is calm with very little detail"
   },
   {
-   "id": "06_aromas",
-   "seed": 8606,
-   "prompt": "A wooden dressing table with many small glass perfume bottles in different shapes, cinnamon sticks and white jasmine flowers scattered around, a woman's hand with coral nail polish lifting one bottle, swirls of fragrance drawn as curling ribbons in turquoise and gold rising from the bottles, warm evening light, the lower third is calm tabletop with very little detail"
+   "id": "06_escalera_cielo",
+   "seed": 20038,
+   "glitch": 5,
+   "prompt": "A braided amber magnetic tape ribbon rising from a rooftop up through clouds into a sky full of stars like a staircase without steps, a tiny figure at the bottom seen from behind, the lower third is calm with very little detail"
   },
   {
-   "id": "07_buscarme",
-   "seed": 8707,
-   "prompt": "A young woman with long braids in a coral red dress seen from behind walking down a village street at dusk, a trail of fragrance ribbons and jasmine petals behind her, at the far corner a slim man in a mustard yellow shirt seen from behind waiting under a street lamp holding a red carnation, magenta and orange sunset sky, the lower third is calm cobblestones with very little detail"
+   "id": "07_coro1",
+   "seed": 20045,
+   "glitch": 4,
+   "prompt": "A large pane of glass standing in a dark field at night, on the left a man in a dark jacket seen from behind and on the right a woman with a long dark braid in a pale dress seen from behind, an amber ribbon of tape passing through the glass with a half twist, both slightly distorted through the glass, the lower third is calm with very little detail"
   },
   {
-   "id": "07b_coro_tarde",
-   "seed": 9501,
-   "prompt": "Two figures facing each other in profile as dark silhouettes, on the left a slim man holding out one red carnation, on the right a young woman with two long braids still raising her open palm, magenta and coral red sunset sky with a huge pale orange sun between them, long shadows on terracotta rooftops, the lower third is calm dark rooftops with very little detail"
+   "id": "08_cristal_franjas",
+   "seed": 20052,
+   "glitch": 4,
+   "prompt": "A pane of glass breaking into horizontal strips that float in the air, a man and a woman as silhouettes seen from behind between the strips, an amber tape ribbon threading through the strips, night haze, the lower third is calm with very little detail"
   },
   {
-   "id": "08_te_amo",
-   "seed": 8808,
-   "prompt": "A slim man in a mustard yellow shirt seen from behind standing on a rooftop terrace with both hands cupped around his mouth calling out loud toward the city, sound waves drawn as large concentric coral red and turquoise arcs spreading across a golden evening sky, a far tiny figure of a woman on another rooftop, the lower third is calm terracotta tiles with very little detail"
+   "id": "09_casa_inclinada",
+   "seed": 20059,
+   "glitch": 4,
+   "prompt": "A house with tilted windows under a crooked horizon at night, a ray of amber light bending inside a large glass sphere in the foreground, a woman silhouette seen from behind with her head tilted, the lower third is calm with very little detail"
   },
   {
-   "id": "09_oidos",
-   "seed": 8919,
-   "prompt": "Side view of a woman's head from behind with a long black braid and a small ear, abstract warm golden wavy ribbons flowing toward her ear and coming out the other side as crumpled gray paper scraps and dark moths, the ribbons are plain smooth shapes with no letters, no writing, no symbols, turquoise background with halftone dots, the lower third is calm turquoise with very little detail"
+   "id": "10_espejos",
+   "seed": 20066,
+   "glitch": 4,
+   "prompt": "A hall of many tall mirrors, each reflection showing only the back of a woman with a long braid facing a different direction, no faces anywhere, amber light, dreamlike haze, the lower third is calm with very little detail"
   },
   {
-   "id": "09b_coro_dudando",
-   "seed": 9602,
-   "prompt": "Two figures standing closer in profile as dark silhouettes against a turquoise and pale gold dusk sky, the slim man holding out one red carnation, the young woman with two long braids now half turned toward him with her hand lowered and hesitating, a crescent moon appearing, rooftops far below, the lower third is calm dark rooftops with very little detail"
+   "id": "11_frascos",
+   "seed": 20073,
+   "glitch": 4,
+   "prompt": "Giant glass perfume bottles the size of buildings in a quiet village street at dusk, curling smoke of cinnamon and jasmine rising like an amber ribbon, white jasmine flowers on the ground, the lower third is calm with very little detail"
   },
   {
-   "id": "10_trepar_trenza",
-   "seed": 9010,
-   "prompt": "A gigantic black braid with turquoise ribbons hanging like a thick rope from the top of the picture down to the ground, a tiny man in a mustard yellow shirt climbing it seen from behind, pearly white clouds around the upper part and a pale mother-of-pearl sky, the lower third is calm cream clouds with very little detail"
+   "id": "12_camino_pared",
+   "seed": 20080,
+   "glitch": 4,
+   "prompt": "A woman with a long dark braid in a pale dress seen from behind walking up a tiled path that continues vertically up the wall of a house, jasmine petals floating upward around her, an amber lamp at the top, dusk, the lower third is calm with very little detail"
   },
   {
-   "id": "11_estrella",
-   "seed": 9111,
-   "prompt": "A night sky of deep indigo above the rooftops of a village, an enormous burst of coral red, mustard and turquoise sparks exploding like a firework star with a tiny silhouette of a man at its center, small paper stars around, the lower third is calm dark indigo rooftops with very little detail"
+   "id": "13_coro2",
+   "seed": 20087,
+   "glitch": 4,
+   "prompt": "A large pane of glass standing on a hill at dusk with a magenta and orange sky, on the left a man in a dark jacket seen from behind and on the right a woman with a long dark braid seen from behind, an amber ribbon of tape passing through the glass with a half twist, the lower third is calm with very little detail"
   },
   {
-   "id": "12_pulmon",
-   "seed": 9222,
-   "prompt": "A young woman with long braids seen entirely from behind leaning her head against the chest of a man in a mustard yellow shirt who is also seen from behind, only their backs and her braids and his hair visible, no faces visible, soft coral red heart-shaped glow and tiny turquoise sound waves around them, warm dusk light, the lower third is calm dark fabric with very little detail"
+   "id": "14_plataforma",
+   "seed": 20094,
+   "glitch": 4,
+   "prompt": "A man and a woman as silhouettes seen from behind standing on a floating platform of blue tiles above terracotta rooftops with arches, a large glass pane between them, an amber ribbon crossing it, magenta dusk sky, the lower third is calm with very little detail"
   },
   {
-   "id": "13_balcon_noche",
-   "seed": 9313,
-   "prompt": "The same talavera-tiled balcony at dusk, a young woman with long braids in a coral red dress leaning on the rail seen from behind, now holding the red carnation, the slim man in the mustard yellow shirt standing close beside her seen from behind, string lights glowing, a warm magenta and indigo sky with first stars, the lower third is calm dark tiles with very little detail"
+   "id": "15_azotea",
+   "seed": 20101,
+   "glitch": 3,
+   "prompt": "A man in a dark jacket seen from behind on a rooftop terrace at night with his hands cupped around his mouth, his voice drawn as concentric rings of amber light spreading over a city with arches, the lower third is calm with very little detail"
   },
   {
-   "id": "13b_coro_final",
-   "seed": 9713,
-   "prompt": "Two figures standing side by side seen from behind on a rooftop terrace, the young woman with long braids in a coral red dress and the slim man in a mustard yellow shirt, their hands together holding one red carnation, a huge sky of indigo turning to coral red and gold with stars fading, rooftops of the village below, the lower third is calm dark terrace with very little detail"
+   "id": "16_espiral",
+   "seed": 20108,
+   "glitch": 3,
+   "prompt": "Concentric rings of amber light turning into a spiral staircase of tape ribbon spinning above rooftops at night, a small man silhouette at its base seen from behind, the lower third is calm with very little detail"
   },
   {
-   "id": "14_cierre",
-   "seed": 9414,
-   "prompt": "A single red carnation in a small blue-and-white talavera vase on a windowsill at night, a crescent moon and stars outside in the deep indigo sky, two warm lit windows far away, calm and peaceful, the lower third is calm dark windowsill with very little detail"
+   "id": "17_oido_nacar",
+   "seed": 20115,
+   "glitch": 3,
+   "prompt": "A giant spiral ear-shaped seashell made of mother-of-pearl in a dark dreamy space, a thin golden thread entering the spiral, soft iridescent glow, the lower third is calm with very little detail"
+  },
+  {
+   "id": "18_estatica",
+   "seed": 20122,
+   "glitch": 3,
+   "prompt": "A giant mother-of-pearl spiral shell, a gray thread coming out of it like tape hiss, dozens of small dark paper moths flying away, cold gray-blue haze, the lower third is calm with very little detail"
+  },
+  {
+   "id": "19_coro3",
+   "seed": 20129,
+   "glitch": 3,
+   "prompt": "A large pane of glass standing near the sea at twilight with an indigo and turquoise sky and first stars, on the left a man in a dark jacket seen from behind and on the right a woman with a long dark braid seen from behind, an amber ribbon passing through the glass with a half twist, the lower third is calm with very little detail"
+  },
+  {
+   "id": "20_cinta_horizonte",
+   "seed": 20136,
+   "glitch": 3,
+   "prompt": "An amber ribbon of tape stretching from a woman's hand all the way to the far horizon over a calm sea at twilight, two small figures far apart seen from behind, soft haze, the lower third is calm with very little detail"
+  },
+  {
+   "id": "21_luna_nacar",
+   "seed": 20143,
+   "glitch": 2,
+   "prompt": "A huge pearly mother-of-pearl moon like a smooth forehead in the night sky framed by heavy red velvet curtains as the sky, a quiet rooftop below, the lower third is calm with very little detail"
+  },
+  {
+   "id": "22_escalera_trenza",
+   "seed": 20150,
+   "glitch": 2,
+   "prompt": "A ladder made of braided amber tape hanging from a pearly moon down to a rooftop, a tiny man silhouette climbing it seen from behind, red velvet curtain sky, stars, the lower third is calm with very little detail"
+  },
+  {
+   "id": "23_estrella_vidrio",
+   "seed": 20157,
+   "glitch": 2,
+   "prompt": "A man's silhouette seen from behind whose chest bursts into thousands of glass beads and sparks in slow motion in the night sky, amber and cyan sparks, a tape ribbon spiraling among them, the lower third is calm with very little detail"
+  },
+  {
+   "id": "24_pulmon",
+   "seed": 24901,
+   "glitch": 2,
+   "prompt": "A woman with a long dark braid seen entirely from behind with her head turned away from the viewer, resting against the back of a man whose transparent glass torso faces away, seen from behind only their backs and hair visible, no faces visible at all, small glowing glass bells and a coil of amber tape glowing through the glass of his back, soft haze, the lower third is calm with very little detail"
+  },
+  {
+   "id": "25_coro4",
+   "seed": 20171,
+   "glitch": 1,
+   "prompt": "A glass pane at night, a man and a woman as silhouettes seen from behind on either side, the ends of an amber tape ribbon almost touching through the glass, calm, stars, the lower third is calm with very little detail"
+  },
+  {
+   "id": "26_mano_cristal",
+   "seed": 26907,
+   "glitch": 1,
+   "prompt": "Close view of a woman's hand pressed against a pane of glass from the left and a man's hand almost touching it from the right, only the two hands and forearms visible, no faces, no heads, an amber tape ribbon passing between them, dark blue night with frosted glass haze, the lower third is calm with very little detail"
+  },
+  {
+   "id": "27_siluetas_cerca",
+   "seed": 20185,
+   "glitch": 1,
+   "prompt": "Two silhouettes standing close together seen from behind in front of a faintly visible fading glass pane, an amber ribbon between them, deep blue night with stars, the lower third is calm with very little detail"
+  },
+  {
+   "id": "28_solo_cinta",
+   "seed": 20192,
+   "glitch": 1,
+   "prompt": "Two silhouettes side by side seen from behind on a rooftop under a vast starry sky, an amber tape ribbon connecting their hands, no glass anymore, calm, a warm glow on the horizon, the lower third is calm with very little detail"
+  },
+  {
+   "id": "29_lazo",
+   "seed": 20199,
+   "glitch": 0,
+   "prompt": "A perfect closed loop of amber magnetic tape ribbon with a half twist floating in a circle above two silhouettes standing side by side seen from behind on a rooftop at the first light of dawn, serene, the lower third is calm with very little detail"
+  },
+  {
+   "id": "30_patio_calma",
+   "seed": 20206,
+   "glitch": 0,
+   "prompt": "The same blue and white tiled Andalusian courtyard at dawn, calm and empty, a perfect loop of amber tape ribbon floating gently above the dry fountain, soft haze, warm light through the arches, the lower third is calm with very little detail"
   }
  ]
 }

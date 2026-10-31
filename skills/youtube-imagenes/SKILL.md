@@ -91,3 +91,13 @@ Segunda canción hecha de forma autónoma con el flujo completo (alineación inc
 - **Portada:** el título centrado tapa el sujeto aunque se elija una escena con la pareja abajo; revisar siempre y, si no convence, componer a mano o elegir una escena con el centro vacío.
 - Tiempos: 17 imágenes + 7 regeneraciones ≈ 25 min; alineación (CPU, medium) ≈ 4 min para 3:18 de audio.
 
+### Corrección de la prueba 2 (2026-10-31): el estilo debe salir de la música
+La primera versión de "Mentira que te mentí" (cartel mexicano serigrafiado, 17 imágenes) se descartó: el estilo se eligió solo con la letra y la canción no es regional. Archivada en `youtube/mentira-que-te-menti/v1_mexicana/` y en `v1-descartada/` de la carpeta de fotogramas. Reglas nuevas:
+- **Antes del concepto, pedir al usuario el prompt de estilo de la canción (género, instrumentos, voz, ambiente) y leerlo junto al análisis de audio.** Letra sola no basta para decidir el estilo visual. Si no hay prompt, preguntar; no suponer (ni lo regional).
+- **Tempo con hemiola:** `audio-sections.py` puede dar 117,5 BPM; mirar la autocorrelación del onset (picos a 172, 117 y 86 BPM = groove de drum and bass a medio tiempo con 3 contra 4). No concluir 6/8 sin comprobarlo.
+- **Cuando la letra tiene muchos símbolos/metáforas** (más de ≈ 10), usar estilo onírico/surrealista (imágenes no razonables, lógica de sueño) y **más imágenes: ≈ 30** para ≈ 3 min (una por pareja de versos; mínimo ≈ 5 s por imagen). El estilo puede no ser ilustración: aquí fue fotografía cinematográfica de sueño.
+- **Un motivo recurrente que cambia de papel en cada escena** (aquí, una cinta magnética ámbar con media torsión: trenza, escalera, humo, voz, lazo) ordena el exceso de símbolos. Proponerlo al usuario; descartó el primero (una gota) y aprobó el segundo.
+- **Recurso estructural con la idea de la canción:** la mentira como glitch. `youtube/glitch.py` aplica por código, con un nivel 0–5 por escena (`"glitch"` en `scenes.json`), copia fantasma, color separado, franjas corridas, líneas de barrido, grano y viñeta; el nivel baja a lo largo de la canción y la última imagen queda alineada. Entrega: `final/` (con glitch) e `imgs/` (limpias). Ventaja: las variantes de estribillo salen de la misma base con otro nivel.
+- **Rostros:** en el estilo fotográfico fallan más (parejas abrazadas, manos tras un cristal). Pedir en el prompt "only seen from behind / only hands visible, no faces" y revisar siempre.
+- **Flujo seguido:** concepto → lista de 30 con tiempos y glitch → aprobación → generar → autorrevisión con hojas de 12 (4×3) → regenerar fallos → `glitch.py` → portada (el título centrado cabe si el sujeto queda arriba y abajo) → copia a la carpeta de fotogramas (imágenes finales + `limpias/` + `hoja.jpg` + `letra.srt`).
+

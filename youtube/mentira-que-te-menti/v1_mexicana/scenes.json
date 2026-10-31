@@ -1,0 +1,92 @@
+{
+ "style": "Wide illustration in the style of a vintage Mexican screen-print poster, flat bold shapes with slightly misregistered ink layers, visible grain and halftone texture on cream paper, limited ink palette of coral red, turquoise, mustard yellow and deep indigo, playful tender romantic mood, no text, people never show a visible face. ",
+ "width": 1280,
+ "height": 720,
+ "scenes": [
+  {
+   "id": "01_balcon",
+   "seed": 8101,
+   "prompt": "A sunny talavera-tiled courtyard in the afternoon, a young woman seen from behind on a wooden balcony with two long black braids tied with turquoise ribbons and a coral red dress, shaking her head, below in the street a slim man in a mustard yellow shirt and dark trousers seen from behind holding up one red carnation toward her, potted geraniums on the balcony, the lower third is a calm cobblestone street with very little detail"
+  },
+  {
+   "id": "02_corazon",
+   "seed": 8212,
+   "prompt": "Close view of a man's two hands in a mustard yellow shirt sleeve pressed over the center of his chest, shown from the neck down only, a large simple red heart shape glowing softly behind his hands, turquoise background with halftone dots, a single red carnation held between his fingers, short hair only, no long hair, the lower third is calm turquoise with very little detail"
+  },
+  {
+   "id": "03_trenzas",
+   "seed": 8303,
+   "prompt": "Back of a young woman's head and shoulders in a coral red dress, two long black braids running parallel down her back tied with turquoise ribbons, a pattern of woven strands, warm mustard yellow wall of a courtyard behind her with hanging pots of ferns, the lower third is calm yellow wall with very little detail"
+  },
+  {
+   "id": "04_coro_flor",
+   "seed": 8404,
+   "prompt": "Two figures facing each other in profile as dark silhouettes, on the left a slim man holding out one red carnation, on the right a young woman with two long braids raising her open palm in a gentle refusal, sunny mustard yellow sky with a big coral red sun between them, tile rooftops far below, the lower third is calm dark rooftops with very little detail"
+  },
+  {
+   "id": "05_mirada",
+   "seed": 8515,
+   "prompt": "A round antique mirror on a wall, in the mirror only the back of a young woman's head with long braids is reflected, her head tilted to the side, a bold diagonal band of light crossing the mirror, no face anywhere, turquoise and coral red room with a jasmine branch in a vase, we see her from behind in front of the mirror with her head tilted, the lower third is a calm dark wooden dresser with very little detail"
+  },
+  {
+   "id": "06_aromas",
+   "seed": 8606,
+   "prompt": "A wooden dressing table with many small glass perfume bottles in different shapes, cinnamon sticks and white jasmine flowers scattered around, a woman's hand with coral nail polish lifting one bottle, swirls of fragrance drawn as curling ribbons in turquoise and gold rising from the bottles, warm evening light, the lower third is calm tabletop with very little detail"
+  },
+  {
+   "id": "07_buscarme",
+   "seed": 8707,
+   "prompt": "A young woman with long braids in a coral red dress seen from behind walking down a village street at dusk, a trail of fragrance ribbons and jasmine petals behind her, at the far corner a slim man in a mustard yellow shirt seen from behind waiting under a street lamp holding a red carnation, magenta and orange sunset sky, the lower third is calm cobblestones with very little detail"
+  },
+  {
+   "id": "07b_coro_tarde",
+   "seed": 9501,
+   "prompt": "Two figures facing each other in profile as dark silhouettes, on the left a slim man holding out one red carnation, on the right a young woman with two long braids still raising her open palm, magenta and coral red sunset sky with a huge pale orange sun between them, long shadows on terracotta rooftops, the lower third is calm dark rooftops with very little detail"
+  },
+  {
+   "id": "08_te_amo",
+   "seed": 8808,
+   "prompt": "A slim man in a mustard yellow shirt seen from behind standing on a rooftop terrace with both hands cupped around his mouth calling out loud toward the city, sound waves drawn as large concentric coral red and turquoise arcs spreading across a golden evening sky, a far tiny figure of a woman on another rooftop, the lower third is calm terracotta tiles with very little detail"
+  },
+  {
+   "id": "09_oidos",
+   "seed": 8919,
+   "prompt": "Side view of a woman's head from behind with a long black braid and a small ear, abstract warm golden wavy ribbons flowing toward her ear and coming out the other side as crumpled gray paper scraps and dark moths, the ribbons are plain smooth shapes with no letters, no writing, no symbols, turquoise background with halftone dots, the lower third is calm turquoise with very little detail"
+  },
+  {
+   "id": "09b_coro_dudando",
+   "seed": 9602,
+   "prompt": "Two figures standing closer in profile as dark silhouettes against a turquoise and pale gold dusk sky, the slim man holding out one red carnation, the young woman with two long braids now half turned toward him with her hand lowered and hesitating, a crescent moon appearing, rooftops far below, the lower third is calm dark rooftops with very little detail"
+  },
+  {
+   "id": "10_trepar_trenza",
+   "seed": 9010,
+   "prompt": "A gigantic black braid with turquoise ribbons hanging like a thick rope from the top of the picture down to the ground, a tiny man in a mustard yellow shirt climbing it seen from behind, pearly white clouds around the upper part and a pale mother-of-pearl sky, the lower third is calm cream clouds with very little detail"
+  },
+  {
+   "id": "11_estrella",
+   "seed": 9111,
+   "prompt": "A night sky of deep indigo above the rooftops of a village, an enormous burst of coral red, mustard and turquoise sparks exploding like a firework star with a tiny silhouette of a man at its center, small paper stars around, the lower third is calm dark indigo rooftops with very little detail"
+  },
+  {
+   "id": "12_pulmon",
+   "seed": 9222,
+   "prompt": "A young woman with long braids seen entirely from behind leaning her head against the chest of a man in a mustard yellow shirt who is also seen from behind, only their backs and her braids and his hair visible, no faces visible, soft coral red heart-shaped glow and tiny turquoise sound waves around them, warm dusk light, the lower third is calm dark fabric with very little detail"
+  },
+  {
+   "id": "13_balcon_noche",
+   "seed": 9313,
+   "prompt": "The same talavera-tiled balcony at dusk, a young woman with long braids in a coral red dress leaning on the rail seen from behind, now holding the red carnation, the slim man in the mustard yellow shirt standing close beside her seen from behind, string lights glowing, a warm magenta and indigo sky with first stars, the lower third is calm dark tiles with very little detail"
+  },
+  {
+   "id": "13b_coro_final",
+   "seed": 9713,
+   "prompt": "Two figures standing side by side seen from behind on a rooftop terrace, the young woman with long braids in a coral red dress and the slim man in a mustard yellow shirt, their hands together holding one red carnation, a huge sky of indigo turning to coral red and gold with stars fading, rooftops of the village below, the lower third is calm dark terrace with very little detail"
+  },
+  {
+   "id": "14_cierre",
+   "seed": 9414,
+   "prompt": "A single red carnation in a small blue-and-white talavera vase on a windowsill at night, a crescent moon and stars outside in the deep indigo sky, two warm lit windows far away, calm and peaceful, the lower third is calm dark windowsill with very little detail"
+  }
+ ]
+}
