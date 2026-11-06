@@ -1,0 +1,22 @@
+{
+ "style": "Bright cheerful cinematic editorial photograph with a surreal playful touch, sunny high-key daylight, vivid clean palette of peach, lemon yellow, sky turquoise, coral and mint, crisp sharp focus, clean smooth image with no noise and no grain, dynamic composition with strong diagonals and a sense of motion, wind-blown hair and fabric, flirtatious romantic humorous mood, expressive generic faces that do not resemble any real person, no text, no letters. ",
+ "width": 1920,
+ "height": 1080,
+ "scenes": [
+  {
+   "id": "03_acusacion",
+   "seed": 30301,
+   "prompt": "Medium over-the-shoulder cinematic shot: in the foreground the back of a young man in a white shirt pressing one hand to his chest, facing a young woman with two long braids in a yellow sundress who stands with her arms crossed and one eyebrow raised, looking at him sideways with a teasing skeptical smile, a coral ribbon with a half twist floating in the wind between them, sunny whitewashed plaza with bougainvillea and a fountain, dutch angle, the lower third is calm with little detail"
+  },
+  {
+   "id": "12_buscarme",
+   "seed": 31207,
+   "prompt": "Wide low-angle cinematic shot: a young woman with long braids in a yellow sundress strides joyfully down a sunny street in a whirl of scent, colorful swirling ribbons of cinnamon smoke and white jasmine petals trailing behind her in the wind, looking back over her shoulder with a mischievous smile, a young man at the far end of the street leaning on a lamppost pretending not to wait, pastel houses, comic-book motion lines of wind, strong diagonal composition, the lower third is calm with little detail"
+  },
+  {
+   "id": "22_trenza_cielo",
+   "seed": 32209,
+   "prompt": "Dramatic extreme low-angle cinematic shot looking up: a gigantic braid of dark hair with coral ribbons hangs like a rope from fluffy white clouds into a bright turquoise sky, a tiny young man in a white shirt climbs the braid joyfully with the wind in his clothes, a glowing pearly cloud shaped like a moon above, flower petals swirling, vertical dynamic composition, sunlit, the lower third is calm with little detail"
+  }
+ ]
+}

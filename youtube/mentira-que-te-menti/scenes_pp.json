@@ -1,0 +1,22 @@
+{
+ "style": "Digital oil painting in a luminous dreamlike surrealist style, visible soft brushstrokes with gentle impasto texture, smooth glowing gradients, rich harmonious saturated palette, one single emotion tints the whole world, weightless drifting motion, tender whimsical humorous romantic mood, one impossible idea per picture presented with total calm, large calm negative space, include only the people explicitly mentioned in the scene and no others, any people are young adults in long modest clothing of balanced realistic scale with faces hidden or very simple, upright and stable and never falling, clean smooth image with no noise and no grain, not photorealistic, no text, no letters. ",
+ "width": 1920,
+ "height": 1080,
+ "scenes": [
+  {
+   "id": "09_horizonte_torcido",
+   "seed": 96005,
+   "prompt": "Palette of mint green, coral and lemon yellow. A crooked tilted horizon over a calm sea where the whole sea surface slopes like a tilted table, a large glass sphere on the shore bends a ray of golden light sideways, a tiny woman in a long dress stands upright on the shore for scale watching the ray with a sly sideways glance, whimsical, the lower third is calm with little detail"
+  },
+  {
+   "id": "19_espejo_reflejo_juntos",
+   "seed": 96034,
+   "prompt": "Palette of lavender and turquoise. A single colossal standing mirror in a meadow of grass and flowers, the reflection inside the mirror shows a young man and a young woman standing side by side holding hands, while the meadow in front of the mirror is just grass and flowers, the two reflected people are the only people in the picture, the lower third is calm with little detail"
+  },
+  {
+   "id": "22_cascada_trenza",
+   "seed": 96063,
+   "prompt": "Palette of coral and magenta. A tall hill made of soft clouds under a magenta sky, a long thick dark braid with a coral ribbon hangs down the side of the hill like a rope, a young man in a white shirt stands firmly on the hill climbing the braid hand over hand with both feet planted on the cloud, only one person, the lower third is calm with little detail"
+  }
+ ]
+}

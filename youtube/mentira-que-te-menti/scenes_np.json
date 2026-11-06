@@ -1,0 +1,32 @@
+{
+ "style": "Digital oil painting in a luminous dreamlike surrealist style, visible soft brushstrokes with gentle impasto texture, smooth glowing gradients, rich harmonious saturated palette, one single impossible idea presented with total calm, large calm negative space, weightless drifting motion, tender whimsical mood, clean smooth image with no noise and no grain, not photorealistic, no text, no letters. ",
+ "width": 1920,
+ "height": 1080,
+ "scenes": [
+  {
+   "id": "05_dos_trenzas_caminos",
+   "seed": 95003,
+   "prompt": "Palette of mint green, coral and lemon yellow. Two long thick braided ropes of dark hair with coral ribbons at the ends lie side by side across a green valley and wind toward the horizon like two roads, a painterly landscape of rolling hills under a bright sky, the lower third is calm with little detail"
+  },
+  {
+   "id": "14_listones_baile",
+   "seed": 95026,
+   "prompt": "Palette of amber, magenta and gold. Many long coral and gold satin ribbons twirl in a great graceful spiral across a magenta sunset sky above a calm sea, lively motion, the lower third is calm with little detail"
+  },
+  {
+   "id": "16_espiral_alas",
+   "seed": 95049,
+   "prompt": "Palette of sky blue, white and gold. A grand spiral staircase made entirely of white and golden bird wings and feathers winding up through clouds into the sky, glowing, the steps are feathers, the lower third is calm with little detail"
+  },
+  {
+   "id": "28_huellas",
+   "seed": 95072,
+   "prompt": "Palette of gold and sky blue. Seen from above at an angle, a meadow full of flowers with two trails of small footprints in the grass, one trail from the left and one from the right, curving toward each other and merging into a single trail at the center, petals drifting in the wind, the lower third is calm with little detail"
+  },
+  {
+   "id": "30_prado_florecido",
+   "seed": 95095,
+   "prompt": "Palette of soft gold and pale blue. A meadow in full bloom at dawn with a giant tall standing mirror in the middle reflecting exactly the same dawn sky as the real one, a coral ribbon lying on the grass, calm, the lower third is calm with little detail"
+  }
+ ]
+}

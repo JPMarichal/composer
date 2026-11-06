@@ -1,0 +1,22 @@
+{
+ "style": "Digital oil painting in a luminous dreamlike surrealist style, visible soft brushstrokes with gentle impasto texture, smooth glowing gradients of peach, rose, lavender, turquoise and gold, rich harmonious saturated palette, one single emotion tints the whole world, impossible scale and weightless drifting motion, large calm negative space, tender whimsical romantic mood, faces idealized and simple or hidden, long modest clothing, clean smooth image with no noise and no grain, not photorealistic, no text, no letters. ",
+ "width": 1920,
+ "height": 1080,
+ "scenes": [
+  {
+   "id": "22_trenza_camino",
+   "seed": 41001,
+   "prompt": "A gigantic braid of dark hair with coral ribbons lies across a luminous pink and lavender sky like a winding mountain road, a tiny man in a white shirt climbs the braid with his arms open, soft clouds below like a sea, a glowing mother-of-pearl moon at the top right, flower petals drifting upward, the whole world tinted peach and rose, long diagonal flowing composition, the lower third is calm with little detail"
+  },
+  {
+   "id": "24_pulmon_paisaje",
+   "seed": 42003,
+   "prompt": "A man whose chest is made of clear glass seen from the side, inside the glass chest a tiny glowing landscape of hills, a river, blossoming trees, small singing birds and glass bells, a young woman with a long braid in a long pale dress rests her ear gently against his glass chest with her eyes closed, both faces simple and idealized, warm gold and rose light, soft turquoise sky, petals drifting, the lower third is calm with little detail"
+  },
+  {
+   "id": "07_espejo_otro_cielo",
+   "seed": 43007,
+   "prompt": "A vast calm meadow under a pale lavender sky, a colossal rectangular mirror standing alone in the meadow and reflecting a completely different sky: a golden sunrise over blossoming trees with flying birds, in front of it two tiny figures seen from behind in long clothing, a woman with a long braid standing with her arms crossed and a man in a white shirt holding out one hand toward the mirror, a coral ribbon floating between them, the whole scene tinted peach and turquoise, the lower third is calm with little detail"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "style": "Digital oil painting in a luminous dreamlike surrealist style, visible soft brushstrokes with gentle impasto texture, smooth glowing gradients, rich harmonious saturated palette, one single emotion tints the whole world, impossible scale and weightless drifting motion, tender whimsical humorous romantic flirtatious mood, faces idealized and simple or hidden, long modest clothing, all figures upright and stable and never falling, clean smooth image with no noise and no grain, not photorealistic, no text, no letters. ",
+ "width": 1920,
+ "height": 1080,
+ "scenes": [
+  {
+   "id": "22_trenza_camino",
+   "seed": 51001,
+   "prompt": "Palette of peach, rose and lavender. A colossal young woman seated upright on a cloud seen from behind, her long braid with coral ribbons hangs down like a winding staircase road through the clouds, a tiny man in a white shirt walks up the braid upright with his arms swinging happily, a glowing mother-of-pearl moon above, flower petals drifting upward, calm stable composition with a gentle diagonal, the lower third is calm with little detail"
+  },
+  {
+   "id": "03_burla_coqueta",
+   "seed": 52003,
+   "prompt": "Palette of turquoise, lemon yellow and gold. A young woman with a long braid in a long yellow dress looks back over her shoulder with a teasing raised eyebrow and a half smile, arms crossed, while a young man in a white shirt kneels on one knee holding out an absurdly gigantic bouquet of flowers taller than himself, a coral ribbon floating between them in the wind, a whimsical sunny meadow with swirling clouds, playful diagonal composition, brushstroke texture, the lower third is calm with little detail"
+  },
+  {
+   "id": "23_estrella",
+   "seed": 53023,
+   "prompt": "Palette of coral, magenta and gold. A man in a white shirt stands with his arms thrown wide open and his chest bursting into a spiral galaxy of golden stars and coral light that sweeps across a warm twilight sky, a young woman with a long braid in a long dress watches from below with her hands clasped in delight, petals and sparks swirling around, dramatic upward diagonal composition full of motion, the lower third is calm with little detail"
+  }
+ ]
+}
