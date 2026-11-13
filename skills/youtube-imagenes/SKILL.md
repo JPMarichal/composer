@@ -1,6 +1,6 @@
 ---
 name: youtube-imagenes
-description: Producir las imágenes (no video) para el video musical de una canción en YouTube del canal JPMarichal: concepto por secciones de la letra, 12–17 ilustraciones 16:9 con ComfyUI (z_image_turbo), revisión con hoja de contacto, aprobación del usuario, portada/miniatura con cover.py y entrega para montar en Camtasia (Ken Burns + transiciones). Activar cuando se pida "imágenes para YouTube", "video de la canción en YouTube", "portada", "miniatura" o continuar el piloto "Trae contigo la lluvia". NO genera video; para el Canvas vertical de Spotify usar skills/spotify-canvas.
+description: Producir las imágenes (no video) para el video musical de una canción en YouTube del canal JPMarichal: concepto por secciones de la letra, 12–17 ilustraciones 16:9 con ComfyUI (z_image_turbo), revisión con hoja de contacto, aprobación del usuario, portada/miniatura con cover.py y entrega para montar en DaVinci Resolve (Ken Burns + transiciones); la portada y la tarjeta final son estándar de toda producción. Activar cuando se pida "imágenes para YouTube", "video de la canción en YouTube", "portada", "miniatura" o continuar el piloto "Trae contigo la lluvia". NO genera video; para el Canvas vertical de Spotify usar skills/spotify-canvas.
 ---
 
 # Imágenes para el video musical de YouTube
@@ -68,6 +68,9 @@ Documentos hermanos (leer antes de trabajar):
 
 ### 6. Metadatos y publicación
 Título "Canción – Artista"; descripción con párrafo inicial, letra completa, créditos (sin nombres de herramientas) y aviso de IA; plantillas en `youtube/METADATOS-v2.md`. La etiqueta de "contenido alterado o sintético" normalmente no se exige para ilustración y música original, pero verificar el texto oficial al subir. Medir en YouTube Studio la retención a los 30 s y la duración media de visualización: es la única forma de saber qué formato funciona.
+
+### 4b. Estándar de toda producción: portada al inicio y tarjeta final
+Cada video lleva **la portada como primer cuadro** (≈ 3,5 s, con título y «por Juan Pablo Marichal», con `youtube/cover.py`) y **una tarjeta final** (último plano, hasta tras acabar el audio) con el título, «por Juan Pablo Marichal» y un **botón blanco «Suscríbete al canal»** con `youtube/endcard.py`. Se eligen con el usuario entre varias opciones (guardarlas en `portada_opciones/`); si el sujeto ocupa un lado, mover el texto con `--cx`/`--wmax`; si el botón tapa algo, subir el bloque con `--ytitle`/`--ybtn`. Cómo se integran al montaje: `skills/youtube-montaje-resolver/SKILL.md`. El botón del 2026-11-13 fue aprobado tal cual.
 
 ## Métricas de referencia (piloto "Trae contigo la lluvia")
 17 imágenes de 1280×720 en ≈ 19 min (60–70 s cada una), registradas en `youtube/trae-contigo-la-lluvia/metrics.csv`.

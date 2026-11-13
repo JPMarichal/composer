@@ -74,6 +74,14 @@ Reglas no negociables. Incumplir cualquiera = canción rechazada.
 - `.claude/skills/voice-analysis/SKILL.md` — análisis de rango vocal.
 - `.claude/skills/suno-thumbs/SKILL.md` — descargar thumbnails de Suno.
 
+## Estándar de producción de video (YouTube)
+
+Aplica a todo video nuevo del canal:
+1. **Primer cuadro:** la portada con título y «por Juan Pablo Marichal» (≈ 3,5 s). `youtube/cover.py`.
+2. **Último plano:** tarjeta final con título, «por Juan Pablo Marichal» y botón blanco «Suscríbete al canal». `youtube/endcard.py`.
+3. Una imagen por frase de la letra; estilo elegido por canción con el usuario; versiones previas se conservan aparte.
+4. Montaje en DaVinci Resolve (gratuito) vía FCPXML: `skills/youtube-montaje-resolver/SKILL.md`.
+
 ## Comandos
 
 ```powershell
