@@ -18,11 +18,12 @@ def rounded_shadow(img, box, radius, blur=14, alpha=120):
     ImageDraw.Draw(sh).rounded_rectangle([box[0], box[1] + 8, box[2], box[3] + 8], radius, fill=(0, 0, 0, alpha))
     return Image.alpha_composite(img.convert("RGBA"), sh.filter(ImageFilter.GaussianBlur(blur))).convert("RGB")
 
-def card(src, title, author, button, W=1920, H=1080):
+def card(src, title, author, button, W=1920, H=1080, ytitle=.36, ybtn=.70):
     base = src.convert("RGB").resize((W, H), Image.LANCZOS)
     # degradado oscuro suave en toda la franja central para que se lea el bloque completo
     band = Image.new("L", (1, H), 0)
-    top, mid, bot = int(H * .22), int(H * .52), int(H * .84)
+    c = (ytitle + ybtn) / 2
+    top, mid, bot = int(H * max(.02, c - .34)), int(H * c), int(H * min(.98, c + .34))
     for y in range(top, bot):
         a = (y - top) / (mid - top) if y < mid else (bot - y) / (bot - mid)
         band.putpixel((0, y), int(170 * max(0, min(1, a))))
@@ -30,7 +31,7 @@ def card(src, title, author, button, W=1920, H=1080):
     d = ImageDraw.Draw(base)
     lines, f = cover.fit_lines(d, title, W, W * .80, 120)
     lh = f.size * 1.12
-    cy = H * .36 - (len(lines) - 1) * lh / 2
+    cy = H * ytitle - (len(lines) - 1) * lh / 2
     glow = Image.new("RGBA", (W, H), (0, 0, 0, 0)); gd = ImageDraw.Draw(glow)
     for i, l in enumerate(lines):
         gd.text((W / 2, cy + i * lh), l, font=f, fill=(0, 0, 0, 180), anchor="mm")
@@ -47,7 +48,7 @@ def card(src, title, author, button, W=1920, H=1080):
     bh = int(H * .105); pad = int(H * .06)
     icon = int(bh * .46)
     bw = int(tw + pad * 2 + icon + pad * .6)
-    x0 = int((W - bw) / 2); y0 = int(H * .70 - bh / 2)
+    x0 = int((W - bw) / 2); y0 = int(H * ybtn - bh / 2)
     box = (x0, y0, x0 + bw, y0 + bh)
     base = rounded_shadow(base, box, bh // 2)
     d = ImageDraw.Draw(base)
@@ -63,6 +64,8 @@ if __name__ == "__main__":
     p.add_argument("image"); p.add_argument("title"); p.add_argument("out")
     p.add_argument("--author", default="por Juan Pablo Marichal")
     p.add_argument("--boton", default="Suscríbete al canal")
+    p.add_argument("--ytitle", type=float, default=.36, help="altura del título (fracción del alto)")
+    p.add_argument("--ybtn", type=float, default=.70, help="altura del botón (fracción del alto)")
     a = p.parse_args()
-    card(Image.open(a.image), a.title, a.author, a.boton).save(a.out)
+    card(Image.open(a.image), a.title, a.author, a.boton, ytitle=a.ytitle, ybtn=a.ybtn).save(a.out)
     print("ok", a.out)

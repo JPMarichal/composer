@@ -33,7 +33,7 @@ def spaced(draw, xy_center, text, font, fill, tracking):
         draw.text((x, xy_center[1]), c, font=font, fill=fill, anchor="lm")
         x += w + tracking
 
-def compose(img, title, author, W, H, title_size, with_author=True):
+def compose(img, title, author, W, H, title_size, with_author=True, cx=.5, wmax=.84):
     img = img.convert("RGB").resize((W, H), Image.LANCZOS)
     # degradado oscuro que se desvanece antes de la zona inferior libre
     band = Image.new("L", (1, H), 0)
@@ -44,27 +44,29 @@ def compose(img, title, author, W, H, title_size, with_author=True):
     shade = Image.new("RGB", (W, H), (20, 14, 8))
     img = Image.composite(shade, img, band.resize((W, H)))
     d = ImageDraw.Draw(img)
-    lines, f = fit_lines(d, title, W, W * .84, title_size)
+    lines, f = fit_lines(d, title, W, W * wmax, title_size)
     lh = f.size * 1.12
     cy = H * .58 - (len(lines) - 1) * lh / 2
     glow = Image.new("RGBA", (W, H), (0, 0, 0, 0)); gd = ImageDraw.Draw(glow)
     for i, l in enumerate(lines):
-        gd.text((W / 2, cy + i * lh), l, font=f, fill=(0, 0, 0, 170), anchor="mm")
+        gd.text((W * cx, cy + i * lh), l, font=f, fill=(0, 0, 0, 170), anchor="mm")
     img = Image.alpha_composite(img.convert("RGBA"), glow.filter(ImageFilter.GaussianBlur(H * .008))).convert("RGB")
     d = ImageDraw.Draw(img)
     for i, l in enumerate(lines):
-        d.text((W / 2, cy + i * lh), l, font=f, fill=CREAM, anchor="mm")
+        d.text((W * cx, cy + i * lh), l, font=f, fill=CREAM, anchor="mm")
     if with_author:
         fa = ImageFont.truetype(FONT_AUTHOR, int(H * .042))
-        spaced(d, (W / 2, H * .70 + (len(lines) - 1) * lh / 2), author, fa, CREAM, fa.size * .35)
+        spaced(d, (W * cx, H * .70 + (len(lines) - 1) * lh / 2), author, fa, CREAM, fa.size * .35)
     return img
 
 if __name__ == "__main__":
     p = argparse.ArgumentParser()
     p.add_argument("image"); p.add_argument("title"); p.add_argument("out")
     p.add_argument("--author", default="JPMarichal")
+    p.add_argument("--cx", type=float, default=.5, help="centro horizontal del bloque de texto (0-1)")
+    p.add_argument("--wmax", type=float, default=.84, help="ancho maximo del titulo (fraccion)")
     a = p.parse_args()
     os.makedirs(a.out, exist_ok=True)
     src = Image.open(a.image)
-    compose(src, a.title, a.author, 1920, 1080, 130).save(os.path.join(a.out, "portada_1920x1080.png"))
-    compose(src, a.title, a.author, 1280, 720, 100, with_author=False).save(os.path.join(a.out, "miniatura_1280x720.png"))
+    compose(src, a.title, a.author, 1920, 1080, 130, cx=a.cx, wmax=a.wmax).save(os.path.join(a.out, "portada_1920x1080.png"))
+    compose(src, a.title, a.author, 1280, 720, 100, with_author=False, cx=a.cx, wmax=a.wmax).save(os.path.join(a.out, "miniatura_1280x720.png"))
