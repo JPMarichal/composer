@@ -19,7 +19,7 @@ Herramienta oficial de montaje del canal: **DaVinci Resolver gratuito** (no Stud
 4. El usuario: borra timeline y clips offline previos, *File > Import > Timeline…* y elige el XML.
 
 ## Script genérico por tabla (recomendado)
-`scripts/build_fcpxml_tabla.py` toma `tabla.json` (`id` y `t` por imagen, el de `v_narrativa/`), la carpeta de imágenes `<id>.png`, el audio y `letra.srt`; copia las imágenes con nombres sin números y genera el FCPXML. Con `--trans transiciones.json` añade **Cross Dissolve** entre planos (duración por corte), movimiento con *ease*, fundido de entrada y salida en los títulos, fundido a negro final y **marcadores** en la línea de tiempo en los cortes que piden otra transición (Push Up, Brightness Flash, Zoom In and Out, Blur Dissolve, iris), porque esas no se importan por XML. Se generan dos archivos: uno solo con cortes (seguro) y otro con transiciones y marcadores. Ejemplo y cortes en `youtube/mentira-que-te-menti/v_narrativa/` (`transiciones.json`, `TRANSICIONES.md`).
+`scripts/build_fcpxml_tabla.py` toma `tabla.json` (`id` y `t` por imagen, el de `v_narrativa/`), la carpeta de imágenes `<id>.png`, el audio y `letra.srt`; copia las imágenes con nombres sin números y genera el FCPXML. Con `--trans transiciones.json` añade **Cross Dissolve** entre planos (duración por corte), movimiento con *ease*, fundido a negro final y **marcadores** en la línea de tiempo en los cortes que piden otra transición (Push Up, Brightness Flash, Zoom In and Out, Blur Dissolve, iris), porque esas no se importan por XML. Se generan dos archivos: uno solo con cortes (seguro) y otro con transiciones y marcadores. Ejemplo y cortes en `youtube/mentira-que-te-menti/v_narrativa/` (`transiciones.json`, `TRANSICIONES.md`).
 
 ## Qué genera el script
 - Secuencia 1920×1080 a 24 fps con cortes duros contiguos tomados de `PLAN.md` (ajustados a cuadros) y el audio en la pista de audio.
@@ -31,6 +31,7 @@ Herramienta oficial de montaje del canal: **DaVinci Resolver gratuito** (no Stud
 - **Nombres con números → «Media offline».** Resolver trata archivos como `01_x.png`, `02_x.png` como secuencia de imágenes. Usar nombres sin dígitos.
 - **Imágenes fijas con `duration="0s"`** en el `<asset>`. Con `3600s` Resolver las toma por secuencia de 86 400 cuadros y las pierde o las muestra un instante.
 - **Títulos:** la posición como `<param name="Position">` se ignora; funciona `<adjust-transform position="0 -38"/>` dentro de `<title>` (y `start="0s"`). Si salen mal, bajar *Position Y* de toda la pista V2 en el Inspector.
+- **Títulos con `<adjust-blend>` (fundido de opacidad con keyframes) desaparecen** al importar en Resolver (2026-11-13). Dejarlos sin fundido (`--fade-titulos` queda apagado). Las transiciones Cross Dissolve, el *ease* de los keyframes de movimiento, los marcadores y el fundido a negro final del último plano sí se importaron bien.
 - **Rutas:** `file:///P:/...` con espacios y tildes codificados; el audio y las imágenes deben estar accesibles en `P:`.
 - El audio se ata como clip `lane="-1"` al primer plano con la duración completa.
 - Usar `chr(10)` o listas para unir líneas al generar el XML por script; los escapes `\n` dentro de f-strings se rompen al editar con heredocs.

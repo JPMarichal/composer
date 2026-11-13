@@ -22,4 +22,4 @@ En `montaje_narrativo_transiciones.fcpxml` todas entran como Cross Dissolve (ún
 
 ## Animación
 - Cada plano: zoom o paneo con keyframes y suavizado (ease), escala máxima 1,05.
-- Títulos de la letra con fundido de entrada y salida de 6 cuadros (opacidad con keyframes).
+- Títulos de la letra sin fundido (el keyframe de opacidad en los títulos hacía que Resolver los descartara al importar).

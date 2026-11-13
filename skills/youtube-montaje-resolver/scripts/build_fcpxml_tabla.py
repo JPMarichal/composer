@@ -24,6 +24,7 @@ ap.add_argument("--out", default="montaje.fcpxml")
 ap.add_argument("--titulo", required=True)
 ap.add_argument("--fps", type=int, default=24)
 ap.add_argument("--trans", help="transiciones.json: activa transiciones, easing, fundidos de títulos y marcadores")
+ap.add_argument("--fade-titulos", action="store_true", help="fundido de opacidad en los títulos (en Resolver los hace desaparecer; apagado por defecto)")
 a = ap.parse_args()
 
 FPS = a.fps
@@ -76,7 +77,7 @@ def title_xml(f0, f1, text, base, ind):
         f'{ind}  <text-style-def id="ts{n}"><text-style font="Helvetica" fontSize="{90 if big else 60}" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>',
         f'{ind}  <adjust-transform position="0 {-5 if big else -38}"/>',
     ]
-    if CFG: parts.append(f'{ind}  ' + fade_blend(f1 - f0))
+    if CFG and a.fade_titulos: parts.append(f'{ind}  ' + fade_blend(f1 - f0))  # Resolver descarta los títulos con este keyframe de opacidad
     parts.append(f'{ind}</title>')
     return chr(10).join(parts)
 

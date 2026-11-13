@@ -83,7 +83,6 @@
             <text><text-style ref="ts1">Mentira que te mentí</text-style></text>
             <text-style-def id="ts1"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -5"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="7800/2400s" value="1"/><keyframe time="8400/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="12800/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -104,13 +103,11 @@
             <text><text-style ref="ts2">Que es una mentira dices</text-style></text>
             <text-style-def id="ts2"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4600/2400s" value="1"/><keyframe time="5200/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <title ref="fx" lane="1" name="Mentira que te mentí" offset="6400/2400s" start="0s" duration="5300/2400s">
             <text><text-style ref="ts3">Mentira que te mentí</text-style></text>
             <text-style-def id="ts3"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4700/2400s" value="1"/><keyframe time="5300/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <marker start="0s" duration="100/2400s" value="Transición: Cross Dissolve 1.0 s - de la intro al primer verso, paso de tiempo"/>
         </asset-clip>
@@ -124,7 +121,6 @@
             <text><text-style ref="ts4">Que el corazón me lo dice</text-style></text>
             <text-style-def id="ts4"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4100/2400s" value="1"/><keyframe time="4700/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="39000/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -137,7 +133,6 @@
             <text><text-style ref="ts5">Y yo te lo digo a ti</text-style></text>
             <text-style-def id="ts5"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5600/2400s" value="1"/><keyframe time="6200/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="44800/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -158,7 +153,6 @@
             <text><text-style ref="ts6">Las trenzas de tu cabello</text-style></text>
             <text-style-def id="ts6"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4400/2400s" value="1"/><keyframe time="5000/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="58400/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -171,13 +165,11 @@
             <text><text-style ref="ts7">Se tejen en paralelo</text-style></text>
             <text-style-def id="ts7"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4100/2400s" value="1"/><keyframe time="4700/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <title ref="fx" lane="1" name="Con las trenzas de tu pelo" offset="5900/2400s" start="0s" duration="5400/2400s">
             <text><text-style ref="ts8">Con las trenzas de tu pelo</text-style></text>
             <text-style-def id="ts8"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4800/2400s" value="1"/><keyframe time="5400/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="64400/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -198,13 +190,11 @@
             <text><text-style ref="ts9">Se puede alcanzar el cielo</text-style></text>
             <text-style-def id="ts9"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5500/2400s" value="1"/><keyframe time="6100/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <title ref="fx" lane="1" name="Que es una mentira dices" offset="8300/2400s" start="0s" duration="4800/2400s">
             <text><text-style ref="ts10">Que es una mentira dices</text-style></text>
             <text-style-def id="ts10"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4200/2400s" value="1"/><keyframe time="4800/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <marker start="0s" duration="100/2400s" value="Transición: Push Up 0.8 s - sube por la trenza (Motion &gt; Push Up, Motion Blur activado)"/>
         </asset-clip>
@@ -227,7 +217,6 @@
             <text><text-style ref="ts11">Mentira que te mentí</text-style></text>
             <text-style-def id="ts11"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5400/2400s" value="1"/><keyframe time="6000/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="92300/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -240,7 +229,6 @@
             <text><text-style ref="ts12">Mentira que te mentí</text-style></text>
             <text-style-def id="ts12"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="3800/2400s" value="1"/><keyframe time="4400/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="98300/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -253,7 +241,6 @@
             <text><text-style ref="ts13">Mentira que te mentí</text-style></text>
             <text-style-def id="ts13"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="24100/2400s" value="1"/><keyframe time="24700/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="109200/2400s" duration="2400/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -266,7 +253,6 @@
             <text><text-style ref="ts14">Tus ojos me miran locos</text-style></text>
             <text-style-def id="ts14"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4700/2400s" value="1"/><keyframe time="5300/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <marker start="0s" duration="100/2400s" value="Transición: Zoom In and Out 1.0 s - del estribillo al instrumental (Fusion Transitions)"/>
         </asset-clip>
@@ -289,7 +275,6 @@
             <text><text-style ref="ts15">Cuando tuerces la mirada</text-style></text>
             <text-style-def id="ts15"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5400/2400s" value="1"/><keyframe time="6000/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="135700/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -302,13 +287,11 @@
             <text><text-style ref="ts16">Cuando me miras sesgada</text-style></text>
             <text-style-def id="ts16"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4500/2400s" value="1"/><keyframe time="5100/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <title ref="fx" lane="1" name="Me miras equivocada" offset="5900/2400s" start="0s" duration="5900/2400s">
             <text><text-style ref="ts17">Me miras equivocada</text-style></text>
             <text-style-def id="ts17"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5300/2400s" value="1"/><keyframe time="5900/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="141700/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -329,7 +312,6 @@
             <text><text-style ref="ts18">Con cien aromas surtidos</text-style></text>
             <text-style-def id="ts18"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5100/2400s" value="1"/><keyframe time="5700/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="154200/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -342,7 +324,6 @@
             <text><text-style ref="ts19">Te aromaste por la tarde</text-style></text>
             <text-style-def id="ts19"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5600/2400s" value="1"/><keyframe time="6200/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="160900/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -355,7 +336,6 @@
             <text><text-style ref="ts20">De canela, de jazmines</text-style></text>
             <text-style-def id="ts20"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5800/2400s" value="1"/><keyframe time="6400/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="167400/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -368,7 +348,6 @@
             <text><text-style ref="ts21">Para salir a buscarme</text-style></text>
             <text-style-def id="ts21"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5700/2400s" value="1"/><keyframe time="6300/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="174300/2400s" duration="400/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -381,7 +360,6 @@
             <text><text-style ref="ts22">Que es una mentira dices</text-style></text>
             <text-style-def id="ts22"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4700/2400s" value="1"/><keyframe time="5300/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <marker start="0s" duration="100/2400s" value="Transición: Brightness Flash 0.17 s - entra el estribillo 2 (4 cuadros)"/>
         </asset-clip>
@@ -395,7 +373,6 @@
             <text><text-style ref="ts23">Mentira que te mentí</text-style></text>
             <text-style-def id="ts23"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4400/2400s" value="1"/><keyframe time="5000/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="186400/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -408,7 +385,6 @@
             <text><text-style ref="ts24">Mentira que te mentí</text-style></text>
             <text-style-def id="ts24"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4000/2400s" value="1"/><keyframe time="4600/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="193100/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -421,7 +397,6 @@
             <text><text-style ref="ts25">Mentira que te mentí</text-style></text>
             <text-style-def id="ts25"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="37300/2400s" value="1"/><keyframe time="37900/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="205200/2400s" duration="2400/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -451,13 +426,11 @@
             <text><text-style ref="ts26">Cuando te dije te amo</text-style></text>
             <text-style-def id="ts26"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="2600/2400s" value="1"/><keyframe time="3200/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <title ref="fx" lane="1" name="Yo te dije la verdad" offset="5700/2400s" start="0s" duration="4200/2400s">
             <text><text-style ref="ts27">Yo te dije la verdad</text-style></text>
             <text-style-def id="ts27"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="3600/2400s" value="1"/><keyframe time="4200/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <marker start="0s" duration="100/2400s" value="Transición: Cross Dissolve 1.0 s - del instrumental al verso 3, paso de tiempo"/>
         </asset-clip>
@@ -479,7 +452,6 @@
             <text><text-style ref="ts28">Con toda sinceridad</text-style></text>
             <text-style-def id="ts28"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5300/2400s" value="1"/><keyframe time="5900/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="248000/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -492,7 +464,6 @@
             <text><text-style ref="ts29">Lo que yo siento lo clamo</text-style></text>
             <text-style-def id="ts29"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="6700/2400s" value="1"/><keyframe time="7300/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="256200/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -505,7 +476,6 @@
             <text><text-style ref="ts30">Cuando tus tiernos oídos</text-style></text>
             <text-style-def id="ts30"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4300/2400s" value="1"/><keyframe time="4900/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="262200/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -518,7 +488,6 @@
             <text><text-style ref="ts31">Me escuchan esta verdad</text-style></text>
             <text-style-def id="ts31"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4300/2400s" value="1"/><keyframe time="4900/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="268200/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -531,7 +500,6 @@
             <text><text-style ref="ts32">Tu mente por vanidad</text-style></text>
             <text-style-def id="ts32"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5200/2400s" value="1"/><keyframe time="5800/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="274400/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -544,7 +512,6 @@
             <text><text-style ref="ts33">La transforma en falsedad</text-style></text>
             <text-style-def id="ts33"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="7200/2400s" value="1"/><keyframe time="7800/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="283000/2400s" duration="400/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -557,7 +524,6 @@
             <text><text-style ref="ts34">Que es una mentira dices</text-style></text>
             <text-style-def id="ts34"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4700/2400s" value="1"/><keyframe time="5300/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <marker start="0s" duration="100/2400s" value="Transición: Brightness Flash 0.17 s - entra el estribillo 3 (4 cuadros)"/>
         </asset-clip>
@@ -571,13 +537,11 @@
             <text><text-style ref="ts35">Mentira que te mentí</text-style></text>
             <text-style-def id="ts35"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4900/2400s" value="1"/><keyframe time="5500/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <title ref="fx" lane="1" name="Mentira que te mentí" offset="6400/2400s" start="0s" duration="5600/2400s">
             <text><text-style ref="ts36">Mentira que te mentí</text-style></text>
             <text-style-def id="ts36"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5000/2400s" value="1"/><keyframe time="5600/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="295100/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -598,7 +562,6 @@
             <text><text-style ref="ts37">Mentiraaa que te mentí</text-style></text>
             <text-style-def id="ts37"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="13100/2400s" value="1"/><keyframe time="13700/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="314500/2400s" duration="3600/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -611,13 +574,11 @@
             <text><text-style ref="ts38">Tienes de nácar la frente</text-style></text>
             <text-style-def id="ts38"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4200/2400s" value="1"/><keyframe time="4800/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <title ref="fx" lane="1" name="Los labios de terciopelo" offset="5000/2400s" start="0s" duration="6200/2400s">
             <text><text-style ref="ts39">Los labios de terciopelo</text-style></text>
             <text-style-def id="ts39"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5600/2400s" value="1"/><keyframe time="6200/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <marker start="0s" duration="100/2400s" value="Transición: Cross Dissolve 1.5 s - tras la nota larga, entra el verso 4"/>
         </asset-clip>
@@ -639,13 +600,11 @@
             <text><text-style ref="ts40">Quiero subirme en tu pelo</text-style></text>
             <text-style-def id="ts40"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="3700/2400s" value="1"/><keyframe time="4300/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <title ref="fx" lane="1" name="Yo quiero alcanzar el cielo" offset="5200/2400s" start="0s" duration="5600/2400s">
             <text><text-style ref="ts41">Yo quiero alcanzar el cielo</text-style></text>
             <text-style-def id="ts41"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5000/2400s" value="1"/><keyframe time="5600/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="334700/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -666,7 +625,6 @@
             <text><text-style ref="ts42">Y estallar como una estrella</text-style></text>
             <text-style-def id="ts42"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="6400/2400s" value="1"/><keyframe time="7000/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="348800/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -679,13 +637,11 @@
             <text><text-style ref="ts43">Rebozante de emoción</text-style></text>
             <text-style-def id="ts43"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4300/2400s" value="1"/><keyframe time="4900/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <title ref="fx" lane="1" name="Y que oigas de mi pulmón" offset="6200/2400s" start="0s" duration="5600/2400s">
             <text><text-style ref="ts44">Y que oigas de mi pulmón</text-style></text>
             <text-style-def id="ts44"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5000/2400s" value="1"/><keyframe time="5600/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="355100/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -706,13 +662,11 @@
             <text><text-style ref="ts45">De nuevo mis sentimientos</text-style></text>
             <text-style-def id="ts45"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="6500/2400s" value="1"/><keyframe time="7100/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <title ref="fx" lane="1" name="Que es una mentira dices" offset="8100/2400s" start="0s" duration="5700/2400s">
             <text><text-style ref="ts46">Que es una mentira dices</text-style></text>
             <text-style-def id="ts46"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5100/2400s" value="1"/><keyframe time="5700/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="369200/2400s" duration="400/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -734,7 +688,6 @@
             <text><text-style ref="ts47">Mentira que te mentí</text-style></text>
             <text-style-def id="ts47"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5800/2400s" value="1"/><keyframe time="6400/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="382700/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -747,7 +700,6 @@
             <text><text-style ref="ts48">Mentira que te mentí</text-style></text>
             <text-style-def id="ts48"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4400/2400s" value="1"/><keyframe time="5000/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="388000/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -760,7 +712,6 @@
             <text><text-style ref="ts49">Mentira que te mentí</text-style></text>
             <text-style-def id="ts49"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="12000/2400s" value="1"/><keyframe time="12600/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="402000/2400s" duration="400/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -773,7 +724,6 @@
             <text><text-style ref="ts50">Que es una mentira dices</text-style></text>
             <text-style-def id="ts50"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="5200/2400s" value="1"/><keyframe time="5800/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <marker start="0s" duration="100/2400s" value="Transición: Brightness Flash 0.17 s - entra el estribillo 5, el de la reconciliación (4 cuadros)"/>
         </asset-clip>
@@ -787,7 +737,6 @@
             <text><text-style ref="ts51">Mentira que te mentí</text-style></text>
             <text-style-def id="ts51"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4900/2400s" value="1"/><keyframe time="5500/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="416000/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -800,13 +749,11 @@
             <text><text-style ref="ts52">Mentira que te mentí</text-style></text>
             <text-style-def id="ts52"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="3600/2400s" value="1"/><keyframe time="4200/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <title ref="fx" lane="1" name="Mentira que te mentí" offset="5200/2400s" start="0s" duration="9200/2400s">
             <text><text-style ref="ts53">Mentira que te mentí</text-style></text>
             <text-style-def id="ts53"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="8600/2400s" value="1"/><keyframe time="9200/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="421300/2400s" duration="1200/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -827,7 +774,6 @@
             <text><text-style ref="ts54">Mentira que te mentí Mentira que te mentí</text-style></text>
             <text-style-def id="ts54"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="4500/2400s" value="1"/><keyframe time="5100/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
         </asset-clip>
         <transition name="Cross Dissolve" offset="436600/2400s" duration="2400/2400s"><filter-video ref="fxdis" name="Cross Dissolve"/></transition>
@@ -840,7 +786,6 @@
             <text><text-style ref="ts55">Mentira que te mentí</text-style></text>
             <text-style-def id="ts55"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
-            <adjust-blend><param name="amount"><keyframeAnimation><keyframe time="0/2400s" value="0"/><keyframe time="600/2400s" value="1"/><keyframe time="3800/2400s" value="1"/><keyframe time="4400/2400s" value="0"/></keyframeAnimation></param></adjust-blend>
           </title>
           <marker start="0s" duration="100/2400s" value="Transición: Cross Dissolve 1.0 s - hacia el final"/>
         </asset-clip>
