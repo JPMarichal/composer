@@ -24,6 +24,8 @@ ap.add_argument("--out", default="montaje.fcpxml")
 ap.add_argument("--titulo", required=True)
 ap.add_argument("--fps", type=int, default=24)
 ap.add_argument("--trans", help="transiciones.json: activa transiciones, easing, fundidos de títulos y marcadores")
+ap.add_argument("--sin-titulo-inicial", action="store_true", help="no pone el título de la canción sobre los primeros segundos (si ya hay portada)")
+ap.add_argument("--cola", type=float, default=0.0, help="segundos extra al final, tras el audio (tarjeta final en silencio)")
 ap.add_argument("--fade-titulos", action="store_true", help="fundido de opacidad en los títulos (en Resolver los hace desaparecer; apagado por defecto)")
 a = ap.parse_args()
 
@@ -36,7 +38,8 @@ def uri(p): return "file:///" + urllib.parse.quote(str(p).replace("\\", "/"), sa
 tabla = json.load(open(a.tabla, encoding="utf-8"))
 audio = pathlib.Path(a.audio)
 with wave.open(str(audio)) as w: adur = w.getnframes() / w.getframerate()
-total = fr(adur)
+total_audio = fr(adur)
+total = total_audio + fr(a.cola)
 
 dest = pathlib.Path(a.copiar_a); dest.mkdir(parents=True, exist_ok=True)
 names = []
@@ -55,7 +58,7 @@ subs = []
 for blk in open(a.srt, encoding="utf-8-sig").read().strip().split("\n\n"):
     ls = blk.splitlines()
     x, y = ls[1].split(" --> "); subs.append((fr(tc(x)), fr(tc(y)), " ".join(ls[2:])))
-subs.insert(0, (fr(1.0), fr(4.5), a.titulo))
+if not a.sin_titulo_inicial: subs.insert(0, (fr(1.0), fr(4.5), a.titulo))
 
 CFG = json.load(open(a.trans, encoding="utf-8")) if a.trans else None
 EASE = ' interp="ease"' if CFG else ""
@@ -70,7 +73,7 @@ def fade_blend(dur, fin=6, fout=6):
 nt = [0]
 def title_xml(f0, f1, text, base, ind):
     nt[0] += 1; n = nt[0]
-    big = n == 1
+    big = (text == a.titulo)
     parts = [
         f'{ind}<title ref="fx" lane="1" name="{escape(text)}" offset="{rt(f0-base)}" start="0s" duration="{rt(f1-f0)}">',
         f'{ind}  <text><text-style ref="ts{n}">{escape(text)}</text-style></text>',
@@ -90,7 +93,7 @@ for i, s in enumerate(tabla):
     assets.append(f'    <asset id="{aid}" name="{s["id"]}" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="{uri(dest / names[i])}"/></asset>')
     s0, s1, x0, x1, y0, y1 = MOV[i % len(MOV)]
     t1 = rt(dur)
-    aud = (f'          <asset-clip ref="aud" lane="-1" name="{escape(a.titulo)}" offset="0s" start="0s" duration="{rt(total)}" audioRole="dialogue"/>\n' if i == 0 else "")
+    aud = (f'          <asset-clip ref="aud" lane="-1" name="{escape(a.titulo)}" offset="0s" start="0s" duration="{rt(total_audio)}" audioRole="dialogue"/>\n' if i == 0 else "")
     tit = "\n".join(title_xml(max(p, f0), q, t, f0, "          ") for p, q, t in subs if f0 <= p < f1)
     blend = ""
     if CFG and i == len(tabla) - 1:  # fundido a negro al final (opacidad 1 -> 0 en los últimos 2 s)
@@ -124,7 +127,7 @@ xml = f'''<?xml version="1.0" encoding="UTF-8"?>
     <format id="r2" name="FFVideoFormatRateUndefined" width="{W}" height="{H}" colorSpace="1-1-1 (Rec. 709)"/>
 {nl.join(assets)}
 {('    <effect id="fxdis" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>' + nl) if CFG else ''}    <effect id="fx" name="Basic Title" uid=".../Titles.localized/Bumper:Opener.localized/Basic Title.localized/Basic Title.moti"/>
-    <asset id="aud" name="{escape(a.titulo)}" start="0s" duration="{rt(total)}" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="{uri(audio)}"/></asset>
+    <asset id="aud" name="{escape(a.titulo)}" start="0s" duration="{rt(total_audio)}" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="{uri(audio)}"/></asset>
   </resources>
   <library>
     <event name="{escape(a.titulo)}">

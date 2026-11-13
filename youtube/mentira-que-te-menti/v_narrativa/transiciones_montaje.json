@@ -1,0 +1,88 @@
+{
+ "default": {
+  "tipo": "Cross Dissolve",
+  "dur": 0.5
+ },
+ "cortes": {
+  "3": {
+   "tipo": "Cross Dissolve",
+   "dur": 1.0,
+   "nota": "de la intro al primer verso, paso de tiempo"
+  },
+  "10": {
+   "tipo": "Push Up",
+   "dur": 0.8,
+   "nota": "sube por la trenza (Motion > Push Up, Motion Blur activado)"
+  },
+  "11": {
+   "tipo": "Brightness Flash",
+   "dur": 0.17,
+   "nota": "entra el estribillo 1 (Fusion Transitions, 4 cuadros)"
+  },
+  "15": {
+   "tipo": "Zoom In and Out",
+   "dur": 1.0,
+   "nota": "del estribillo al instrumental (Fusion Transitions)"
+  },
+  "16": {
+   "tipo": "Oval Iris",
+   "dur": 1.0,
+   "nota": "el iris se cierra sobre el ojo de la escena 16 (Iris > Oval Iris)"
+  },
+  "24": {
+   "tipo": "Brightness Flash",
+   "dur": 0.17,
+   "nota": "entra el estribillo 2 (4 cuadros)"
+  },
+  "28": {
+   "tipo": "Blur Dissolve",
+   "dur": 1.0,
+   "nota": "entra el instrumental, desenfoque (Dissolve > Blur Dissolve)"
+  },
+  "30": {
+   "tipo": "Cross Dissolve",
+   "dur": 1.0,
+   "nota": "del instrumental al verso 3, paso de tiempo"
+  },
+  "38": {
+   "tipo": "Brightness Flash",
+   "dur": 0.17,
+   "nota": "entra el estribillo 3 (4 cuadros)"
+  },
+  "42": {
+   "tipo": "Cross Dissolve",
+   "dur": 1.5,
+   "nota": "tras la nota larga, entra el verso 4"
+  },
+  "50": {
+   "tipo": "Brightness Flash",
+   "dur": 0.17,
+   "nota": "entra el estribillo 4 (4 cuadros)"
+  },
+  "54": {
+   "tipo": "Brightness Flash",
+   "dur": 0.17,
+   "nota": "entra el estribillo 5, el de la reconciliación (4 cuadros)"
+  },
+  "59": {
+   "tipo": "Cross Dissolve",
+   "dur": 1.0,
+   "nota": "hacia el final"
+  },
+  "60": {
+   "tipo": "Cross Dissolve",
+   "dur": 2.0,
+   "nota": "cierre; al final hay fundido a negro"
+  },
+  "1": {
+   "tipo": "Cross Dissolve",
+   "dur": 1.0,
+   "nota": "de la portada a la primera imagen"
+  },
+  "61": {
+   "tipo": "Cross Dissolve",
+   "dur": 1.0,
+   "nota": "de la última imagen a la tarjeta final"
+  }
+ }
+}

@@ -21,6 +21,12 @@ Herramienta oficial de montaje del canal: **DaVinci Resolver gratuito** (no Stud
 ## Script genérico por tabla (recomendado)
 `scripts/build_fcpxml_tabla.py` toma `tabla.json` (`id` y `t` por imagen, el de `v_narrativa/`), la carpeta de imágenes `<id>.png`, el audio y `letra.srt`; copia las imágenes con nombres sin números y genera el FCPXML. Con `--trans transiciones.json` añade **Cross Dissolve** entre planos (duración por corte), movimiento con *ease*, fundido a negro final y **marcadores** en la línea de tiempo en los cortes que piden otra transición (Push Up, Brightness Flash, Zoom In and Out, Blur Dissolve, iris), porque esas no se importan por XML. Se generan dos archivos: uno solo con cortes (seguro) y otro con transiciones y marcadores. Ejemplo y cortes en `youtube/mentira-que-te-menti/v_narrativa/` (`transiciones.json`, `TRANSICIONES.md`).
 
+### Portada al inicio y tarjeta final (estándar de cada video)
+- **Primer cuadro:** la portada con título y autoría (de `youtube/cover.py`, autor «por Juan Pablo Marichal») durante unos 3,5 s, como primera imagen de la tabla. Con portada, usar `--sin-titulo-inicial` para no repetir el título encima.
+- **Último plano:** tarjeta final de `youtube/endcard.py`: título, «por Juan Pablo Marichal» y un botón blanco con el texto «Suscríbete al canal» (icono rojo de play). Entra unos 4 s antes de acabar la última imagen y se queda tras el audio con `--cola 6`, hasta el fundido a negro final.
+- `v_narrativa/armar_montaje.py` es el ejemplo: inserta la portada y la tarjeta en `tabla.json` y desplaza `transiciones.json`.
+- La portada se elige de una imagen con el centro tranquilo (título al 58 % del alto, autor al 68 %, margen libre arriba y abajo); la tarjeta usa una imagen calmada del final.
+
 ## Qué genera el script
 - Secuencia 1920×1080 a 24 fps con cortes duros contiguos tomados de `PLAN.md` (ajustados a cuadros) y el audio en la pista de audio.
 - Movimiento por plano según la columna «Movimiento» (zoom-in, zoom-in lento, zoom-out, pan izq→der, pan der→izq, pan hacia arriba), con keyframes de escala y posición, escala máxima 1,05.

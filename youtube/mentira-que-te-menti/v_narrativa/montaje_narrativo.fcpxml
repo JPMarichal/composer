@@ -4,723 +4,735 @@
   <resources>
     <format id="r1" name="FFVideoFormat1080p24" frameDuration="100/2400s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)"/>
     <format id="r2" name="FFVideoFormatRateUndefined" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)"/>
-    <asset id="a1" name="01_plaza_mascaras" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_plaza_mascaras.png"/></asset>
-    <asset id="a2" name="02_duda_mascaras" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_duda_mascaras.png"/></asset>
-    <asset id="a3" name="03_acusacion" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_acusacion.png"/></asset>
-    <asset id="a4" name="04_mascara_se_rompe" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_mascara_se_rompe.png"/></asset>
-    <asset id="a5" name="05_corazon_dice" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_corazon_dice.png"/></asset>
-    <asset id="a6" name="06_pajaros_palabras" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_pajaros_palabras.png"/></asset>
-    <asset id="a7" name="07_trenza_rio" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_trenza_rio.png"/></asset>
-    <asset id="a8" name="08_rios_paralelos" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_rios_paralelos.png"/></asset>
-    <asset id="a9" name="09_sube_trenza" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_sube_trenza.png"/></asset>
-    <asset id="a10" name="10_cima_trenza" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_cima_trenza.png"/></asset>
-    <asset id="a11" name="11_escepticismo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_escepticismo.png"/></asset>
-    <asset id="a12" name="12_ramo_de_reojo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_ramo_de_reojo.png"/></asset>
-    <asset id="a13" name="13_casa_amapolas" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_casa_amapolas.png"/></asset>
-    <asset id="a14" name="14_giro_listones" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_giro_listones.png"/></asset>
-    <asset id="a15" name="15_petalos_cielo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_petalos_cielo.png"/></asset>
-    <asset id="a16" name="16_ojo_iris" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_ojo_iris.png"/></asset>
-    <asset id="a17" name="17_horizonte_torcido" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_horizonte_torcido.png"/></asset>
-    <asset id="a18" name="18_pasillo_espejos" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_pasillo_espejos.png"/></asset>
-    <asset id="a19" name="19_reflejo_equivocado" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_reflejo_equivocado.png"/></asset>
-    <asset id="a20" name="20_frascos_aromas" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_frascos_aromas.png"/></asset>
-    <asset id="a21" name="21_aroma_tarde" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_aroma_tarde.png"/></asset>
-    <asset id="a22" name="22_lluvia_canela" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_lluvia_canela.png"/></asset>
-    <asset id="a23" name="23_sendero_jazmin" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_sendero_jazmin.png"/></asset>
-    <asset id="a24" name="24_caen_mascaras" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_caen_mascaras.png"/></asset>
-    <asset id="a25" name="25_manos_vacias" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_manos_vacias.png"/></asset>
-    <asset id="a26" name="26_ofrece_liston" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_ofrece_liston.png"/></asset>
-    <asset id="a27" name="27_liston_tenso" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_liston_tenso.png"/></asset>
-    <asset id="a28" name="28_listones_baile" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_listones_baile.png"/></asset>
-    <asset id="a29" name="29_giro_alegre" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_giro_alegre.png"/></asset>
-    <asset id="a30" name="30_grito_azotea" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_grito_azotea.png"/></asset>
-    <asset id="a31" name="31_verdad_luz" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_verdad_luz.png"/></asset>
-    <asset id="a32" name="32_brazos_abiertos" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_brazos_abiertos.png"/></asset>
-    <asset id="a33" name="33_espiral_aves" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_espiral_aves.png"/></asset>
-    <asset id="a34" name="34_oido_nacar" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_oido_nacar.png"/></asset>
-    <asset id="a35" name="35_pajaros_oido" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_pajaros_oido.png"/></asset>
-    <asset id="a36" name="36_espejo_vanidad" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_espejo_vanidad.png"/></asset>
-    <asset id="a37" name="37_mascaras_espejo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_mascaras_espejo.png"/></asset>
-    <asset id="a38" name="38_espejo_pareja" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_espejo_pareja.png"/></asset>
-    <asset id="a39" name="39_el_espera" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_el_espera.png"/></asset>
-    <asset id="a40" name="40_toca_espejo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_toca_espejo.png"/></asset>
-    <asset id="a41" name="41_liston_horizonte" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_liston_horizonte.png"/></asset>
-    <asset id="a42" name="42_frente_nacar" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_frente_nacar.png"/></asset>
-    <asset id="a43" name="43_colinas_terciopelo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_colinas_terciopelo.png"/></asset>
-    <asset id="a44" name="44_camino_pelo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_camino_pelo.png"/></asset>
-    <asset id="a45" name="45_mano_nube" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_mano_nube.png"/></asset>
-    <asset id="a46" name="46_pecho_estrella" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_pecho_estrella.png"/></asset>
-    <asset id="a47" name="47_estrella_explota" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_estrella_explota.png"/></asset>
-    <asset id="a48" name="48_oreja_pecho" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_oreja_pecho.png"/></asset>
-    <asset id="a49" name="49_pecho_paisaje" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_pecho_paisaje.png"/></asset>
-    <asset id="a50" name="50_sonrisa" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_sonrisa.png"/></asset>
-    <asset id="a51" name="51_liston_muneca" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_liston_muneca.png"/></asset>
-    <asset id="a52" name="52_lluvia_petalos" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_lluvia_petalos.png"/></asset>
-    <asset id="a53" name="53_arco_nubes" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_arco_nubes.png"/></asset>
-    <asset id="a54" name="54_caminan_alba" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_caminan_alba.png"/></asset>
-    <asset id="a55" name="55_frente_con_frente" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_frente_con_frente.png"/></asset>
-    <asset id="a56" name="56_cielo_reflejado" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_cielo_reflejado.png"/></asset>
-    <asset id="a57" name="57_espiral_petalos" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_espiral_petalos.png"/></asset>
-    <asset id="a58" name="58_huellas" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_huellas.png"/></asset>
-    <asset id="a59" name="59_amanecer_juntos" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_amanecer_juntos.png"/></asset>
-    <asset id="a60" name="60_prado_espejo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_prado_espejo.png"/></asset>
+    <asset id="a1" name="00_portada" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_portada.png"/></asset>
+    <asset id="a2" name="01_plaza_mascaras" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_plaza_mascaras.png"/></asset>
+    <asset id="a3" name="02_duda_mascaras" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_duda_mascaras.png"/></asset>
+    <asset id="a4" name="03_acusacion" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_acusacion.png"/></asset>
+    <asset id="a5" name="04_mascara_se_rompe" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_mascara_se_rompe.png"/></asset>
+    <asset id="a6" name="05_corazon_dice" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_corazon_dice.png"/></asset>
+    <asset id="a7" name="06_pajaros_palabras" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_pajaros_palabras.png"/></asset>
+    <asset id="a8" name="07_trenza_rio" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_trenza_rio.png"/></asset>
+    <asset id="a9" name="08_rios_paralelos" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_rios_paralelos.png"/></asset>
+    <asset id="a10" name="09_sube_trenza" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_sube_trenza.png"/></asset>
+    <asset id="a11" name="10_cima_trenza" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_cima_trenza.png"/></asset>
+    <asset id="a12" name="11_escepticismo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_escepticismo.png"/></asset>
+    <asset id="a13" name="12_ramo_de_reojo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_ramo_de_reojo.png"/></asset>
+    <asset id="a14" name="13_casa_amapolas" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_casa_amapolas.png"/></asset>
+    <asset id="a15" name="14_giro_listones" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_giro_listones.png"/></asset>
+    <asset id="a16" name="15_petalos_cielo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_petalos_cielo.png"/></asset>
+    <asset id="a17" name="16_ojo_iris" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_ojo_iris.png"/></asset>
+    <asset id="a18" name="17_horizonte_torcido" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_horizonte_torcido.png"/></asset>
+    <asset id="a19" name="18_pasillo_espejos" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_pasillo_espejos.png"/></asset>
+    <asset id="a20" name="19_reflejo_equivocado" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_reflejo_equivocado.png"/></asset>
+    <asset id="a21" name="20_frascos_aromas" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_frascos_aromas.png"/></asset>
+    <asset id="a22" name="21_aroma_tarde" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_aroma_tarde.png"/></asset>
+    <asset id="a23" name="22_lluvia_canela" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_lluvia_canela.png"/></asset>
+    <asset id="a24" name="23_sendero_jazmin" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_sendero_jazmin.png"/></asset>
+    <asset id="a25" name="24_caen_mascaras" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_caen_mascaras.png"/></asset>
+    <asset id="a26" name="25_manos_vacias" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_manos_vacias.png"/></asset>
+    <asset id="a27" name="26_ofrece_liston" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_ofrece_liston.png"/></asset>
+    <asset id="a28" name="27_liston_tenso" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_liston_tenso.png"/></asset>
+    <asset id="a29" name="28_listones_baile" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_listones_baile.png"/></asset>
+    <asset id="a30" name="29_giro_alegre" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_giro_alegre.png"/></asset>
+    <asset id="a31" name="30_grito_azotea" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_grito_azotea.png"/></asset>
+    <asset id="a32" name="31_verdad_luz" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_verdad_luz.png"/></asset>
+    <asset id="a33" name="32_brazos_abiertos" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_brazos_abiertos.png"/></asset>
+    <asset id="a34" name="33_espiral_aves" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_espiral_aves.png"/></asset>
+    <asset id="a35" name="34_oido_nacar" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_oido_nacar.png"/></asset>
+    <asset id="a36" name="35_pajaros_oido" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_pajaros_oido.png"/></asset>
+    <asset id="a37" name="36_espejo_vanidad" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_espejo_vanidad.png"/></asset>
+    <asset id="a38" name="37_mascaras_espejo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_mascaras_espejo.png"/></asset>
+    <asset id="a39" name="38_espejo_pareja" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_espejo_pareja.png"/></asset>
+    <asset id="a40" name="39_el_espera" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_el_espera.png"/></asset>
+    <asset id="a41" name="40_toca_espejo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_toca_espejo.png"/></asset>
+    <asset id="a42" name="41_liston_horizonte" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_liston_horizonte.png"/></asset>
+    <asset id="a43" name="42_frente_nacar" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_frente_nacar.png"/></asset>
+    <asset id="a44" name="43_colinas_terciopelo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_colinas_terciopelo.png"/></asset>
+    <asset id="a45" name="44_camino_pelo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_camino_pelo.png"/></asset>
+    <asset id="a46" name="45_mano_nube" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_mano_nube.png"/></asset>
+    <asset id="a47" name="46_pecho_estrella" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_pecho_estrella.png"/></asset>
+    <asset id="a48" name="47_estrella_explota" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_estrella_explota.png"/></asset>
+    <asset id="a49" name="48_oreja_pecho" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_oreja_pecho.png"/></asset>
+    <asset id="a50" name="49_pecho_paisaje" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_pecho_paisaje.png"/></asset>
+    <asset id="a51" name="50_sonrisa" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_sonrisa.png"/></asset>
+    <asset id="a52" name="51_liston_muneca" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_liston_muneca.png"/></asset>
+    <asset id="a53" name="52_lluvia_petalos" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_lluvia_petalos.png"/></asset>
+    <asset id="a54" name="53_arco_nubes" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_arco_nubes.png"/></asset>
+    <asset id="a55" name="54_caminan_alba" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_caminan_alba.png"/></asset>
+    <asset id="a56" name="55_frente_con_frente" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_frente_con_frente.png"/></asset>
+    <asset id="a57" name="56_cielo_reflejado" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_cielo_reflejado.png"/></asset>
+    <asset id="a58" name="57_espiral_petalos" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_espiral_petalos.png"/></asset>
+    <asset id="a59" name="58_huellas" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_huellas.png"/></asset>
+    <asset id="a60" name="59_amanecer_juntos" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_amanecer_juntos.png"/></asset>
+    <asset id="a61" name="60_prado_espejo" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_prado_espejo.png"/></asset>
+    <asset id="a62" name="61_cierre" start="0s" duration="0s" hasVideo="1" format="r2"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/assets/fotogramas/mentira-que-te-menti-narrativa/montaje_imgs/foto_cierre.png"/></asset>
     <effect id="fx" name="Basic Title" uid=".../Titles.localized/Bumper:Opener.localized/Basic Title.localized/Basic Title.moti"/>
     <asset id="aud" name="Mentira que te mentí" start="0s" duration="475200/2400s" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"><media-rep kind="original-media" src="file:///P:/Canciones/audio/wav/love/Mentira%20que%20te%20ment%C3%AD.wav"/></asset>
   </resources>
   <library>
     <event name="Mentira que te mentí">
       <project name="Mentira que te mentí - video">
-        <sequence format="r1" duration="475200/2400s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+        <sequence format="r1" duration="489600/2400s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
           <spine>
-        <asset-clip ref="a1" name="01_plaza_mascaras" offset="0/2400s" start="0s" duration="13400/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a1" name="00_portada" offset="0/2400s" start="0s" duration="8400/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="13400/2400s" value="1.035 1.035"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="13400/2400s" value="0 0"/></keyframeAnimation></param>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="8400/2400s" value="1.035 1.035"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="8400/2400s" value="0 0"/></keyframeAnimation></param>
           </adjust-transform>
           <asset-clip ref="aud" lane="-1" name="Mentira que te mentí" offset="0s" start="0s" duration="475200/2400s" audioRole="dialogue"/>
-          <title ref="fx" lane="1" name="Mentira que te mentí" offset="2400/2400s" start="0s" duration="8400/2400s">
-            <text><text-style ref="ts1">Mentira que te mentí</text-style></text>
-            <text-style-def id="ts1"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -5"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a2" name="02_duda_mascaras" offset="13400/2400s" start="0s" duration="13500/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="13500/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="13500/2400s" value="-2.2 0"/></keyframeAnimation></param>
-          </adjust-transform>
 
         </asset-clip>
-        <asset-clip ref="a3" name="03_acusacion" offset="26900/2400s" start="0s" duration="6500/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6500/2400s" value="1.0 1.0"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6500/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Que es una mentira dices" offset="0/2400s" start="0s" duration="5200/2400s">
-            <text><text-style ref="ts2">Que es una mentira dices</text-style></text>
-            <text-style-def id="ts2"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-          <title ref="fx" lane="1" name="Mentira que te mentí" offset="6400/2400s" start="0s" duration="5300/2400s">
-            <text><text-style ref="ts3">Mentira que te mentí</text-style></text>
-            <text-style-def id="ts3"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a4" name="04_mascara_se_rompe" offset="33400/2400s" start="0s" duration="6200/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6200/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="6200/2400s" value="2.2 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Que el corazón me lo dice" offset="6100/2400s" start="0s" duration="4700/2400s">
-            <text><text-style ref="ts4">Que el corazón me lo dice</text-style></text>
-            <text-style-def id="ts4"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a5" name="05_corazon_dice" offset="39600/2400s" start="0s" duration="5800/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="5800/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="5800/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Y yo te lo digo a ti" offset="5700/2400s" start="0s" duration="6200/2400s">
-            <text><text-style ref="ts5">Y yo te lo digo a ti</text-style></text>
-            <text-style-def id="ts5"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a6" name="06_pajaros_palabras" offset="45400/2400s" start="0s" duration="7200/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="7200/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="7200/2400s" value="0 -1.2"/></keyframeAnimation></param>
-          </adjust-transform>
-
-        </asset-clip>
-        <asset-clip ref="a7" name="07_trenza_rio" offset="52600/2400s" start="0s" duration="6400/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="6400/2400s" value="1.035 1.035"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6400/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Las trenzas de tu cabello" offset="0/2400s" start="0s" duration="5000/2400s">
-            <text><text-style ref="ts6">Las trenzas de tu cabello</text-style></text>
-            <text-style-def id="ts6"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a8" name="08_rios_paralelos" offset="59000/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6000/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="6000/2400s" value="-2.2 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Se tejen en paralelo" offset="100/2400s" start="0s" duration="4700/2400s">
-            <text><text-style ref="ts7">Se tejen en paralelo</text-style></text>
-            <text-style-def id="ts7"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-          <title ref="fx" lane="1" name="Con las trenzas de tu pelo" offset="5900/2400s" start="0s" duration="5400/2400s">
-            <text><text-style ref="ts8">Con las trenzas de tu pelo</text-style></text>
-            <text-style-def id="ts8"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a9" name="09_sube_trenza" offset="65000/2400s" start="0s" duration="6300/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6300/2400s" value="1.0 1.0"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6300/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-
-        </asset-clip>
-        <asset-clip ref="a10" name="10_cima_trenza" offset="71300/2400s" start="0s" duration="8400/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a2" name="01_plaza_mascaras" offset="8400/2400s" start="0s" duration="8400/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
             <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="8400/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="8400/2400s" value="2.2 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Se puede alcanzar el cielo" offset="100/2400s" start="0s" duration="6100/2400s">
-            <text><text-style ref="ts9">Se puede alcanzar el cielo</text-style></text>
-            <text-style-def id="ts9"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-          <title ref="fx" lane="1" name="Que es una mentira dices" offset="8300/2400s" start="0s" duration="4800/2400s">
-            <text><text-style ref="ts10">Que es una mentira dices</text-style></text>
-            <text-style-def id="ts10"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a11" name="11_escepticismo" offset="79700/2400s" start="0s" duration="5500/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="5500/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="5500/2400s" value="0 0"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="8400/2400s" value="-2.2 0"/></keyframeAnimation></param>
           </adjust-transform>
 
         </asset-clip>
-        <asset-clip ref="a12" name="12_ramo_de_reojo" offset="85200/2400s" start="0s" duration="7700/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a3" name="02_duda_mascaras" offset="16800/2400s" start="0s" duration="10100/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="7700/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="7700/2400s" value="0 -1.2"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Mentira que te mentí" offset="100/2400s" start="0s" duration="6000/2400s">
-            <text><text-style ref="ts11">Mentira que te mentí</text-style></text>
-            <text-style-def id="ts11"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a13" name="13_casa_amapolas" offset="92900/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="6000/2400s" value="1.035 1.035"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6000/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Mentira que te mentí" offset="100/2400s" start="0s" duration="4400/2400s">
-            <text><text-style ref="ts12">Mentira que te mentí</text-style></text>
-            <text-style-def id="ts12"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a14" name="14_giro_listones" offset="98900/2400s" start="0s" duration="11500/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="11500/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="11500/2400s" value="-2.2 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Mentira que te mentí" offset="100/2400s" start="0s" duration="24700/2400s">
-            <text><text-style ref="ts13">Mentira que te mentí</text-style></text>
-            <text-style-def id="ts13"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a15" name="15_petalos_cielo" offset="110400/2400s" start="0s" duration="13400/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="13400/2400s" value="1.0 1.0"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="13400/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Tus ojos me miran locos" offset="13300/2400s" start="0s" duration="5300/2400s">
-            <text><text-style ref="ts14">Tus ojos me miran locos</text-style></text>
-            <text-style-def id="ts14"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a16" name="16_ojo_iris" offset="123800/2400s" start="0s" duration="5300/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="5300/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="5300/2400s" value="2.2 0"/></keyframeAnimation></param>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="10100/2400s" value="1.0 1.0"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="10100/2400s" value="0 0"/></keyframeAnimation></param>
           </adjust-transform>
 
         </asset-clip>
-        <asset-clip ref="a17" name="17_horizonte_torcido" offset="129100/2400s" start="0s" duration="7200/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="7200/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="7200/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Cuando tuerces la mirada" offset="0/2400s" start="0s" duration="6000/2400s">
-            <text><text-style ref="ts15">Cuando tuerces la mirada</text-style></text>
-            <text-style-def id="ts15"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a18" name="18_pasillo_espejos" offset="136300/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6000/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="6000/2400s" value="0 -1.2"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Cuando me miras sesgada" offset="0/2400s" start="0s" duration="5100/2400s">
-            <text><text-style ref="ts16">Cuando me miras sesgada</text-style></text>
-            <text-style-def id="ts16"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-          <title ref="fx" lane="1" name="Me miras equivocada" offset="5900/2400s" start="0s" duration="5900/2400s">
-            <text><text-style ref="ts17">Me miras equivocada</text-style></text>
-            <text-style-def id="ts17"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a19" name="19_reflejo_equivocado" offset="142300/2400s" start="0s" duration="6700/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="6700/2400s" value="1.035 1.035"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6700/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-
-        </asset-clip>
-        <asset-clip ref="a20" name="20_frascos_aromas" offset="149000/2400s" start="0s" duration="5800/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="5800/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="5800/2400s" value="-2.2 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Con cien aromas surtidos" offset="0/2400s" start="0s" duration="5700/2400s">
-            <text><text-style ref="ts18">Con cien aromas surtidos</text-style></text>
-            <text-style-def id="ts18"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a21" name="21_aroma_tarde" offset="154800/2400s" start="0s" duration="6700/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6700/2400s" value="1.0 1.0"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6700/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Te aromaste por la tarde" offset="100/2400s" start="0s" duration="6200/2400s">
-            <text><text-style ref="ts19">Te aromaste por la tarde</text-style></text>
-            <text-style-def id="ts19"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a22" name="22_lluvia_canela" offset="161500/2400s" start="0s" duration="6500/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a4" name="03_acusacion" offset="26900/2400s" start="0s" duration="6500/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
             <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6500/2400s" value="1.05 1.05"/></keyframeAnimation></param>
             <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="6500/2400s" value="2.2 0"/></keyframeAnimation></param>
           </adjust-transform>
-          <title ref="fx" lane="1" name="De canela, de jazmines" offset="0/2400s" start="0s" duration="6400/2400s">
-            <text><text-style ref="ts20">De canela, de jazmines</text-style></text>
-            <text-style-def id="ts20"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+          <title ref="fx" lane="1" name="Que es una mentira dices" offset="0/2400s" start="0s" duration="5200/2400s">
+            <text><text-style ref="ts1">Que es una mentira dices</text-style></text>
+            <text-style-def id="ts1"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+          <title ref="fx" lane="1" name="Mentira que te mentí" offset="6400/2400s" start="0s" duration="5300/2400s">
+            <text><text-style ref="ts2">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts2"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a5" name="04_mascara_se_rompe" offset="33400/2400s" start="0s" duration="6200/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="6200/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6200/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Que el corazón me lo dice" offset="6100/2400s" start="0s" duration="4700/2400s">
+            <text><text-style ref="ts3">Que el corazón me lo dice</text-style></text>
+            <text-style-def id="ts3"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
           </title>
         </asset-clip>
-        <asset-clip ref="a23" name="23_sendero_jazmin" offset="168000/2400s" start="0s" duration="6500/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="6500/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6500/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Para salir a buscarme" offset="100/2400s" start="0s" duration="6300/2400s">
-            <text><text-style ref="ts21">Para salir a buscarme</text-style></text>
-            <text-style-def id="ts21"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a24" name="24_caen_mascaras" offset="174500/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6000/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="6000/2400s" value="0 -1.2"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Que es una mentira dices" offset="100/2400s" start="0s" duration="5300/2400s">
-            <text><text-style ref="ts22">Que es una mentira dices</text-style></text>
-            <text-style-def id="ts22"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a25" name="25_manos_vacias" offset="180500/2400s" start="0s" duration="6500/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="6500/2400s" value="1.035 1.035"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6500/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Mentira que te mentí" offset="0/2400s" start="0s" duration="5000/2400s">
-            <text><text-style ref="ts23">Mentira que te mentí</text-style></text>
-            <text-style-def id="ts23"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a26" name="26_ofrece_liston" offset="187000/2400s" start="0s" duration="6700/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6700/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="6700/2400s" value="-2.2 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Mentira que te mentí" offset="0/2400s" start="0s" duration="4600/2400s">
-            <text><text-style ref="ts24">Mentira que te mentí</text-style></text>
-            <text-style-def id="ts24"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a27" name="27_liston_tenso" offset="193700/2400s" start="0s" duration="12700/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="12700/2400s" value="1.0 1.0"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="12700/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Mentira que te mentí" offset="0/2400s" start="0s" duration="37900/2400s">
-            <text><text-style ref="ts25">Mentira que te mentí</text-style></text>
-            <text-style-def id="ts25"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a28" name="28_listones_baile" offset="206400/2400s" start="0s" duration="12000/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="12000/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="12000/2400s" value="2.2 0"/></keyframeAnimation></param>
-          </adjust-transform>
-
-        </asset-clip>
-        <asset-clip ref="a29" name="29_giro_alegre" offset="218400/2400s" start="0s" duration="13200/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="13200/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="13200/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-
-        </asset-clip>
-        <asset-clip ref="a30" name="30_grito_azotea" offset="231600/2400s" start="0s" duration="5800/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a6" name="05_corazon_dice" offset="39600/2400s" start="0s" duration="5800/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
             <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="5800/2400s" value="1.05 1.05"/></keyframeAnimation></param>
             <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="5800/2400s" value="0 -1.2"/></keyframeAnimation></param>
           </adjust-transform>
-          <title ref="fx" lane="1" name="Cuando te dije te amo" offset="0/2400s" start="0s" duration="3200/2400s">
-            <text><text-style ref="ts26">Cuando te dije te amo</text-style></text>
-            <text-style-def id="ts26"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-          <title ref="fx" lane="1" name="Yo te dije la verdad" offset="5700/2400s" start="0s" duration="4200/2400s">
-            <text><text-style ref="ts27">Yo te dije la verdad</text-style></text>
-            <text-style-def id="ts27"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+          <title ref="fx" lane="1" name="Y yo te lo digo a ti" offset="5700/2400s" start="0s" duration="6200/2400s">
+            <text><text-style ref="ts4">Y yo te lo digo a ti</text-style></text>
+            <text-style-def id="ts4"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
           </title>
         </asset-clip>
-        <asset-clip ref="a31" name="31_verdad_luz" offset="237400/2400s" start="0s" duration="5200/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a7" name="06_pajaros_palabras" offset="45400/2400s" start="0s" duration="7200/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="5200/2400s" value="1.035 1.035"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="5200/2400s" value="0 0"/></keyframeAnimation></param>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="7200/2400s" value="1.035 1.035"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="7200/2400s" value="0 0"/></keyframeAnimation></param>
           </adjust-transform>
 
         </asset-clip>
-        <asset-clip ref="a32" name="32_brazos_abiertos" offset="242600/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a8" name="07_trenza_rio" offset="52600/2400s" start="0s" duration="6400/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6000/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="6000/2400s" value="-2.2 0"/></keyframeAnimation></param>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6400/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="6400/2400s" value="-2.2 0"/></keyframeAnimation></param>
           </adjust-transform>
-          <title ref="fx" lane="1" name="Con toda sinceridad" offset="100/2400s" start="0s" duration="5900/2400s">
-            <text><text-style ref="ts28">Con toda sinceridad</text-style></text>
-            <text-style-def id="ts28"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+          <title ref="fx" lane="1" name="Las trenzas de tu cabello" offset="0/2400s" start="0s" duration="5000/2400s">
+            <text><text-style ref="ts5">Las trenzas de tu cabello</text-style></text>
+            <text-style-def id="ts5"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
           </title>
         </asset-clip>
-        <asset-clip ref="a33" name="33_espiral_aves" offset="248600/2400s" start="0s" duration="8200/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a9" name="08_rios_paralelos" offset="59000/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="8200/2400s" value="1.0 1.0"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="8200/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Lo que yo siento lo clamo" offset="0/2400s" start="0s" duration="7300/2400s">
-            <text><text-style ref="ts29">Lo que yo siento lo clamo</text-style></text>
-            <text-style-def id="ts29"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a34" name="34_oido_nacar" offset="256800/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6000/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="6000/2400s" value="2.2 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Cuando tus tiernos oídos" offset="100/2400s" start="0s" duration="4900/2400s">
-            <text><text-style ref="ts30">Cuando tus tiernos oídos</text-style></text>
-            <text-style-def id="ts30"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a35" name="35_pajaros_oido" offset="262800/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="6000/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6000/2400s" value="1.0 1.0"/></keyframeAnimation></param>
             <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6000/2400s" value="0 0"/></keyframeAnimation></param>
           </adjust-transform>
-          <title ref="fx" lane="1" name="Me escuchan esta verdad" offset="0/2400s" start="0s" duration="4900/2400s">
-            <text><text-style ref="ts31">Me escuchan esta verdad</text-style></text>
-            <text-style-def id="ts31"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+          <title ref="fx" lane="1" name="Se tejen en paralelo" offset="100/2400s" start="0s" duration="4700/2400s">
+            <text><text-style ref="ts6">Se tejen en paralelo</text-style></text>
+            <text-style-def id="ts6"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+          <title ref="fx" lane="1" name="Con las trenzas de tu pelo" offset="5900/2400s" start="0s" duration="5400/2400s">
+            <text><text-style ref="ts7">Con las trenzas de tu pelo</text-style></text>
+            <text-style-def id="ts7"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
           </title>
         </asset-clip>
-        <asset-clip ref="a36" name="36_espejo_vanidad" offset="268800/2400s" start="0s" duration="6200/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a10" name="09_sube_trenza" offset="65000/2400s" start="0s" duration="6300/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6200/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="6200/2400s" value="0 -1.2"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Tu mente por vanidad" offset="0/2400s" start="0s" duration="5800/2400s">
-            <text><text-style ref="ts32">Tu mente por vanidad</text-style></text>
-            <text-style-def id="ts32"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a37" name="37_mascaras_espejo" offset="275000/2400s" start="0s" duration="8200/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="8200/2400s" value="1.035 1.035"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="8200/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="La transforma en falsedad" offset="0/2400s" start="0s" duration="7800/2400s">
-            <text><text-style ref="ts33">La transforma en falsedad</text-style></text>
-            <text-style-def id="ts33"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a38" name="38_espejo_pareja" offset="283200/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6000/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="6000/2400s" value="-2.2 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Que es una mentira dices" offset="0/2400s" start="0s" duration="5300/2400s">
-            <text><text-style ref="ts34">Que es una mentira dices</text-style></text>
-            <text-style-def id="ts34"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a39" name="39_el_espera" offset="289200/2400s" start="0s" duration="6500/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6500/2400s" value="1.0 1.0"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6500/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Mentira que te mentí" offset="0/2400s" start="0s" duration="5500/2400s">
-            <text><text-style ref="ts35">Mentira que te mentí</text-style></text>
-            <text-style-def id="ts35"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-          <title ref="fx" lane="1" name="Mentira que te mentí" offset="6400/2400s" start="0s" duration="5600/2400s">
-            <text><text-style ref="ts36">Mentira que te mentí</text-style></text>
-            <text-style-def id="ts36"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a40" name="40_toca_espejo" offset="295700/2400s" start="0s" duration="5500/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="5500/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="5500/2400s" value="2.2 0"/></keyframeAnimation></param>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6300/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="6300/2400s" value="2.2 0"/></keyframeAnimation></param>
           </adjust-transform>
 
         </asset-clip>
-        <asset-clip ref="a41" name="41_liston_horizonte" offset="301200/2400s" start="0s" duration="15100/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a11" name="10_cima_trenza" offset="71300/2400s" start="0s" duration="8400/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="15100/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="15100/2400s" value="0 0"/></keyframeAnimation></param>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="8400/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="8400/2400s" value="0 0"/></keyframeAnimation></param>
           </adjust-transform>
-          <title ref="fx" lane="1" name="Mentiraaa que te mentí" offset="0/2400s" start="0s" duration="13700/2400s">
-            <text><text-style ref="ts37">Mentiraaa que te mentí</text-style></text>
-            <text-style-def id="ts37"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+          <title ref="fx" lane="1" name="Se puede alcanzar el cielo" offset="100/2400s" start="0s" duration="6100/2400s">
+            <text><text-style ref="ts8">Se puede alcanzar el cielo</text-style></text>
+            <text-style-def id="ts8"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+          <title ref="fx" lane="1" name="Que es una mentira dices" offset="8300/2400s" start="0s" duration="4800/2400s">
+            <text><text-style ref="ts9">Que es una mentira dices</text-style></text>
+            <text-style-def id="ts9"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
           </title>
         </asset-clip>
-        <asset-clip ref="a42" name="42_frente_nacar" offset="316300/2400s" start="0s" duration="5100/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="5100/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="5100/2400s" value="0 -1.2"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Tienes de nácar la frente" offset="100/2400s" start="0s" duration="4800/2400s">
-            <text><text-style ref="ts38">Tienes de nácar la frente</text-style></text>
-            <text-style-def id="ts38"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-          <title ref="fx" lane="1" name="Los labios de terciopelo" offset="5000/2400s" start="0s" duration="6200/2400s">
-            <text><text-style ref="ts39">Los labios de terciopelo</text-style></text>
-            <text-style-def id="ts39"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a43" name="43_colinas_terciopelo" offset="321400/2400s" start="0s" duration="8600/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="8600/2400s" value="1.035 1.035"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="8600/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-
-        </asset-clip>
-        <asset-clip ref="a44" name="44_camino_pelo" offset="330000/2400s" start="0s" duration="5300/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="5300/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="5300/2400s" value="-2.2 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Quiero subirme en tu pelo" offset="0/2400s" start="0s" duration="4300/2400s">
-            <text><text-style ref="ts40">Quiero subirme en tu pelo</text-style></text>
-            <text-style-def id="ts40"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-          <title ref="fx" lane="1" name="Yo quiero alcanzar el cielo" offset="5200/2400s" start="0s" duration="5600/2400s">
-            <text><text-style ref="ts41">Yo quiero alcanzar el cielo</text-style></text>
-            <text-style-def id="ts41"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a45" name="45_mano_nube" offset="335300/2400s" start="0s" duration="6700/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6700/2400s" value="1.0 1.0"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6700/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-
-        </asset-clip>
-        <asset-clip ref="a46" name="46_pecho_estrella" offset="342000/2400s" start="0s" duration="7400/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="7400/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="7400/2400s" value="2.2 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Y estallar como una estrella" offset="100/2400s" start="0s" duration="7000/2400s">
-            <text><text-style ref="ts42">Y estallar como una estrella</text-style></text>
-            <text-style-def id="ts42"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a47" name="47_estrella_explota" offset="349400/2400s" start="0s" duration="6300/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="6300/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6300/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Rebozante de emoción" offset="100/2400s" start="0s" duration="4900/2400s">
-            <text><text-style ref="ts43">Rebozante de emoción</text-style></text>
-            <text-style-def id="ts43"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-          <title ref="fx" lane="1" name="Y que oigas de mi pulmón" offset="6200/2400s" start="0s" duration="5600/2400s">
-            <text><text-style ref="ts44">Y que oigas de mi pulmón</text-style></text>
-            <text-style-def id="ts44"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a48" name="48_oreja_pecho" offset="355700/2400s" start="0s" duration="5500/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a12" name="11_escepticismo" offset="79700/2400s" start="0s" duration="5500/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
             <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="5500/2400s" value="1.05 1.05"/></keyframeAnimation></param>
             <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="5500/2400s" value="0 -1.2"/></keyframeAnimation></param>
           </adjust-transform>
 
         </asset-clip>
-        <asset-clip ref="a49" name="49_pecho_paisaje" offset="361200/2400s" start="0s" duration="8200/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a13" name="12_ramo_de_reojo" offset="85200/2400s" start="0s" duration="7700/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="8200/2400s" value="1.035 1.035"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="8200/2400s" value="0 0"/></keyframeAnimation></param>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="7700/2400s" value="1.035 1.035"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="7700/2400s" value="0 0"/></keyframeAnimation></param>
           </adjust-transform>
-          <title ref="fx" lane="1" name="De nuevo mis sentimientos" offset="0/2400s" start="0s" duration="7100/2400s">
-            <text><text-style ref="ts45">De nuevo mis sentimientos</text-style></text>
-            <text-style-def id="ts45"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-          <title ref="fx" lane="1" name="Que es una mentira dices" offset="8100/2400s" start="0s" duration="5700/2400s">
-            <text><text-style ref="ts46">Que es una mentira dices</text-style></text>
-            <text-style-def id="ts46"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
+          <title ref="fx" lane="1" name="Mentira que te mentí" offset="100/2400s" start="0s" duration="6000/2400s">
+            <text><text-style ref="ts10">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts10"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
           </title>
         </asset-clip>
-        <asset-clip ref="a50" name="50_sonrisa" offset="369400/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a14" name="13_casa_amapolas" offset="92900/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
             <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6000/2400s" value="1.05 1.05"/></keyframeAnimation></param>
             <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="6000/2400s" value="-2.2 0"/></keyframeAnimation></param>
           </adjust-transform>
+          <title ref="fx" lane="1" name="Mentira que te mentí" offset="100/2400s" start="0s" duration="4400/2400s">
+            <text><text-style ref="ts11">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts11"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a15" name="14_giro_listones" offset="98900/2400s" start="0s" duration="11500/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="11500/2400s" value="1.0 1.0"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="11500/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Mentira que te mentí" offset="100/2400s" start="0s" duration="24700/2400s">
+            <text><text-style ref="ts12">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts12"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a16" name="15_petalos_cielo" offset="110400/2400s" start="0s" duration="13400/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="13400/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="13400/2400s" value="2.2 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Tus ojos me miran locos" offset="13300/2400s" start="0s" duration="5300/2400s">
+            <text><text-style ref="ts13">Tus ojos me miran locos</text-style></text>
+            <text-style-def id="ts13"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a17" name="16_ojo_iris" offset="123800/2400s" start="0s" duration="5300/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="5300/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="5300/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
 
         </asset-clip>
-        <asset-clip ref="a51" name="51_liston_muneca" offset="375400/2400s" start="0s" duration="7900/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a18" name="17_horizonte_torcido" offset="129100/2400s" start="0s" duration="7200/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="7900/2400s" value="1.0 1.0"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="7900/2400s" value="0 0"/></keyframeAnimation></param>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="7200/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="7200/2400s" value="0 -1.2"/></keyframeAnimation></param>
           </adjust-transform>
-          <title ref="fx" lane="1" name="Mentira que te mentí" offset="0/2400s" start="0s" duration="6400/2400s">
-            <text><text-style ref="ts47">Mentira que te mentí</text-style></text>
-            <text-style-def id="ts47"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+          <title ref="fx" lane="1" name="Cuando tuerces la mirada" offset="0/2400s" start="0s" duration="6000/2400s">
+            <text><text-style ref="ts14">Cuando tuerces la mirada</text-style></text>
+            <text-style-def id="ts14"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
           </title>
         </asset-clip>
-        <asset-clip ref="a52" name="52_lluvia_petalos" offset="383300/2400s" start="0s" duration="5300/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a19" name="18_pasillo_espejos" offset="136300/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="5300/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="5300/2400s" value="2.2 0"/></keyframeAnimation></param>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="6000/2400s" value="1.035 1.035"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6000/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Cuando me miras sesgada" offset="0/2400s" start="0s" duration="5100/2400s">
+            <text><text-style ref="ts15">Cuando me miras sesgada</text-style></text>
+            <text-style-def id="ts15"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+          <title ref="fx" lane="1" name="Me miras equivocada" offset="5900/2400s" start="0s" duration="5900/2400s">
+            <text><text-style ref="ts16">Me miras equivocada</text-style></text>
+            <text-style-def id="ts16"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a20" name="19_reflejo_equivocado" offset="142300/2400s" start="0s" duration="6700/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6700/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="6700/2400s" value="-2.2 0"/></keyframeAnimation></param>
+          </adjust-transform>
+
+        </asset-clip>
+        <asset-clip ref="a21" name="20_frascos_aromas" offset="149000/2400s" start="0s" duration="5800/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="5800/2400s" value="1.0 1.0"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="5800/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Con cien aromas surtidos" offset="0/2400s" start="0s" duration="5700/2400s">
+            <text><text-style ref="ts17">Con cien aromas surtidos</text-style></text>
+            <text-style-def id="ts17"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a22" name="21_aroma_tarde" offset="154800/2400s" start="0s" duration="6700/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6700/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="6700/2400s" value="2.2 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Te aromaste por la tarde" offset="100/2400s" start="0s" duration="6200/2400s">
+            <text><text-style ref="ts18">Te aromaste por la tarde</text-style></text>
+            <text-style-def id="ts18"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a23" name="22_lluvia_canela" offset="161500/2400s" start="0s" duration="6500/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="6500/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6500/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="De canela, de jazmines" offset="0/2400s" start="0s" duration="6400/2400s">
+            <text><text-style ref="ts19">De canela, de jazmines</text-style></text>
+            <text-style-def id="ts19"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a24" name="23_sendero_jazmin" offset="168000/2400s" start="0s" duration="6500/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6500/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="6500/2400s" value="0 -1.2"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Para salir a buscarme" offset="100/2400s" start="0s" duration="6300/2400s">
+            <text><text-style ref="ts20">Para salir a buscarme</text-style></text>
+            <text-style-def id="ts20"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a25" name="24_caen_mascaras" offset="174500/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="6000/2400s" value="1.035 1.035"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6000/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Que es una mentira dices" offset="100/2400s" start="0s" duration="5300/2400s">
+            <text><text-style ref="ts21">Que es una mentira dices</text-style></text>
+            <text-style-def id="ts21"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a26" name="25_manos_vacias" offset="180500/2400s" start="0s" duration="6500/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6500/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="6500/2400s" value="-2.2 0"/></keyframeAnimation></param>
           </adjust-transform>
           <title ref="fx" lane="1" name="Mentira que te mentí" offset="0/2400s" start="0s" duration="5000/2400s">
-            <text><text-style ref="ts48">Mentira que te mentí</text-style></text>
-            <text-style-def id="ts48"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <text><text-style ref="ts22">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts22"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a27" name="26_ofrece_liston" offset="187000/2400s" start="0s" duration="6700/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6700/2400s" value="1.0 1.0"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6700/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Mentira que te mentí" offset="0/2400s" start="0s" duration="4600/2400s">
+            <text><text-style ref="ts23">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts23"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a28" name="27_liston_tenso" offset="193700/2400s" start="0s" duration="12700/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="12700/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="12700/2400s" value="2.2 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Mentira que te mentí" offset="0/2400s" start="0s" duration="37900/2400s">
+            <text><text-style ref="ts24">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts24"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a29" name="28_listones_baile" offset="206400/2400s" start="0s" duration="12000/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="12000/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="12000/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+
+        </asset-clip>
+        <asset-clip ref="a30" name="29_giro_alegre" offset="218400/2400s" start="0s" duration="13200/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="13200/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="13200/2400s" value="0 -1.2"/></keyframeAnimation></param>
+          </adjust-transform>
+
+        </asset-clip>
+        <asset-clip ref="a31" name="30_grito_azotea" offset="231600/2400s" start="0s" duration="5800/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="5800/2400s" value="1.035 1.035"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="5800/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Cuando te dije te amo" offset="0/2400s" start="0s" duration="3200/2400s">
+            <text><text-style ref="ts25">Cuando te dije te amo</text-style></text>
+            <text-style-def id="ts25"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+          <title ref="fx" lane="1" name="Yo te dije la verdad" offset="5700/2400s" start="0s" duration="4200/2400s">
+            <text><text-style ref="ts26">Yo te dije la verdad</text-style></text>
+            <text-style-def id="ts26"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
           </title>
         </asset-clip>
-        <asset-clip ref="a53" name="53_arco_nubes" offset="388600/2400s" start="0s" duration="13600/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a32" name="31_verdad_luz" offset="237400/2400s" start="0s" duration="5200/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="13600/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="13600/2400s" value="0 0"/></keyframeAnimation></param>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="5200/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="5200/2400s" value="-2.2 0"/></keyframeAnimation></param>
+          </adjust-transform>
+
+        </asset-clip>
+        <asset-clip ref="a33" name="32_brazos_abiertos" offset="242600/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6000/2400s" value="1.0 1.0"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6000/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Con toda sinceridad" offset="100/2400s" start="0s" duration="5900/2400s">
+            <text><text-style ref="ts27">Con toda sinceridad</text-style></text>
+            <text-style-def id="ts27"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a34" name="33_espiral_aves" offset="248600/2400s" start="0s" duration="8200/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="8200/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="8200/2400s" value="2.2 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Lo que yo siento lo clamo" offset="0/2400s" start="0s" duration="7300/2400s">
+            <text><text-style ref="ts28">Lo que yo siento lo clamo</text-style></text>
+            <text-style-def id="ts28"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a35" name="34_oido_nacar" offset="256800/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="6000/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6000/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Cuando tus tiernos oídos" offset="100/2400s" start="0s" duration="4900/2400s">
+            <text><text-style ref="ts29">Cuando tus tiernos oídos</text-style></text>
+            <text-style-def id="ts29"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a36" name="35_pajaros_oido" offset="262800/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6000/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="6000/2400s" value="0 -1.2"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Me escuchan esta verdad" offset="0/2400s" start="0s" duration="4900/2400s">
+            <text><text-style ref="ts30">Me escuchan esta verdad</text-style></text>
+            <text-style-def id="ts30"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a37" name="36_espejo_vanidad" offset="268800/2400s" start="0s" duration="6200/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="6200/2400s" value="1.035 1.035"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6200/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Tu mente por vanidad" offset="0/2400s" start="0s" duration="5800/2400s">
+            <text><text-style ref="ts31">Tu mente por vanidad</text-style></text>
+            <text-style-def id="ts31"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a38" name="37_mascaras_espejo" offset="275000/2400s" start="0s" duration="8200/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="8200/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="8200/2400s" value="-2.2 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="La transforma en falsedad" offset="0/2400s" start="0s" duration="7800/2400s">
+            <text><text-style ref="ts32">La transforma en falsedad</text-style></text>
+            <text-style-def id="ts32"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a39" name="38_espejo_pareja" offset="283200/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6000/2400s" value="1.0 1.0"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6000/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Que es una mentira dices" offset="0/2400s" start="0s" duration="5300/2400s">
+            <text><text-style ref="ts33">Que es una mentira dices</text-style></text>
+            <text-style-def id="ts33"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a40" name="39_el_espera" offset="289200/2400s" start="0s" duration="6500/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6500/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="6500/2400s" value="2.2 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Mentira que te mentí" offset="0/2400s" start="0s" duration="5500/2400s">
+            <text><text-style ref="ts34">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts34"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
+          </title>
+          <title ref="fx" lane="1" name="Mentira que te mentí" offset="6400/2400s" start="0s" duration="5600/2400s">
+            <text><text-style ref="ts35">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts35"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a41" name="40_toca_espejo" offset="295700/2400s" start="0s" duration="5500/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="5500/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="5500/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+
+        </asset-clip>
+        <asset-clip ref="a42" name="41_liston_horizonte" offset="301200/2400s" start="0s" duration="15100/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="15100/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="15100/2400s" value="0 -1.2"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Mentiraaa que te mentí" offset="0/2400s" start="0s" duration="13700/2400s">
+            <text><text-style ref="ts36">Mentiraaa que te mentí</text-style></text>
+            <text-style-def id="ts36"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a43" name="42_frente_nacar" offset="316300/2400s" start="0s" duration="5100/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="5100/2400s" value="1.035 1.035"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="5100/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Tienes de nácar la frente" offset="100/2400s" start="0s" duration="4800/2400s">
+            <text><text-style ref="ts37">Tienes de nácar la frente</text-style></text>
+            <text-style-def id="ts37"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+          <title ref="fx" lane="1" name="Los labios de terciopelo" offset="5000/2400s" start="0s" duration="6200/2400s">
+            <text><text-style ref="ts38">Los labios de terciopelo</text-style></text>
+            <text-style-def id="ts38"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a44" name="43_colinas_terciopelo" offset="321400/2400s" start="0s" duration="8600/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="8600/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="8600/2400s" value="-2.2 0"/></keyframeAnimation></param>
+          </adjust-transform>
+
+        </asset-clip>
+        <asset-clip ref="a45" name="44_camino_pelo" offset="330000/2400s" start="0s" duration="5300/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="5300/2400s" value="1.0 1.0"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="5300/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Quiero subirme en tu pelo" offset="0/2400s" start="0s" duration="4300/2400s">
+            <text><text-style ref="ts39">Quiero subirme en tu pelo</text-style></text>
+            <text-style-def id="ts39"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+          <title ref="fx" lane="1" name="Yo quiero alcanzar el cielo" offset="5200/2400s" start="0s" duration="5600/2400s">
+            <text><text-style ref="ts40">Yo quiero alcanzar el cielo</text-style></text>
+            <text-style-def id="ts40"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a46" name="45_mano_nube" offset="335300/2400s" start="0s" duration="6700/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6700/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="6700/2400s" value="2.2 0"/></keyframeAnimation></param>
+          </adjust-transform>
+
+        </asset-clip>
+        <asset-clip ref="a47" name="46_pecho_estrella" offset="342000/2400s" start="0s" duration="7400/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="7400/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="7400/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Y estallar como una estrella" offset="100/2400s" start="0s" duration="7000/2400s">
+            <text><text-style ref="ts41">Y estallar como una estrella</text-style></text>
+            <text-style-def id="ts41"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a48" name="47_estrella_explota" offset="349400/2400s" start="0s" duration="6300/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6300/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="6300/2400s" value="0 -1.2"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Rebozante de emoción" offset="100/2400s" start="0s" duration="4900/2400s">
+            <text><text-style ref="ts42">Rebozante de emoción</text-style></text>
+            <text-style-def id="ts42"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+          <title ref="fx" lane="1" name="Y que oigas de mi pulmón" offset="6200/2400s" start="0s" duration="5600/2400s">
+            <text><text-style ref="ts43">Y que oigas de mi pulmón</text-style></text>
+            <text-style-def id="ts43"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a49" name="48_oreja_pecho" offset="355700/2400s" start="0s" duration="5500/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="5500/2400s" value="1.035 1.035"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="5500/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+
+        </asset-clip>
+        <asset-clip ref="a50" name="49_pecho_paisaje" offset="361200/2400s" start="0s" duration="8200/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="8200/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="8200/2400s" value="-2.2 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="De nuevo mis sentimientos" offset="0/2400s" start="0s" duration="7100/2400s">
+            <text><text-style ref="ts44">De nuevo mis sentimientos</text-style></text>
+            <text-style-def id="ts44"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+          <title ref="fx" lane="1" name="Que es una mentira dices" offset="8100/2400s" start="0s" duration="5700/2400s">
+            <text><text-style ref="ts45">Que es una mentira dices</text-style></text>
+            <text-style-def id="ts45"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -38"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a51" name="50_sonrisa" offset="369400/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6000/2400s" value="1.0 1.0"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6000/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+
+        </asset-clip>
+        <asset-clip ref="a52" name="51_liston_muneca" offset="375400/2400s" start="0s" duration="7900/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="7900/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="7900/2400s" value="2.2 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Mentira que te mentí" offset="0/2400s" start="0s" duration="6400/2400s">
+            <text><text-style ref="ts46">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts46"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a53" name="52_lluvia_petalos" offset="383300/2400s" start="0s" duration="5300/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="5300/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="5300/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Mentira que te mentí" offset="0/2400s" start="0s" duration="5000/2400s">
+            <text><text-style ref="ts47">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts47"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a54" name="53_arco_nubes" offset="388600/2400s" start="0s" duration="13600/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="13600/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="13600/2400s" value="0 -1.2"/></keyframeAnimation></param>
           </adjust-transform>
           <title ref="fx" lane="1" name="Mentira que te mentí" offset="100/2400s" start="0s" duration="12600/2400s">
-            <text><text-style ref="ts49">Mentira que te mentí</text-style></text>
+            <text><text-style ref="ts48">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts48"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a55" name="54_caminan_alba" offset="402200/2400s" start="0s" duration="7000/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="7000/2400s" value="1.035 1.035"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="7000/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Que es una mentira dices" offset="100/2400s" start="0s" duration="5800/2400s">
+            <text><text-style ref="ts49">Que es una mentira dices</text-style></text>
             <text-style-def id="ts49"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
           </title>
         </asset-clip>
-        <asset-clip ref="a54" name="54_caminan_alba" offset="402200/2400s" start="0s" duration="7000/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a56" name="55_frente_con_frente" offset="409200/2400s" start="0s" duration="7400/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="7000/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="7000/2400s" value="0 -1.2"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Que es una mentira dices" offset="100/2400s" start="0s" duration="5800/2400s">
-            <text><text-style ref="ts50">Que es una mentira dices</text-style></text>
-            <text-style-def id="ts50"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a55" name="55_frente_con_frente" offset="409200/2400s" start="0s" duration="7400/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="7400/2400s" value="1.035 1.035"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="7400/2400s" value="0 0"/></keyframeAnimation></param>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="7400/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="7400/2400s" value="-2.2 0"/></keyframeAnimation></param>
           </adjust-transform>
           <title ref="fx" lane="1" name="Mentira que te mentí" offset="0/2400s" start="0s" duration="5500/2400s">
-            <text><text-style ref="ts51">Mentira que te mentí</text-style></text>
-            <text-style-def id="ts51"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
+            <text><text-style ref="ts50">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts50"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
           </title>
         </asset-clip>
-        <asset-clip ref="a56" name="56_cielo_reflejado" offset="416600/2400s" start="0s" duration="5300/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a57" name="56_cielo_reflejado" offset="416600/2400s" start="0s" duration="5300/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="5300/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="5300/2400s" value="-2.2 0"/></keyframeAnimation></param>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="5300/2400s" value="1.0 1.0"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="5300/2400s" value="0 0"/></keyframeAnimation></param>
           </adjust-transform>
           <title ref="fx" lane="1" name="Mentira que te mentí" offset="100/2400s" start="0s" duration="4200/2400s">
-            <text><text-style ref="ts52">Mentira que te mentí</text-style></text>
-            <text-style-def id="ts52"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
+            <text><text-style ref="ts51">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts51"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
           </title>
           <title ref="fx" lane="1" name="Mentira que te mentí" offset="5200/2400s" start="0s" duration="9200/2400s">
-            <text><text-style ref="ts53">Mentira que te mentí</text-style></text>
+            <text><text-style ref="ts52">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts52"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a58" name="57_espiral_petalos" offset="421900/2400s" start="0s" duration="9900/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="9900/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="9900/2400s" value="2.2 0"/></keyframeAnimation></param>
+          </adjust-transform>
+
+        </asset-clip>
+        <asset-clip ref="a59" name="58_huellas" offset="431800/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="6000/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="6000/2400s" value="0 0"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Mentira que te mentí Mentira que te mentí" offset="0/2400s" start="0s" duration="5100/2400s">
+            <text><text-style ref="ts53">Mentira que te mentí Mentira que te mentí</text-style></text>
             <text-style-def id="ts53"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
             <adjust-transform position="0 -38"/>
           </title>
         </asset-clip>
-        <asset-clip ref="a57" name="57_espiral_petalos" offset="421900/2400s" start="0s" duration="9900/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a60" name="59_amanecer_juntos" offset="437800/2400s" start="0s" duration="15800/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="9900/2400s" value="1.0 1.0"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="9900/2400s" value="0 0"/></keyframeAnimation></param>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="15800/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="15800/2400s" value="0 -1.2"/></keyframeAnimation></param>
+          </adjust-transform>
+          <title ref="fx" lane="1" name="Mentira que te mentí" offset="0/2400s" start="0s" duration="4400/2400s">
+            <text><text-style ref="ts54">Mentira que te mentí</text-style></text>
+            <text-style-def id="ts54"><text-style font="Helvetica" fontSize="90" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
+            <adjust-transform position="0 -5"/>
+          </title>
+        </asset-clip>
+        <asset-clip ref="a61" name="60_prado_espejo" offset="453600/2400s" start="0s" duration="9600/2400s" format="r2" tcFormat="NDF">
+          <adjust-transform>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="9600/2400s" value="1.035 1.035"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="9600/2400s" value="0 0"/></keyframeAnimation></param>
           </adjust-transform>
 
         </asset-clip>
-        <asset-clip ref="a58" name="58_huellas" offset="431800/2400s" start="0s" duration="6000/2400s" format="r2" tcFormat="NDF">
+        <asset-clip ref="a62" name="61_cierre" offset="463200/2400s" start="0s" duration="26400/2400s" format="r2" tcFormat="NDF">
           <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="6000/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="-2.2 0"/><keyframe time="6000/2400s" value="2.2 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Mentira que te mentí Mentira que te mentí" offset="0/2400s" start="0s" duration="5100/2400s">
-            <text><text-style ref="ts54">Mentira que te mentí Mentira que te mentí</text-style></text>
-            <text-style-def id="ts54"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a59" name="59_amanecer_juntos" offset="437800/2400s" start="0s" duration="15800/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.0 1.0"/><keyframe time="15800/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 0"/><keyframe time="15800/2400s" value="0 0"/></keyframeAnimation></param>
-          </adjust-transform>
-          <title ref="fx" lane="1" name="Mentira que te mentí" offset="0/2400s" start="0s" duration="4400/2400s">
-            <text><text-style ref="ts55">Mentira que te mentí</text-style></text>
-            <text-style-def id="ts55"><text-style font="Helvetica" fontSize="60" fontFace="Bold" fontColor="1 1 1 1" shadowColor="0 0 0 0.8" shadowOffset="4 315" alignment="center"/></text-style-def>
-            <adjust-transform position="0 -38"/>
-          </title>
-        </asset-clip>
-        <asset-clip ref="a60" name="60_prado_espejo" offset="453600/2400s" start="0s" duration="21600/2400s" format="r2" tcFormat="NDF">
-          <adjust-transform>
-            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="21600/2400s" value="1.05 1.05"/></keyframeAnimation></param>
-            <param name="position"><keyframeAnimation><keyframe time="0s" value="0 1.2"/><keyframe time="21600/2400s" value="0 -1.2"/></keyframeAnimation></param>
+            <param name="scale"><keyframeAnimation><keyframe time="0s" value="1.05 1.05"/><keyframe time="26400/2400s" value="1.05 1.05"/></keyframeAnimation></param>
+            <param name="position"><keyframeAnimation><keyframe time="0s" value="2.2 0"/><keyframe time="26400/2400s" value="-2.2 0"/></keyframeAnimation></param>
           </adjust-transform>
 
         </asset-clip>
