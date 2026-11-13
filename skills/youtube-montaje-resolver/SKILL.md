@@ -49,3 +49,10 @@ Inventario completo de las transiciones de Resolver (Dissolve, Iris, Motion, Sha
 - Transiciones (disolvencia, zoom cruzado, destello) automáticas.
 - Exportar también el render final (Deliver) con presets de YouTube 1080p.
 - Parametrizar el script por línea de comandos en vez de editar constantes.
+
+## Publicación en YouTube Studio (aprendido el 2026-11-13)
+- **El archivo del video lo elige el usuario** en el selector de Windows: la herramienta del navegador solo sube hasta 10 MB por llamada. Miniatura (PNG) y `letra.srt` sí se pueden subir desde aquí (campos de archivo ocultos: `file-loader` y `captions-file-loader`).
+- La descripción es un `contenteditable`: se llena con JavaScript (`execCommand('insertText')`), no con `form_input`.
+- Hora de publicación: el campo de hora es una lista desplegable; elegir el elemento (por ejemplo «6:00 p. m.»), no escribir. Un borrador **no conserva la fecha programada**: si se cierra el cuadro antes de «Programar», hay que volver a poner fecha y hora.
+- Al abrir el desplegable «Programar» ojo con el clic: si cae en «Público» el botón cambia a **Publicar**; revisar que el botón diga **Programar** antes de pulsarlo.
+- Para este canal: playlist «Mis canciones», no es para niños, uso de IA = Sí, idioma Español (México), categoría Música. La pantalla final (suscripción) se coloca a mano en Studio.
