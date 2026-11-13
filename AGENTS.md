@@ -81,6 +81,9 @@ Aplica a todo video nuevo del canal:
 2. **Último plano:** tarjeta final con título, «por Juan Pablo Marichal» y botón blanco «Suscríbete al canal». `youtube/endcard.py`.
 3. Una imagen por frase de la letra; estilo elegido por canción con el usuario; versiones previas se conservan aparte.
 4. Montaje en DaVinci Resolve (gratuito) vía FCPXML: `skills/youtube-montaje-resolver/SKILL.md`.
+5. Descripción de YouTube: tesis y **origen que cuenta el autor** (se le pregunta antes de escribirla), formato de 5 partes, letra completa, capítulos y créditos («Letra, tonada y voz inicial: JPMarichal…»); se guarda en `youtube/<cancion>/PUBLICACION.md`. Marcar «contenido alterado o sintético» si las imágenes son realistas.
+6. Publicar como **Estreno** (reloj regresivo), a la hora aprobada por el autor, y solo tras un sí explícito antes de pulsar «Programar».
+7. Una imagen **por frase**, con estilo propuesto y probado en 3 escenas antes de generar: `skills/youtube-imagenes/SKILL.md`.
 
 ## Comandos
 

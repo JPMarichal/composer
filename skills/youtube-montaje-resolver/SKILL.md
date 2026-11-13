@@ -56,3 +56,6 @@ Inventario completo de las transiciones de Resolver (Dissolve, Iris, Motion, Sha
 - Hora de publicación: el campo de hora es una lista desplegable; elegir el elemento (por ejemplo «6:00 p. m.»), no escribir. Un borrador **no conserva la fecha programada**: si se cierra el cuadro antes de «Programar», hay que volver a poner fecha y hora.
 - Al abrir el desplegable «Programar» ojo con el clic: si cae en «Público» el botón cambia a **Publicar**; revisar que el botón diga **Programar** antes de pulsarlo.
 - Para este canal: playlist «Mis canciones», no es para niños, uso de IA = Sí, idioma Español (México), categoría Música. La pantalla final (suscripción) se coloca a mano en Studio.
+- **Estreno (decisión del usuario, 2026-11-13):** se publica como **Estreno** para que tenga el reloj regresivo y la sala de espera. Se marca en Visibilidad con «Establecer como Estreno» (la casilla debajo de la fecha); vale para todos los videos nuevos.
+- La **pantalla final** y la tarjeta de suscripción de YouTube se colocan a mano después de subir (no se pueden colocar con precisión desde la automatización).
+- **El día del estreno:** comprobar que salga público, que los capítulos aparezcan, responder los primeros comentarios y fijar el comentario sugerido en `PUBLICACION.md`.

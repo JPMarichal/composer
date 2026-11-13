@@ -16,9 +16,9 @@ Documentos hermanos (leer antes de trabajar):
 - `skills/spotify-canvas/SKILL.md` y `canvas/ESTADO.md`: método y lecciones de generación de imágenes.
 
 ## Decisiones ya tomadas (no reabrir sin el usuario)
-- Formato "D" de la estrategia: **escenas secuenciales sin loop**, una por sección de la letra, con un motivo central que vuelve en los coros. 12–16 escenas de 10–18 s para una canción de ~4 min (el piloto salió con 17).
-- 16:9. Generar a **1280×720** y reescalar a 1920×1080 en el montaje. Dejar la **zona inferior calmada y sin detalle** (22 % inferior = controles del reproductor) y el 12 % superior libre.
-- Sin video generativo. Sin letra quemada en imágenes ni video: la letra va en `.srt` y en la descripción. Título discreto de 3–4 s al inicio, como máximo.
+- Formato: **escenas secuenciales sin loop** con un motivo central que vuelve. **Desde el 2026-11-13 la norma es una imagen por frase de la letra** (≈ 60 imágenes de 3 a 6 s para una canción de 3 a 4 min), porque con 12 a 30 imágenes había frases que cambiaban sin que cambiara la imagen y la historia se perdía. Los instrumentales largos llevan 2 o 3 imágenes. (Las primeras pruebas usaron 12 a 17 escenas de 10 a 18 s.)
+- 16:9. Generar **directo a 1920×1080** (≈ 2 min por imagen en la RTX 3050 de 6 GB; 1280×720 reescalado sale blando; ver abajo lo de las imágenes negras). Dejar la **zona inferior calmada y sin detalle** (22 % inferior = controles del reproductor) y el 12 % superior libre.
+- Sin video generativo. **Nada de letra dentro de las imágenes** (siempre «no text, no letters» en el prompt). La letra va en el `.srt`, en la descripción y, desde la versión narrativa, como **títulos de DaVinci Resolve** sobre el video (el usuario los aprobó). Portada de 3,5 s al inicio y tarjeta final: ver 4b.
 - Estilo, paleta y transiciones **distintos por canción** (la política de contenido "no auténtico" de YouTube castiga lo plantillado).
 - Textos públicos: **no nombrar herramientas** (Suno, ACE Studio, ComfyUI, etc.); español de México. Créditos: "producido con herramientas de IA bajo su dirección" y "Este video usa contenido generado o alterado con IA".
 
@@ -59,7 +59,7 @@ Documentos hermanos (leer antes de trabajar):
 ### 4. Portada y miniatura
 `python youtube/cover.py <imagen.png> "<Título>" <carpeta_salida> [--author JPMarichal]` genera `portada_1920x1080.png` y `miniatura_1280x720.png`. Zonas seguras: 12 % superior y 22 % inferior libres, márgenes laterales ≥ 8 %, título centrado al 58 %. Elegir una escena **oscura o con el sujeto fuera del centro**: el título se dibuja centrado y tapa lo que haya ahí, y el nombre del autor no se lee sobre fondos claros (en "Yo siento amor infinito por ti" el amanecer fallaba y la escena nocturna funcionó). Revisar siempre portada y miniatura a la vista. Miniatura con ≤ 3–5 palabras. El usuario aprueba antes de publicar.
 
-### 5. Montaje (fuera de este skill; ver `youtube/CAMTASIA.md`)
+### 5. Montaje (fuera de este skill; **DaVinci Resolve**, ver `skills/youtube-montaje-resolver/SKILL.md`; `youtube/CAMTASIA.md` queda solo como respaldo)
 - Proyecto 1920×1080 a 24 fps; importar el **WAV maestro**. Cada imagen a 1920×1080 con zoom máximo ≈ 110 %, alternando zoom-in, zoom-out y panorámica izquierda/derecha (no repetir el mismo movimiento en planos consecutivos).
 - 10–18 s por imagen, con los cambios en el inicio de cada sección y al pulso. **Primeros 15 s con movimiento visible** desde el cuadro 0 (nada de negro ni título largo).
 - Transiciones: disolvencia larga (≈ 1–1,5 s) por defecto y 2–3 variantes elegidas por el paso narrativo (cortina suave, empuje, zoom cruzado), como en `skills/spotify-canvas/SKILL.md` apartado 2b. Sin destellos ni cortes bruscos. Pantalla final de 15–20 s con un plano calmado y sin texto.
@@ -118,3 +118,14 @@ La tercera iteración de "Mentira que te mentí" fue la aprobada. Resultado en `
 - **Entrega progresiva:** el usuario prefiere ver las imágenes conforme salen. `youtube/mentira-que-te-menti/entrega_progresiva.sh` copia cada imagen nueva a la carpeta de fotogramas y avisa cada 3 (Monitor, hay que rearmarlo cada 30 min). Revisar cada lote con una hoja de contacto y avisar de las rechazadas sin tocar archivos mientras corre la generación (si no, el generador regenera con el prompt viejo).
 - **Dos generadores a la vez no:** para tandas con estilos distintos usar un `scenes_*.json` por tanda y ejecutarlas una tras otra.
 - **Pregunta antes de estilizar:** pedir el prompt de estilo de la canción (género, instrumentos, ambiente) y leer el tempo con la autocorrelación (172/117/86 BPM = hemiola), pero no traducir literalmente palabras técnicas del prompt (glitch, hiss) a las imágenes: el tono lo da la letra y el ritmo.
+
+## Versión narrativa de «Mentira que te mentí» (2026-11-13): lo que quedó como norma
+Resultado: 60 imágenes fotográficas surrealistas, una por frase, aprobadas por el usuario («muy superior a la versión infantil»). Carpeta de trabajo `youtube/mentira-que-te-menti/v_narrativa/`; la versión anterior quedó aparte.
+- **Proceso de estilo:** el usuario manda imágenes de referencia como **sugerencias**, no mandatos; el estilo se decide **por canción** y el fotorrealismo no está prohibido (lo que se rechazó fue el desajuste con el tono). Antes de generar todo: proponer por escrito, probar **3 escenas**, aprobar el estilo y luego la **tabla completa** (`build_narrativa.py` → `scenes.json`, `tabla.json`, `PLAN_narrativa.md`).
+- **Contar la historia:** cada imagen es la frase hecha escena con **un solo fenómeno imposible grande** (máscaras flotando, trenza como camino, plaza que refleja otro cielo). Lo imposible sutil el modelo lo suaviza hacia lo realista; lo grande y claro funciona. Personajes recurrentes por **ropa y objeto ancla** (vestido amarillo, camisa blanca, listón coral); el modelo no conserva rostros.
+- **Tensión como arco de color:** frío (negación) → cálido (pruebas) → oro y rosa (reconciliación).
+- **Reglas fijas del usuario:** nada de café; ropa larga y recatada; sin poses íntimas ni abrazos tendidos; escala equilibrada entre personajes; sin ruido ni grano.
+- **Fallos típicos y cura:** personas duplicadas o de más (usar «a single person alone in the frame» y no nombrar la ausencia), cuerpos en diagonal que parecen caídas, la palabra «road/camino» hace aparecer una carretera (describir la trenza como superficie, sin «camino»), extremos de la trenza visibles (hacerla salir del cuadro). Revisar **cada lote con hoja de contacto** (`hoja.py`) y regenerar solo lo malo, archivando lo descartado como `_v1`, `_v2`.
+- **Entrega progresiva:** `entrega.sh` copia a `P:` cada 3 imágenes nuevas y un Monitor avisa; no tocar archivos mientras corre el generador.
+- **GPU:** si una imagen tarda mucho más de 2 minutos, mirar `nvidia-smi`: otro proceso (por ejemplo otra sesión) compitiendo por la tarjeta detuvo la generación 34 minutos.
+- **Después de las imágenes:** montaje, portada, tarjeta final y publicación con los skills enlazados en 4b y en `skills/youtube-montaje-resolver/SKILL.md`.
