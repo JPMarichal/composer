@@ -1,0 +1,13 @@
+{
+ "style": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial fashion photography, tense emotional atmosphere, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. ",
+ "width": 1920,
+ "height": 1080,
+ "scenes": [
+  {"id": "T1_duda_mascaras", "seed": 82001,
+   "prompt": "Palette of cold teal and deep blue with a warm yellow accent. A young woman in a long yellow dress with a long braid stands alone in an empty stormy plaza at dusk, dozens of translucent white porcelain masks float in the air around her like a swarm, one mask covers half of her face, her eyes look down suspicious and uncertain, a long coral ribbon lies on the ground in front of her, cinematic low angle"},
+  {"id": "T2_trenza_cielo", "seed": 82002,
+   "prompt": "Palette of rose, gold and sky blue. A young woman in a long yellow dress seen from behind in the middle of an empty street, her very long braid rises from her head straight up into the clouds like a rope and keeps climbing into the sky, a young man in a white shirt stands at her side with his head tilted back looking up in awe, wide cinematic shot, a sky much larger than the street, tender and impossible"},
+  {"id": "T3_cielo_reflejado", "seed": 82003,
+   "prompt": "Palette of lavender, turquoise and gold. A flooded empty plaza that reflects a golden sunrise sky while the real sky above is a deep night with stars, a young woman in a long yellow dress stands in the shallow water looking at her reflection, a young man in a white shirt holds out his open hand toward her from a few steps away, ripples spreading, wide cinematic shot, the two worlds meet at the horizon"}
+ ]
+}

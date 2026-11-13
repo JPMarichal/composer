@@ -1,0 +1,422 @@
+[
+ {
+  "id": "01_plaza_mascaras",
+  "t": 0.0,
+  "letra": "intro",
+  "kind": "N",
+  "ref": null
+ },
+ {
+  "id": "02_duda_mascaras",
+  "t": 5.6,
+  "letra": "intro",
+  "kind": "R",
+  "ref": "T1_duda_mascaras.png"
+ },
+ {
+  "id": "03_acusacion",
+  "t": 11.2,
+  "letra": "Que es una mentira dices",
+  "kind": "R",
+  "ref": "P1_acusacion.png"
+ },
+ {
+  "id": "04_mascara_se_rompe",
+  "t": 13.9,
+  "letra": "Mentira que te mentí",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "05_corazon_dice",
+  "t": 16.5,
+  "letra": "Que el corazón me lo dice",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "06_pajaros_palabras",
+  "t": 18.9,
+  "letra": "Y yo te lo digo a ti",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "07_trenza_rio",
+  "t": 21.9,
+  "letra": "Las trenzas de tu cabello",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "08_rios_paralelos",
+  "t": 24.6,
+  "letra": "Se tejen en paralelo",
+  "kind": "N",
+  "ref": null
+ },
+ {
+  "id": "09_sube_trenza",
+  "t": 27.1,
+  "letra": "Con las trenzas de tu pelo",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "10_cima_trenza",
+  "t": 29.7,
+  "letra": "Se puede alcanzar el cielo",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "11_escepticismo",
+  "t": 33.2,
+  "letra": "Que es una mentira dices",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "12_ramo_de_reojo",
+  "t": 35.5,
+  "letra": "Mentira que te mentí",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "13_casa_amapolas",
+  "t": 38.7,
+  "letra": "Mentira que te mentí",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "14_giro_listones",
+  "t": 41.2,
+  "letra": "Mentira que te mentí",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "15_petalos_cielo",
+  "t": 46.0,
+  "letra": "(instrumental)",
+  "kind": "N",
+  "ref": null
+ },
+ {
+  "id": "16_ojo_iris",
+  "t": 51.6,
+  "letra": "Tus ojos me miran locos",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "17_horizonte_torcido",
+  "t": 53.8,
+  "letra": "Cuando tuerces la mirada",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "18_pasillo_espejos",
+  "t": 56.8,
+  "letra": "Cuando me miras sesgada",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "19_reflejo_equivocado",
+  "t": 59.3,
+  "letra": "Me miras equivocada",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "20_frascos_aromas",
+  "t": 62.1,
+  "letra": "Con cien aromas surtidos",
+  "kind": "N",
+  "ref": null
+ },
+ {
+  "id": "21_aroma_tarde",
+  "t": 64.5,
+  "letra": "Te aromaste por la tarde",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "22_lluvia_canela",
+  "t": 67.3,
+  "letra": "De canela, de jazmines",
+  "kind": "N",
+  "ref": null
+ },
+ {
+  "id": "23_sendero_jazmin",
+  "t": 70.0,
+  "letra": "Para salir a buscarme",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "24_caen_mascaras",
+  "t": 72.7,
+  "letra": "Que es una mentira dices",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "25_manos_vacias",
+  "t": 75.2,
+  "letra": "Mentira que te mentí",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "26_ofrece_liston",
+  "t": 77.9,
+  "letra": "Mentira que te mentí",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "27_liston_tenso",
+  "t": 80.7,
+  "letra": "Mentira que te mentí",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "28_listones_baile",
+  "t": 86.0,
+  "letra": "(instrumental)",
+  "kind": "N",
+  "ref": null
+ },
+ {
+  "id": "29_giro_alegre",
+  "t": 91.0,
+  "letra": "(instrumental)",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "30_grito_azotea",
+  "t": 96.5,
+  "letra": "Cuando te dije te amo",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "31_verdad_luz",
+  "t": 98.9,
+  "letra": "Yo te dije la verdad",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "32_brazos_abiertos",
+  "t": 101.1,
+  "letra": "Con toda sinceridad",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "33_espiral_aves",
+  "t": 103.6,
+  "letra": "Lo que yo siento lo clamo",
+  "kind": "N",
+  "ref": null
+ },
+ {
+  "id": "34_oido_nacar",
+  "t": 107.0,
+  "letra": "Cuando tus tiernos oídos",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "35_pajaros_oido",
+  "t": 109.5,
+  "letra": "Me escuchan esta verdad",
+  "kind": "N",
+  "ref": null
+ },
+ {
+  "id": "36_espejo_vanidad",
+  "t": 112.0,
+  "letra": "Tu mente por vanidad",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "37_mascaras_espejo",
+  "t": 114.6,
+  "letra": "La transforma en falsedad",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "38_espejo_pareja",
+  "t": 118.0,
+  "letra": "Que es una mentira dices",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "39_el_espera",
+  "t": 120.5,
+  "letra": "Mentira que te mentí",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "40_toca_espejo",
+  "t": 123.2,
+  "letra": "Mentira que te mentí",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "41_liston_horizonte",
+  "t": 125.5,
+  "letra": "Mentiraaa que te mentí",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "42_frente_nacar",
+  "t": 131.8,
+  "letra": "Tienes de nácar la frente",
+  "kind": "N",
+  "ref": null
+ },
+ {
+  "id": "43_colinas_terciopelo",
+  "t": 133.9,
+  "letra": "Los labios de terciopelo",
+  "kind": "N",
+  "ref": null
+ },
+ {
+  "id": "44_camino_pelo",
+  "t": 137.5,
+  "letra": "Quiero subirme en tu pelo",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "45_mano_nube",
+  "t": 139.7,
+  "letra": "Yo quiero alcanzar el cielo",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "46_pecho_estrella",
+  "t": 142.5,
+  "letra": "Y estallar como una estrella",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "47_estrella_explota",
+  "t": 145.6,
+  "letra": "Rebozante de emoción",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "48_oreja_pecho",
+  "t": 148.2,
+  "letra": "Y que oigas de mi pulmón",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "49_pecho_paisaje",
+  "t": 150.5,
+  "letra": "De nuevo mis sentimientos",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "50_sonrisa",
+  "t": 153.9,
+  "letra": "Que es una mentira dices",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "51_liston_muneca",
+  "t": 156.4,
+  "letra": "Mentira que te mentí",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "52_lluvia_petalos",
+  "t": 159.7,
+  "letra": "Mentira que te mentí",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "53_arco_nubes",
+  "t": 161.9,
+  "letra": "Mentira que te mentí",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "54_caminan_alba",
+  "t": 167.6,
+  "letra": "Que es una mentira dices",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "55_frente_con_frente",
+  "t": 170.5,
+  "letra": "Mentira que te mentí",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "56_cielo_reflejado",
+  "t": 173.6,
+  "letra": "Mentira que te mentí",
+  "kind": "R",
+  "ref": "T3_cielo_reflejado.png"
+ },
+ {
+  "id": "57_espiral_petalos",
+  "t": 175.8,
+  "letra": "Mentira que te mentí",
+  "kind": "N",
+  "ref": null
+ },
+ {
+  "id": "58_huellas",
+  "t": 179.9,
+  "letra": "Mentira que te mentí",
+  "kind": "N",
+  "ref": null
+ },
+ {
+  "id": "59_amanecer_juntos",
+  "t": 182.4,
+  "letra": "Mentira que te mentí",
+  "kind": "P",
+  "ref": null
+ },
+ {
+  "id": "60_prado_espejo",
+  "t": 189.0,
+  "letra": "(cierre)",
+  "kind": "N",
+  "ref": null
+ }
+]

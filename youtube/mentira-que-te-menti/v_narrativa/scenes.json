@@ -1,0 +1,292 @@
+{
+ "style": "",
+ "width": 1920,
+ "height": 1080,
+ "scenes": [
+  {
+   "id": "01_plaza_mascaras",
+   "seed": 83000,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, wide composition, no text, no letters. Palette of cold teal, deep blue and a warm yellow accent. An empty stormy plaza at dusk with a long coral ribbon lying on the ground and dozens of translucent white porcelain masks beginning to gather in the dark sky, wide cinematic shot, ominous and quiet"
+  },
+  {
+   "id": "04_mascara_se_rompe",
+   "seed": 83033,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of cold teal, deep blue and a warm yellow accent. a young woman in a long yellow dress with long sleeves and a long dark braid stands with her arms crossed and a young man in a white shirt with rolled sleeves and dark trousers stands facing her, between them a large white porcelain mask floating at eye level is shattering into thousands of white jasmine petals, both seen in profile, medium wide shot"
+  },
+  {
+   "id": "05_corazon_dice",
+   "seed": 83044,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of teal turning to warm gold. Close composition of a young man in a white shirt with rolled sleeves and dark trousers seen in profile with one hand pressed on his chest, a warm golden heart-shaped glow shining through his white shirt, calm sincere expression, soft light"
+  },
+  {
+   "id": "06_pajaros_palabras",
+   "seed": 83055,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of warm gold, coral and rose. a young man in a white shirt with rolled sleeves and dark trousers holds out his open hand toward a young woman in a long yellow dress with long sleeves and a long dark braid who stands a few steps away, from his open palm a flock of luminous white birds flies toward her across a quiet street at golden hour, wide cinematic shot"
+  },
+  {
+   "id": "07_trenza_rio",
+   "seed": 83066,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of warm gold, coral and rose. Seen from behind, a young woman in a long yellow dress with long sleeves and a long dark braid stands on a hillside, her long dark braid turns into a flowing river that runs down her back and across the whole valley, golden light, wide shot"
+  },
+  {
+   "id": "08_rios_paralelos",
+   "seed": 83077,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, wide composition, no text, no letters. Palette of mint green, coral and lemon yellow. Aerial view of two long braided rivers, one blue and one gold, running side by side in parallel across a vast green valley toward the horizon, coral ribbons floating above them"
+  },
+  {
+   "id": "09_sube_trenza",
+   "seed": 83088,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of warm gold, coral and rose. A single person alone in the frame. Seen from behind, a young man in a white shirt with rolled sleeves and dark trousers climbs along the surface of one single colossal braid of dark hair, the interlocking thick strands of braided hair are the whole ground under his feet and fill the entire bottom and sides of the frame edge to edge, the braid rises steeply ahead of him into pink clouds until it vanishes in the haze, there is no asphalt and no road markings, only braided hair, no end of the braid is visible, low-angle shot, the sky is much larger"
+  },
+  {
+   "id": "10_cima_trenza",
+   "seed": 83099,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of gold, rose and pale blue sunrise. a young man in a white shirt with rolled sleeves and dark trousers stands on the very top of an enormous dark braid of hair that arcs up among golden clouds, he stretches one arm up toward the sun, backlit, a young woman in a long yellow dress with long sleeves and a long dark braid seen small far below on the street looking up, wide shot, tender and joyful"
+  },
+  {
+   "id": "11_escepticismo",
+   "seed": 83110,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of teal turning to warm gold. Close shot of a young woman in a long yellow dress with long sleeves and a long dark braid in profile with a skeptical sideways look, holding a white porcelain mask lowered at her side, blurred stormy plaza behind, cold light starting to warm"
+  },
+  {
+   "id": "12_ramo_de_reojo",
+   "seed": 83121,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of warm gold, coral and rose. a young man in a white shirt with rolled sleeves and dark trousers kneels on one knee offering a bouquet of white jasmine and a coral ribbon, a young woman in a long yellow dress with long sleeves and a long dark braid stands looking away to the side with a hint of a smile, quiet street at golden hour, medium shot"
+  },
+  {
+   "id": "13_casa_amapolas",
+   "seed": 83132,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of mint green, coral and lemon yellow. A small turquoise house in a desert street with enormous poppies in coral, orange and white growing from its roof, a young man in a white shirt with rolled sleeves and dark trousers walks toward its door holding a bouquet, wide shot under a deep blue sky"
+  },
+  {
+   "id": "14_giro_listones",
+   "seed": 83143,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of amber, magenta and gold. a young woman in a long yellow dress with long sleeves and a long dark braid spins in a field, long coral and gold ribbons whirl around her in streaks of motion blur, her face smiling in profile, magenta sunset, dynamic"
+  },
+  {
+   "id": "15_petalos_cielo",
+   "seed": 83154,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, wide composition, no text, no letters. Palette of amber, magenta and gold. A vast sky full of thousands of butterflies and flower petals swirling in a great spiral above an empty golden street at sunset"
+  },
+  {
+   "id": "16_ojo_iris",
+   "seed": 83165,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of warm gold, coral and rose. Extreme close-up of the eye of a young woman in a long yellow dress with long sleeves and a long dark braid, wide and curious, the iris swirls with warm colors and holds a tiny reflection of a young man in a white shirt with rolled sleeves and dark trousers, cinematic macro"
+  },
+  {
+   "id": "17_horizonte_torcido",
+   "seed": 83176,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of mint green, coral and lemon yellow. A plaza whose whole floor and horizon tilt sideways at a steep angle, a young woman in a long yellow dress with long sleeves and a long dark braid stands upright looking sideways with a sly glance, a young man in a white shirt with rolled sleeves and dark trousers stands upright watching her, whimsical dutch angle"
+  },
+  {
+   "id": "18_pasillo_espejos",
+   "seed": 83187,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of mint green, coral and lemon yellow. A single person alone in the frame. Close three-quarter portrait of a young woman in a long yellow dress with long sleeves and a long dark braid in the foreground glancing sideways toward the edge of the picture with a sly sideways look, behind her a long mint green corridor lined with tall tilted empty mirrors in perspective that reflect only the green room and the sky, whimsical, only one person"
+  },
+  {
+   "id": "19_reflejo_equivocado",
+   "seed": 83198,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of cold teal, deep blue and a warm yellow accent. a young woman in a long yellow dress with long sleeves and a long dark braid stands before a tall ornate mirror in an empty plaza frowning with her arms crossed, her reflection in the mirror is smiling warmly, eerie and funny"
+  },
+  {
+   "id": "20_frascos_aromas",
+   "seed": 83209,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, wide composition, no text, no letters. Palette of mint green, coral and lemon yellow. Hundreds of glass perfume bottles floating in a sunny sky over a meadow, each releasing a ribbon of colored scent in mint, coral and gold"
+  },
+  {
+   "id": "21_aroma_tarde",
+   "seed": 83220,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of amber, magenta and gold. Seen from behind, a young woman in a long yellow dress with long sleeves and a long dark braid walks in a golden afternoon meadow, a halo of colored fragrant mist floats around her like a soft cloud of perfume"
+  },
+  {
+   "id": "22_lluvia_canela",
+   "seed": 83231,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, wide composition, no text, no letters. Palette of mint green, coral and lemon yellow. A cloud shaped like a giant glass perfume bottle pours white jasmine flowers and cinnamon sticks as rain over a quiet street in golden light"
+  },
+  {
+   "id": "23_sendero_jazmin",
+   "seed": 83242,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of gold, rose and pale blue sunrise. a young woman in a long yellow dress with long sleeves and a long dark braid seen from behind walks away up a winding path made of white jasmine petals that rises in the air toward a large golden sun"
+  },
+  {
+   "id": "24_caen_mascaras",
+   "seed": 83253,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of teal turning to warm gold. a young woman in a long yellow dress with long sleeves and a long dark braid looks at a young man in a white shirt with rolled sleeves and dark trousers with her arms slowly uncrossing while white porcelain masks fall one by one from the sky and dissolve into petals, light turning warm, medium wide shot"
+  },
+  {
+   "id": "25_manos_vacias",
+   "seed": 83264,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of warm gold, coral and rose. a young man in a white shirt with rolled sleeves and dark trousers laughs showing both open empty hands with nothing to hide, a single person alone in the frame, golden afternoon light behind him, medium shot"
+  },
+  {
+   "id": "26_ofrece_liston",
+   "seed": 83275,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of warm gold, coral and rose. a young man in a white shirt with rolled sleeves and dark trousers extends a long coral ribbon toward a young woman in a long yellow dress with long sleeves and a long dark braid, who takes the end of it with a curious hand, their hands nearly touching, close shot"
+  },
+  {
+   "id": "27_liston_tenso",
+   "seed": 83286,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of amber, magenta and gold. a young woman in a long yellow dress with long sleeves and a long dark braid and a young man in a white shirt with rolled sleeves and dark trousers stand far apart pulling gently on both ends of a long coral ribbon that stretches across a field to the sunset horizon like a playful line, wide shot"
+  },
+  {
+   "id": "28_listones_baile",
+   "seed": 83297,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, wide composition, no text, no letters. Palette of amber, magenta and gold. Dozens of long coral and gold satin ribbons dance in a great spiral over an empty field at magenta sunset, motion streaks"
+  },
+  {
+   "id": "29_giro_alegre",
+   "seed": 83308,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of amber, magenta and gold. A single person alone in the frame, a young woman in a long yellow dress with long sleeves and a long dark braid twirls laughing in an empty field of golden light, her yellow dress and a long coral ribbon blurred in motion, wide shot"
+  },
+  {
+   "id": "30_grito_azotea",
+   "seed": 83319,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of sky blue, white and gold. a young man in a white shirt with rolled sleeves and dark trousers stands on a rooftop at dusk with his hands cupped around his mouth shouting to the sky, from his shout a huge flock of luminous white birds flies out over the city, seen from the side"
+  },
+  {
+   "id": "31_verdad_luz",
+   "seed": 83330,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of sky blue, white and gold. Close portrait of a young man in a white shirt with rolled sleeves and dark trousers in profile, calm honest face lit by golden light, one white feather floating in front of him, soft sky background"
+  },
+  {
+   "id": "32_brazos_abiertos",
+   "seed": 83341,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of sky blue, white and gold. a young man in a white shirt with rolled sleeves and dark trousers stands with arms open wide in a vast field of tall grass, white birds circling around him, wind in his shirt, wide shot from behind"
+  },
+  {
+   "id": "33_espiral_aves",
+   "seed": 83352,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, wide composition, no text, no letters. Palette of sky blue, white and gold. A giant spiral of white and golden birds rising in a column from a quiet rooftop skyline into a glowing sky"
+  },
+  {
+   "id": "34_oido_nacar",
+   "seed": 83363,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of sky blue, white and gold. a young woman in a long yellow dress with long sleeves and a long dark braid stands beside a gigantic mother-of-pearl seashell shaped like an ear taller than a house, she cups her hand at her ear with eyes closed listening, soft pearly light"
+  },
+  {
+   "id": "35_pajaros_oido",
+   "seed": 83374,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, wide composition, no text, no letters. Palette of sky blue, white and gold. Golden birds of light flying into the opening of a gigantic mother-of-pearl seashell shaped like an ear standing in a meadow, soft pearly glow"
+  },
+  {
+   "id": "36_espejo_vanidad",
+   "seed": 83385,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of cold teal, deep blue and a warm yellow accent. a young woman in a long yellow dress with long sleeves and a long dark braid stands before a huge ornate golden mirror, her reflection wears a gold crown and looks proud, cold golden light, dark teal room"
+  },
+  {
+   "id": "37_mascaras_espejo",
+   "seed": 83396,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of cold teal, deep blue and a warm yellow accent. From the surface of a golden mirror dozens of white porcelain masks push out into the room like a swarm, a young woman in a long yellow dress with long sleeves and a long dark braid steps back with her hand raised, a young man in a white shirt with rolled sleeves and dark trousers stands calm in the background, tense"
+  },
+  {
+   "id": "38_espejo_pareja",
+   "seed": 83407,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of teal turning to warm gold. A colossal standing mirror in a meadow whose reflection shows a young woman in a long yellow dress with long sleeves and a long dark braid and a young man in a white shirt with rolled sleeves and dark trousers standing hand in hand, while in front of the mirror she stands alone looking at it"
+  },
+  {
+   "id": "39_el_espera",
+   "seed": 83418,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of warm gold, coral and rose. a young man in a white shirt with rolled sleeves and dark trousers stands calm and patient beside a tall mirror in a meadow looking at a young woman in a long yellow dress with long sleeves and a long dark braid with a gentle smile, golden light rising behind them"
+  },
+  {
+   "id": "40_toca_espejo",
+   "seed": 83429,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of warm gold, coral and rose. a young woman in a long yellow dress with long sleeves and a long dark braid touches the surface of a giant mirror with her fingertips, ripples spreading outward like water across the glass, warm light"
+  },
+  {
+   "id": "41_liston_horizonte",
+   "seed": 83440,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of amber, magenta and gold. a young woman in a long yellow dress with long sleeves and a long dark braid and a young man in a white shirt with rolled sleeves and dark trousers run side by side holding a long coral ribbon that stretches to the horizon over an empty road at sunset, wide shot from behind, joyful"
+  },
+  {
+   "id": "42_frente_nacar",
+   "seed": 83451,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, wide composition, no text, no letters. Palette of gold, rose and pale blue sunrise. A huge pearly mother-of-pearl moon shaped like a calm smooth forehead rising above rolling hills at dawn"
+  },
+  {
+   "id": "43_colinas_terciopelo",
+   "seed": 83462,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, wide composition, no text, no letters. Palette of warm gold, coral and rose. Rolling dunes and hills made of deep red velvet under a rose sky with soft folds like curtains, wide empty landscape"
+  },
+  {
+   "id": "44_camino_pelo",
+   "seed": 83473,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of warm gold, coral and rose. a young man in a white shirt with rolled sleeves and dark trousers seen from behind walks up a vast winding road made of long dark braided hair that rises into pink clouds, wide low-angle shot"
+  },
+  {
+   "id": "45_mano_nube",
+   "seed": 83484,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of gold, rose and pale blue sunrise. a young man in a white shirt with rolled sleeves and dark trousers stands on top of a braided road among golden clouds reaching his hand up toward the sun, backlit silhouette"
+  },
+  {
+   "id": "46_pecho_estrella",
+   "seed": 83495,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of cold teal, deep blue and a warm yellow accent. Double exposure portrait, the profile silhouette of a young man in a white shirt with rolled sleeves and dark trousers looking up with closed eyes, inside his chest and torso a whole galaxy of glowing stars and nebulae bursting outward, soft sunset sky background, only him and nobody else"
+  },
+  {
+   "id": "47_estrella_explota",
+   "seed": 83506,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of amber, magenta and gold. a young man in a white shirt with rolled sleeves and dark trousers laughs with his arms open as a burst of golden light particles and stars explodes outward from his chest into the sunset sky, joyful"
+  },
+  {
+   "id": "48_oreja_pecho",
+   "seed": 83517,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of warm gold, coral and rose. a young woman in a long yellow dress with long sleeves and a long dark braid and a young man in a white shirt with rolled sleeves and dark trousers both stand upright in profile facing each other in a field at sunset, she leans slightly forward and holds her hand open a few centimeters from his chest listening with her eyes closed, a warm golden glow shines from his chest toward her hand, they do not embrace, only two people, medium side shot"
+  },
+  {
+   "id": "49_pecho_paisaje",
+   "seed": 83528,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of gold, rose and pale blue sunrise. Close shot of the chest of a young man in a white shirt with rolled sleeves and dark trousers as a clear glass window showing a tiny singing landscape inside with birds, a blossoming tree and glass bells, a young woman in a long yellow dress with long sleeves and a long dark braid's hand resting on the glass"
+  },
+  {
+   "id": "50_sonrisa",
+   "seed": 83539,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of warm gold, coral and rose. a young woman in a long yellow dress with long sleeves and a long dark braid smiles slightly looking at a young man in a white shirt with rolled sleeves and dark trousers, arms uncrossed, warm golden light, medium close shot in profile"
+  },
+  {
+   "id": "51_liston_muneca",
+   "seed": 83550,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of warm gold, coral and rose. Close-up of the hands of a young man in a white shirt with rolled sleeves and dark trousers tying a coral ribbon around the wrist of a young woman in a long yellow dress with long sleeves and a long dark braid, warm soft light, extreme close-up showing only two hands and one wrist against a softly blurred plain golden background, only these two people"
+  },
+  {
+   "id": "52_lluvia_petalos",
+   "seed": 83561,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of gold, rose and pale blue sunrise. a young woman in a long yellow dress with long sleeves and a long dark braid stands laughing with her face lifted in a rain of white petals that falls from the sky where the masks have turned into flowers, a young man in a white shirt with rolled sleeves and dark trousers beside her, joyful"
+  },
+  {
+   "id": "53_arco_nubes",
+   "seed": 83572,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of gold, rose and pale blue sunrise. a young woman in a long yellow dress with long sleeves and a long dark braid and a young man in a white shirt with rolled sleeves and dark trousers stand tiny beneath a great arch made of clouds at sunrise, a coral ribbon waves in the wind between them, wide shot"
+  },
+  {
+   "id": "54_caminan_alba",
+   "seed": 83583,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of gold, rose and pale blue sunrise. a young man in a white shirt with rolled sleeves and dark trousers in a white shirt and a young woman in a long yellow dress with long sleeves and a long dark braid in a long yellow dress with long sleeves and a long braid walk away from the camera holding hands on a long empty seaside road toward a glowing sunrise, a coral ribbon tied at their hands floats behind them in the wind, wide cinematic shot"
+  },
+  {
+   "id": "55_frente_con_frente",
+   "seed": 83594,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of gold, rose and pale blue sunrise. Silhouettes of a young woman in a long yellow dress with long sleeves and a long dark braid and a young man in a white shirt with rolled sleeves and dark trousers standing with their foreheads touching in profile, a halo of pink and gold light glowing around them, soft gradient sky background"
+  },
+  {
+   "id": "57_espiral_petalos",
+   "seed": 83616,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, wide composition, no text, no letters. Palette of gold, rose and pale blue sunrise. A spiral of flower petals and golden stars swirling up into a dawn sky above a calm sea, joyful motion"
+  },
+  {
+   "id": "58_huellas",
+   "seed": 83627,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, wide composition, no text, no letters. Palette of gold, rose and pale blue sunrise. Aerial view of a meadow full of flowers with two trails of footprints curving toward each other and merging into one, petals drifting in the wind"
+  },
+  {
+   "id": "59_amanecer_juntos",
+   "seed": 83638,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, only the people explicitly mentioned appear and nobody else, long modest clothing, no text, no letters. Palette of gold, rose and pale blue sunrise. Exactly two people, a woman on the left and a man on the right: a young woman in a long yellow dress with long sleeves and a long dark braid and a young man in a white shirt with rolled sleeves and dark trousers sit side by side seen from behind on the edge of a high terrace watching the sunrise over the sea, a coral ribbon forms a loose bow above them"
+  },
+  {
+   "id": "60_prado_espejo",
+   "seed": 83649,
+   "prompt": "Surreal cinematic photograph in the spirit of Magritte and dreamlike editorial photography, dramatic yet luminous light, rich saturated color, shallow depth of field, perfectly clean and sharp image with no noise and no grain, one large impossible dreamlike phenomenon dominates the frame, wide composition, no text, no letters. Palette of gold, rose and pale blue sunrise. A meadow in full bloom at dawn with a giant tall standing mirror in the middle reflecting exactly the same dawn sky as the real one, a coral ribbon lying on the grass, calm"
+  }
+ ]
+}

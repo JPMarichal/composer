@@ -66,7 +66,8 @@ Reglas no negociables. Incumplir cualquiera = canción rechazada.
 
 - `skills/add-song/SKILL.md` — registrar canciones ya compuestas (letra + metadatos).
 - `skills/spotify-canvas/SKILL.md` — crear el Canvas de Spotify (video vertical en loop, mono o multiescena) desde la letra: ilustraciones con ComfyUI + animación en código + ffmpeg.
-- `skills/youtube-imagenes/SKILL.md` — imágenes (no video) para el video musical de YouTube: concepto, ilustraciones 16:9 con ComfyUI, revisión, portada/miniatura y entrega para montar en Camtasia.
+- `skills/youtube-imagenes/SKILL.md` — imágenes (no video) para el video musical de YouTube: concepto, ilustraciones 16:9 con ComfyUI, revisión, portada/miniatura y entrega para montar en DaVinci Resolver.
+- `skills/youtube-montaje-resolver/SKILL.md` — montaje del video en DaVinci Resolver (versión gratuita) vía FCPXML: cortes, audio, movimientos y títulos de la letra. Camtasia solo de respaldo.
 - `.claude/skills/playlist-promotion/SKILL.md` — crear playlists promocionales Spotify.
 - `.claude/skills/playlist-outreach/SKILL.md` — generar DMs de outreach.
 - `.claude/skills/songcase-analysis/SKILL.md` — analizar canciones externas.

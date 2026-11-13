@@ -1,0 +1,22 @@
+{
+ "style": "Cinematic editorial photograph with a dreamlike surreal touch, natural soft golden light, shallow depth of field, rich harmonious saturated colors, 35mm film look but perfectly clean and sharp with no noise and no grain, one single impossible surreal element in an otherwise believable scene, young adults in long modest clothing, faces turned away or seen in profile, emotional body language, no text, no letters. ",
+ "width": 1920,
+ "height": 1080,
+ "scenes": [
+  {
+   "id": "P1_acusacion",
+   "seed": 81001,
+   "prompt": "Palette of turquoise, lemon yellow and warm gold. A young woman in a long yellow dress with a long dark braid stands with her arms crossed on a quiet cobblestone street at golden hour, looking away from a young man in a white shirt with rolled sleeves who stands calmly a few steps away with one hand on his chest, a long coral ribbon stretches in the air between them like a taut line, medium wide cinematic shot from the side, both seen in profile"
+  },
+  {
+   "id": "P2_pecho_estrella",
+   "seed": 81002,
+   "prompt": "Palette of deep blue, magenta and gold. Double exposure portrait, the profile silhouette of a young man in a white shirt looking up with closed eyes, inside his chest and torso a whole galaxy of glowing stars and nebulae bursting outward, soft sunset sky background in pink and violet, elegant and emotional"
+  },
+  {
+   "id": "P3_reconciliacion",
+   "seed": 81003,
+   "prompt": "Palette of gold, rose and pale blue. A young man in a white shirt and a young woman in a long yellow dress with a long braid walk away from the camera holding hands on a long empty seaside road toward a glowing sunrise, a coral ribbon tied around their joined wrists floats far behind them in the wind forming a long wave, wide cinematic shot, tender mood"
+  }
+ ]
+}
